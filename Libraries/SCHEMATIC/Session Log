@@ -1,0 +1,109 @@
+INI File Location:F:\ProgramData\Cadence\SPB_Data\cdssetup\OrCAD_Capture/16.6.0/Capture.ini
+INFO(ORCAP-32002): Netlisting the design
+INFO(ORCAP-32004): Design Name:
+F:\ROBOTBASE\SMART DESK\SCHEMATIC\SMART DESK V1.DSN
+Netlist Directory:
+F:\ROBOTBASE\SMART DESK\SCHEMATIC\allegro
+Configuration File:
+C:\Cadence\SPB_16.6\tools/capture/allegro.cfg
+
+Spawning... "C:\Cadence\SPB_16.6\tools\capture\pstswp.exe" -pst -d "F:\ROBOTBASE\SMART DESK\SCHEMATIC\SMART DESK V1.DSN" -n "F:\ROBOTBASE\SMART DESK\SCHEMATIC\allegro" -c "C:\Cadence\SPB_16.6\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+#1 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D11: SCHEMATIC1, PAGE1 (33.02, 33.02).
+#2 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R25: SCHEMATIC1, PAGE1 (134.62, 106.68).
+#3 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J9: SCHEMATIC1, PAGE1 (139.70, 53.34).
+#4 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D3: SCHEMATIC1, PAGE1 (177.80, 154.94).
+#5 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R14: SCHEMATIC1, PAGE1 (365.76, 35.56).
+#6 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C2: SCHEMATIC1, PAGE1 (149.86, 30.48).
+#7 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U3: SCHEMATIC1, PAGE1 (210.82, 160.02).
+#8 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R26: SCHEMATIC1, PAGE1 (167.64, 177.80).
+#9 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R15: SCHEMATIC1, PAGE1 (81.28, 55.88).
+#10 ERROR(ORCAP-36002): Pro
+perty "PCB Footprint" missing from instance D4: SCHEMATIC1, PAGE1 (170.18, 203.20).
+#11 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C3: SCHEMATIC1, PAGE1 (172.72, 30.48).
+#12 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R1: SCHEMATIC1, PAGE1 (279.40, 152.40).
+#13 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U4: SCHEMATIC1, PAGE1 (203.20, 53.34).
+#14 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R27: SCHEMATIC1, PAGE1 (193.04, 185.42).
+#15 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R16: SCHEMATIC1, PAGE1 (177.80, 139.70).
+#16 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D5: SCHEMATIC1, PAGE1 (81.28, 68.58).
+#17 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C14: SCHEMATIC1, PAGE1 (378.46, 58.42).
+#18 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U5: SCHEMATIC1, PAGE1 (119.38, 22.86).
+#19 ERROR(ORCAP-36002): Property "PCB Footprin
+t" missing from instance R2: SCHEMATIC1, PAGE1 (68.58, 198.12).
+#20 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U6: SCHEMATIC1, PAGE1 (50.80, 30.48).
+#21 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D6: SCHEMATIC1, PAGE1 (251.46, 22.86).
+#22 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R17: SCHEMATIC1, PAGE1 (170.18, 218.44).
+#23 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C15: SCHEMATIC1, PAGE1 (378.46, 68.58).
+#24 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R3: SCHEMATIC1, PAGE1 (60.96, 132.08).
+#25 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance Q3: SCHEMATIC1, PAGE1 (287.02, 205.74).
+#26 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D7: SCHEMATIC1, PAGE1 (157.48, 86.36).
+#27 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R18: SCHEMATIC1, PAGE1 (241.30, 10.16).
+#28 ERROR(ORCAP-36002): Property "PCB Footprint" missing from insta
+nce J10: SCHEMATIC1, PAGE1 (27.94, 243.84).
+#29 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance Q4: SCHEMATIC1, PAGE1 (307.34, 193.04).
+#30 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R19: SCHEMATIC1, PAGE1 (144.78, 76.20).
+#31 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D8: SCHEMATIC1, PAGE1 (165.10, 104.14).
+#32 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J11: SCHEMATIC1, PAGE1 (96.52, 246.38).
+#33 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D9: SCHEMATIC1, PAGE1 (63.50, 68.58).
+#34 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J12: SCHEMATIC1, PAGE1 (180.34, 246.38).
+#35 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance L1: SCHEMATIC1, PAGE1 (88.90, 17.78).
+#36 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J1: SCHEMATIC1, PAGE1 (317.50, 10.16).
+#37 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance SW1: SCHEMATIC1,
+ PAGE1 (93.98, 213.36).
+#38 ERROR(OR
+CAP-36002): Property "PCB Footprint" missing from instance Y1: SCHEMATIC1, PAGE1 (360.68, 63.50).
+#39 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance SW2: SCHEMATIC1, PAGE1 (81.28, 149.86).
+#40 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R20: SCHEMATIC1, PAGE1 (172.72, 119.38).
+#41 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J5: SCHEMATIC1, PAGE1 (177.80, 177.80).
+#42 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R21: SCHEMATIC1, PAGE1 (63.50, 55.88).
+#43 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J6: SCHEMATIC1, PAGE1 (175.26, 177.80).
+#44 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R22: SCHEMATIC1, PAGE1 (289.56, 177.80).
+#45 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J7: SCHEMATIC1, PAGE1 (134.62, 129.54).
+#46 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R23: SCHEMATIC1, PAGE1 (309.88, 180.34).
+#47 ERROR(ORCAP-36002): Pro
+perty "PCB Footprint" missing from instance R12: SCHEMATIC1, PAGE1 (299.72, 33.02).
+#48 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U1: SCHEMATIC1, PAGE1 (129.54, 157.48).
+#49 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance J8: SCHEMATIC1, PAGE1 (144.78, 139.70).
+#50 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R24: SCHEMATIC1, PAGE1 (274.32, 205.74).
+#51 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance R13: SCHEMATIC1, PAGE1 (274.32, 15.24).
+#52 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance D2: SCHEMATIC1, PAGE1 (350.52, 35.56).
+#53 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance C1: SCHEMATIC1, PAGE1 (78.74, 30.48).
+#54 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U2: SCHEMATIC1, PAGE1 (88.90, 91.44).
+#55 ERROR(ORCAP-36018): Aborting Netlisting... Please correct the above errors and retry.
+
+Exiting... "C:\Cadence\SPB_16.6\tools\capture\pstswp.exe" -pst -d "F:\ROBOTBASE\SMART DESK\SCHEMATIC\SMART DESK V1.DSN" -n "F:\ROBOTBASE\SMART DESK\SCHEMATIC\allegro" -c "C:\Cadence\SPB_16.6\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+INFO(ORCAP-32005): *** Done ***
+
+
+********************************************************************************
+*
+*  Design Rules Check
+*
+********************************************************************************
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Unconnected Bus Nets
+
+
+********************************************************************************
+*
+*  Performing annotation.
+*
+********************************************************************************
+
+INFO(ORCAP-1378): LAST USED REFERENCES
+
+        R27
+        J12
+        L1
+        U6
+        D11
+        C15
+        Y1
+        SW2
+        Q4
+
+INFO(ORCAP-1379): Done updating part references
