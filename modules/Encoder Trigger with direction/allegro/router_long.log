@@ -1,0 +1,94 @@
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on E:/MLABVIET/CADENCE/ALEGRO/MODULES/ENCODER TRIGGER WITH DIRECTION/allegro/ENCODER_ZPULSE_DIRECTION.brd
+Started on   Mon Aug 29 02:27:25 2016
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 28  Unplaced 0  Total 28
+        Nets:  W/Rats 33  No/Rats 0  Total 33
+        Pins:  W/Rats 96  No/Rats 0  Unused 2  Unplaced 0  Total 98
+        Equivalent ICs (1 pin = 1/14 EIC)  7
+        Router Keepin (in) (-0.7250,0.6500) by (0.6500,1.9500)
+        Board area (sq in)  1.8
+        Board density (sq in/EIC) 0.255
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 63           0           63
+        Already Connected           63           0           63
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Manh Distance (inches)      26.68
+        Etch Length (inches)        31.19        0.00        31.19
+        Number of vias		    21           0           21
+        Vias per Connection          0.33        0.00         0.33
+        Smd pins with attached clines                        74
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H 0.3000 0.3000 0.1270  0.4000 0.4000  0.6096 0.6350
+        X grids:     0.6350  Offset: 0.0000
+        Y grids:     0.6350  Offset: 0.0000
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V 0.3000 0.3000 0.1270  0.4000 0.4000  0.6096 0.6350
+        X grids:     0.6350  Offset: 0.0000
+        Y grids:     0.6350  Offset: 0.0000
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 63           0           63
+        Already Connected           63           0           63
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        31.19        0.00        31.19
+        Number of vias		    21           0           21
+        Vias per Connection          0.33        0.00         0.33
+        Smd pins with attached clines                        74
+
+
+
+    Total cpu time - 0:2:19 hours
+    Total elapsed time - 3367:39:24 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Mon Aug 29 02:27:25 2016

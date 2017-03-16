@@ -1,0 +1,202 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Sep 21 14:19:24 2016
+\t (00:00:03)         Host=QUANGTHANH-PC User=QThan Pid=17524 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: E:/mlabviet/Cadence/Alegro/modules/Encoder Trigger with direction/allegro/ENCODER_ZPULSE_DIRECTION.brd
+\i (00:00:05) trapsize 1055
+\i (00:00:05) trapsize 1079
+\i (00:00:05) trapsize 1110
+\i (00:00:05) trapsize 1142
+\i (00:00:06) placementedit 
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out -0.8798 48.4499
+\t (00:00:15) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:15) trapsize 2285
+\i (00:00:16) open 
+\i (00:00:18) fillin "menu_cancel"
+\i (00:00:18) placementedit 
+\i (00:00:25) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ALL"
+\i (00:00:25) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ALL"
+\i (00:00:31) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SSTOP"
+\i (00:00:31) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SSTOP"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ALL"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ALL"
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 6.9801 39.6302
+\t (00:00:40) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:40) trapsize 4570
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 8.1683 39.9958
+\t (00:00:41) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:41) trapsize 2285
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 0.4911 49.5922
+\i (00:00:42) trapsize 1142
+\i (00:00:48) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SSTOP"
+\i (00:00:48) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SSTOP"
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 9.2193 49.8436
+\i (00:00:49) trapsize 2285
+\i (00:00:55) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ALL"
+\i (00:00:55) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ALL"
+\i (00:01:02) artwork 
+\i (00:01:06) setwindow form.film_control
+\i (00:01:06) FORM film_control filmtree  'BOARD GEOMETRY/OUTLINE' SSTOP 
+\i (00:01:07) FORM film_control filmtree popup Add 'BOARD GEOMETRY/OUTLINE' SSTOP 
+\i (00:01:11) setwindow form.scl_browser
+\i (00:01:11) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'REF DES' 
+\i (00:01:11) FORM scl_browser treelist  SILKSCREEN_TOP 'REF DES' 
+\i (00:01:12) FORM scl_browser done  
+\i (00:01:15) setwindow form.film_control
+\i (00:01:15) FORM film_control ok  
+\i (00:01:15) setwindow pcb
+\i (00:01:15) placementedit 
+\i (00:01:17) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ALL"
+\i (00:01:19) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SSTOP"
+\i (00:01:19) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SSTOP"
+\i (00:01:21) zoom out 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom out 18.9528 40.6128
+\t (00:01:21) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:01:21) trapsize 4570
+\i (00:01:22) zoom in 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom in 15.9369 41.0697
+\t (00:01:22) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:01:22) trapsize 2285
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out 17.6277 42.8062
+\t (00:01:23) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:01:23) trapsize 4570
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 23.3856 27.5434
+\t (00:01:24) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:01:24) trapsize 2285
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 23.6141 28.5487
+\t (00:01:26) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:01:26) trapsize 4570
+\i (00:01:29) zoom points 
+\t (00:01:29) Pick 1st corner of the new window.
+\i (00:01:30) zoom fit 
+\t (00:01:30) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:01:30) trapsize 2278
+\e (00:01:35) Command not found: ~P
+\e (00:01:39) Command not found: CDel
+\e (00:01:41) Command not found: ~P
+\i (00:01:45) plot setup 
+\i (00:01:48) setwindow form.fpfileplotsetup
+\i (00:01:48) FORM fpfileplotsetup done  
+\i (00:01:48) setwindow pcb
+\i (00:01:48) placementedit 
+\i (00:01:52) plot preview 
+\i (00:01:55) fillin confirm
+\i (00:02:00) plot setup 
+\i (00:02:02) setwindow form.fpfileplotsetup
+\i (00:02:02) FORM fpfileplotsetup windows  
+\i (00:02:05) FORM fpfileplotsetup cancel  
+\i (00:02:05) setwindow pcb
+\i (00:02:05) placementedit 
+\i (00:02:09) viewlog -browse 
+\i (00:02:11) fillin "menu_cancel"
+\i (00:02:20) toolswap 
+\i (00:02:22) fillin menu_cancel
+\i (00:02:22) placementedit 
+\i (00:03:12) zoom in 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom in 0.0070 33.9342
+\i (00:03:12) trapsize 1139
+\i (00:03:13) zoom out 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom out -0.1069 33.7063
+\i (00:03:13) trapsize 2278
+\i (00:03:14) zoom out 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom out 2.4905 35.9849
+\t (00:03:14) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:03:14) trapsize 4557
+\i (00:03:15) zoom in 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom in -16.3754 48.4710
+\t (00:03:15) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:03:15) trapsize 2278
+\i (00:03:15) zoom in 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom in -16.1019 46.1014
+\i (00:03:15) trapsize 1139
+\i (00:03:15) zoom in 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom in -15.2816 45.2356
+\i (00:03:15) trapsize 570
+\i (00:03:15) zoom in 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom in -13.3904 44.5862
+\i (00:03:15) trapsize 285
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out -13.8404 44.7628
+\i (00:03:16) trapsize 570
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out -14.6037 45.0591
+\i (00:03:16) trapsize 1139
+\i (00:03:18) zoom out 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom out -17.8619 49.0236
+\i (00:03:18) trapsize 2278
+\i (00:03:29) plot setup 
+\i (00:03:32) setwindow form.fpfileplotsetup
+\i (00:03:32) FORM fpfileplotsetup fpplotautocenter YES 
+\i (00:03:33) FORM fpfileplotsetup fpplotblackwhite YES 
+\i (00:03:36) FORM fpfileplotsetup windows  
+\i (00:03:37) FORM fpfileplotsetup done  
+\i (00:03:37) setwindow pcb
+\i (00:03:37) placementedit 
+\i (00:03:42) plot setup 
+\i (00:03:44) setwindow form.fpfileplotsetup
+\i (00:03:44) FORM fpfileplotsetup cancel  
+\i (00:03:44) setwindow pcb
+\i (00:03:44) placementedit 
+\i (00:03:49) zoom out 1 
+\i (00:03:50) setwindow pcb
+\i (00:03:50) zoom out 3.3279 49.6617
+\t (00:03:50) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:03:50) trapsize 4557
+\i (00:03:52) zoom in 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in 12.0773 36.3553
+\t (00:03:52) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:03:52) trapsize 2278
+\i (00:03:52) zoom in 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in 12.2140 36.5376
+\i (00:03:52) trapsize 1139
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out 14.0140 35.8540
+\i (00:03:54) trapsize 2278
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out 13.9685 37.7224
+\t (00:03:54) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:03:54) trapsize 4557
+\i (00:03:56) zoom in 1 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) zoom in 20.2570 47.2010
+\t (00:03:56) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:03:56) trapsize 2278
+\i (00:03:57) zoom out 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom out 20.2115 45.9706
+\t (00:03:57) Grids are drawn 0.4000, 0.4000 apart for enhanced vie

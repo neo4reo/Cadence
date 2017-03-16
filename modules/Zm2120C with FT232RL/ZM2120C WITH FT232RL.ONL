@@ -1,0 +1,371 @@
+(PCB "ZM2120C WITH FT232RL"
+ (description
+  (timeStamp "2015 03 15 12 47 33")
+  (program "CAPTURE.EXE" (Version "16.5.0.p001"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Sunday, March 15, 2015")
+  (document "H:\\ORCAD\\APPLICATION LIBRARIES\\ZM2120C WITH FT232RL\\ZM2120C WITH FT232RL.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component CAPACITOR_0
+   (place C1
+    (property 
+     (timestamp 000018BF)
+     ("Source Package" CAPACITOR_0)
+     (Value CAPACITOR))))
+  (component LED
+   (place D1
+    (property 
+     (timestamp 00000F0E)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D2
+    (property 
+     (timestamp 00000F1E)
+     ("Source Package" LED)
+     (Value LED))))
+  (component ZM2120C_0
+   (place U3
+    (property 
+     (timestamp 000010EB)
+     ("Source Package" ZM2120C_0)
+     (Value ZM2120C))))
+  (component R
+   (place R1
+    (property 
+     (timestamp 00000F2E)
+     ("Source Package" R)
+     (Value 330)))
+   (place R2
+    (property 
+     (timestamp 00000F3E)
+     ("Source Package" R)
+     (Value 330)))
+   (place R3
+    (property 
+     (timestamp 00001838)
+     ("Source Package" R)
+     (Value R)))
+   (place R4
+    (property 
+     (timestamp 0000185A)
+     ("Source Package" R)
+     (Value R))))
+  (component FT232RL_2
+   (place U1
+    (property 
+     (timestamp 00000EB2)
+     ("Source Package" FT232RL_2)
+     (Value FT232RL))))
+  (component "Micro USB"
+   (place U2
+    (property 
+     (timestamp 00000ECC)
+     ("Source Package" "Micro USB")
+     (Value "Micro USB")))))
+ (library
+  (image FT232RL_2
+   (property 
+    (sourcelib "H:\\ORCAD\\APPLICATION LIBRARIES\\ZM2120C WITH FT232RL\\ZM2120C WITH FT232RL.DSN"))
+   (pin 999 1
+    (property 
+     (pinname TXD)
+     (pintype 1)))
+   (pin 999 5
+    (property 
+     (pinname RXD)
+     (pintype 1)))
+   (pin 999 3
+    (property 
+     (pinname RTS#)
+     (pintype 1)))
+   (pin 999 11
+    (property 
+     (pinname CTS#)
+     (pintype 1)))
+   (pin 999 2
+    (property 
+     (pinname DRT#)
+     (pintype 1)))
+   (pin 999 9
+    (property 
+     (pinname DSR#)
+     (pintype 1)))
+   (pin 999 10
+    (property 
+     (pinname DCD#)
+     (pintype 1)))
+   (pin 999 6
+    (property 
+     (pinname RI#)
+     (pintype 1)))
+   (pin 999 23
+    (property 
+     (pinname CBUS0)
+     (pintype 1)))
+   (pin 999 22
+    (property 
+     (pinname CBUS1)
+     (pintype 1)))
+   (pin 999 13
+    (property 
+     (pinname CBUS2)
+     (pintype 1)))
+   (pin 999 14
+    (property 
+     (pinname CBUS3)
+     (pintype 1)))
+   (pin 999 12
+    (property 
+     (pinname CBUS4)
+     (pintype 1)))
+   (pin 999 26
+    (property 
+     (pinname TEST)
+     (pintype 4)))
+   (pin 999 21
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 18
+    (property 
+     (pinname GND1)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname GND2)
+     (pintype 4)))
+   (pin 999 25
+    (property 
+     (pinname AGND)
+     (pintype 4)))
+   (pin 999 17
+    (property 
+     (pinname 3.3OUT)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname VCCIO)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname VCC)
+     (pintype 7)))
+   (pin 999 16
+    (property 
+     (pinname USBDM)
+     (pintype 1)))
+   (pin 999 15
+    (property 
+     (pinname USBDP)
+     (pintype 1)))
+   (pin 999 8
+    (property 
+     (pinname NC)
+     (pintype 1)))
+   (pin 999 19
+    (property 
+     (pinname RESET#)
+     (pintype 1)))
+   (pin 999 24
+    (property 
+     (pinname NC1)
+     (pintype 1)))
+   (pin 999 27
+    (property 
+     (pinname OSCI)
+     (pintype 1)))
+   (pin 999 28
+    (property 
+     (pinname OSCO)
+     (pintype 1))))
+  (image "Micro USB"
+   (property 
+    (sourcelib "H:\\ORCAD\\THU VIEN ORCAD\\SCHEMATIC\\QUANGTHANH.OLB"))
+   (pin 999 1
+    (property 
+     (pinname VCC)
+     (pintype 7)))
+   (pin 999 2
+    (property 
+     (pinname "D-")
+     (pintype 1)))
+   (pin 999 3
+    (property 
+     (pinname D+)
+     (pintype 1)))
+   (pin 999 4
+    (property 
+     (pinname NC)
+     (pintype 1)))
+   (pin 999 5
+    (property 
+     (pinname GND)
+     (pintype 4))))
+  (image ZM2120C_0
+   (property 
+    (sourcelib "H:\\ORCAD\\APPLICATION LIBRARIES\\ZM2120C WITH FT232RL\\ZM2120C WITH FT232RL.DSN"))
+   (pin 999 1
+    (property 
+     (pinname Vpp)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname N.C1)
+     (pintype 1)))
+   (pin 999 3
+    (property 
+     (pinname "ZEROX(P0.0/ADC0)")
+     (pintype 1)))
+   (pin 999 4
+    (property 
+     (pinname "PWM(P1.6INT0)")
+     (pintype 1)))
+   (pin 999 5
+    (property 
+     (pinname "TRIAC(P0.1/ADC1)")
+     (pintype 1)))
+   (pin 999 6
+    (property 
+     (pinname "INT1_N(P1.7)")
+     (pintype 1)))
+   (pin 999 7
+    (property 
+     (pinname ADC)
+     (pintype 1)))
+   (pin 999 8
+    (property 
+     (pinname P1.5)
+     (pintype 1)))
+   (pin 999 9
+    (property 
+     (pinname N.C)
+     (pintype 1)))
+   (pin 999 10
+    (property 
+     (pinname "MISO(P1.2)")
+     (pintype 1)))
+   (pin 999 11
+    (property 
+     (pinname VCC)
+     (pintype 1)))
+   (pin 999 12
+    (property 
+     (pinname "SCK(P1.4)")
+     (pintype 1)))
+   (pin 999 13
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname "MOSI(P1.3)")
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname RESET_N)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname "TXD(P1.0/ADC2)")
+     (pintype 4)))
+   (pin 999 17
+    (property 
+     (pinname "3.3 V")
+     (pintype 7)))
+   (pin 999 18
+    (property 
+     (pinname "RXD(P1.1/ADC3)")
+     (pintype 4)))
+   (pin 999 19
+    (property 
+     (pinname N.C2)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname "ADC2(RXD/P1.1/ADC3)")
+     (pintype 4))))
+  (image R
+   (property 
+    (sourcelib C:\\ORCAD\\ORCAD_10.5\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image CAPACITOR_0
+   (property 
+    (sourcelib "H:\\ORCAD\\APPLICATION LIBRARIES\\ZM2120C WITH FT232RL\\ZM2120C WITH FT232RL.DSN"))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image LED
+   (property 
+    (sourcelib C:\\ORCAD\\ORCAD_10.5\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname ANODE)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname CATHODE)
+     (pintype 4)))))
+ (network
+  (net 3.3V
+   (pins
+     U1-4 U3-17 R3-1 R4-1 C1-1))
+  (net "3.3V OUT"
+   (pins
+     U1-17))
+  (net D+
+   (pins
+     U1-15 U2-3))
+  (net "D-"
+   (pins
+     U1-16 U2-2))
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     U1-26 U1-21 U1-18 U1-7 U1-25 U2-5 U3-13 C1-2))
+  (net N03770
+   (pins
+     U1-23 D1-2))
+  (net N03796
+   (pins
+     U1-22 D2-2))
+  (net N038540
+   (pins
+     D1-1 R1-2))
+  (net N038700
+   (pins
+     D2-1 R2-2))
+  (net RX
+   (pins
+     U1-5 U3-16 R4-2))
+  (net TX
+   (pins
+     U1-1 U3-18 R3-2))
+  (net VCC
+    (property 
+     (nettype S))
+   (pins
+     U1-20 U2-1 R1-1 R2-1)))
+)

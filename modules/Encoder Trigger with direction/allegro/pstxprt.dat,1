@@ -1,0 +1,290 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Aug-29-2016 at 02:34:46 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ENCODER_ZPULSE_DIRECTION';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ CON1 'CON5_J1_5_254_ENCODER1 IN':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS311738@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins311738@connector.\con5.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins311738@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CON2 'CON5_J1_5_254_ENCODER2 IN':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS312266@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins312266@connector.\con5.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins312266@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED_SMD_0805_POWER LED':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS313524@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins313524@discrete.\led.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins313524@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED_SMD_0805_DIR2 LED':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS314722@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins314722@discrete.\led.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins314722@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_SMD_0805_Z1 LED':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS313757@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins313757@discrete.\led.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins313757@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED_SMD_0805_Z2 LED':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS313925@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins313925@discrete.\led.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins313925@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_LED_SMD_0805_DIR1 LED':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS314527@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins314527@discrete.\led.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins314527@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON6_J1_6_254_ENCODER1 OUT':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS312875@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins312875@connector.\con6.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins312875@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON6_J1_6_254_ENCODER2 OUT':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS312899@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins312899@connector.\con6.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins312899@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'PNP BEC_SOT23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS314682@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins314682@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins314682@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'PNP BEC_SOT23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS313611@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins313611@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins313611@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'PNP BEC_SOT23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS314487@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins314487@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins314487@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'PNP BEC_SOT23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS313885@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins313885@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins313885@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS313499@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins313499@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins313499@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES_SMD_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS313869@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins313869@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins313869@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES_SMD_0805_470R':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS313726@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins313726@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins313726@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES_SMD_0805_470R':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS313909@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins313909@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins313909@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RES_SMD_0805_470R':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS314511@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins314511@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins314511@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS311290@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins311290@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins311290@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS311460@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins311460@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins311460@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS311376@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins311376@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins311376@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS311444@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins311444@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins311444@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES_SMD_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS314666@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins314666@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins314666@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES_SMD_0805_470R':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS314706@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins314706@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins314706@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES_SMD_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS313639@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins313639@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins313639@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES_SMD_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS314471@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins314471@discrete.\r.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins314471@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 '74HC14P_3_SOIC14_74HC14P':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS311074@ENCODER_ZPULSE_DIRECTION.74HC14P_3.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins311074@encoder_zpulse_direction.\74hc14p_3.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins311074@encoder_zpulse_direction.\74hc14p_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 '74HC74_SMD_SOIC14_74HC74_SMD':;
+
+SECTION_NUMBER 1
+ '@ENCODER_ZPULSE_DIRECTION.SCHEMATIC1(SCH_1):INS311306@MYLIB.74HC74_SMD.NORMAL(CHIPS)':
+ C_PATH='@encoder_zpulse_direction.schematic1(sch_1):ins311306@mylib.\74hc74_smd.normal\(chips)',
+ P_PATH='@encoder_zpulse_direction.schematic1(sch_1):page1_ins311306@mylib.\74hc74_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

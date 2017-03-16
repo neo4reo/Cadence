@@ -1,0 +1,32 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    STEP Export                                                      )
+(                                                                     )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Jun 21 18:24:18 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING(SPMHA2-118): Board Geometry subclasses, 'DESIGN_OUTLINE' and 'CUTOUT', are the preferred subclasses for defining a board outline. Use these subclasses instead of the 'OUTLINE' subclass.
+
+WARNING: Design outline is missing on the layer "BOARD GEOMETRY/DESIGN_OUTLINE".
+
+
+
+STEP file: C:/Users/QThan/Desktop/PIC887_SENSORS.stp
+Design file: D:/MLABVIET/CADENCE/ALEGRO/PROJECTS/KITTHUCHANH/allegro/PIC887_SENSORS.brd
+Export units: Millimeter
+STEP protocol: AP-214
+Source identification: allegro_17.2P028
+Export selected and highlighted parts?: NO
+Export secondary parts?: NO
+Export parts with mapped STEP Models?: YES
+Export parts without mapped STEP Models?: YES
+Export assemblies and enclosures parts?: NO
+Export mechanical drills?: YES
+Export electrical through pin drills?: NO
+Export electrical through via drills?: NO
+Export bare board only?: NO
+Export external copper?: NO
+step_out complete.

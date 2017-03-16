@@ -1,0 +1,1730 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Aug-03-2016 at 02:39:59 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MAYAPTRUNG';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAP_SMD_0805_10NF':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS72084@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins72084@discrete.\cap np.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins72084@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS140345@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins140345@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins140345@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS140399@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins140399@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins140399@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS187796@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins187796@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins187796@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAPACITOR NON-POL_CAP_SMD_0508_':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150446@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150446@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150446@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAPACITOR NON-POL_CAP_SMD_0508_':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150651@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150651@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150651@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAPACITOR NON-POL_CAP_SMD_0508_':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150858@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150858@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150858@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAPACITOR NON-POL_CAP_SMD_0508_':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151073@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151073@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151073@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAPACITOR NON-POL_CAP_SMD_0508_':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151280@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151280@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151280@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAPACITOR NON-POL_RES_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153114@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153114@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153114@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAPACITOR NON-POL_CAP_SMD_SIZEF':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153249@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153249@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153249@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAPACITOR NON-POL_RES_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS154624@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins154624@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins154624@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAPACITOR NON-POL_RES_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS154768@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins154768@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins154768@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAPACITOR NON-POL_RES_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS154856@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins154856@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins154856@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS191008@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins191008@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins191008@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_0_CAP_SMD_0805_1UF':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS72142@DESKV2.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins72142@deskv2.\cap_0.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins72142@deskv2.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED_D3_GREEN_GREENLED':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS140835@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins140835@discrete.\led.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins140835@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'DIODE_1N4007_SMD_DIODE':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS187874@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins187874@discrete.\diode.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins187874@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'LDS-A32R_1_LED7DOAN_14_22_LDS-H':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146555@MAYAPTRUNG.LDS-A32R_1.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146555@mayaptrung.\lds-a32r_1.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146555@mayaptrung.\lds-a32r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'LDS-A32R_1_LED7DOAN_14_22_LDS-H':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147192@MAYAPTRUNG.LDS-A32R_1.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147192@mayaptrung.\lds-a32r_1.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147192@mayaptrung.\lds-a32r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'LDS-A32R_1_LED7DOAN_14_22_LDS-H':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147852@MAYAPTRUNG.LDS-A32R_1.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147852@mayaptrung.\lds-a32r_1.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147852@mayaptrung.\lds-a32r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'LDS-A32R_1_LED7DOAN_14_22_LDS-H':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148507@MAYAPTRUNG.LDS-A32R_1.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148507@mayaptrung.\lds-a32r_1.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148507@mayaptrung.\lds-a32r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D15 'LDS-A32R_1_LED7DOAN_14_22_LDS-H':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149185@MAYAPTRUNG.LDS-A32R_1.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149185@mayaptrung.\lds-a32r_1.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149185@mayaptrung.\lds-a32r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D16 'LDS-A32R_1_LED7DOAN_14_22_LDS-H':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149858@MAYAPTRUNG.LDS-A32R_1.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149858@mayaptrung.\lds-a32r_1.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149858@mayaptrung.\lds-a32r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D17 'DIODE ZENER_DIODE_ZENNER_SOD80C':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153089@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153089@discrete.\diode zener.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153089@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D18 'DIODE_1N4007_SMD_1N4007-SMD':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153190@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153190@discrete.\diode.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153190@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D19 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153413@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153413@discrete.\led.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153413@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED_D3_BLUE_BLUE LED':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS140851@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins140851@discrete.\led.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins140851@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D20 'DIODE_1N4007_SMD_1N4007-SMD':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153604@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153604@discrete.\diode.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153604@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D21 'DIODE_1N4007_SMD_1N4007-SMD':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153630@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153630@discrete.\diode.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153630@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D22 'DIODE_1N4007_SMD_1N4007-SMD':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153660@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153660@discrete.\diode.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153660@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D23 'DIODE_1N4007_SMD_1N4007-SMD':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153686@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153686@discrete.\diode.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153686@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D24 'DIODE ZENER_DIODE_ZENNER_SOD8_1':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS154047@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins154047@discrete.\diode zener.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins154047@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D25 'DIODE_1N4007_SMD_DIODE':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS191086@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins191086@discrete.\diode.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins191086@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_D3_RED_RED LED':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS140867@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins140867@discrete.\led.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins140867@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LDS-A32R_1_LED7DOAN_14_22_LDS-H':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS141295@MAYAPTRUNG.LDS-A32R_1.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins141295@mayaptrung.\lds-a32r_1.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins141295@mayaptrung.\lds-a32r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS192118@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins192118@discrete.\led.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins192118@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_FUSE_CLIP_220V 10A':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153537@DISCRETE.FUSE.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153537@discrete.\fuse.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153537@discrete.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ISO1 'OPTO ISOLATOR-A_0_PC817_SMD_OPT':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS154135@MAYAPTRUNG.OPTO ISOLATOR-A_0.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins154135@mayaptrung.\opto isolator-a_0.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins154135@mayaptrung.\opto isolator-a_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_J1_2_254_AC220V':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS71342@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins71342@connector.\con2.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins71342@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON4_J1_4_254_SWIM':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS71560@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins71560@connector.\con4.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins71560@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON3_J1_3_254_DHT11':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS157745@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins157745@connector.\con3.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins157745@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON2_J1_2_254_COI BIP':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS199974@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins199974@connector.\con2.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins199974@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON2_J1_2_254_DONG CO':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS190144@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins190144@connector.\con2.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins190144@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CON2_J1_2_254_PHUN SUONG':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS190978@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins190978@connector.\con2.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins190978@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CON2_J1_2_254_DEN DOT NONG':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS193548@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins193548@connector.\con2.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins193548@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LS2 'RELAY SPDT_J1_5_254_RELAY SPDT':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS187752@DISCRETE.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins187752@discrete.\relay spdt.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins187752@discrete.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LS3 'RELAY SPDT_J1_5_254_RELAY SPDT':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS190950@DISCRETE.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins190950@discrete.\relay spdt.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins190950@discrete.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'TRIAC_0_TO220_BTA12':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS192134@MAYAPTRUNG.TRIAC_0.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins192134@mayaptrung.\triac_0.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins192134@mayaptrung.\triac_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q10 'PNP BEC_SOT-23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151887@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151887@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151887@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q11 'NPN BEC_SOT-23_2SC1815':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS200006@TRANSISTOR.NPN BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins200006@transistor.\npn bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins200006@transistor.\npn bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q12 'NPN BEC_SOT-23_2SC1815':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS191068@TRANSISTOR.NPN BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins191068@transistor.\npn bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins191068@transistor.\npn bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'NPN BEC_SOT-23_2SC1815':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS192238@TRANSISTOR.NPN BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins192238@transistor.\npn bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins192238@transistor.\npn bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'NPN BEC_SOT-23_2SC1815':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS187856@TRANSISTOR.NPN BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins187856@transistor.\npn bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins187856@transistor.\npn bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'PNP BEC_SOT-23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151475@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151475@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151475@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'PNP BEC_SOT-23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151543@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151543@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151543@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'PNP BEC_SOT-23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151611@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151611@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151611@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'PNP BEC_SOT-23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151679@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151679@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151679@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q8 'PNP BEC_SOT-23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151747@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151747@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151747@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q9 'PNP BEC_SOT-23_2SA1015':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151817@TRANSISTOR.PNP BEC.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151817@transistor.\pnp bec.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151817@transistor.\pnp bec.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS72058@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins72058@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins72058@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R100 'R_RES_SMD_0805_100K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150804@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150804@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150804@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'R_RES_SMD_0805_100K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151019@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151019@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151019@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R102 'R_RES_SMD_0805_100K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151226@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151226@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151226@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R103 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151963@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151963@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151963@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS152078@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins152078@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins152078@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R105 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS152140@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins152140@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins152140@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R106 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS152264@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins152264@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins152264@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R107 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS152403@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins152403@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins152403@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R108 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS152571@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins152571@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins152571@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R109 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS152705@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins152705@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins152705@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R110 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS199990@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins199990@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins199990@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R111 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS200036@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins200036@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins200036@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R112 'R_RES_SMD_0805_470R 1/2W':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153139@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153139@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153139@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS153373@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins153373@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins153373@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R114 'R_RES_SMD_0805_10K-10W':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS154009@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins154009@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins154009@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R115 'R_RES_SMD_0805_100R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS154191@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins154191@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins154191@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R116 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS154396@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins154396@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins154396@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R117 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS163827@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins163827@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins163827@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R118 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS191052@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins191052@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins191052@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R119 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS191124@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins191124@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins191124@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS71532@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins71532@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins71532@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS157729@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins157729@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins157729@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_RES_SMD_0805_470R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS192278@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins192278@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins192278@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_RES_SMD_0805_100R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS192152@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins192152@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins192152@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS192084@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins192084@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins192084@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS192306@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins192306@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins192306@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS192222@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins192222@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins192222@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS187840@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins187840@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins187840@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS187912@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins187912@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins187912@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_RES_SMD_0805_220R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS144828@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins144828@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins144828@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_RES_SMD_0805_220R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS144846@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins144846@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins144846@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_RES_SMD_0805_220R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS144864@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins144864@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins144864@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS145595@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins145595@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins145595@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS145820@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins145820@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins145820@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS145858@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins145858@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins145858@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS145884@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins145884@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins145884@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS145910@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins145910@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins145910@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS145936@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins145936@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins145936@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS145962@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins145962@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins145962@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS145988@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins145988@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins145988@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146014@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146014@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146014@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146587@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146587@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146587@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146617@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146617@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146617@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146633@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146633@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146633@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146687@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146687@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146687@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146717@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146717@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146717@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146747@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146747@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146747@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146773@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146773@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146773@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146799@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146799@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146799@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS146825@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins146825@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins146825@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147224@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147224@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147224@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147254@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147254@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147254@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147270@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147270@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147270@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147324@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147324@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147324@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147354@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147354@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147354@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147384@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147384@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147384@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147410@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147410@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147410@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147436@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147436@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147436@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147462@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147462@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147462@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147884@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147884@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147884@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147914@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147914@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147914@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147930@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147930@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147930@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS147984@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins147984@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins147984@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R66 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148014@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148014@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148014@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148044@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148044@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148044@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R68 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148070@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148070@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148070@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R69 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148096@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148096@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148096@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148122@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148122@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148122@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R71 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148539@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148539@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148539@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R72 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148569@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148569@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148569@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R73 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148585@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148585@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148585@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R74 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148639@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148639@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148639@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R75 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148669@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148669@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148669@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R76 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148699@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148699@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148699@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R77 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148725@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148725@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148725@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R78 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148751@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148751@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148751@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R79 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS148777@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins148777@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins148777@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R80 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149217@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149217@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149217@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R81 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149247@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149247@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149247@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R82 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149263@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149263@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149263@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R83 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149317@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149317@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149317@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R84 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149347@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149347@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149347@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R85 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149377@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149377@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149377@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R86 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149403@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149403@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149403@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R87 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149429@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149429@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149429@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R88 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149455@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149455@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149455@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R89 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149890@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149890@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149890@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R90 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149920@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149920@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149920@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R91 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149936@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149936@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149936@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS149990@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins149990@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins149990@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R93 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150020@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150020@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150020@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150050@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150050@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150050@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R95 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150076@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150076@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150076@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150102@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150102@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150102@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R97 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150128@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150128@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150128@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R98 'R_RES_SMD_0805_100K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150340@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150340@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150340@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R99 'R_RES_SMD_0805_100K':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150597@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150597@discrete.\r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150597@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW_TC_SPST_6_6_5_SMD_BUTTON_MOD':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS140670@DISCRETE.SW_TC_SPST.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins140670@discrete.\sw_tc_spst.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins140670@discrete.\sw_tc_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW_TC_SPST_6_6_5_SMD_BUTTON_MOD':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150627@DISCRETE.SW_TC_SPST.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150627@discrete.\sw_tc_spst.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150627@discrete.\sw_tc_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW_TC_SPST_6_6_5_SMD_BUTTON_MOD':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS150834@DISCRETE.SW_TC_SPST.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins150834@discrete.\sw_tc_spst.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins150834@discrete.\sw_tc_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'SW_TC_SPST_6_6_5_SMD_BUTTON_MOD':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151049@DISCRETE.SW_TC_SPST.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151049@discrete.\sw_tc_spst.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151049@discrete.\sw_tc_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW5 'SW_TC_SPST_6_6_5_SMD_BUTTON_MOD':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS151256@DISCRETE.SW_TC_SPST.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins151256@discrete.\sw_tc_spst.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins151256@discrete.\sw_tc_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'T POINT R_0_TESTPOINTCIR_5V':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS156768@MAYAPTRUNG.T POINT R_0.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins156768@mayaptrung.\t point r_0.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins156768@mayaptrung.\t point r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'T POINT R_TESTPOINTCIR_3V3':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS156821@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins156821@discrete.\t point r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins156821@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'T POINT R_TESTPOINTCIR_GND':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS156916@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins156916@discrete.\t point r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins156916@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'T POINT R_TESTPOINTCIR_ZERO_POI':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS157008@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins157008@discrete.\t point r.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins157008@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM8S003K3_STM8S003K3_LQFP32_ST':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS72416@MYLIB.STM8S003K3.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins72416@mylib.\stm8s003k3.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins72416@mylib.\stm8s003k3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MOC3023_DIP6_MOC3023':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS192184@DISCRETE.MOC3023.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins192184@discrete.\moc3023.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins192184@discrete.\moc3023.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ASM1117_SOT223_AMS1117':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS154504@MYLIB.ASM1117.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins154504@mylib.\asm1117.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page4_ins154504@mylib.\asm1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 '74HC138_0_74HC138_SOIC16_74HC13':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS163576@MAYAPTRUNG.74HC138_0.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins163576@mayaptrung.\74hc138_0.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page1_ins163576@mayaptrung.\74hc138_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_CRYSTAL_HC_49_16MHZ':;
+
+SECTION_NUMBER 1
+ '@MAYAPTRUNG.SCHEMATIC1(SCH_1):INS140379@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@mayaptrung.schematic1(sch_1):ins140379@discrete.\crystal.normal\(chips)',
+ P_PATH='@mayaptrung.schematic1(sch_1):page3_ins140379@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

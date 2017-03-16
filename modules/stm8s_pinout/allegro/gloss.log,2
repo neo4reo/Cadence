@@ -1,0 +1,697 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : STM8S_PINOUT.brd                              )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Fri Jul 15 11:15:21 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on E:/mlabviet/Cadence/Alegro/projects/stm8s_pinout/allegro/STM8S_PINOUT.brd
+Started on   Fri Jul 15 11:15:21 2016
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 22  Unplaced 0  Total 22
+        Nets:  W/Rats 24  No/Rats 0  Total 24
+        Pins:  W/Rats 81  No/Rats 0  Unused 9  Unplaced 0  Total 90
+        Equivalent ICs (1 pin = 1/14 EIC)  6
+        Router Keepin (in) (9.3447,10.6772) by (10.8303,12.1024)
+        Board area (sq in)  2.1
+        Board density (sq in/EIC) 0.329
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Manh Distance (inches)      25.48
+        Etch Length (inches)        28.33        0.00        28.33
+        Number of vias		    13           0           13
+        Vias per Connection          0.23        0.00         0.23
+        Smd pins with attached clines                        51
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H 0.1270 0.1270 0.1270  0.4000 0.4000  0.6096 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V 0.1270 0.1270 0.1270  0.4000 0.4000  0.6096 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+
+
+
+Via Eliminate glossing in progress.
+Started on Fri Jul 15 11:15:21 2016
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+
+
+Eliminations on net PD1 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PA3 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net OSC2 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net OSC1 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net RESET :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net 3V3 :
+Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net GND :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        28.33        0.00        28.33
+        Number of vias		    13           0           13
+        Vias per Connection          0.23        0.00         0.23
+        Smd pins with attached clines                        51
+
+
+
+    Total cpu time - 0:0:26 hours
+    Total elapsed time - 2296:27:20 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Fri Jul 15 11:15:21 2016
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Fri Jul 15 11:15:21 2016
+
+
+Via Eliminate Total Stats:
+Total Through Via Candidates: 13, Eliminations: 0,  = 0 % Eliminated.
+Vias: Total Candidates = 13,  Total Eliminations = 0,  0 % Eliminatons.
+
+
+
+
+Line and Via Cleanup glossing in progress.
+Started on Fri Jul 15 11:15:21 2016
+
+ To be cleaned  : lines and vias
+ Number of executions  : 1
+ Retry?  : NO
+ Clean pin escapes?  : NO
+ Slip Slide?  : NO
+ Jog size limit is -0.0001.
+
+ Etch length/via is -0.0001.
+
+ Net length limit is 254.0000.
+
+ Minimum Via Limit : 1
+ Maximum 45 limit is 0.1000.
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on E:/mlabviet/Cadence/Alegro/projects/stm8s_pinout/allegro/STM8S_PINOUT.brd
+Started on   Fri Jul 15 11:15:21 2016
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 22  Unplaced 0  Total 22
+        Nets:  W/Rats 24  No/Rats 0  Total 24
+        Pins:  W/Rats 81  No/Rats 0  Unused 9  Unplaced 0  Total 90
+        Equivalent ICs (1 pin = 1/14 EIC)  6
+        Router Keepin (in) (9.3447,10.6772) by (10.8303,12.1024)
+        Board area (sq in)  2.1
+        Board density (sq in/EIC) 0.329
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Manh Distance (inches)      25.48
+        Etch Length (inches)        28.33        0.00        28.33
+        Number of vias		    13           0           13
+        Vias per Connection          0.23        0.00         0.23
+        Smd pins with attached clines                        51
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H 0.1270 0.1270 0.1270  0.4000 0.4000  0.6096 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V 0.1270 0.1270 0.1270  0.4000 0.4000  0.6096 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        28.33        0.00        28.33
+        Number of vias		    13           0           13
+        Vias per Connection          0.23        0.00         0.23
+        Smd pins with attached clines                        51
+
+
+    Parameters taken from execution 2
+    ----------------------------------
+    PARAMETERS: Layers  1 2 :
+                Window 5.0800: Jog-size 3.8100: Keep-Away -1: Jog-Limit -1
+                Ripup: OFF
+                Slide OFF: Length-Limit -1: Hug 0: 
+                Vias:  THRU; offset OFF; Limit -1: Via-line-via 0: 
+    INS/CLEANUP:  Start   - lines, vias -  no retry
+    BITMAP: allocate 550308 bytes 
+    rt_pass6:rt_bldwin: num 3  area 278668  time 2 0:0:0 hours
+    rt_pass6:rt_bldwin: num 5  area 345218  time 0 0:0:0 hours
+    rt_pass6:rt_bldwin:oops: num 6  area 520067  time 0 0:0:0 hours
+    rt_pass6:rt_bldwin: num 3  area 253475  time 0 0:0:0 hours
+    rt_pass6:rt_bldwin: num 3  area 185268  time 0 0:0:0 hours
+    rt_pass6:rt_bldwin: num 3  area 156646  time 0 0:0:0 hours
+    rt_pass6:rt_bldwin:oops: num 4  area 298126  time 0 0:0:0 hours
+    INS/CLEANUP:  Finished - detch=-22592.00 dvias=0 cputime=  0:00:00
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        28.24        0.00        28.24
+        Number of vias		    13           0           13
+        Vias per Connection          0.23        0.00         0.23
+        Smd pins with attached clines                        51
+
+
+
+    Total cpu time - 0:0:0 hours
+    Total elapsed time - 0:0:0 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Fri Jul 15 11:15:21 2016
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Fri Jul 15 11:15:21 2016
+
+Error from Line & Via Cleanup Glossing = 0
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on E:/mlabviet/Cadence/Alegro/projects/stm8s_pinout/allegro/STM8S_PINOUT.brd
+Started on   Fri Jul 15 11:15:21 2016
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 22  Unplaced 0  Total 22
+        Nets:  W/Rats 24  No/Rats 0  Total 24
+        Pins:  W/Rats 81  No/Rats 0  Unused 9  Unplaced 0  Total 90
+        Equivalent ICs (1 pin = 1/14 EIC)  6
+        Router Keepin (in) (9.3447,10.6772) by (10.8303,12.1024)
+        Board area (sq in)  2.1
+        Board density (sq in/EIC) 0.329
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Manh Distance (inches)      25.48
+        Etch Length (inches)        28.24        0.00        28.24
+        Number of vias		    13           0           13
+        Vias per Connection          0.23        0.00         0.23
+        Smd pins with attached clines                        51
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H 0.1270 0.1270 0.1270  0.4000 0.4000  0.6096 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V 0.1270 0.1270 0.1270  0.4000 0.4000  0.6096 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+
+
+
+Via Eliminate glossing in progress.
+Started on Fri Jul 15 11:15:21 2016
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+
+
+Eliminations on net PD1 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net PA3 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net OSC2 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net OSC1 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net RESET :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net 3V3 :
+Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net GND :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        28.24        0.00        28.24
+        Number of vias		    13           0           13
+        Vias per Connection          0.23        0.00         0.23
+        Smd pins with attached clines                        51
+
+
+
+    Total cpu time - 0:0:0 hours
+    Total elapsed time - 2296:27:20 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Fri Jul 15 11:15:21 2016
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Fri Jul 15 11:15:21 2016
+
+
+Via Eliminate Total Stats:
+Total Through Via Candidates: 13, Eliminations: 0,  = 0 % Eliminated.
+Vias: Total Candidates = 13,  Total Eliminations = 0,  0 % Eliminatons.
+
+
+
+
+Line entry into Pad glossing in progress.
+Started on Fri Jul 15 11:15:21 2016
+Bend Distance is 0.3048.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing was successful:  SYMBOL PIN at (252.9250,279.8750) defined by pad  SMD03REC12
+
+Glossing was successful:  SYMBOL PIN at (239.8000,283.2000) defined by pad  C210H110
+
+Glossing was successful:  VIA at (255.2000,298.7930) defined by pad  VIA
+
+Glossing attempt unsuccessful. Active pad is at (245.4707,302.9944).
+
+Glossing was successful:  SYMBOL PIN at (263.0050,273.0750) defined by pad  C220H100
+
+
+Finished execution 1
+
+Glossing attempt unsuccessful. Active pad is at (245.4707,302.9944).
+
+
+Finished execution 2
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Fri Jul 15 11:15:21 2016
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 6
+Number of Actual Glossings                    : 4
+Number of Glossings Aborted by DRC violations : 0
+
+
+
+
+Line Fattening glossing in progress.
+Started on Fri Jul 15 11:15:21 2016
+	Line Fattening Parameters
+	-------------------------
+
+	Layer Name		Width	Potential Widths
+	DEFAULT			0.3000	0.0000 0.0000 0.0000 0.0000
+	TOP			0.3000	0.0000 0.0000 0.0000 0.0000
+	BOTTOM			0.3000	0.0000 0.0000 0.0000 0.0000
+Pass 1 Candidates 0 Fattened 0 Failed 0 Skipped 0 (  0%)
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Fri Jul 15 11:15:21 2016
+
+Number of errors from Line Fattening Glossing = 0
+
+
+
+Line Smooth glossing in progress.
+Started on Fri Jul 15 11:15:21 2016
+
+ Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
+ Number of executions  : 1
+ Corner type  : 45
+ Length limit is -0.0001.
+
+ Maximum 45 limit is -0.0001.
+
+
+Elapsed time:  0 hr 0 min 1 sec ( 0.00 hr)
+Actual time of completion: Fri Jul 15 11:15:22 2016
+
+ - 0 - Error(s) from Line smooth Glossing
+
+
+Line Centering Between Pins glossing in progress.
+Started on Fri Jul 15 11:15:22 2016
+
+Minimum Move Size 0.0508.
+Line spacing MINIMUM
+Pad Tolerance 2.5400.
+Corner type 45
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on E:/mlabviet/Cadence/Alegro/projects/stm8s_pinout/allegro/STM8S_PINOUT.brd
+Started on   Fri Jul 15 11:15:22 2016
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 22  Unplaced 0  Total 22
+        Nets:  W/Rats 24  No/Rats 0  Total 24
+        Pins:  W/Rats 81  No/Rats 0  Unused 9  Unplaced 0  Total 90
+        Equivalent ICs (1 pin = 1/14 EIC)  6
+        Router Keepin (in) (9.3447,10.6772) by (10.8303,12.1024)
+        Board area (sq in)  2.1
+        Board density (sq in/EIC) 0.329
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Manh Distance (inches)      25.48
+        Etch Length (inches)        25.02        0.00        25.02
+        Number of vias		    13           0           13
+        Vias per Connection          0.23        0.00         0.23
+        Smd pins with attached clines                        51
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H 0.1270 0.1270 0.1270  0.4000 0.4000  0.6096 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V 0.1270 0.1270 0.1270  0.4000 0.4000  0.6096 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        25.04        0.00        25.04
+        Number of vias		    13           0           13
+        Vias per Connection          0.23        0.00         0.23
+        Smd pins with attached clines                        51
+
+
+
+    Total cpu time - 0:0:0 hours
+    Total elapsed time - 2296:27:21 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Fri Jul 15 11:15:22 2016
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Fri Jul 15 11:15:22 2016
+
+
+
+Line Center Between Pins Stats
+
+Number of Glossing Attempts                   : 101
+Number of Actual Glossings                    : 1
+Number of Glossings Aborted by DRC violations : 0
+Number of Glossings Aborted by No-Gloss nets  : 0
+
+
+
+Line entry into Pad glossing in progress.
+Started on Fri Jul 15 11:15:22 2016
+Bend Distance is 0.3048.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (265.6000,276.6000).
+
+Glossing was successful:  SYMBOL PIN at (258.6750,279.8750) defined by pad  SMD03REC12
+
+Glossing was successful:  SYMBOL PIN at (258.6750,280.5250) defined by pad  SMD03REC12
+
+Glossing was successful:  SYMBOL PIN at (271.8000,285.6400) defined by pad  C210H110
+
+Glossing attempt unsuccessful. Active pad is at (271.8000,283.1000).
+
+Glossing was successful:  VIA at (246.6000,280.1000) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (258.3800,294.4950) defined by pad  PAD15CIR08
+
+Glossing was successful:  SYMBOL PIN at (253.5000,294.4950) defined by pad  PAD15CIR08
+
+Glossing was successful:  SYMBOL PIN at (270.5000,299.3638) defined by pad  SMD05REC25
+
+Glossing was successful:  SYMBOL PIN at (245.4707,305.2944) defined by pad  SMD095REX215
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Fri Jul 15 11:15:22 2016
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 10
+Number of Actual Glossings                    : 8
+Number of Glossings Aborted by DRC violations : 0
+
+
+
+Aborted by cancel.
+
+
+Glossing complete.

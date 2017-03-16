@@ -1,0 +1,88 @@
+\t (00:00:02) allegro 16.6-2015 S051 (v16-6-112EA) Windows 32
+\t (00:00:02)     Journal start - Tue Apr 12 03:26:10 2016
+\t (00:00:02)         Host=QUANGTHANH-PC User=QUANGTHANH Pid=10912 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\i (00:00:07) fillin yes 
+\d (00:00:08) Design opened: E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro/PIC1823-RCSERVO-USB2SERIAL.brd
+\i (00:00:08) trapsize 3265
+\i (00:00:08) trapsize 3207
+\i (00:00:08) trapsize 3275
+\i (00:00:08) trapsize 3304
+\i (00:00:08) trapsize 3304
+\i (00:00:09) shapeedit 
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 13516.813 11433.444
+\i (00:00:09) trapsize 6608
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 13516.813 11433.444
+\t (00:00:09) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:09) trapsize 13215
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 13820.763 10799.115
+\t (00:00:11) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:00:11) trapsize 26430
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 13286.870 10460.807
+\t (00:00:12) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:12) trapsize 13215
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 13569.675 10529.526
+\t (00:00:16) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:00:16) trapsize 26430
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 14674.466 10640.534
+\t (00:00:18) Grids are drawn 80.000, 80.000 apart for enhanced viewability.
+\i (00:00:18) trapsize 52861
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 15129.068 9335.192
+\t (00:00:18) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:00:18) trapsize 26430
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 15113.210 9483.202
+\t (00:00:19) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:19) trapsize 13215
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 14568.744 9818.868
+\t (00:00:20) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:00:20) trapsize 26430
+\i (00:00:21) delete 
+\i (00:00:23) setwindow form.find
+\i (00:00:23) FORM find all_off  
+\i (00:00:24) FORM find clines YES 
+\i (00:00:24) FORM find lines YES 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) drag_start grid 11037.647 12176.457
+\i (00:00:26) drag_stop 14880.623 9882.300
+\i (00:00:27) prepopup 14859.479 10595.920
+\i (00:00:27) done 
+\i (00:00:27) shapeedit 
+\i (00:00:28) save 
+\i (00:00:30) fillin yes 
+\e (00:00:30) File "PIC1823-RCSERVO-USB2SERIAL.brd" is being edited by user "QUANGTHANH" on date "Tue Apr 12 03:08:23 2016" on system "QUANGTHANH-PC".  Save design to another name or contact user to remove their lock.
+\i (00:00:35) fillin confirm
+\i (00:00:35) shapeedit 
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 13500.957 11008.234
+\t (00:00:36) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:36) trapsize 13215
+\i (00:00:36) save 
+\i (00:00:37) fillin yes 
+\e (00:00:37) File "PIC1823-RCSERVO-USB2SERIAL.brd" is being edited by user "QUANGTHANH" on date "Tue Apr 12 03:08:23 2016" on system "QUANGTHANH-PC".  Save design to another name or contact user to remove their lock.
+\i (00:00:39) fillin confirm
+\i (00:00:39) shapeedit 
+\i (00:00:40) exit 
+\e (00:00:40) Do you want to save the changes you made to PIC1823-RCSERVO-USB2SERIAL.brd?
+\i (00:00:41) fillin no 
+\t (00:00:41)     Journal end - Tue Apr 12 03:26:49 2016

@@ -1,0 +1,1894 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Tue Apr 12 03:14:04 2016
+# 
+# Allegro PCB Router v16-6-112 made 2015/06/07 at 22:54:31
+# Running on: quangthanh-pc, OS Version: WindowsNT 6.1.7601, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Batch File Name: pasde.do
+# Did File Name: E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro/specctra.did
+# Current time = Tue Apr 12 03:14:04 2016
+# PCB E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro
+# Master Unit set up as: MM 100000
+# PCB Limits xlo=297.3578 ylo=261.5438 xhi=366.0902 yhi=307.9242
+# Total 17 Images Consolidated.
+# Via VIA z=1, 2 xlo= -0.3048 ylo= -0.3048 xhi=  0.3048 yhi=  0.3048
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# Wires Processed 9, Vias Processed 0
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 26, Images Processed 36, Padstacks Processed 12
+# Nets Processed 25, Net Terminals 83
+# PCB Area= 2634.575  EIC=7  Area/EIC=376.368  SMDs=13
+# Total Pin Count: 109
+# Signal Connections Created 59
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 59
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 2, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 936.0493 Horizontal 483.9679 Vertical 452.0814
+# Routed Length 166.3994 Horizontal 109.9987 Vertical  56.4007
+# Ratio Actual / Manhattan   0.1778
+# Unconnected Length 936.0493 Horizontal 440.7519 Vertical 495.2974
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <# Loading Do File C:/Users/QUANGT~1/AppData/Local/Temp/#Taaaaat05752.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 0
+grid wire 0.000100 (direction x) (offset 0.000000)
+grid wire 0.000100 (direction y) (offset 0.000000)
+grid via 0.000100 (direction x) (offset 0.000000)
+grid via 0.000100 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP orthogonal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM orthogonal
+unselect layer BOTTOM
+# <<WARNING:>> IRoute: Interactive layer(s) disabled for autorouting: BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+smart_route (auto_fanout off) (auto_testpoint off) (auto_miter off)
+# Smart Route: Executing bus diagonal.
+# Diagonal wire corners are preferred.
+# Current time = Tue Apr 12 03:14:24 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 59
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 2, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 936.0493 Horizontal 483.9679 Vertical 452.0814
+# Routed Length 166.3994 Horizontal 109.9987 Vertical  56.4007
+# Ratio Actual / Manhattan   0.1778
+# Unconnected Length 936.0493 Horizontal 440.7519 Vertical 495.2974
+# Attempts 2 Successes 2 Failures 0 Vias 0
+# 90 degree wire corners are preferred.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 57
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 2, at vias 0 Total Vias 0
+# Percent Connected    3.39
+# Manhattan Length 936.0493 Horizontal 483.9679 Vertical 452.0814
+# Routed Length 182.1474 Horizontal 125.7467 Vertical  56.4007
+# Ratio Actual / Manhattan   0.1946
+# Unconnected Length 920.3013 Horizontal 425.0039 Vertical 495.2974
+# Smart Route: Bus successful, 2 of 2 wires routed.
+# 90 degree wire corners are preferred.
+# Smart Route: Executing 25 route passes.
+# Current time = Tue Apr 12 03:14:25 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 57
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 2, at vias 0 Total Vias 0
+# Percent Connected    3.39
+# Manhattan Length 936.0493 Horizontal 483.9679 Vertical 452.0814
+# Routed Length 182.1474 Horizontal 125.7467 Vertical  56.4007
+# Ratio Actual / Manhattan   0.1946
+# Unconnected Length 920.3013 Horizontal 425.0039 Vertical 495.2974
+# Start Route Pass 1 of 25
+# Routing 57 wires.
+# Total Conflicts: 59 (Cross: 59, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 57 Successes 57 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 1 passes.
+# Start Route Pass 2 of 25
+# Routing 72 wires.
+# Total Conflicts: 49 (Cross: 49, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 68 Successes 68 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.1695
+# End Pass 2 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# <<WARNING:>> Smart Route: Conflict reduction rate 16 is very low 
+# after 2 passes. 
+# Design may not reach 100%. 
+# Check number of layers, grids and design rules.
+# Start Route Pass 3 of 25
+# Routing 84 wires.
+# Total Conflicts: 33 (Cross: 33, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 75 Successes 75 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.3265
+# End Pass 3 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# <<WARNING:>> Smart Route: Average reduction ratio only 24 after 3 passes. 
+# Design may converge very slowly. 
+# Monitor status file carefully.
+# Start Route Pass 4 of 25
+# Routing 87 wires.
+# Total Conflicts: 29 (Cross: 29, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 76 Successes 76 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.1212
+# End Pass 4 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# <<WARNING:>> Smart Route: Average reduction ratio only 20 after 4 passes. 
+# Design may converge very slowly. 
+# Monitor status file carefully.
+# Start Route Pass 5 of 25
+# Routing 82 wires.
+# 9 bend points have been removed.
+# 0 bend points have been removed.
+# 4 bend points have been removed.
+# Total Conflicts: 17 (Cross: 17, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 74 Successes 74 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.4138
+# End Pass 5 of 25
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# <<WARNING:>> Smart Route: Average reduction ratio only 25 after 5 passes. 
+# Design may converge very slowly. 
+# Monitor status file carefully.
+# Start Route Pass 6 of 25
+# Routing 46 wires.
+# Total Conflicts: 11 (Cross: 9, Clear: 2, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 45 Successes 45 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 6 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 6 passes.
+# Start Route Pass 7 of 25
+# Routing 20 wires.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 20 Successes 20 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 7 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 7 passes.
+# Start Route Pass 8 of 25
+# Routing 21 wires.
+# Total Conflicts: 9 (Cross: 7, Clear: 2, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 20 Successes 20 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 8 of 25
+# Smart Route: Smart_route progressing normally after 8 passes.
+# Start Route Pass 9 of 25
+# Routing 15 wires.
+# Total Conflicts: 9 (Cross: 9, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 15 Successes 15 Failures 0 Vias 0
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 9 of 25
+# Smart Route: Smart_route progressing normally after 9 passes.
+# Start Route Pass 10 of 25
+# Routing 20 wires.
+# 3 bend points have been removed.
+# 0 bend points have been removed.
+# 3 bend points have been removed.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 18 Successes 18 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 10 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 10 passes.
+# Start Route Pass 11 of 25
+# Routing 15 wires.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 13 Successes 13 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 11 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 11 passes.
+# Start Route Pass 12 of 25
+# Routing 19 wires.
+# Total Conflicts: 19 (Cross: 19, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 18 Successes 18 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 12 of 25
+# Smart Route: Smart_route progressing normally after 12 passes.
+# Start Route Pass 13 of 25
+# Routing 25 wires.
+# Total Conflicts: 9 (Cross: 9, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 22 Successes 22 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 13 of 25
+# Smart Route: Smart_route progressing normally after 13 passes.
+# Start Route Pass 14 of 25
+# Routing 26 wires.
+# Total Conflicts: 21 (Cross: 21, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 24 Successes 23 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 14 of 25
+# Smart Route: Smart_route progressing normally after 14 passes.
+# Start Route Pass 15 of 25
+# Routing 27 wires.
+# 3 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 6 (Cross: 6, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 24 Successes 24 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 15 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 15 passes.
+# Start Route Pass 16 of 25
+# Routing 19 wires.
+# Total Conflicts: 8 (Cross: 8, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 19 Successes 19 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 16 of 25
+# Smart Route: Smart_route progressing normally after 16 passes.
+# Start Route Pass 17 of 25
+# Routing 15 wires.
+# Total Conflicts: 17 (Cross: 15, Clear: 2, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 15 Successes 15 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 17 of 25
+# Smart Route: Smart_route progressing normally after 17 passes.
+# Start Route Pass 18 of 25
+# Routing 31 wires.
+# Total Conflicts: 13 (Cross: 13, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 28 Successes 28 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 18 of 25
+# Smart Route: Smart_route progressing normally after 18 passes.
+# Start Route Pass 19 of 25
+# Routing 15 wires.
+# Total Conflicts: 6 (Cross: 6, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 14 Successes 14 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 19 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 19 passes.
+# Start Route Pass 20 of 25
+# Routing 23 wires.
+# 4 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 5 (Cross: 5, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 22 Successes 22 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 20 of 25
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 20 passes.
+# Start Route Pass 21 of 25
+# Routing 10 wires.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 10 Successes 10 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 21 of 25
+# Smart Route: Smart_route progressing normally after 21 passes.
+# Start Route Pass 22 of 25
+# Routing 17 wires.
+# Total Conflicts: 10 (Cross: 10, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 16 Successes 15 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 22 of 25
+# Smart Route: Smart_route progressing normally after 22 passes.
+# Start Route Pass 23 of 25
+# Routing 19 wires.
+# Total Conflicts: 6 (Cross: 6, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 17 Successes 17 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 23 of 25
+# Smart Route: Smart_route progressing normally after 23 passes.
+# Start Route Pass 24 of 25
+# Routing 20 wires.
+# Total Conflicts: 14 (Cross: 14, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 18 Successes 17 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 24 of 25
+# Smart Route: Smart_route progressing normally after 24 passes.
+# Start Route Pass 25 of 25
+# Routing 20 wires.
+# 4 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 18 Successes 18 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 25 of 25
+# Smart Route: Smart_route progressing normally after 25 passes.
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:08
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:01
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 24, at vias 0 Total Vias 0
+# Percent Connected   79.66
+# Manhattan Length 1062.4994 Horizontal 547.9238 Vertical 514.5756
+# Routed Length 1528.8552 Horizontal 721.7292 Vertical 807.1260
+# Ratio Actual / Manhattan   1.4389
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Smart Route: Executing 2 clean passes.
+# Current time = Tue Apr 12 03:14:33 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 24, at vias 0 Total Vias 0
+# Percent Connected   79.66
+# Manhattan Length 1062.4994 Horizontal 547.9238 Vertical 514.5756
+# Routed Length 1528.8552 Horizontal 721.7292 Vertical 807.1260
+# Ratio Actual / Manhattan   1.4389
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Clean Pass 1 of 2
+# Routing 79 wires.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 79 Successes 67 Failures 12 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 1 of 2
+# Start Clean Pass 2 of 2
+# Routing 85 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 81 Successes 69 Failures 12 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:01
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 26, at vias 0 Total Vias 0
+# Percent Connected   79.66
+# Manhattan Length 1062.7915 Horizontal 548.9379 Vertical 513.8536
+# Routed Length 1516.0856 Horizontal 716.1407 Vertical 799.9449
+# Ratio Actual / Manhattan   1.4265
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Smart Route: Executing 50 route passes.
+# Current time = Tue Apr 12 03:14:34 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 26, at vias 0 Total Vias 0
+# Percent Connected   79.66
+# Manhattan Length 1062.7915 Horizontal 548.9379 Vertical 513.8536
+# Routed Length 1516.0856 Horizontal 716.1407 Vertical 799.9449
+# Ratio Actual / Manhattan   1.4265
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Route Pass 1 of 50
+# Routing 15 wires.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 15 Successes 15 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 50
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 28|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:01
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 25, at vias 0 Total Vias 0
+# Percent Connected   79.66
+# Manhattan Length 1071.3724 Horizontal 554.1253 Vertical 517.2472
+# Routed Length 1497.0440 Horizontal 695.6130 Vertical 801.4310
+# Ratio Actual / Manhattan   1.3973
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# <<WARNING:>> Smart Route: No real conflict reduction achieved in previous 5 passes. 
+# Automatically forcing convergence.
+# Current time = Tue Apr 12 03:14:35 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 25, at vias 0 Total Vias 0
+# Percent Connected   79.66
+# Manhattan Length 1071.3724 Horizontal 554.1253 Vertical 517.2472
+# Routed Length 1497.0440 Horizontal 695.6130 Vertical 801.4310
+# Ratio Actual / Manhattan   1.3973
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Route Pass 1 of 5
+# Routing 14 wires.
+# Total Conflicts: 13 (Cross: 9, Clear: 4, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 14 Successes 13 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Start Route Pass 2 of 5
+# Routing 28 wires.
+# Total Conflicts: 13 (Cross: 11, Clear: 2, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 23 Successes 22 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Start Route Pass 3 of 5
+# Routing 22 wires.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 20 Successes 20 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 3 of 5
+# Start Route Pass 4 of 5
+# Routing 30 wires.
+# Total Conflicts: 12 (Cross: 12, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 26 Successes 26 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Start Route Pass 5 of 5
+# Routing 17 wires.
+# 4 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 6 (Cross: 6, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 17 Successes 17 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 28|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 29|     9|     4|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 30|    11|     2|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 31|     7|     0|   0|    0|    0|    0|   0| 46|  0:00:00|  0:00:01|
+# Route    | 32|    12|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 33|     6|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:01
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 28, at vias 0 Total Vias 0
+# Percent Connected   83.05
+# Manhattan Length 1099.2463 Horizontal 571.2807 Vertical 527.9657
+# Routed Length 1555.0063 Horizontal 717.9543 Vertical 837.0519
+# Ratio Actual / Manhattan   1.4146
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Current time = Tue Apr 12 03:14:37 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 28, at vias 0 Total Vias 0
+# Percent Connected   83.05
+# Manhattan Length 1099.2463 Horizontal 571.2807 Vertical 527.9657
+# Routed Length 1555.0063 Horizontal 717.9543 Vertical 837.0519
+# Ratio Actual / Manhattan   1.4146
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Route Pass 1 of 5
+# Routing 16 wires.
+# Total Conflicts: 5 (Cross: 5, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 15 Successes 15 Failures 0 Vias 0
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 18 wires.
+# Total Conflicts: 10 (Cross: 10, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 17 Successes 17 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Start Route Pass 3 of 5
+# Routing 17 wires.
+# Total Conflicts: 5 (Cross: 5, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 16 Successes 16 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 25 wires.
+# Total Conflicts: 10 (Cross: 10, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 19 Successes 19 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 4 of 5
+# Start Route Pass 5 of 5
+# Routing 17 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 6 (Cross: 6, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 14 Successes 14 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 28|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 29|     9|     4|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 30|    11|     2|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 31|     7|     0|   0|    0|    0|    0|   0| 46|  0:00:00|  0:00:01|
+# Route    | 32|    12|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 33|     6|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Route    | 34|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:01|  0:00:02|
+# Route    | 35|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 36|     5|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:02|
+# Route    | 37|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 38|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:02|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:02
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 28, at vias 0 Total Vias 0
+# Percent Connected   83.05
+# Manhattan Length 1096.9057 Horizontal 567.7540 Vertical 529.1517
+# Routed Length 1542.7908 Horizontal 709.4039 Vertical 833.3868
+# Ratio Actual / Manhattan   1.4065
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Current time = Tue Apr 12 03:14:39 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 28, at vias 0 Total Vias 0
+# Percent Connected   83.05
+# Manhattan Length 1096.9057 Horizontal 567.7540 Vertical 529.1517
+# Routed Length 1542.7908 Horizontal 709.4039 Vertical 833.3868
+# Ratio Actual / Manhattan   1.4065
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Route Pass 1 of 5
+# Routing 15 wires.
+# Total Conflicts: 5 (Cross: 5, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 14 Successes 14 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 19 wires.
+# Total Conflicts: 11 (Cross: 9, Clear: 2, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 18 Successes 18 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Start Route Pass 3 of 5
+# Routing 24 wires.
+# Total Conflicts: 6 (Cross: 6, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 22 Successes 22 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Start Route Pass 4 of 5
+# Routing 24 wires.
+# Total Conflicts: 6 (Cross: 6, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 18 Successes 18 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 4 of 5
+# Start Route Pass 5 of 5
+# Routing 19 wires.
+# 5 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 5 (Cross: 5, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 17 Successes 17 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 28|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 29|     9|     4|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 30|    11|     2|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 31|     7|     0|   0|    0|    0|    0|   0| 46|  0:00:00|  0:00:01|
+# Route    | 32|    12|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 33|     6|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Route    | 34|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:01|  0:00:02|
+# Route    | 35|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 36|     5|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:02|
+# Route    | 37|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 38|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:02|
+# Route    | 39|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 40|     9|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 41|     6|     0|   0|    0|    0|    0|   0| 45|  0:00:00|  0:00:02|
+# Route    | 42|     6|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 43|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:02
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 30, at vias 0 Total Vias 0
+# Percent Connected   86.44
+# Manhattan Length 1116.2597 Horizontal 581.9811 Vertical 534.2786
+# Routed Length 1608.0915 Horizontal 768.8137 Vertical 839.2777
+# Ratio Actual / Manhattan   1.4406
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Current time = Tue Apr 12 03:14:41 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 30, at vias 0 Total Vias 0
+# Percent Connected   86.44
+# Manhattan Length 1116.2597 Horizontal 581.9811 Vertical 534.2786
+# Routed Length 1608.0915 Horizontal 768.8137 Vertical 839.2777
+# Ratio Actual / Manhattan   1.4406
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Route Pass 1 of 5
+# Routing 19 wires.
+# Total Conflicts: 5 (Cross: 5, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 19 Successes 19 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 1 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 21 wires.
+# Total Conflicts: 9 (Cross: 9, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 17 Successes 17 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Start Route Pass 3 of 5
+# Routing 18 wires.
+# Total Conflicts: 5 (Cross: 5, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 15 Successes 15 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 17 wires.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 17 Successes 16 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 4 of 5
+# Start Route Pass 5 of 5
+# Routing 14 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 7 (Cross: 7, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 14 Successes 14 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 28|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 29|     9|     4|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 30|    11|     2|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 31|     7|     0|   0|    0|    0|    0|   0| 46|  0:00:00|  0:00:01|
+# Route    | 32|    12|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 33|     6|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Route    | 34|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:01|  0:00:02|
+# Route    | 35|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 36|     5|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:02|
+# Route    | 37|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 38|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:02|
+# Route    | 39|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 40|     9|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 41|     6|     0|   0|    0|    0|    0|   0| 45|  0:00:00|  0:00:02|
+# Route    | 42|     6|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 43|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 44|     5|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 45|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 46|     5|     0|   0|    0|    0|    0|   0| 44|  0:00:00|  0:00:02|
+# Route    | 47|     7|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 48|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:02
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   81.36
+# Manhattan Length 1047.1726 Horizontal 529.5040 Vertical 517.6686
+# Routed Length 1565.7240 Horizontal 720.8279 Vertical 844.8960
+# Ratio Actual / Manhattan   1.4952
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Current time = Tue Apr 12 03:14:43 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   81.36
+# Manhattan Length 1047.1726 Horizontal 529.5040 Vertical 517.6686
+# Routed Length 1565.7240 Horizontal 720.8279 Vertical 844.8960
+# Ratio Actual / Manhattan   1.4952
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Route Pass 1 of 5
+# Routing 14 wires.
+# Total Conflicts: 6 (Cross: 6, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 14 Successes 14 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 1 of 5
+# Start Route Pass 2 of 5
+# Routing 20 wires.
+# Total Conflicts: 1 (Cross: 1, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 17 Successes 16 Failures 1 Vias 0
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 3 of 5
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 3 Successes 2 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 1 wires.
+# Total Conflicts: 3 (Cross: 3, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 1 Successes 1 Failures 0 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Start Route Pass 5 of 5
+# Routing 6 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 6 Successes 5 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 5 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 28|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 29|     9|     4|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 30|    11|     2|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 31|     7|     0|   0|    0|    0|    0|   0| 46|  0:00:00|  0:00:01|
+# Route    | 32|    12|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 33|     6|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Route    | 34|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:01|  0:00:02|
+# Route    | 35|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 36|     5|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:02|
+# Route    | 37|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 38|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:02|
+# Route    | 39|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 40|     9|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 41|     6|     0|   0|    0|    0|    0|   0| 45|  0:00:00|  0:00:02|
+# Route    | 42|     6|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 43|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 44|     5|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 45|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 46|     5|     0|   0|    0|    0|    0|   0| 44|  0:00:00|  0:00:02|
+# Route    | 47|     7|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 48|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 49|     6|     0|   0|    0|    0|    0|   0| 14|  0:00:00|  0:00:02|
+# Route    | 50|     1|     0|   1|    1|    0|    0|   0| 83|  0:00:01|  0:00:03|
+# Route    | 51|     0|     0|   1|    1|    0|    0|   0|100|  0:00:00|  0:00:03|
+# Route    | 52|     3|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 53|     0|     0|   1|    1|    0|    0|   0|100|  0:00:00|  0:00:03|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:03
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   98.31
+# Manhattan Length 1073.8096 Horizontal 558.9076 Vertical 514.9021
+# Routed Length 1428.3100 Horizontal 661.3744 Vertical 766.9355
+# Ratio Actual / Manhattan   1.3301
+# Unconnected Length  78.7400 Horizontal  48.4760 Vertical  30.2640
+# Current time = Tue Apr 12 03:14:45 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   98.31
+# Manhattan Length 1073.8096 Horizontal 558.9076 Vertical 514.9021
+# Routed Length 1428.3100 Horizontal 661.3744 Vertical 766.9355
+# Ratio Actual / Manhattan   1.3301
+# Unconnected Length  78.7400 Horizontal  48.4760 Vertical  30.2640
+# Start Route Pass 1 of 5
+# Routing 1 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 1 Successes 0 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 1 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 1 Successes 0 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 2 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 3 of 5
+# Routing 1 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 1 Successes 0 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 1 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 1 Successes 0 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 5 of 5
+# Routing 1 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 1 Successes 0 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 28|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 29|     9|     4|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 30|    11|     2|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 31|     7|     0|   0|    0|    0|    0|   0| 46|  0:00:00|  0:00:01|
+# Route    | 32|    12|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 33|     6|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Route    | 34|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:01|  0:00:02|
+# Route    | 35|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 36|     5|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:02|
+# Route    | 37|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 38|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:02|
+# Route    | 39|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 40|     9|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 41|     6|     0|   0|    0|    0|    0|   0| 45|  0:00:00|  0:00:02|
+# Route    | 42|     6|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 43|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 44|     5|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 45|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 46|     5|     0|   0|    0|    0|    0|   0| 44|  0:00:00|  0:00:02|
+# Route    | 47|     7|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 48|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 49|     6|     0|   0|    0|    0|    0|   0| 14|  0:00:00|  0:00:02|
+# Route    | 50|     1|     0|   1|    1|    0|    0|   0| 83|  0:00:01|  0:00:03|
+# Route    | 51|     0|     0|   1|    1|    0|    0|   0|100|  0:00:00|  0:00:03|
+# Route    | 52|     3|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 53|     0|     0|   1|    1|    0|    0|   0|100|  0:00:00|  0:00:03|
+# Route    | 54|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 55|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 56|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 57|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 58|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:03
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   98.31
+# Manhattan Length 1085.8729 Horizontal 565.4891 Vertical 520.3838
+# Routed Length 1428.3100 Horizontal 661.3744 Vertical 766.9355
+# Ratio Actual / Manhattan   1.3154
+# Unconnected Length  78.7400 Horizontal  48.4760 Vertical  30.2640
+# Current time = Tue Apr 12 03:14:47 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   98.31
+# Manhattan Length 1085.8729 Horizontal 565.4891 Vertical 520.3838
+# Routed Length 1428.3100 Horizontal 661.3744 Vertical 766.9355
+# Ratio Actual / Manhattan   1.3154
+# Unconnected Length  78.7400 Horizontal  48.4760 Vertical  30.2640
+# Start Route Pass 1 of 5
+# Routing 1 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 1 Successes 0 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 2 of 5
+# Routing 1 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 1 Successes 0 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 2 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 3 of 5
+# Routing 1 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 1 Successes 0 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 4 of 5
+# Routing 1 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 1 Successes 0 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Route Pass 5 of 5
+# Routing 1 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 1 Successes 0 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 5
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 28|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 29|     9|     4|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 30|    11|     2|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 31|     7|     0|   0|    0|    0|    0|   0| 46|  0:00:00|  0:00:01|
+# Route    | 32|    12|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 33|     6|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Route    | 34|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:01|  0:00:02|
+# Route    | 35|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 36|     5|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:02|
+# Route    | 37|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 38|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:02|
+# Route    | 39|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 40|     9|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 41|     6|     0|   0|    0|    0|    0|   0| 45|  0:00:00|  0:00:02|
+# Route    | 42|     6|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 43|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 44|     5|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 45|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 46|     5|     0|   0|    0|    0|    0|   0| 44|  0:00:00|  0:00:02|
+# Route    | 47|     7|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 48|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 49|     6|     0|   0|    0|    0|    0|   0| 14|  0:00:00|  0:00:02|
+# Route    | 50|     1|     0|   1|    1|    0|    0|   0| 83|  0:00:01|  0:00:03|
+# Route    | 51|     0|     0|   1|    1|    0|    0|   0|100|  0:00:00|  0:00:03|
+# Route    | 52|     3|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 53|     0|     0|   1|    1|    0|    0|   0|100|  0:00:00|  0:00:03|
+# Route    | 54|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 55|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 56|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 57|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 58|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 59|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 60|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 61|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 62|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 63|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:03
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   98.31
+# Manhattan Length 1085.8729 Horizontal 565.4891 Vertical 520.3838
+# Routed Length 1428.3100 Horizontal 661.3744 Vertical 766.9355
+# Ratio Actual / Manhattan   1.3154
+# Unconnected Length  78.7400 Horizontal  48.4760 Vertical  30.2640
+# <<ERROR:>> Smart Route: Unable to reach 100% with smart_route. 
+# Check placement, rules, grids, keepouts
+# Smart Route: Executing 2 clean passes.
+# Current time = Tue Apr 12 03:14:49 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   98.31
+# Manhattan Length 1085.8729 Horizontal 565.4891 Vertical 520.3838
+# Routed Length 1428.3100 Horizontal 661.3744 Vertical 766.9355
+# Ratio Actual / Manhattan   1.3154
+# Unconnected Length  78.7400 Horizontal  48.4760 Vertical  30.2640
+# Start Clean Pass 1 of 2
+# Routing 81 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 79 Successes 78 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Clean Pass 2 of 2
+# Routing 85 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 79 Successes 78 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 28|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 29|     9|     4|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 30|    11|     2|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 31|     7|     0|   0|    0|    0|    0|   0| 46|  0:00:00|  0:00:01|
+# Route    | 32|    12|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 33|     6|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Route    | 34|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:01|  0:00:02|
+# Route    | 35|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 36|     5|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:02|
+# Route    | 37|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 38|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:02|
+# Route    | 39|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 40|     9|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 41|     6|     0|   0|    0|    0|    0|   0| 45|  0:00:00|  0:00:02|
+# Route    | 42|     6|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 43|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 44|     5|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 45|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 46|     5|     0|   0|    0|    0|    0|   0| 44|  0:00:00|  0:00:02|
+# Route    | 47|     7|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 48|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 49|     6|     0|   0|    0|    0|    0|   0| 14|  0:00:00|  0:00:02|
+# Route    | 50|     1|     0|   1|    1|    0|    0|   0| 83|  0:00:01|  0:00:03|
+# Route    | 51|     0|     0|   1|    1|    0|    0|   0|100|  0:00:00|  0:00:03|
+# Route    | 52|     3|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 53|     0|     0|   1|    1|    0|    0|   0|100|  0:00:00|  0:00:03|
+# Route    | 54|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 55|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 56|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 57|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 58|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 59|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 60|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 61|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 62|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 63|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Clean    | 64|     0|     0|   1|    1|    0|    0|   0|   |  0:00:00|  0:00:03|
+# Clean    | 65|     0|     0|   1|    1|    0|    0|   0|   |  0:00:00|  0:00:03|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:03
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   98.31
+# Manhattan Length 1071.7561 Horizontal 562.8128 Vertical 508.9433
+# Routed Length 1412.7304 Horizontal 655.3311 Vertical 757.3993
+# Ratio Actual / Manhattan   1.3181
+# Unconnected Length  78.7400 Horizontal  48.4760 Vertical  30.2640
+# Smart Route: Executing 2 clean passes.
+# Current time = Tue Apr 12 03:14:50 2016
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   98.31
+# Manhattan Length 1071.7561 Horizontal 562.8128 Vertical 508.9433
+# Routed Length 1412.7304 Horizontal 655.3311 Vertical 757.3993
+# Ratio Actual / Manhattan   1.3181
+# Unconnected Length  78.7400 Horizontal  48.4760 Vertical  30.2640
+# Start Clean Pass 1 of 2
+# Routing 81 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 80 Successes 79 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 1 of 2
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Start Clean Pass 2 of 2
+# Routing 86 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 81 Successes 80 Failures 1 Vias 0
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Wiring Written to File E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\bestsave.w
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Orth Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# Layer BOTTOM Off  Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.2540, Clearance= 0.1270
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   57|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    59|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    49|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:00|
+# Route    |  3|    33|     0|   0|    0|    0|    0|   0| 32|  0:00:00|  0:00:00|
+# Route    |  4|    29|     0|   0|    0|    0|    0|   0| 12|  0:00:00|  0:00:00|
+# Route    |  5|    17|     0|   0|    0|    0|    0|   0| 41|  0:00:00|  0:00:00|
+# Route    |  6|     9|     2|   0|    0|    0|    0|   0| 35|  0:00:00|  0:00:00|
+# Route    |  7|     7|     0|   0|    0|    0|    0|   0| 36|  0:00:00|  0:00:00|
+# Route    |  8|     7|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 10|     7|     0|   0|    0|    0|    0|   0| 22|  0:00:00|  0:00:01|
+# Route    | 11|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 12|    19|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 13|     9|     0|   0|    0|    0|    0|   0| 52|  0:00:00|  0:00:01|
+# Route    | 14|    21|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 15|     6|     0|   0|    0|    0|    0|   0| 71|  0:00:00|  0:00:01|
+# Route    | 16|     8|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 17|    15|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 18|    13|     0|   0|    0|    0|    0|   0| 23|  0:00:00|  0:00:01|
+# Route    | 19|     6|     0|   0|    0|    0|    0|   0| 53|  0:00:00|  0:00:01|
+# Route    | 20|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:01|
+# Route    | 21|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 22|    10|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 23|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:01|
+# Route    | 24|    14|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 25|     7|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Clean    | 26|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 27|     7|     0|  12|    0|    0|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 28|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 29|     9|     4|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 30|    11|     2|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 31|     7|     0|   0|    0|    0|    0|   0| 46|  0:00:00|  0:00:01|
+# Route    | 32|    12|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 33|     6|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:01|
+# Route    | 34|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:01|  0:00:02|
+# Route    | 35|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 36|     5|     0|   0|    0|    0|    0|   0| 50|  0:00:00|  0:00:02|
+# Route    | 37|    10|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 38|     6|     0|   0|    0|    0|    0|   0| 40|  0:00:00|  0:00:02|
+# Route    | 39|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 40|     9|     2|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 41|     6|     0|   0|    0|    0|    0|   0| 45|  0:00:00|  0:00:02|
+# Route    | 42|     6|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 43|     5|     0|   0|    0|    0|    0|   0| 16|  0:00:00|  0:00:02|
+# Route    | 44|     5|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 45|     9|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 46|     5|     0|   0|    0|    0|    0|   0| 44|  0:00:00|  0:00:02|
+# Route    | 47|     7|     0|   1|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 48|     7|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 49|     6|     0|   0|    0|    0|    0|   0| 14|  0:00:00|  0:00:02|
+# Route    | 50|     1|     0|   1|    1|    0|    0|   0| 83|  0:00:01|  0:00:03|
+# Route    | 51|     0|     0|   1|    1|    0|    0|   0|100|  0:00:00|  0:00:03|
+# Route    | 52|     3|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 53|     0|     0|   1|    1|    0|    0|   0|100|  0:00:00|  0:00:03|
+# Route    | 54|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 55|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 56|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 57|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 58|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 59|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 60|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 61|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 62|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 63|     0|     0|   1|    1|    0|    0|   0|  0|  0:00:00|  0:00:03|
+# Clean    | 64|     0|     0|   1|    1|    0|    0|   0|   |  0:00:00|  0:00:03|
+# Clean    | 65|     0|     0|   1|    1|    0|    0|   0|   |  0:00:00|  0:00:03|
+# Clean    | 66|     0|     0|   1|    1|    0|    0|   0|   |  0:00:00|  0:00:03|
+# Clean    | 67|     0|     0|   1|    1|    0|    0|   0|   |  0:00:00|  0:00:03|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:03
+# 
+# Wiring Statistics ----------------- E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro\PIC1823-RCSERVO-USB2SERIAL.dsn
+# Nets 25 Connections 59 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 27, at vias 0 Total Vias 0
+# Percent Connected   98.31
+# Manhattan Length 1066.9901 Horizontal 559.8661 Vertical 507.1240
+# Routed Length 1409.4735 Horizontal 657.1933 Vertical 752.2802
+# Ratio Actual / Manhattan   1.3210
+# Unconnected Length  78.7400 Horizontal  48.4760 Vertical  30.2640
+# Smart Route: Smart_route finished, completion rate: 98.31.
+write routes (changed_only) (reset_changed) C:/Users/QUANGT~1/AppData/Local/Temp/#Taaaaau05752.tmp
+# Routing Written to File C:/Users/QUANGT~1/AppData/Local/Temp/#Taaaaau05752.tmp
+quit

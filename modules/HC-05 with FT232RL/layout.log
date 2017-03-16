@@ -1,0 +1,1102 @@
+Mon Apr 13 15:19:12 UserDiv from Layout.INI for AutoECO: 60
+Mon Apr 13 15:19:12 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Mon Apr 13 15:19:12 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\EMPTY.LLB
+Mon Apr 13 15:19:12 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\EX_GUI.LLB
+Mon Apr 13 15:19:12 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\METRIC.LLB
+Mon Apr 13 15:19:12 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\PADSTACK.LLB
+Mon Apr 13 15:19:12 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Mon Apr 13 15:19:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Mon Apr 13 15:19:12 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:19:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:19:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:19:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:19:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:19:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:19:12 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:19:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:19:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:19:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:19:12 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:19:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:19:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:19:18 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:29:59 UserDiv from Layout.INI for AutoECO: 60
+Mon Apr 13 15:29:59 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Mon Apr 13 15:29:59 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\EMPTY.LLB
+Mon Apr 13 15:29:59 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\EX_GUI.LLB
+Mon Apr 13 15:29:59 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\METRIC.LLB
+Mon Apr 13 15:29:59 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\PADSTACK.LLB
+Mon Apr 13 15:29:59 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Mon Apr 13 15:29:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Mon Apr 13 15:29:59 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:29:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:29:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:29:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:29:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:29:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:29:59 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:29:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:29:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:29:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:29:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:01 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:30:01 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:30:03 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:30:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:30:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:06 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:30:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:30:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:40:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:40:52 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\PADSTACK.LLB
+Mon Apr 13 15:40:53 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:40:55 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:55 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:40:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:40:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:42:54 UserDiv from Layout.INI for AutoECO: 60
+Mon Apr 13 15:42:54 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Mon Apr 13 15:42:54 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\EMPTY.LLB
+Mon Apr 13 15:42:54 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\EX_GUI.LLB
+Mon Apr 13 15:42:54 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\METRIC.LLB
+Mon Apr 13 15:42:54 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\PADSTACK.LLB
+Mon Apr 13 15:42:54 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Mon Apr 13 15:42:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Mon Apr 13 15:42:54 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:54 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:56 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:42:56 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:42:57 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:42:57 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Mon Apr 13 15:42:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:42:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:43:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:43:03 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:43:06 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:06 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:07 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:08 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:43:09 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC-05 WITH FT232RL-1.MAX
+Mon Apr 13 15:43:59 Saved as file ~undo.max
+Mon Apr 13 15:44:07 Saved as file ~undo.max
+Mon Apr 13 15:44:14 Saved as file ~undo.max
+Mon Apr 13 15:44:34 Saved as file ~undo.max
+Mon Apr 13 15:44:35 Saved as file ~undo.max
+Mon Apr 13 15:44:42 Saved as file ~undo.max
+Mon Apr 13 15:44:48 Saved as file ~undo.max
+Mon Apr 13 15:44:53 Saved as file ~undo.max
+Mon Apr 13 15:44:54 Saved as file ~undo.max
+Mon Apr 13 15:45:04 Saved as file ~undo.max
+Mon Apr 13 15:45:05 Saved as file ~undo.max
+Mon Apr 13 15:45:09 Saved as file ~undo.max
+Mon Apr 13 15:45:10 Saved as file ~undo.max
+Mon Apr 13 15:45:39 Saved as file ~undo.max
+Mon Apr 13 15:45:43 Saved as file ~undo.max
+Mon Apr 13 15:45:44 Saved as file ~undo.max
+Mon Apr 13 15:45:46 Saved as file ~undo.max
+Mon Apr 13 15:45:50 Saved as file ~undo.max
+Mon Apr 13 15:45:51 Saved as file ~undo.max
+Mon Apr 13 15:46:06 Saved as file ~undo.max
+Mon Apr 13 15:46:14 Saved as file ~undo.max
+Mon Apr 13 15:46:15 Saved as file ~undo.max
+Mon Apr 13 15:46:17 Saved as file ~undo.max
+Mon Apr 13 15:46:18 Saved as file ~undo.max
+Mon Apr 13 15:46:21 Saved as file ~undo.max
+Mon Apr 13 15:46:22 Saved as file ~undo2.max
+Mon Apr 13 15:46:22 Loaded file ~undo.max
+Mon Apr 13 15:46:24 Saved as file ~undo.max
+Mon Apr 13 15:46:27 Saved as file ~undo.max
+Mon Apr 13 15:46:27 Saved as file ~undo.max
+Mon Apr 13 15:46:28 Saved as file ~undo.max
+Mon Apr 13 15:46:34 Saved as file ~undo.max
+Mon Apr 13 15:46:38 Saved as file ~undo.max
+Mon Apr 13 15:46:41 Saved as file ~undo.max
+Mon Apr 13 15:46:45 Saved as file ~undo.max
+Mon Apr 13 15:47:02 Saved as file ~undo.max
+Mon Apr 13 15:47:03 Saved as file ~undo.max
+Mon Apr 13 15:47:14 Saved as file ~undo.max
+Mon Apr 13 15:47:17 Saved as file ~undo.max
+Mon Apr 13 15:47:18 Saved as file ~undo.max
+Mon Apr 13 15:47:19 Saved as file ~undo.max
+Mon Apr 13 15:47:23 Saved as file ~undo.max
+Mon Apr 13 15:47:26 Saved as file ~undo.max
+Mon Apr 13 15:47:27 Saved as file ~undo.max
+Mon Apr 13 15:49:04 UserDiv from Layout.INI for AutoECO: 60
+Mon Apr 13 15:49:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Mon Apr 13 15:49:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\EMPTY.LLB
+Mon Apr 13 15:49:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\EX_GUI.LLB
+Mon Apr 13 15:49:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\METRIC.LLB
+Mon Apr 13 15:49:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\LIBRARY\PADSTACK.LLB
+Mon Apr 13 15:49:04 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Mon Apr 13 15:49:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Mon Apr 13 15:49:05 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Mon Apr 13 15:49:05 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:05 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 15:49:06 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC-05 WITH FT232RL-2.MAX
+Mon Apr 13 15:49:38 Saved as file ~undo.max
+Mon Apr 13 15:49:41 Saved as file ~undo.max
+Mon Apr 13 15:49:45 Saved as file ~undo.max
+Mon Apr 13 15:49:52 Saved as file ~undo.max
+Mon Apr 13 15:50:00 Saved as file ~undo.max
+Mon Apr 13 15:50:01 Saved as file ~undo.max
+Mon Apr 13 15:50:09 Saved as file ~undo.max
+Mon Apr 13 15:50:10 Saved as file ~undo.max
+Mon Apr 13 15:50:15 Saved as file ~undo.max
+Mon Apr 13 15:50:17 Saved as file ~undo.max
+Mon Apr 13 15:50:19 Saved as file ~undo.max
+Mon Apr 13 15:50:25 Saved as file ~undo.max
+Mon Apr 13 15:50:29 Saved as file ~undo.max
+Mon Apr 13 15:50:30 Saved as file ~undo.max
+Mon Apr 13 15:50:40 Saved as file ~undo.max
+Mon Apr 13 15:50:41 Saved as file ~undo.max
+Mon Apr 13 15:50:43 Saved as file ~undo.max
+Mon Apr 13 15:50:44 Saved as file ~undo.max
+Mon Apr 13 15:50:48 Saved as file ~undo.max
+Mon Apr 13 15:50:49 Saved as file ~undo.max
+Mon Apr 13 15:50:52 Saved as file ~undo.max
+Mon Apr 13 15:50:56 Saved as file ~undo.max
+Mon Apr 13 15:51:03 Saved as file ~undo.max
+Mon Apr 13 15:51:05 Saved as file ~undo.max
+Mon Apr 13 15:51:11 Saved as file ~undo.max
+Mon Apr 13 15:51:12 Saved as file ~undo.max
+Mon Apr 13 15:51:14 Saved as file ~undo.max
+Mon Apr 13 15:51:17 Saved as file ~undo.max
+Mon Apr 13 15:51:19 Saved as file ~undo.max
+Mon Apr 13 15:51:29 Saved as file ~undo.max
+Mon Apr 13 15:51:31 Saved as file ~undo.max
+Mon Apr 13 15:51:35 Saved as file ~undo.max
+Mon Apr 13 15:51:36 Saved as file ~undo.max
+Mon Apr 13 15:51:41 Saved as file ~undo.max
+Mon Apr 13 15:51:48 Saved as file ~undo.max
+Mon Apr 13 15:51:49 Saved as file ~undo.max
+Mon Apr 13 15:51:56 Saved as file ~undo.max
+Mon Apr 13 15:51:59 Saved as file ~undo.max
+Mon Apr 13 15:52:00 Saved as file ~undo.max
+Mon Apr 13 15:52:04 Saved as file ~undo.max
+Mon Apr 13 15:52:04 Saved as file ~undo.max
+Mon Apr 13 15:52:08 Saved as file ~undo.max
+Mon Apr 13 15:52:09 Saved as file ~undo.max
+Mon Apr 13 15:52:21 Saved as file ~undo.max
+Mon Apr 13 15:52:36 Saved as file ~undo.max
+Mon Apr 13 15:52:51 Saved as file ~undo.max
+Mon Apr 13 15:52:53 Saved as file ~undo.max
+Mon Apr 13 15:54:17 Saved as file ~undo.max
+Mon Apr 13 15:54:37 Saved as file ~undo.max
+Mon Apr 13 15:54:38 Saved as file ~undo.max
+Mon Apr 13 15:54:42 Saved as file ~undo.max
+Mon Apr 13 15:54:46 Saved as file ~undo.max
+Mon Apr 13 15:54:47 Saved as file ~undo.max
+Mon Apr 13 15:54:55 Saved as file ~undo.max
+Mon Apr 13 15:56:04 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:04 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:04 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:04 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:04 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:04 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:04 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:04 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:04 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:05 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:06 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:06 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:06 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:06 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:06 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:06 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:06 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:06 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:06 Saved as file BACKUP1.MAX
+Mon Apr 13 15:56:06 No new connections routed.
+Mon Apr 13 15:56:06 Total is now 0 out of 27 (0%).
+Mon Apr 13 15:56:57 Saved as file ~undo.max
+Mon Apr 13 15:56:59 Saved as file ~undo.max
+Mon Apr 13 15:57:00 Saved as file ~undo.max
+Mon Apr 13 15:57:03 Saved as file ~undo.max
+Mon Apr 13 15:58:04 Saved as file ~undo.max
+Mon Apr 13 15:58:05 Saved as file ~undo.max
+Mon Apr 13 15:58:38 Saved as file ~undo.max
+Mon Apr 13 15:58:51 Saved as file ~undo.max
+Mon Apr 13 15:59:09 Saved as file BACKUP1.MAX
+Mon Apr 13 16:00:59 Saved as file ~undo.max
+Mon Apr 13 16:01:04 Saved as file ~undo.max
+Mon Apr 13 16:01:53 Saved as file ~undo.max
+Mon Apr 13 16:01:55 Saved as file ~undo.max
+Mon Apr 13 16:02:13 Saved as file ~undo.max
+Mon Apr 13 16:02:20 Saved as file ~undo.max
+Mon Apr 13 16:05:06 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC-05 WITH FT232RL-2.MAX
+Mon Apr 13 16:05:41 Saved as file ~undo.max
+Mon Apr 13 16:05:44 Saved as file ~undo.max
+Mon Apr 13 16:05:49 Saved as file ~undo.max
+Mon Apr 13 16:06:17 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC-05 WITH FT232RL-2.MAX
+Mon Apr 13 16:06:40 No new connections routed.
+Mon Apr 13 16:06:40 Total is now 0 out of 27 (0%).
+Mon Apr 13 16:06:40 Saved as file SWEEP1.MAX
+Mon Apr 13 16:06:41 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:42 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:42 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:43 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:44 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:44 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:44 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:45 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:45 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:45 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:45 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:45 Saved as file BACKUP1.MAX
+Mon Apr 13 16:06:45 Routed 15 connections in 4 seconds.
+Mon Apr 13 16:06:45 Total is now 8 out of 27 (29%).
+Mon Apr 13 16:06:45 Saved as file SWEEP2.MAX
+Mon Apr 13 16:09:08 Saved as file ~undo.max
+Mon Apr 13 16:09:15 Saved as file ~undo.max
+Mon Apr 13 16:10:09 Saved as file BACKUP1.MAX
+Mon Apr 13 16:10:33 Saved as file ~undo.max
+Mon Apr 13 16:10:44 Saved as file ~undo.max
+Mon Apr 13 16:14:32 Saved as file ~undo.max
+Mon Apr 13 16:15:15 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC-05 WITH FT232RL-2.MAX
+Mon Apr 13 16:15:50 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:15:52 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:16:16 Merge file: Starting (copy all comps)
+Mon Apr 13 16:16:16 Merge file: Loading merge file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:16:16 Merge file: Component D1 copied and renamed to D1000
+Mon Apr 13 16:16:16 Merge file: Component D2 copied and renamed to D2000
+Mon Apr 13 16:16:16 Merge file: Component D3 copied and renamed to D3000
+Mon Apr 13 16:16:16 Merge file: Component D4 copied and renamed to D4000
+Mon Apr 13 16:16:16 Merge file: Component R1 copied and renamed to R1000
+Mon Apr 13 16:16:16 Merge file: Component R2 copied and renamed to R2000
+Mon Apr 13 16:16:16 Merge file: Component R3 copied and renamed to R3000
+Mon Apr 13 16:16:16 Merge file: Component R4 copied and renamed to R4000
+Mon Apr 13 16:16:16 Merge file: Component R5 copied and renamed to R5000
+Mon Apr 13 16:16:16 Merge file: Component SW1 copied and renamed to SW1000
+Mon Apr 13 16:16:16 Merge file: Component U1 copied and renamed to U1000
+Mon Apr 13 16:16:16 Merge file: Component U2 copied and renamed to U2000
+Mon Apr 13 16:16:16 Merge file: Component U4 copied and renamed to U4000
+Mon Apr 13 16:16:16 Merge file: Net 3V3 merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net 5V merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net DM merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net DP merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net GND merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net N01222 merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net N01230 merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net N02272 merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net N02354 merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net N05489 merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net N06552 merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net N020131 merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net N022080 merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net N022450 merged into existing net
+Mon Apr 13 16:16:16 Merge file: Net N059081 merged into existing net
+Mon Apr 13 16:16:16 Loaded file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:16:16 Merge file: Complete
+Mon Apr 13 16:16:34 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL2.MAX
+Mon Apr 13 16:17:01 Merge file: Starting (copy all comps)
+Mon Apr 13 16:17:01 Merge file: Loading merge file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL2.MAX
+Mon Apr 13 16:17:01 Merge file: Component D1 copied and renamed to D1000000
+Mon Apr 13 16:17:01 Merge file: Component D2 copied and renamed to D2000000
+Mon Apr 13 16:17:01 Merge file: Component D3 copied and renamed to D3000000
+Mon Apr 13 16:17:01 Merge file: Component D4 copied and renamed to D4000000
+Mon Apr 13 16:17:01 Merge file: Component R1 copied and renamed to R1000000
+Mon Apr 13 16:17:01 Merge file: Component R2 copied and renamed to R2000000
+Mon Apr 13 16:17:01 Merge file: Component R3 copied and renamed to R3000000
+Mon Apr 13 16:17:01 Merge file: Component R4 copied and renamed to R4000000
+Mon Apr 13 16:17:01 Merge file: Component R5 copied and renamed to R5000000
+Mon Apr 13 16:17:01 Merge file: Component SW1 copied and renamed to SW1000000
+Mon Apr 13 16:17:01 Merge file: Component U1 copied and renamed to U1000000
+Mon Apr 13 16:17:01 Merge file: Component U2 copied and renamed to U2000000
+Mon Apr 13 16:17:01 Merge file: Component U4 copied and renamed to U4000000
+Mon Apr 13 16:17:01 Merge file: Component D1000 copied and renamed to D1000000000
+Mon Apr 13 16:17:01 Merge file: Component D2000 copied and renamed to D2000000000
+Mon Apr 13 16:17:01 Merge file: Component D3000 copied and renamed to D3000000000
+Mon Apr 13 16:17:01 Merge file: Component D4000 copied and renamed to D4000000000
+Mon Apr 13 16:17:01 Merge file: Component R1000 copied and renamed to R1000000000
+Mon Apr 13 16:17:01 Merge file: Component R2000 copied and renamed to R2000000000
+Mon Apr 13 16:17:01 Merge file: Component R3000 copied and renamed to R3000000000
+Mon Apr 13 16:17:01 Merge file: Component R4000 copied and renamed to R4000000000
+Mon Apr 13 16:17:01 Merge file: Component R5000 copied and renamed to R5000000000
+Mon Apr 13 16:17:01 Merge file: Component SW1000 copied and renamed to SW1000000000
+Mon Apr 13 16:17:01 Merge file: Component U1000 copied and renamed to U1000000000
+Mon Apr 13 16:17:01 Merge file: Component U2000 copied and renamed to U2000000000
+Mon Apr 13 16:17:01 Merge file: Component U4000 copied and renamed to U4000000000
+Mon Apr 13 16:17:01 Merge file: Net 3V3 merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net 5V merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net DM merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net DP merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net GND merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net N01222 merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net N01230 merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net N02272 merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net N02354 merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net N05489 merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net N06552 merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net N020131 merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net N022080 merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net N022450 merged into existing net
+Mon Apr 13 16:17:01 Merge file: Net N059081 merged into existing net
+Mon Apr 13 16:17:01 Loaded file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL2.MAX
+Mon Apr 13 16:17:01 Merge file: Complete
+Mon Apr 13 16:19:00 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL4.MAX
+Mon Apr 13 16:22:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 16:22:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 16:22:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 16:22:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 16:23:00 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 16:23:00 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Mon Apr 13 16:23:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:02 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:23:28 Saved as file ~undo.max
+Mon Apr 13 16:23:44 Saved as file ~undo.max
+Mon Apr 13 16:23:52 Saved as file ~undo.max
+Mon Apr 13 16:25:00 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:05 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:06 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:06 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:06 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:06 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:06 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:17 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:18 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:18 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:18 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:18 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:18 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:34 Merge file: Starting (copy all comps)
+Mon Apr 13 16:25:34 Merge file: Loading merge file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:34 Merge file: Component D1 copied and renamed to D1000
+Mon Apr 13 16:25:34 Merge file: Component D2 copied and renamed to D2000
+Mon Apr 13 16:25:34 Merge file: Component D3 copied and renamed to D3000
+Mon Apr 13 16:25:34 Merge file: Component D4 copied and renamed to D4000
+Mon Apr 13 16:25:34 Merge file: Component R1 copied and renamed to R1000
+Mon Apr 13 16:25:34 Merge file: Component R2 copied and renamed to R2000
+Mon Apr 13 16:25:34 Merge file: Component R3 copied and renamed to R3000
+Mon Apr 13 16:25:34 Merge file: Component R4 copied and renamed to R4000
+Mon Apr 13 16:25:34 Merge file: Component R5 copied and renamed to R5000
+Mon Apr 13 16:25:34 Merge file: Component SW1 copied and renamed to SW1000
+Mon Apr 13 16:25:34 Merge file: Component U1 copied and renamed to U1000
+Mon Apr 13 16:25:34 Merge file: Component U2 copied and renamed to U2000
+Mon Apr 13 16:25:34 Merge file: Component U4 copied and renamed to U4000
+Mon Apr 13 16:25:34 Merge file: Net 3V3 merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net 5V merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net DM merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net DP merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net GND merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net N01222 merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net N01230 merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net N02272 merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net N02354 merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net N05489 merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net N06552 merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net N020131 merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net N022080 merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net N022450 merged into existing net
+Mon Apr 13 16:25:34 Merge file: Net N059081 merged into existing net
+Mon Apr 13 16:25:34 Loaded file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL.MAX
+Mon Apr 13 16:25:34 Merge file: Complete
+Mon Apr 13 16:25:43 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL2.MAX
+Mon Apr 13 16:25:54 Merge file: Starting (copy all comps)
+Mon Apr 13 16:25:54 Merge file: Loading merge file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL2.MAX
+Mon Apr 13 16:25:54 Merge file: Component D1 copied and renamed to D1000000
+Mon Apr 13 16:25:54 Merge file: Component D2 copied and renamed to D2000000
+Mon Apr 13 16:25:54 Merge file: Component D3 copied and renamed to D3000000
+Mon Apr 13 16:25:54 Merge file: Component D4 copied and renamed to D4000000
+Mon Apr 13 16:25:54 Merge file: Component R1 copied and renamed to R1000000
+Mon Apr 13 16:25:54 Merge file: Component R2 copied and renamed to R2000000
+Mon Apr 13 16:25:54 Merge file: Component R3 copied and renamed to R3000000
+Mon Apr 13 16:25:54 Merge file: Component R4 copied and renamed to R4000000
+Mon Apr 13 16:25:54 Merge file: Component R5 copied and renamed to R5000000
+Mon Apr 13 16:25:54 Merge file: Component SW1 copied and renamed to SW1000000
+Mon Apr 13 16:25:54 Merge file: Component U1 copied and renamed to U1000000
+Mon Apr 13 16:25:54 Merge file: Component U2 copied and renamed to U2000000
+Mon Apr 13 16:25:54 Merge file: Component U4 copied and renamed to U4000000
+Mon Apr 13 16:25:54 Merge file: Component D1000 copied and renamed to D1000000000
+Mon Apr 13 16:25:54 Merge file: Component D2000 copied and renamed to D2000000000
+Mon Apr 13 16:25:54 Merge file: Component D3000 copied and renamed to D3000000000
+Mon Apr 13 16:25:54 Merge file: Component D4000 copied and renamed to D4000000000
+Mon Apr 13 16:25:54 Merge file: Component R1000 copied and renamed to R1000000000
+Mon Apr 13 16:25:54 Merge file: Component R2000 copied and renamed to R2000000000
+Mon Apr 13 16:25:54 Merge file: Component R3000 copied and renamed to R3000000000
+Mon Apr 13 16:25:54 Merge file: Component R4000 copied and renamed to R4000000000
+Mon Apr 13 16:25:54 Merge file: Component R5000 copied and renamed to R5000000000
+Mon Apr 13 16:25:54 Merge file: Component SW1000 copied and renamed to SW1000000000
+Mon Apr 13 16:25:54 Merge file: Component U1000 copied and renamed to U1000000000
+Mon Apr 13 16:25:54 Merge file: Component U2000 copied and renamed to U2000000000
+Mon Apr 13 16:25:54 Merge file: Component U4000 copied and renamed to U4000000000
+Mon Apr 13 16:25:54 Merge file: Net 3V3 merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net 5V merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net DM merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net DP merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net GND merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net N01222 merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net N01230 merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net N02272 merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net N02354 merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net N05489 merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net N06552 merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net N020131 merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net N022080 merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net N022450 merged into existing net
+Mon Apr 13 16:25:54 Merge file: Net N059081 merged into existing net
+Mon Apr 13 16:25:54 Loaded file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL2.MAX
+Mon Apr 13 16:25:54 Merge file: Complete
+Mon Apr 13 16:27:53 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 16:27:53 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 16:27:53 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 16:27:53 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 16:27:55 Loaded file E:\ORCAD\THU VIEN ORCAD\QUANGTHANH.LLB
+Mon Apr 13 16:27:59 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:27:59 Footprint coords will be rounded to nearest base unit.
+Mon Apr 13 16:28:13 Saved as file ~undo.max
+Mon Apr 13 16:31:31 Saved as file BACKUP1.MAX
+Mon Apr 13 16:41:32 Saved as file BACKUP1.MAX
+Mon Apr 13 16:51:32 Saved as file BACKUP1.MAX
+Mon Apr 13 17:01:32 Saved as file BACKUP1.MAX
+Mon Apr 13 17:11:33 Saved as file BACKUP1.MAX
+Mon Apr 13 17:21:33 Saved as file BACKUP1.MAX
+Mon Apr 13 17:31:33 Saved as file BACKUP1.MAX
+Mon Apr 13 17:41:33 Saved as file BACKUP1.MAX
+Mon Apr 13 17:51:34 Saved as file BACKUP1.MAX
+Mon Apr 13 18:01:34 Saved as file BACKUP1.MAX
+Mon Apr 13 18:03:46 Saved as file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL2.MAX

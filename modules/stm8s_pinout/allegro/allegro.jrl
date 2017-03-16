@@ -1,0 +1,22 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Jul 16 13:37:16 2016
+\t (00:00:03)         Host=DESKTOP-942VC2H User=QThan Pid=10548 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: E:/mlabviet/Cadence/Alegro/projects/stm8s_pinout/allegro/STM8S_PINOUT.brd
+\t (00:00:05) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:05) trapsize 5316
+\i (00:00:05) trapsize 5506
+\t (00:00:05) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:05) trapsize 5957
+\i (00:00:05) trapsize 5982
+\i (00:00:05) placementedit 
+\i (00:00:36) open 
+\i (00:01:11) fillin "E:\git\smart_desk\HardwareV2\schematic-layout\addonBoard\allegro\SMARTDESKV2_ADDON_BK.brd"
+\i (00:01:11) cd "E:\git\smart_desk\HardwareV2\schematic-layout\addonBoard\allegro"
+\t (00:01:11) Opening existing design...
+\t (00:01:11) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:01:11) trapsize 13641
+\t (00:01:11)     Journal end - Sat Jul 16 13:38:24 2016

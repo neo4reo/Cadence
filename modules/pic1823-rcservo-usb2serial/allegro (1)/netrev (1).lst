@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : PIC1823-RCSERVO-USB2SERIAL.brd                )
+(    Software Version : 16.6-2015S051                                 )
+(    Date/Time        : Mon Apr 11 02:29:11 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\PIC1823-RCSERVO-USB2SERIAL\SCHEMATIC\allegro'
+Design Directory:            '.'
+Old design name:             'E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/PIC1823-RCSERVO-USB2SERIAL/SCHEMATIC/allegro/PIC1823-RCSERVO-USB2SERIAL.brd'
+New design name:             'E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/PIC1823-RCSERVO-USB2SERIAL/SCHEMATIC/allegro/PIC1823-RCSERVO-USB2SERIAL.brd'
+
+CmdLine: netrev.exe -y 1 -n -i E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\PIC1823-RCSERVO-USB2SERIAL\SCHEMATIC\allegro E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\PIC1823-RCSERVO-USB2SERIAL\SCHEMATIC\allegro\PIC1823-RCSERVO-USB2SERIAL.brd E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\PIC1823-RCSERVO-USB2SERIAL\SCHEMATIC\allegro\PIC1823-RCSERVO-USB2SERIAL.brd
+
+------ Preparing to read pst files ------
+
+Starting to read E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/PIC1823-RCSERVO-USB2SERIAL/SCHEMATIC/allegro/pstchip.dat 
+   Finished reading E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/PIC1823-RCSERVO-USB2SERIAL/SCHEMATIC/allegro/pstchip.dat (00:00:00.03)
+Starting to read E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/PIC1823-RCSERVO-USB2SERIAL/SCHEMATIC/allegro/pstxprt.dat 
+   Finished reading E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/PIC1823-RCSERVO-USB2SERIAL/SCHEMATIC/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/PIC1823-RCSERVO-USB2SERIAL/SCHEMATIC/allegro/pstxnet.dat 
+   Finished reading E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/PIC1823-RCSERVO-USB2SERIAL/SCHEMATIC/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  E:/mlabviet/Cadence/Alegro/libraries/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  E:/mlabviet/Cadence/Alegro/libraries/layout/pad_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Apr 11 2:29:11 2016
+   DESIGN NAME : 'PIC1823-RCSERVO-USB2SERIAL'
+   PACKAGING ON Jun  8 2015 17:42:25
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:38
+elapsed time  0:00:01
+

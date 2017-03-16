@@ -1,0 +1,48 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Aug 03 02:40:03 2016
+\t (00:00:00)         Host=DESKTOP-942VC2H User=QThan Pid=11780 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -mpssession QThan E:\mlabviet\Cadence\Alegro\projects\BoardApTrung\allegro\MAYAPTRUNG.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/BOARDAPTRUNG/allegro/MAYAPTRUNG.brd
+\t (00:00:02) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:02) trapsize 3529
+\i (00:00:02) trapsize 3610
+\t (00:00:02) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:02) trapsize 3610
+\i (00:00:02) trapsize 3520
+\i (00:00:02) placementedit 
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 13.1061 -10.5436
+\t (00:00:04) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:04) trapsize 7040
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 12.1205 -11.6700
+\t (00:00:05) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:00:05) trapsize 14080
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -35.9488 -6.3194
+\t (00:00:06) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:06) trapsize 7040
+\i (00:00:12) 3d_viewer 
+\i (00:00:13) setwindow pcb3D
+\i (00:00:13) trapsize 7040
+\i (00:00:13) setwindow pcb
+\i (00:00:13) placementedit 
+\i (00:00:21) pick grid -26.5149 17.8989
+\t (00:00:21) last pick:  -26.5000 17.9000
+\i (00:00:21) move 
+\t (00:00:21) last pick:  -28.0336 18.6449
+\t (00:00:21) Moving R61 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:00:21) Pick new location for the element(s).
+\i (00:00:23) pick grid -29.3310 30.7120
+\t (00:00:23) last pick:  -29.3000 30.7000
+\i (00:00:24) placementedit 
+\i (00:00:25) exit 
+\e (00:00:25) Do you want to save the changes you made to MAYAPTRUNG.brd?
+\i (00:00:27) fillin yes 
+\t (00:00:28)     Journal end - Wed Aug 03 02:40:31 2016

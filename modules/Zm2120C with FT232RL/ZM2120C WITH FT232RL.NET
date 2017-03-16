@@ -1,0 +1,79 @@
+(netlist "H:\ORCAD\APPLICATION LIBRARIES\ZM2120C WITH FT232RL\ZM2120C WITH FT232RL.DSN"
+  (compinst "C1"
+    (patternName "CAPACITOR")
+    (compvalue "CAPACITOR"))
+  (compinst "D1"
+    (patternName "LED")
+    (compvalue "LED"))
+  (compinst "D2"
+    (patternName "LED")
+    (compvalue "LED"))
+  (compinst "R1"
+    (patternName "330")
+    (compvalue "330"))
+  (compinst "R2"
+    (patternName "330")
+    (compvalue "330"))
+  (compinst "R3"
+    (patternName "R")
+    (compvalue "R"))
+  (compinst "R4"
+    (patternName "R")
+    (compvalue "R"))
+  (compinst "U1"
+    (patternName "FT232RL")
+    (compvalue "FT232RL"))
+  (compinst "U2"
+    (patternName "Micro USB")
+    (compvalue "Micro USB"))
+  (compinst "U3"
+    (patternName "ZM2120C")
+    (compvalue "ZM2120C"))
+  (net "3.3V"
+    (node "U1" "4")
+    (node "U3" "17")
+    (node "R3" "1")
+    (node "R4" "1")
+    (node "C1" "1"))
+  (net "3.3V OUT"
+    (node "U1" "17"))
+  (net "D+"
+    (node "U1" "15")
+    (node "U2" "3"))
+  (net "D-"
+    (node "U1" "16")
+    (node "U2" "2"))
+  (net "GND"
+    (node "U1" "26")
+    (node "U1" "21")
+    (node "U1" "18")
+    (node "U1" "7")
+    (node "U1" "25")
+    (node "U2" "5")
+    (node "U3" "13")
+    (node "C1" "2"))
+  (net "N03770"
+    (node "U1" "23")
+    (node "D1" "2"))
+  (net "N03796"
+    (node "U1" "22")
+    (node "D2" "2"))
+  (net "N038540"
+    (node "D1" "1")
+    (node "R1" "2"))
+  (net "N038700"
+    (node "D2" "1")
+    (node "R2" "2"))
+  (net "RX"
+    (node "U1" "5")
+    (node "U3" "16")
+    (node "R4" "2"))
+  (net "TX"
+    (node "U1" "1")
+    (node "U3" "18")
+    (node "R3" "2"))
+  (net "VCC"
+    (node "U1" "20")
+    (node "U2" "1")
+    (node "R1" "1")
+    (node "R2" "1")))
