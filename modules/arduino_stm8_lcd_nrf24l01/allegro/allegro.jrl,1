@@ -1,115 +1,139 @@
 \t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Thu Mar 16 14:38:13 2017
-\t (00:00:01)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=3492 CPUs=4
+\t (00:00:01)     Journal start - Thu Mar 16 14:41:15 2017
+\t (00:00:01)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=5696 CPUs=4
 \t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
 \t (00:00:01) 
    (00:00:01) Loading axlcore.cxt 
 \t (00:00:03) Opening existing design...
 \d (00:00:03) Design opened: C:/DATA/GIT/CADENCE/MODULES/ARDUINO_STM8_LCD_NRF24L01/allegro/ARDUINO_STM8_LCD_NRF24.brd
-\t (00:00:04) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:04) trapsize 5064
-\i (00:00:04) trapsize 5180
-\t (00:00:04) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:04) trapsize 5180
-\i (00:00:04) trapsize 4902
+\i (00:00:04) trapsize 1266
+\i (00:00:04) trapsize 1295
+\i (00:00:04) trapsize 1295
+\i (00:00:04) trapsize 1225
 \i (00:00:04) generaledit 
-\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: OUTLINE"
-\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: OUTLINE"
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 49.1401 18.8002
-\i (00:00:09) trapsize 2451
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 48.2578 18.7512
-\i (00:00:09) trapsize 1225
-\i (00:00:09) zoom out 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom out 48.0863 18.2120
-\i (00:00:09) trapsize 2451
-\i (00:00:11) zoom out 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom out 26.9590 23.2610
-\i (00:00:11) trapsize 4902
-\i (00:00:15) add line 
-\i (00:00:17) add line 
-\i (00:00:20) setwindow form.mini
-\i (00:00:20) FORM mini subcolor 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in 47.4490 16.6924
-\i (00:00:22) trapsize 2451
-\i (00:00:22) zoom in 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in 48.0372 17.5747
-\i (00:00:22) trapsize 1225
-\i (00:00:23) zoom out 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom out 49.8020 15.9326
-\i (00:00:23) trapsize 2451
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in 48.7235 18.8247
-\i (00:00:24) trapsize 1225
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in 48.7235 18.8738
-\i (00:00:24) trapsize 613
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out 48.7235 18.8738
-\i (00:00:24) trapsize 1225
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out 48.9442 18.2365
-\i (00:00:24) trapsize 2451
-\i (00:00:25) zoom in 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom in 49.3854 19.5601
-\i (00:00:25) trapsize 1225
-\i (00:00:27) prepopup 49.8756 17.3542
-\i (00:00:28) done 
-\i (00:00:28) generaledit 
-\i (00:00:30) artwork 
-\i (00:00:32) setwindow form.film_control
-\i (00:00:32) FORM film_control filmtree  SC_BOT 
-\i (00:00:33) FORM film_control filmtree  'BOARD GEOMETRY/DESIGN_OUTLINE' OUTLINE 
-\i (00:00:34) FORM film_control filmtree popup Add 'BOARD GEOMETRY/DESIGN_OUTLINE' OUTLINE 
-\i (00:00:39) setwindow form.scl_browser
-\i (00:00:39) FORM scl_browser treelist 'MULTISEL YES' OUTLINE 'BOARD GEOMETRY' 
-\i (00:00:39) FORM scl_browser treelist  OUTLINE 'BOARD GEOMETRY' 
-\i (00:00:40) FORM scl_browser done  
-   (00:00:40) WARNING(SPMHA2-118): Board Geometry subclasses, 'DESIGN_OUTLINE' and 'CUTOUT', are the preferred subclasses for defining a board outline. Use these subclasses instead of the 'OUTLINE' subclass.
-\i (00:00:41) fillin confirm
-\i (00:00:42) setwindow form.film_control
-\i (00:00:42) FORM film_control ok  
-\i (00:00:42) setwindow pcb
-\i (00:00:42) generaledit 
-\i (00:00:44) save 
-\i (00:00:45) fillin yes 
-\i (00:00:45) generaledit 
-\i (00:00:47) artwork 
-\i (00:00:49) setwindow form.film_control
-\i (00:00:49) FORM film_control filmtree 'MULTISEL YES' OUTLINE 
-\i (00:00:49) FORM film_control filmtree  OUTLINE 
-\i (00:00:51) FORM film_control create  
-\i (00:00:52) fillin yes 
-\t (00:00:52) Checking db records
-\t (00:00:52)     checking for orphans...
-\t (00:00:52)     Checked 100 percent
-\t (00:00:52) Done dbdoctor.
-\t (00:00:52) Starting Create artwork films...
-\w (00:00:52) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:00:53) Artwork generated with warnings.
-\i (00:00:55) setwindow text
-\i (00:00:55) close 
-\i (00:00:56) setwindow form.film_control
-\i (00:00:56) FORM film_control ok  
-\i (00:00:56) setwindow pcb
-\i (00:00:56) generaledit 
-\i (00:00:57) exit 
-\e (00:00:57) Do you want to save the changes you made to C:/DATA/GIT/CADENCE/MODULES/ARDUINO_STM8_LCD_NRF24L01/allegro/ARDUINO_STM8_LCD_NRF24.brd?
-\i (00:00:58) fillin yes 
-   (00:00:58) Loading signal.cxt 
-\t (00:00:58)     Journal end - Thu Mar 16 14:39:10 2017
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 45.0227 14.3965
+\i (00:00:58) trapsize 2451
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 46.2972 14.5435
+\t (00:00:58) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:58) trapsize 4902
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 46.5914 14.5435
+\t (00:00:58) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:58) trapsize 9804
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 6.4690 12.5827
+\t (00:00:59) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:59) trapsize 4902
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 3.8220 15.2297
+\i (00:00:59) trapsize 2451
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 0.6358 18.4650
+\i (00:00:59) trapsize 1225
+\i (00:01:02) show measure 
+\i (00:01:04) pick grid -10.2954 18.7346
+\t (00:01:04) last pick:  -10.2000 18.6000
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -12.2562 18.2934
+\i (00:01:04) trapsize 2451
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -12.9914 18.1954
+\i (00:01:04) trapsize 4902
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -0.1485 16.3327
+\t (00:01:04) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:01:04) trapsize 9804
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 50.7823 13.5876
+\t (00:01:05) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:01:05) trapsize 4902
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 50.7823 13.7837
+\i (00:01:05) trapsize 2451
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 50.4392 14.2249
+\i (00:01:05) trapsize 1225
+\i (00:01:06) pick grid 48.8951 13.9553
+\t (00:01:06) last pick:  48.9000 14.1000
+\i (00:01:09) setwindow text
+\i (00:01:09) close 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 45.8069 12.5582
+\i (00:01:10) trapsize 2451
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 46.1010 13.1465
+\i (00:01:10) trapsize 4902
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 39.8266 21.9700
+\i (00:01:10) trapsize 2451
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 39.8266 21.9210
+\i (00:01:10) trapsize 1225
+\i (00:01:12) pick grid 41.4198 19.8867
+\t (00:01:12) last pick:  41.4000 19.8000
+\i (00:01:12) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 43.0129 22.6318
+\i (00:01:13) trapsize 2451
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 43.3560 23.7592
+\i (00:01:13) trapsize 4902
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 43.6502 22.3867
+\t (00:01:13) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:01:13) trapsize 9804
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 30.3903 -57.6125
+\t (00:01:14) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:01:14) trapsize 4902
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 30.7825 -58.8870
+\i (00:01:14) trapsize 2451
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 30.8316 -58.9850
+\i (00:01:14) trapsize 1225
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 30.8316 -58.9850
+\i (00:01:14) trapsize 613
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 31.3709 -58.0904
+\i (00:01:15) trapsize 1225
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 31.4444 -62.4041
+\i (00:01:15) trapsize 613
+\i (00:01:16) pick grid 31.4567 -62.0732
+\t (00:01:16) last pick:  31.5000 -62.1000
+\i (00:01:19) setwindow text
+\i (00:01:19) close 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) exit 
+\e (00:01:21) Do you want to save the changes you made to ARDUINO_STM8_LCD_NRF24.brd?
+\i (00:01:22) fillin yes 
+\t (00:01:22)     Journal end - Thu Mar 16 14:42:36 2017
