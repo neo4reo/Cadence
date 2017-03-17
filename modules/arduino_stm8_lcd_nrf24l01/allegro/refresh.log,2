@@ -1,9 +1,9 @@
-Thu Mar 16 23:27:42 2017				Page     1
+Thu Mar 16 14:09:25 2017				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Thu Mar 16 23:27:42 2017
+	Thu Mar 16 14:09:25 2017
 
 ------ Module Refresh Messages ------
 
@@ -19,22 +19,22 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : ARDUINO_STM8_LCD_NRF24.brd                    )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Thu Mar 16 23:27:42 2017                      )
+(    Date/Time        : Thu Mar 16 14:09:25 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Thu Mar 16 23:27:42 2017				Page     1
+Thu Mar 16 14:09:25 2017				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/DATA/git/Cadence/modules/arduino_stm8_lcd_nrf24l01/allegro/ARDUINO_STM8_LCD_NRF24.brd'
+Input design  = 'C:/DATA/GIT/CADENCE/MODULES/ARDUINO_STM8_LCD_NRF24L01/allegro/ARDUINO_STM8_LCD_NRF24.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
 Update format symbols                  = 'NO'
-Update package symbols                 = 'NO'
+Update package symbols                 = 'YES'
 Update shape/flash symbols             = 'NO'
 Update symbol padstacks                = 'NO'
 Preserve padstacks replaced on pins    = 'NO'
@@ -42,7 +42,6 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/Thanh/AppData/Local/Temp/#Taaaaab06708.tmp'
 
 
 ------ Library Paths ------
@@ -68,10 +67,23 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 ------ Symbol Refresh Messages ------
 
 'SMD_2PIN_BUTTON'  symbol refreshed successfully.
+'RES_SMD_0603'  symbol refreshed successfully.
+'RES_SMD_0805'  symbol refreshed successfully.
+'J1_2_254'  symbol refreshed successfully.
+'LED_SMD_0805'  symbol refreshed successfully.
+'BIENTRO'  symbol refreshed successfully.
+'J1_3_254'  symbol refreshed successfully.
+'J1_4_254'  symbol refreshed successfully.
+'CAP_SMD_0603'  symbol refreshed successfully.
+'NRF24L01_MODULE'  symbol refreshed successfully.
+'LCD1602'  symbol refreshed successfully.
+'TSSOP20'  symbol refreshed successfully.
+'SOT223'  symbol refreshed successfully.
+'ARDUINO_NANO_MODULE'  symbol refreshed successfully.
 
 
 ----- Symbol Update Summary ----
 
-Updated symbols: 1 out 1
+Updated symbols: 14 out 14
     Design updated.
 
