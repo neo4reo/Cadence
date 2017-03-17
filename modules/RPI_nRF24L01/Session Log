@@ -1,0 +1,401 @@
+INI File Location:C:\Cadence\SPB_Data\cdssetup\OrCAD_Capture/17.2.0/Capture.ini
+
+
+********************************************************************************
+*
+*  Design Rules Check
+*
+********************************************************************************
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+
+********************************************************************************
+*
+*  Performing annotation.
+*
+********************************************************************************
+INFO(ORCAP-1379): Done updating part references
+
+
+********************************************************************************
+*
+*  Performing annotation.
+*
+********************************************************************************
+
+INFO(ORCAP-1378): LAST USED REFERENCES
+
+        C9
+        D4
+        J1
+        L3
+        R6
+        U1
+        Y1
+
+INFO(ORCAP-1379): Done updating part references
+INFO(ORCAP-32002): Netlisting the design
+INFO(ORCAP-32004): Design Name:
+C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\RPI_NRF24L01.DSN
+Netlist Directory:
+C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro
+Configuration File:
+C:\Cadence\Cadence_SPB_17.2-2016\tools/capture/allegro.cfg
+
+Spawning... "C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\pstswp.exe" -pst -d "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\RPI_NRF24L01.DSN" -n "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro" -c "C:\Cadence\Cadence_SPB_17.2-2016\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+#1 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_10NF" is renamed to "CAPACITOR NON-POL_CAP_SMD_0805_".
+#2 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_33NF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_1".
+#3 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_1.5PF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_2".
+#4 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_1PF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_3".
+#5 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_2.2NF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_4".
+#6 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_4.7PF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_5".
+#7 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_22PF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_6".
+#8 WARNING(ORCAP-36006): Part Name "RPI_HEADER_RPI_HEADER_RPI_HEADER" is renamed to "RPI_HEADER_RPI_HEADER_RPI_HEADE".
+INFO(ORCAP-36080): Scanning netlist files
+ ...
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro/pstchip.dat
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro/pstchip.dat
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro/pstxprt.dat
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro/pstxnet.dat
+packaging the design view...
+
+Exiting... "C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\pstswp.exe" -pst -d "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\RPI_NRF24L01.DSN" -n "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro" -c "C:\Cadence\Cadence_SPB_17.2-2016\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+INFO(ORCAP-32005): *** Done ***
+********************************************************************************
+*
+* Updating Allegro PCB Editor Board 
+*
+********************************************************************************
+INFO(ORCAP-32040): Updating Allegro PCB Editor Board
+
+
+Spawning... netrev.exe  -y 1 -n   -i "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro" "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro\RPI_NRF24L01.brd" "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro\RPI_NRF24L01.brd"
+Reading File : C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstchip.dat
+(00:00:00.03)
+Reading File : C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxprt.dat(00:00:00.00)
+Reading File : C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxnet.dat
+(00:00:00.00)
+Starting to process component instances
+   Finished component instance processing
+Starting to check device models
+Revising design for compatibility with current software.
+Revising design for compatibility with current software.
+   Finished checking device models
+Starting to process nets
+   Finished net processing
+Starting to process slot properties
+   Finished slot property processing
+Starting to process component instance properties
+   Finished component instance property processing
+Performing a partial design check before saving.
+Writing design to disk.
+'RPI_NRF24L01.brd' saved to disk.
+
+netrev run on Mar 17 12:46:03 2017
+   DESIGN NAME : 'RPI_NRF24L01'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+
+ No error detected
+ No oversight detected
+  4 warnings detected
+
+cpu time      0:00:30
+elapsed time  0:00:00
+
+
+Exiting... netrev.exe  -y 1 -n   -i "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro" "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro\RPI_NRF24L01.brd" "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro\RPI_NRF24L01.brd"
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : RPI_NRF24L01.brd                              )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Mar 17 12:46:03 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro'
+Design Directory:            '.'
+Old design name:             'RPI_NRF24L01.brd'
+New design name:             'RPI_NRF24L01.brd'
+
+CmdLine: netrev.exe -y 1 -n -i C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro\RPI_NRF24L01.brd C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro\RPI_NRF24L01.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstchip.dat 
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstchip.dat (00:00:00.03)
+Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxprt.dat 
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxnet.dat 
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RPI_HEADER' used by RefDes J1 for device 'RPI_HEADER_RPI_HEADER_RPI_HEADE' not found in PSMPATH or must be "dbdoctor"ed.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'IND_SMD_0805' used by RefDes L1 for device 'INDUCTOR_IND_SMD_0805_3.9NH' not found in PSMPATH or must be "dbdoctor"ed.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'IND_SMD_0805' used by RefDes L2 for device 'INDUCTOR_IND_SMD_0805_8.2NH' not found in PSMPATH or must be "dbdoctor"ed.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'IND_SMD_0805' used by RefDes L3 for device 'INDUCTOR_IND_SMD_0805_2.7NH' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
+           . 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
+
+PSMPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 17 12:46:03 2017
+   DESIGN NAME : 'RPI_NRF24L01'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLAC
+E_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+  4 warnings detected
+
+cpu time      0:00:30
+elapsed time  0:00:00
+
+INFO(ORCAP-32005): *** Done ***
+INFO(ORCAP-32002): Netlisting the design
+INFO(ORCAP-32004): Design Name:
+C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\RPI_NRF24L01.DSN
+Netlist Directory:
+C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro
+Configuration File:
+C:\Cadence\Cadence_SPB_17.2-2016\tools/capture/allegro.cfg
+
+Spawning... "C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\pstswp.exe" -pst -d "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\RPI_NRF24L01.DSN" -n "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro" -c "C:\Cadence\Cadence_SPB_17.2-2016\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+#1 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_10NF" is renamed to "CAPACITOR NON-POL_CAP_SMD_0805_".
+#2 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_33NF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_1".
+#3 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_1.5PF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_2".
+#4 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_1PF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_3".
+#5 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_2.2NF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_4".
+#6 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_4.7PF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_5".
+#7 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0805_22PF" is renamed to "CAPACITOR NON-POL_CAP_SMD_080_6".
+#8 WARNING(ORCAP-36006): Part Name "RPI_HEADER_RPI_HEADER_RPI_HEADER" is renamed to "RPI_HEADER_RPI_HEADER_RPI_HEADE".
+INFO(ORCAP-36080): Scanning netlist files
+ ...
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro/pstchip.dat
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro/pstchip.dat
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro/pstxprt.dat
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro/pstxnet.dat
+packaging the design view...
+
+Exiting... "C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\pstswp.exe" -pst -d "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\RPI_NRF24L01.DSN" -n "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro" -c "C:\Cadence\Cadence_SPB_17.2-2016\tools/capture/allegro.cfg" -v 3   -l 31 -s "" -j "PCB Footprint" -hpath "HPathForCollision"
+INFO(ORCAP-32005): *** Done ***
+********************************************************************************
+*
+* Updating Allegro PCB Editor Board 
+*
+********************************************************************************
+INFO(ORCAP-32040): Updating Allegro PCB Editor Board
+
+
+Spawning... netrev.exe  -y 1    -i "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro" "C:\DATA\git\Cadence\modules\RPI_nRF24L01\allegro\RPI_NRF24L01.brd" "C:\DATA\git\Cadence\modules\RPI_nRF24L01\allegro\RPI_NRF24L01.brd"
+Reading File : C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstchip.dat
+(00:00:00.02)
+Reading File : C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxprt.dat(00:00:00.00)
+Reading File : C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxnet.dat
+(00:00:00.00)
+Starting to process component instances
+   Finished component instance processing
+Starting to check device models
+   Finished checking device models
+Starting to process nets
+   Finished net processing
+Starting to process slot properties
+   Finished slot property processing
+Starting to process component instance properties
+   Finished component instance property processing
+Performing a partial design check before saving.
+Writing design to disk.
+'RPI_NRF24L01.brd' saved to disk.
+
+netrev run on Mar 17 12:52:02 2017
+   DESIGN NAME : 'RPI_NRF24L01'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+
+ No error detected
+ No oversight detected
+  1 warnings detected
+
+cpu time      0:00:23
+elapsed time  0:00:01
+
+
+Exiting... netrev.exe  -y 1    -i "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro" "C:\DATA\git\Cadence\modules\RPI_nRF24L01\allegro\RPI_NRF24L01.brd" "C:\DATA\git\Cadence\modules\RPI_nRF24L01\allegro\RPI_NRF24L01.brd"
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : RPI_NRF24L01.brd                              )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Mar 17 12:52:02 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro'
+Design Directory:            'C:/DATA/git/Cadence/modules/RPI_nRF24L01/allegro'
+Old design name:             'C:/DATA/git/Cadence/modules/RPI_nRF24L01/allegro/RPI_NRF24L01.brd'
+New design name:             'C:/DATA/git/Cadence/modules/RPI_nRF24L01/allegro/RPI_NRF24L01.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\allegro C:\DATA\git\Cadence\modules\RPI_nRF24L01\allegro\RPI_NRF24L01.brd C:\DATA\git\Cadence\modules\RPI_nRF24L01\allegro\RPI_NRF24L01.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstchip.dat 
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstchip.dat (00:00:00.02)
+Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxprt.dat 
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxnet.dat 
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RPI_HEADER' used by RefDes J1 for device 'RPI_HEADER_RPI_HEADER_RPI_HEADE' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
+           . 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
+
+PSMPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 17 12:52:02 2017
+   DESIGN NAME : 'RPI_NRF24L01'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+  1 warnings detected
+
+cpu time      0:00:23
+elapsed time  0:00:01
+
+INFO(ORCAP-32005): *** Done ***

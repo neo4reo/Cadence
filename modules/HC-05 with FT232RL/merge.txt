@@ -1,0 +1,44 @@
+Starting (copy all comps)
+Loading merge file E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC05 FT232RL2.MAX
+Component D1 copied and renamed to D1000000
+Component D2 copied and renamed to D2000000
+Component D3 copied and renamed to D3000000
+Component D4 copied and renamed to D4000000
+Component R1 copied and renamed to R1000000
+Component R2 copied and renamed to R2000000
+Component R3 copied and renamed to R3000000
+Component R4 copied and renamed to R4000000
+Component R5 copied and renamed to R5000000
+Component SW1 copied and renamed to SW1000000
+Component U1 copied and renamed to U1000000
+Component U2 copied and renamed to U2000000
+Component U4 copied and renamed to U4000000
+Component D1000 copied and renamed to D1000000000
+Component D2000 copied and renamed to D2000000000
+Component D3000 copied and renamed to D3000000000
+Component D4000 copied and renamed to D4000000000
+Component R1000 copied and renamed to R1000000000
+Component R2000 copied and renamed to R2000000000
+Component R3000 copied and renamed to R3000000000
+Component R4000 copied and renamed to R4000000000
+Component R5000 copied and renamed to R5000000000
+Component SW1000 copied and renamed to SW1000000000
+Component U1000 copied and renamed to U1000000000
+Component U2000 copied and renamed to U2000000000
+Component U4000 copied and renamed to U4000000000
+Net 3V3 merged into existing net
+Net 5V merged into existing net
+Net DM merged into existing net
+Net DP merged into existing net
+Net GND merged into existing net
+Net N01222 merged into existing net
+Net N01230 merged into existing net
+Net N02272 merged into existing net
+Net N02354 merged into existing net
+Net N05489 merged into existing net
+Net N06552 merged into existing net
+Net N020131 merged into existing net
+Net N022080 merged into existing net
+Net N022450 merged into existing net
+Net N059081 merged into existing net
+Complete

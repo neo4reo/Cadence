@@ -1,0 +1,230 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jul-15-2016 at 02:33:55 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='STM8S_PINOUT';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAP_SMD_0805_10NF':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS71173@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins71173@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins71173@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_CAP_SMD_0805_100NF':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS140688@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins140688@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins140688@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_0_CAP_SMD_0805_1UF':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS140648@DESKV2.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins140648@deskv2.\cap_0.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins140648@deskv2.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_CAP_SMD_0805_100NF':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS140772@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins140772@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins140772@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_0_CAP_SMD_0805_1UF':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS140808@DESKV2.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins140808@deskv2.\cap_0.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins140808@deskv2.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS140345@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins140345@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins140345@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS140399@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins140399@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins140399@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_0_CAP_SMD_0805_1UF':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS71255@DESKV2.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins71255@deskv2.\cap_0.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins71255@deskv2.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON4_J1_4_254_SWIM':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS71422@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins71422@connector.\con4.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins71422@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_J1_2_254_CON2':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS141363@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins141363@connector.\con2.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins141363@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON2_J1_2_254_CON2':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS141379@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins141379@connector.\con2.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins141379@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON10_J1_10_254_CON10':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS142536@CONNECTOR.CON10.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins142536@connector.\con10.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins142536@connector.\con10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON10_J1_10_254_CON10':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS142668@CONNECTOR.CON10.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins142668@connector.\con10.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins142668@connector.\con10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LD1 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS141934@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins141934@discrete.\led.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins141934@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS71035@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins71035@discrete.\r.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins71035@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS71394@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins71394@discrete.\r.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins71394@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS141880@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins141880@discrete.\r.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins141880@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW TACT-SPST/SM_SMD_2PIN_BUTTON':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS140455@DISCRETE.SW TACT-SPST/SM.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins140455@discrete.\sw tact-spst/sm.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins140455@discrete.\sw tact-spst/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM8S003F3P6-TSSOP20_TSSOP20_ST':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS71051@MYLIB.STM8S003F3P6-TSSOP20.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins71051@mylib.\stm8s003f3p6-tssop20.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins71051@mylib.\stm8s003f3p6-tssop20.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ASM1117-SOT223_0_SOT223_ASM1117':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS140724@STM8S_PINOUT.ASM1117-SOT223_0.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins140724@stm8s_pinout.\asm1117-sot223_0.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins140724@stm8s_pinout.\asm1117-sot223_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'MINI USB_0_MINI_USB_MINI USB':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS142115@STM8S_PINOUT.MINI USB_0.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins142115@stm8s_pinout.\mini usb_0.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins142115@stm8s_pinout.\mini usb_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_CRYSTAL_HC49_DIP_8MHZ':;
+
+SECTION_NUMBER 1
+ '@STM8S_PINOUT.SCHEMATIC1(SCH_1):INS140379@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@stm8s_pinout.schematic1(sch_1):ins140379@discrete.\crystal.normal\(chips)',
+ P_PATH='@stm8s_pinout.schematic1(sch_1):page1_ins140379@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

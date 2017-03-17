@@ -1,0 +1,93 @@
+License Server Usage (Products may require secondary licenses)
+
+--------------------------------------------------------------------
+Feature usage "OrCAD Eco-System Partner FAE Suite" (license orcad_partner_fae_suite):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "OrCAD Expert Suite" (license orcad_expert_suite):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "OrCAD EE Expert Suite" (license orcad_ee_expert_suite):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "OrCAD PCB Expert Suite" (license orcad_pcb_expert_suite):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "OrCAD PCB Designer Professional w/PSpice" (license OrCAD_PCB_Designer_PSpice):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "OrCAD PCB Designer Professional" (license OrCAD_PCB_Designer):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "OrCAD PCB Designer Standard" (license OrCAD_PCB_Editor_Basics):
+    Server:      5280@localhost
+    Available:   999
+    In use:      1
+
+ USER                 SYSTEM               USED  STATUS
+ QThan                QUANGTHANH-PC          1   Checked out
+
+--------------------------------------------------------------------
+Feature usage "OrCAD PCB SI" (license OrCAD_Signal_Explorer):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "OrCAD Sigrity ERC" (license orcad_sigrity_erc):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+<<< Option Availablity >>>
+
+--------------------------------------------------------------------
+Feature usage "Allegro Productivity Toolbox" (license Allegro_PCB_Productivity_TB):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "OrCAD Productivity Toolbox" (license orcad_pcb_productivity):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "ASIC Prototype W/FPGA's" (license Allegro_FPGA_System_Plan_GXL):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "4 FPGA System Planner" (license Allegro_FPGA_System_Planner_XL):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+
+--------------------------------------------------------------------
+Feature usage "2 FPGA System Planner" (license Allegro_FPGA_System_2FPGA):
+    Server:      5280@localhost
+    Available:   999
+    In use:      0
+

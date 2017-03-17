@@ -1,0 +1,46 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+FILE-B: E:\ORCAD\APPLICATION LIBRARIES\HC-05 WITH FT232RL\HC-05 WITH FT232RL.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package R
+Adding package LED
+Adding package SW_KEY-SPST
+Adding package FT232RL_0
+Adding package HC05
+Adding package MICRO_USB
+Adding component R4
+Found footprint SMD 0805 from PRT file for part R, comp R4
+Adding component D2
+Found footprint SMD 0402 from PRT file for part LED, comp D2
+Adding component SW1
+Found footprint BUTTON SMD from PRT file for part SW_KEY-SPST, comp SW1
+Adding component R2
+Adding component D3
+Adding component R1
+Adding component R3
+Adding component R5
+Adding component D1
+Adding component U1
+Adding component U4
+Found footprint HC-05 from PRT file for part HC05, comp U4
+Adding component D4
+Adding component U2
+Adding net N01222
+Adding net N01230
+Adding net GND
+Adding net 5V
+Adding net 3V3
+Adding net DP
+Adding net DM
+Adding net VCC
+Adding net N020131
+Adding net N02272
+Adding net N02354
+Adding net N022450
+Adding net N022080
+Adding net N05489
+Adding net N06552
+Adding net N059081
+Deleting net DEFAULT
+*EOF*
+No errors found

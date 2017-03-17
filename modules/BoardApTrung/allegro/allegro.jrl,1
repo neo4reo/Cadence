@@ -1,0 +1,534 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Jul 29 02:19:24 2016
+\t (00:00:00)         Host=DESKTOP-942VC2H User=QThan Pid=4424 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -mpssession QThan E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\BOARDAPTRUNG\allegro\MAYAPTRUNG.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/BOARDAPTRUNG/allegro/MAYAPTRUNG.brd
+\i (00:00:01) trapsize 6688
+\i (00:00:01) trapsize 6840
+\i (00:00:01) trapsize 11111
+\i (00:00:01) placementedit 
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 15288.89 9466.67
+\i (00:00:04) trapsize 11111
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 15288.89 9466.67
+\i (00:00:04) trapsize 11111
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 15288.89 9466.67
+\i (00:00:04) trapsize 11111
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 15288.89 9466.67
+\i (00:00:04) trapsize 11111
+\i (00:00:06) prmed 
+\i (00:00:08) setwindow form.prmedit
+\i (00:00:08) FORM prmedit display_grid YES 
+\i (00:00:09) FORM prmedit view_grids_button  
+\t (00:00:09) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:11) setwindow form.grid
+\i (00:00:11) FORM grid done  
+\i (00:00:12) setwindow form.prmedit
+\i (00:00:12) FORM prmedit design  
+\i (00:00:14) FORM prmedit units Millimeter 
+   (00:00:14) Accuracy or unit changes can cause design round-off issues. DRCs and physical changes should be checked.
+\i (00:00:15) fillin confirm
+\e (00:00:15) Change may cause round-off; run dbcheck.
+\i (00:00:17) FORM prmedit display  
+\i (00:00:19) FORM prmedit view_grids_button  
+\t (00:00:19) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:22) setwindow form.grid
+\i (00:00:22) FORM grid done  
+\i (00:00:22) setwindow form.prmedit
+\i (00:00:22) FORM prmedit apply  
+\w (00:00:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:22) setwindow pcb
+\i (00:00:22) trapsize 28222
+\t (00:00:22) Performing DRC...
+\t (00:00:23) Multithreaded DRC update (4 threads).
+\t (00:00:24) No DRC errors detected.
+\i (00:00:26) setwindow form.prmedit
+\i (00:00:26) FORM prmedit view_grids_button  
+\t (00:00:26) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:28) setwindow form.grid
+\i (00:00:28) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:00:28) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:00:31) FORM grid top subclass_x_grids 0.1 
+\i (00:00:32) FORM grid top subclass_y_grids 0.1 
+\i (00:00:32) FORM grid bottom subclass_x_grids 0.6350 
+\i (00:00:34) FORM grid bottom subclass_y_grids 0.1 
+\i (00:00:34) FORM grid bottom subclass_x_grids 0.1 
+\i (00:00:35) FORM grid bottom subclass_y_grids 0.1000 
+\i (00:00:35) FORM grid done  
+\t (00:00:35) Grids are drawn 3.2000, 3.2000 apart for enhanced viewability.
+\i (00:00:36) setwindow form.prmedit
+\i (00:00:36) FORM prmedit done  
+\i (00:00:37) setwindow pcb
+\i (00:00:37) placementedit 
+\i (00:00:39) prmed 
+\i (00:00:40) setwindow form.prmedit
+\i (00:00:40) FORM prmedit design  
+\i (00:00:48) FORM prmedit width 300.0000 
+\i (00:00:50) FORM prmedit height 300.0000 
+\i (00:00:54) FORM prmedit x -150.0000 
+\i (00:00:55) FORM prmedit y -150.0000 
+\i (00:00:56) FORM prmedit done  
+\t (00:00:56) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:00:56) setwindow pcb
+\i (00:00:56) trapsize 19608
+\i (00:00:56) placementedit 
+\i (00:01:04) board outline 
+   (00:01:04) Loading floor.cxt 
+   (00:01:04) Loading fputil.cxt 
+\i (00:01:06) setwindow form.fpbdoutline
+\i (00:01:06) FORM fpbdoutline fpbodrawpoly YES 
+\i (00:01:08) FORM fpbdoutline fpbodrawrect YES 
+\i (00:01:12) FORM fpbdoutline fpboclearance 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) pick grid -79.0196 53.1373
+\t (00:01:15) last pick:  -79.0000 53.1000
+\i (00:01:17) pick grid 78.6275 -55.4902
+\t (00:01:17) last pick:  78.6000 -55.5000
+\i (00:01:19) prepopup 106.8627 41.3725
+\i (00:01:21) setwindow form.fpbdoutline
+\i (00:01:21) FORM fpbdoutline apply  
+\i (00:01:23) fillin confirm
+\i (00:01:24) FORM fpbdoutline done  
+\i (00:01:24) setwindow pcb
+\i (00:01:24) placementedit 
+\i (00:01:25) zoom in 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom in -26.8627 -7.6471
+\t (00:01:25) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:01:25) trapsize 9804
+\e (00:01:29) Command not found: place insight
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out -10.0000 19.4118
+\t (00:01:30) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:01:30) trapsize 19608
+\i (00:01:34) quickplace 
+\i (00:01:38) setwindow form.quickplc
+\i (00:01:38) FORM quickplc place  
+\w (00:01:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:01:39) Component(s) could not be placed.  See logfile for errors.
+\i (00:01:41) FORM quickplc done  
+\i (00:01:41) setwindow pcb
+\i (00:01:41) placementedit 
+\i (00:01:42) drag_start grid -111.5686 121.3725
+\i (00:01:43) drag_stop 84.1176 45.6863
+\i (00:01:46) setwindow form.find
+\i (00:01:46) FORM find all_off  
+\i (00:01:48) setwindow pcb
+\i (00:01:48) pick grid -66.0784 93.1373
+\t (00:01:48) last pick:  -66.1000 93.1000
+\i (00:01:50) setwindow form.find
+\i (00:01:50) FORM find symbols YES 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) drag_start grid -116.6667 124.5098
+\i (00:01:52) drag_stop 103.3333 31.1765
+\i (00:01:52) pick grid 53.1373 77.8431
+\t (00:01:52) last pick:  53.1000 77.8000
+\i (00:01:55) pick grid 36.6667 117.0588
+\t (00:01:55) last pick:  36.7000 117.1000
+\i (00:01:56) move 
+\t (00:01:56) Select element(s) to move.
+\i (00:01:57) setwindow form.find
+\i (00:01:57) FORM find all_off  
+\i (00:01:58) FORM find symbols YES 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) drag_start grid -115.4902 123.3333
+\i (00:02:00) drag_stop 100.5882 33.1373
+\i (00:02:00) pick grid 27.2549 68.4314
+\t (00:02:00) last pick:  27.3000 68.4000
+\t (00:02:00) Moving U4 / 74HC138_0_74HC138_SOIC16_74HC13 / 74HC138_SOIC16.
+\t (00:02:00) Moving SW1 / SW_TC_SPST_6_6_5_SMD_BUTTON_MOD / 6_6_5_SMD_BUTTON.
+\t (00:02:00) Moving R83 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R52 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R64 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving R1 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving D13 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22.
+\t (00:02:00) Moving SW2 / SW_TC_SPST_6_6_5_SMD_BUTTON_MOD / 6_6_5_SMD_BUTTON.
+\t (00:02:00) Moving R84 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R54 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R53 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R82 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving R73 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving R104 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving R103 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving R85 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R86 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R56 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R91 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving R105 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving D12 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22.
+\t (00:02:00) Moving SW3 / SW_TC_SPST_6_6_5_SMD_BUTTON_MOD / 6_6_5_SMD_BUTTON.
+\t (00:02:00) Moving C30 / CAPACITOR NON-POL_RES_SMD_080_1 / RES_SMD_0805.
+\t (00:02:00) Moving R87 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R57 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R112 / R_RES_SMD_0805_470R 1/2W / RES_SMD_0805.
+\t (00:02:00) Moving R106 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving R88 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R59 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R58 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R115 / R_RES_SMD_0805_100R / RES_SMD_0805.
+\t (00:02:00) Moving R114 / R_RES_SMD_0805_10K-10W / RES_SMD_0805.
+\t (00:02:00) Moving R108 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving R107 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving R89 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving D15 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22.
+\t (00:02:00) Moving SW4 / SW_TC_SPST_6_6_5_SMD_BUTTON_MOD / 6_6_5_SMD_BUTTON.
+\t (00:02:00) Moving J1 / CON2_J1_2_254_AC220V / J1_2_254.
+\t (00:02:00) Moving R90 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R60 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R20 / R_RES_SMD_0805_100R / RES_SMD_0805.
+\t (00:02:00) Moving R109 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving D14 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22.
+\t (00:02:00) Moving SW5 / SW_TC_SPST_6_6_5_SMD_BUTTON_MOD / 6_6_5_SMD_BUTTON.
+\t (00:02:00) Moving J4 / CON2_J1_2_254_COI BIP / J1_2_254.
+\t (00:02:00) Moving R92 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R61 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R19 / R_RES_SMD_0805_470R / RES_SMD_0805.
+\t (00:02:00) Moving R111 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving J5 / CON2_J1_2_254_DONG CO / J1_2_254.
+\t (00:02:00) Moving R93 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R63 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R62 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R27 / R_RES_SMD_0805_220R / RES_SMD_0805.
+\t (00:02:00) Moving R26 / R_RES_SMD_0805_220R / RES_SMD_0805.
+\t (00:02:00) Moving R117 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving R116 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving R94 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving D11 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22.
+\t (00:02:00) Moving U3 / ASM1117_SOT223_AMS1117 / SOT223.
+\t (00:02:00) Moving J7 / CON2_J1_2_254_DEN DOT NONG / J1_2_254.
+\t (00:02:00) Moving J6 / CON2_J1_2_254_PHUN SUONG / J1_2_254.
+\t (00:02:00) Moving R95 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R65 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R28 / R_RES_SMD_0805_220R / RES_SMD_0805.
+\t (00:02:00) Moving R119 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving Q12 / NPN BEC_SOT-23_2SC1815 / SOT-23.
+\t (00:02:00) Moving Q11 / NPN BEC_SOT-23_2SC1815 / SOT-23.
+\t (00:02:00) Moving C28 / CAPACITOR NON-POL_RES_SMD_0805_ / RES_SMD_0805.
+\t (00:02:00) Moving R96 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R66 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R36 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R18 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving D16 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22.
+\t (00:02:00) Moving Q9 / PNP BEC_SOT-23_2SA1015 / SOT-23.
+\t (00:02:00) Moving Q3 / NPN BEC_SOT-23_2SC1815 / SOT-23.
+\t (00:02:00) Moving R97 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R68 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R67 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R38 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R37 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R25 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving R22 / R_RES_SMD_0805_10K / RES_SMD_0805.
+\t (00:02:00) Moving C33 / CAPACITOR NON-POL_CAP_SMD_080_1 / CAP_SMD_0805.
+\t (00:02:00) Moving Q7 / PNP BEC_SOT-23_2SA1015 / SOT-23.
+\t (00:02:00) Moving Q8 / PNP BEC_SOT-23_2SA1015 / SOT-23.
+\t (00:02:00) Moving C22 / CAPACITOR NON-POL_CAP_SMD_080_1 / CAP_SMD_0805.
+\t (00:02:00) Moving R69 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R39 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R100 / R_RES_SMD_0805_100K / RES_SMD_0805.
+\t (00:02:00) Moving D4 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22.
+\t (00:02:00) Moving Q6 / PNP BEC_SOT-23_2SA1015 / SOT-23.
+\t (00:02:00) Moving C21 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805.
+\t (00:02:00) Moving R70 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R40 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R101 / R_RES_SMD_0805_100K / RES_SMD_0805.
+\t (00:02:00) Moving Q4 / PNP BEC_SOT-23_2SA1015 / SOT-23.
+\t (00:02:00) Moving Q5 / PNP BEC_SOT-23_2SA1015 / SOT-23.
+\t (00:02:00) Moving C20 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805.
+\t (00:02:00) Moving R72 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R71 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R42 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R41 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R98 / R_RES_SMD_0805_100K / RES_SMD_0805.
+\t (00:02:00) Moving R102 / R_RES_SMD_0805_100K / RES_SMD_0805.
+\t (00:02:00) Moving R118 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving LS3 / RELAY SPDT_J1_5_254_RELAY SPDT / J1_5_254.
+\t (00:02:00) Moving Q1 / TRIAC_0_TO220_BTA12 / TO220.
+\t (00:02:00) Moving Q10 / PNP BEC_SOT-23_2SA1015 / SOT-23.
+\t (00:02:00) Moving C31 / CAPACITOR NON-POL_RES_SMD_080_1 / RES_SMD_0805.
+\t (00:02:00) Moving R17 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving R74 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R43 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R99 / R_RES_SMD_0805_100K / RES_SMD_0805.
+\t (00:02:00) Moving LS2 / RELAY SPDT_J1_5_254_RELAY SPDT / J1_5_254.
+\t (00:02:00) Moving C32 / CAPACITOR NON-POL_RES_SMD_080_1 / RES_SMD_0805.
+\t (00:02:00) Moving C1 / CAP NP_CAP_SMD_0805_10NF / CAP_SMD_0805.
+\t (00:02:00) Moving R75 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R44 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R110 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving J3 / CON3_J1_3_254_DHT11 / J1_3_254.
+\t (00:02:00) Moving C7 / CAP_0_CAP_SMD_0805_1UF / CAP_SMD_0805.
+\t (00:02:00) Moving R24 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving R77 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R76 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R47 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R45 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R21 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving R113 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving Y1 / CRYSTAL_CRYSTAL_HC_49_16MHZ / CRYSTAL_HC_49.
+\t (00:02:00) Moving ISO1 / OPTO ISOLATOR-A_0_PC817_SMD_OPT / PC817_SMD.
+\t (00:02:00) Moving D19 / LED_LED_SMD_0805_LED / LED_SMD_0805.
+\t (00:02:00) Moving Q2 / NPN BEC_SOT-23_2SC1815 / SOT-23.
+\t (00:02:00) Moving C29 / CAPACITOR NON-POL_CAP_SMD_SIZEF / CAP_SMD_SIZEF.
+\t (00:02:00) Moving R78 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R48 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R23 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving J2 / CON4_J1_4_254_SWIM / J1_4_254.
+\t (00:02:00) Moving D9 / LED_LED_SMD_0805_LED / LED_SMD_0805.
+\t (00:02:00) Moving R79 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R49 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R35 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving R81 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R80 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R51 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R50 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:00) Moving R55 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Moving R46 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:00) Pick new location for the element(s).
+\i (00:02:04) pick grid 29.6078 -5.6863
+\t (00:02:04) last pick:  29.6000 -5.7000
+\i (00:02:04) prepopup 126.4706 -2.1569
+\i (00:02:05) done 
+\i (00:02:05) placementedit 
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 102.1569 13.1373
+\t (00:02:05) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:02:05) trapsize 9804
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in -24.1176 12.7452
+\t (00:02:06) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:02:06) trapsize 4902
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in -22.9412 12.3531
+\t (00:02:06) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:02:06) trapsize 2451
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in -3.8725 10.7845
+\i (00:02:06) trapsize 1225
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out -11.2009 11.6423
+\i (00:02:06) trapsize 2451
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out -16.1519 12.0346
+\t (00:02:07) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:02:07) trapsize 4902
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 28.8482 16.3483
+\t (00:02:07) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:02:07) trapsize 9804
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in 77.0590 14.9757
+\t (00:02:08) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:02:08) trapsize 4902
+\i (00:02:10) drag_start grid 73.4315 21.8384
+\i (00:02:10) drag_stop 76.7648 13.7992
+\i (00:02:11) pick grid 76.5688 14.5835
+\t (00:02:11) last pick:  76.6000 14.6000
+\i (00:02:11) move 
+\t (00:02:11) last pick:  74.9192 15.0385
+\t (00:02:11) Moving R55 / R_RES_SMD_0805_1K / RES_SMD_0805.
+\t (00:02:11) Pick new location for the element(s).
+\i (00:02:12) pick grid 70.2943 26.2502
+\t (00:02:12) last pick:  70.3000 26.3000
+\i (00:02:12) placementedit 
+\i (00:02:12) pick grid 75.7845 18.8973
+\t (00:02:12) last pick:  75.8000 18.9000
+\i (00:02:12) move 
+\t (00:02:12) last pick:  74.9192 18.6449
+\t (00:02:12) Moving R81 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:12) Pick new location for the element(s).
+\i (00:02:13) pick grid 71.5688 23.2110
+\t (00:02:13) last pick:  71.6000 23.2000
+\i (00:02:13) placementedit 
+\i (00:02:13) pick grid 74.9021 16.1522
+\t (00:02:13) last pick:  74.9000 16.2000
+\i (00:02:13) move 
+\t (00:02:13) last pick:  74.9192 16.8417
+\t (00:02:13) Moving R51 / R_RES_SMD_0805_330R / RES_SMD_0805.
+\t (00:02:13) Pick new location for the element(s).
+\i (00:02:14) pick grid 72.0590 21.0541
+\t (00:02:14) last pick:  72.1000 21.1000
+\i (00:02:14) placementedit 
+\i (00:02:16) 3d_viewer 
+\i (00:02:16) setwindow pcb3D
+\i (00:02:16) trapsize 4902
+\i (00:02:16) setwindow pcb
+\i (00:02:16) placementedit 
+\i (00:02:18) pick grid 38.8237 38.3090
+\t (00:02:18) last pick:  38.8000 38.3000
+\i (00:02:21) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:02:24) QtSignal ColorVisibilityPane CVPLayerSelectBox clicked true
+\i (00:02:26) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:02:26) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out 75.7845 -1.5930
+\t (00:02:27) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:02:27) trapsize 9804
+\i (00:02:29) 3d_viewer 
+\i (00:02:30) setwindow pcb3D
+\i (00:02:30) trapsize 9804
+\i (00:02:30) setwindow pcb
+\i (00:02:30) placementedit 
+\i (00:02:31) trapsize 9804
+\i (00:02:32) zoom in 1 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom in 22.9413 14.8777
+\t (00:02:32) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:02:32) trapsize 4902
+\i (00:02:32) zoom in 1 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom in 22.9413 14.8777
+\t (00:02:32) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:02:32) trapsize 2451
+\i (00:02:32) zoom in 1 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom in 22.9413 14.8777
+\i (00:02:32) trapsize 1225
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 26.8874 14.8042
+\i (00:02:33) trapsize 613
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 26.9242 14.7552
+\i (00:02:33) trapsize 306
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 26.9242 14.7552
+\i (00:02:33) trapsize 153
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 27.2888 14.6541
+\i (00:02:33) trapsize 77
+\i (00:02:33) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 27.2888 14.6541
+\i (00:02:34) trapsize 38
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 27.2888 14.6541
+\i (00:02:34) trapsize 19
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 27.2888 14.6541
+\i (00:02:34) trapsize 10
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 27.2842 14.6541
+\i (00:02:34) trapsize 5
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 27.2843 14.6542
+\i (00:02:34) trapsize 2
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 27.2844 14.6543
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 27.2844 14.6544
+\i (00:02:34) trapsize 1
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 27.2844 14.6545
+\i (00:02:34) trapsize 1
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 27.2837 14.6545
+\i (00:02:36) trapsize 1
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 27.2837 14.6545
+\i (00:02:36) trapsize 1
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 27.2838 14.6544
+\i (00:02:36) trapsize 1
+\i (00:02:36) zoom in 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom in 27.2841 14.6544
+\i (00:02:36) trapsize 1
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out 27.2844 14.6544
+\i (00:02:36) trapsize 1
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out 27.2845 14.6544
+\i (00:02:36) trapsize 1
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out 27.2845 14.6544
+\i (00:02:36) trapsize 1
+\t (00:02:38) Pick to complete the window.
+\i (00:02:44) zoom fit 
+\t (00:02:44) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:02:44) trapsize 7040
+\i (00:02:46) Esc 
+\i (00:02:47) Esc 
+\i (00:02:47) prepopup 24.7223 10.2755
+\i (00:02:48) cancel 
+\i (00:02:48) placementedit 
+\i (00:02:50) zoom fit 
+\i (00:02:50) trapsize 7040
+\i (00:02:51) zoom in 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom in 9.2338 -9.8594
+\t (00:02:51) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:02:51) trapsize 3520
+\i (00:02:51) zoom in 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom in 9.2339 -9.8594
+\t (00:02:51) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:02:51) trapsize 1760
+\i (00:02:52) zoom out 1 
+\i (00:02:52) setwindow pcb
+\i (00:02:52) zoom out 9.2339 -9.8594
+\t (00:02:52) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:02:52) trapsize 3520
+\i (00:02:54) setwindow form.mini
+\i (00:02:54) FORM mini subcolor 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) QtSignal ColorVisibilityPane CVPLayerSelectBox clicked false
+\i (00:03:05) 3d_viewer 
+\i (00:03:05) setwindow pcb3D
+\i (00:03:05) trapsize 3520
+\i (00:03:05) setwindow pcb
+\i (00:03:05) placementedit 
+\i (00:03:07) trapsize 3520
+\i (00:03:11) pick grid 11.9795 -13.7315
+\t (00:03:11) last pick:  12.0000 -13.7000
+\i (00:03:18) pick grid 16.1333 -28.9383
+\t (00:03:18) last pick:  16.1000 -28.9000
+\i (00:03:20) pick grid 29.2280 -20.5605
+\t (00:03:20) last pick:  29.2000 -20.6000
+\i (00:03:20) move 
+\t (00:03:21) last pick:  31.8824 -20.3967
+\t (00:03:21) Moving LS3 / RELAY SPDT_J1_5_254_RELAY SPDT / J1_5_254.
+\t (00:03:21) Pick new location for the element(s).
+\i (00:03:23) exit 
+\e (00:03:23) Do you want to save the changes you made to MAYAPTRUNG.brd?
+\i (00:03:24) fillin yes 
+\t (00:03:25)     Journal end - Fri Jul 29 02:22:48 2016

@@ -1,0 +1,94 @@
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on E:/mlabviet/Cadence/Alegro/projects/stm8s_pinout/allegro/STM8S_PINOUT.brd
+Started on   Fri Jul 15 11:12:42 2016
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 22  Unplaced 0  Total 22
+        Nets:  W/Rats 24  No/Rats 0  Total 24
+        Pins:  W/Rats 81  No/Rats 0  Unused 9  Unplaced 0  Total 90
+        Equivalent ICs (1 pin = 1/14 EIC)  6
+        Router Keepin (in) (9.3447,10.6772) by (10.8303,12.1024)
+        Board area (sq in)  2.1
+        Board density (sq in/EIC) 0.329
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Manh Distance (inches)      25.78
+        Etch Length (inches)        28.68        0.00        28.68
+        Number of vias		    10           0           10
+        Vias per Connection          0.18        0.00         0.18
+        Smd pins with attached clines                        51
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H 0.1270 0.1270 0.1270  0.3000 0.3000  0.6096 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V 0.1270 0.1270 0.1270  0.3000 0.3000  0.6096 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 57           0           57
+        Already Connected           57           0           57
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        28.68        0.00        28.68
+        Number of vias		    10           0           10
+        Vias per Connection          0.18        0.00         0.18
+        Smd pins with attached clines                        51
+
+
+
+    Total cpu time - 0:6:37 hours
+    Total elapsed time - 2296:24:40 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Fri Jul 15 11:12:42 2016

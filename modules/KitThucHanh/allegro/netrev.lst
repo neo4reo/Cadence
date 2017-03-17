@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : PIC887_SENSORS.brd                            )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Jun 21 17:51:01 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\MLABVIET\CADENCE\ALEGRO\PROJECTS\KITTHUCHANH\allegro'
+Design Directory:            'D:/mlabviet/Cadence/Alegro/projects/KitThucHanh/allegro'
+Old design name:             'D:/mlabviet/Cadence/Alegro/projects/KitThucHanh/allegro/PIC887_SENSORS.brd'
+New design name:             'D:/mlabviet/Cadence/Alegro/projects/KitThucHanh/allegro/PIC887_SENSORS.brd'
+
+CmdLine: netrev.exe -y 1 -i D:\MLABVIET\CADENCE\ALEGRO\PROJECTS\KITTHUCHANH\allegro D:\mlabviet\Cadence\Alegro\projects\KitThucHanh\allegro\PIC887_SENSORS.brd D:\mlabviet\Cadence\Alegro\projects\KitThucHanh\allegro\PIC887_SENSORS.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/MLABVIET/CADENCE/ALEGRO/PROJECTS/KITTHUCHANH/allegro/pstchip.dat 
+   Finished reading D:/MLABVIET/CADENCE/ALEGRO/PROJECTS/KITTHUCHANH/allegro/pstchip.dat (00:00:00.03)
+Starting to read D:/MLABVIET/CADENCE/ALEGRO/PROJECTS/KITTHUCHANH/allegro/pstxprt.dat 
+   Finished reading D:/MLABVIET/CADENCE/ALEGRO/PROJECTS/KITTHUCHANH/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/MLABVIET/CADENCE/ALEGRO/PROJECTS/KITTHUCHANH/allegro/pstxnet.dat 
+   Finished reading D:/MLABVIET/CADENCE/ALEGRO/PROJECTS/KITTHUCHANH/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
+
+PSMPATH =  D:/mlabviet/Cadence/Alegro/libraries/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+PADPATH =  D:/mlabviet/Cadence/Alegro/libraries/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jun 21 17:51:01 2016
+   DESIGN NAME : 'PIC887_SENSORS'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:25
+elapsed time  0:00:00
+

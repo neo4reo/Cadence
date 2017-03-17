@@ -1,0 +1,206 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : MAYAPTRUNG.brd                                )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Aug 03 02:40:00 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\BOARDAPTRUNG\allegro'
+Design Directory:            'E:/mlabviet/Cadence/Alegro/projects/BoardApTrung/allegro'
+Old design name:             'E:/mlabviet/Cadence/Alegro/projects/BoardApTrung/allegro/MAYAPTRUNG.brd'
+New design name:             'E:/mlabviet/Cadence/Alegro/projects/BoardApTrung/allegro/MAYAPTRUNG.brd'
+
+CmdLine: netrev.exe -y 1 -i E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\BOARDAPTRUNG\allegro E:\mlabviet\Cadence\Alegro\projects\BoardApTrung\allegro\MAYAPTRUNG.brd E:\mlabviet\Cadence\Alegro\projects\BoardApTrung\allegro\MAYAPTRUNG.brd
+
+------ Preparing to read pst files ------
+
+Starting to read E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/BOARDAPTRUNG/allegro/pstchip.dat 
+   Finished reading E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/BOARDAPTRUNG/allegro/pstchip.dat (00:00:00.03)
+Starting to read E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/BOARDAPTRUNG/allegro/pstxprt.dat 
+   Finished reading E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/BOARDAPTRUNG/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/BOARDAPTRUNG/allegro/pstxnet.dat 
+   Finished reading E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/BOARDAPTRUNG/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP_SMD_0508' used by RefDes C23 for device 'CAPACITOR NON-POL_CAP_SMD_0508_' not found in PSMPATH or must be "dbdoctor"ed.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'LED_D3_GREEN' for device 'LED_LED_D3_GREEN_GREENLED' has extra pin 'C'.
+
+ERROR(SPMHNI-196): Symbol 'LED_D3_GREEN' for device 'LED_LED_D3_GREEN_GREENLED' has extra pin 'A'.
+
+ERROR(SPMHNI-195): Symbol 'LED_D3_GREEN' for device 'LED_LED_D3_GREEN_GREENLED' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'LED_D3_GREEN' for device 'LED_LED_D3_GREEN_GREENLED' is missing pin '1'.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol '1N4007_SMD' for device 'DIODE_1N4007_SMD_DIODE' has extra pin 'C'.
+
+ERROR(SPMHNI-196): Symbol '1N4007_SMD' for device 'DIODE_1N4007_SMD_DIODE' has extra pin 'A'.
+
+ERROR(SPMHNI-195): Symbol '1N4007_SMD' for device 'DIODE_1N4007_SMD_DIODE' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol '1N4007_SMD' for device 'DIODE_1N4007_SMD_DIODE' is missing pin '1'.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'DIODE_ZENNER_SOD80C' for device 'DIODE ZENER_DIODE_ZENNER_SOD80C' has extra pin 'C'.
+
+ERROR(SPMHNI-196): Symbol 'DIODE_ZENNER_SOD80C' for device 'DIODE ZENER_DIODE_ZENNER_SOD80C' has extra pin 'A'.
+
+ERROR(SPMHNI-195): Symbol 'DIODE_ZENNER_SOD80C' for device 'DIODE ZENER_DIODE_ZENNER_SOD80C' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'DIODE_ZENNER_SOD80C' for device 'DIODE ZENER_DIODE_ZENNER_SOD80C' is missing pin '1'.
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol '1N4007_SMD' for device 'DIODE_1N4007_SMD_1N4007-SMD' has extra pin 'C'.
+
+ERROR(SPMHNI-196): Symbol '1N4007_SMD' for device 'DIODE_1N4007_SMD_1N4007-SMD' has extra pin 'A'.
+
+ERROR(SPMHNI-195): Symbol '1N4007_SMD' for device 'DIODE_1N4007_SMD_1N4007-SMD' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol '1N4007_SMD' for device 'DIODE_1N4007_SMD_1N4007-SMD' is missing pin '1'.
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'LED_D3_BLUE' for device 'LED_LED_D3_BLUE_BLUE LED' has extra pin 'C'.
+
+ERROR(SPMHNI-196): Symbol 'LED_D3_BLUE' for device 'LED_LED_D3_BLUE_BLUE LED' has extra pin 'A'.
+
+ERROR(SPMHNI-195): Symbol 'LED_D3_BLUE' for device 'LED_LED_D3_BLUE_BLUE LED' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'LED_D3_BLUE' for device 'LED_LED_D3_BLUE_BLUE LED' is missing pin '1'.
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'DIODE_ZENNER_SOD80C' for device 'DIODE ZENER_DIODE_ZENNER_SOD8_1' has extra pin 'C'.
+
+ERROR(SPMHNI-196): Symbol 'DIODE_ZENNER_SOD80C' for device 'DIODE ZENER_DIODE_ZENNER_SOD8_1' has extra pin 'A'.
+
+ERROR(SPMHNI-195): Symbol 'DIODE_ZENNER_SOD80C' for device 'DIODE ZENER_DIODE_ZENNER_SOD8_1' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'DIODE_ZENNER_SOD80C' for device 'DIODE ZENER_DIODE_ZENNER_SOD8_1' is missing pin '1'.
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'LED_D3_RED' for device 'LED_LED_D3_RED_RED LED' has extra pin 'C'.
+
+ERROR(SPMHNI-196): Symbol 'LED_D3_RED' for device 'LED_LED_D3_RED_RED LED' has extra pin 'A'.
+
+ERROR(SPMHNI-195): Symbol 'LED_D3_RED' for device 'LED_LED_D3_RED_RED LED' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'LED_D3_RED' for device 'LED_LED_D3_RED_RED LED' is missing pin '1'.
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'FUSE_CLIP' for device 'FUSE_FUSE_CLIP_220V 10A' has extra pin '3'.
+
+ERROR(SPMHNI-196): Symbol 'FUSE_CLIP' for device 'FUSE_FUSE_CLIP_220V 10A' has extra pin '4'.
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'TESTPOINTCIR' for device 'T POINT R_0_TESTPOINTCIR_5V' has extra pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'TESTPOINTCIR' for device 'T POINT R_0_TESTPOINTCIR_5V' is missing pin '1'.
+
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'TESTPOINTCIR' for device 'T POINT R_TESTPOINTCIR_3V3' has extra pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'TESTPOINTCIR' for device 'T POINT R_TESTPOINTCIR_3V3' is missing pin '1'.
+
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'TESTPOINTCIR' for device 'T POINT R_TESTPOINTCIR_GND' has extra pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'TESTPOINTCIR' for device 'T POINT R_TESTPOINTCIR_GND' is missing pin '1'.
+
+#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'TESTPOINTCIR' for device 'T POINT R_TESTPOINTCIR_ZERO_POI' has extra pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'TESTPOINTCIR' for device 'T POINT R_TESTPOINTCIR_ZERO_POI' is missing pin '1'.
+
+#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'STM8S003K3_LQFP32' used by RefDes U1 for device 'STM8S003K3_STM8S003K3_LQFP32_ST' not found in PSMPATH or must be "dbdoctor"ed.
+
+#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DIP6' used by RefDes U2 for device 'MOC3023_DIP6_MOC3023' not found in PSMPATH or must be "dbdoctor"ed.
+
+    Alternatively, the JEDEC_TYPE is not defined for the device in the pstchip.dat.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
+
+PSMPATH =  E:/mlabviet/Cadence/Alegro/libraries/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+PADPATH =  E:/mlabviet/Cadence/Alegro/libraries/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Aug 3 2:40:00 2016
+   DESIGN NAME : 'MAYAPTRUNG'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 15 warnings detected
+
+cpu time      0:00:54
+elapsed time  0:00:00
+

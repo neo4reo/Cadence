@@ -1,0 +1,31 @@
+"  Revised: Thursday, July 14, 2016"			
+          Revision: 			
+			
+			
+			
+			
+			
+			
+			
+"Bill Of Materials         August 22,2016      11:59:02"	Page1		
+			
+Item	Quantity	Reference	Part
+______________________________________________			
+			
+1	1	C1	10nF
+2	1	C7	1uF
+3	1	C8	4V 0.1uF
+4	1	C9	2V 0.1uF
+5	1	C10	4V 10nF
+6	1	C11	50V 2.2nF
+7	1	J2	SWIM
+8	1	LD1	LED
+9	12	"P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12"	PAD
+10	4	"R1,R20,R21,R23"	10K
+11	1	R17	1K
+12	2	"R18,R19"	4.7K
+13	1	R22	330R
+14	1	U1	MPU6050
+15	1	U3	AMS1117
+16	1	U5	stm8s003f3p6-TSSOP20
+			

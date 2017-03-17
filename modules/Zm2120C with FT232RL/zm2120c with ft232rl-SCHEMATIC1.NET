@@ -1,0 +1,6 @@
+* source ZM2120C WITH FT232RL
+R_R1         VCC N038540 330
+R_R2         VCC N038700 330
+R_R3         3.3V TX R
+R_R4         3.3V RX R
+C_C1         CAPACITOR  

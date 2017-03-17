@@ -1,0 +1,58 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  E:/mlabviet/Cadence/Alegro/projects/mpu6050_stm8/allegro/MPU6050_STM8.brd   |
+|                                                    Thu Jul 14 03:12:05 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_CAP_SMD_0603_10NF
+ CAPACITOR NON-POL_CAP_SMD_0603_
+ CAPACITOR NON-POL_CAP_SMD_060_1
+ CAPACITOR NON-POL_CAP_SMD_060_2
+ CAPACITOR NON-POL_CAP_SMD_060_3
+ CAP_0_CAP_SMD_0603_1UF
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  E:/mlabviet/Cadence/Alegro/projects/mpu6050_stm8/allegro/MPU6050_STM8.brd   |
+|                                                    Thu Jul 14 03:12:05 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAP_SMD_0603_10NF -72.500 124.120 CAP NP_CAP_SMD_0805_10NF
+ C7                  CAP_0_CAP_SMD_0603_1UF -139.10 145.620 CAP_0_CAP_SMD_0805_1UF
+ C8                  CAPACITOR NON-POL_CAP_SMD_060_2 10.8000  4.2000 CAPACITOR NON-POL_CAP_SMD_080_2
+ C9                  CAPACITOR NON-POL_CAP_SMD_060_3 -24.600 165.320 CAPACITOR NON-POL_CAP_SMD_080_3
+ C10                 CAPACITOR NON-POL_CAP_SMD_0603_ 36.4000 152.920 CAPACITOR NON-POL_CAP_SMD_0805_
+ C11                 CAPACITOR NON-POL_CAP_SMD_060_1 -73.700 104.420 CAPACITOR NON-POL_CAP_SMD_080_1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  E:/mlabviet/Cadence/Alegro/projects/mpu6050_stm8/allegro/MPU6050_STM8.brd   |
+|                                                    Thu Jul 14 03:12:05 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2           -72.500 124.120 PRIM_FILE      .\pstchip.dat
+ C7.2           -139.10 145.620 PRIM_FILE      .\pstchip.dat
+ C8.2           10.8000  4.2000 PRIM_FILE      .\pstchip.dat
+ C9.2           -24.600 165.320 PRIM_FILE      .\pstchip.dat
+ C10.2          36.4000 152.920 PRIM_FILE      .\pstchip.dat
+ C11.2          -73.700 104.420 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Comp definitions added:       6                                        |
+|       Components changed    :       6                                        |
+|       Slot property added   :       6                                        |
+|                                                                              |
+|   Total ECO changes reported:      18                                        |
+|------------------------------------------------------------------------------|

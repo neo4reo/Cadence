@@ -1,0 +1,33 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : PIC1823-RCSERVO-USB2SERIAL.brd                )
+(    Software Version : 16.6-2015S051                                 )
+(    Date/Time        : Thu Apr 14 23:31:26 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+**WARNING: Disabling dynamic shapes
+
+
+
+Line Smooth glossing in progress.
+Started on Thu Apr 14 23:31:26 2016
+
+ Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
+ Number of executions  : 1
+ Corner type  : 45
+ Length limit is -0.001.
+
+ Maximum 45 limit is -0.001.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Thu Apr 14 23:31:26 2016
+
+ - 0 - Error(s) from Line smooth Glossing
+
+
+Glossing complete.

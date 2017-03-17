@@ -1,0 +1,208 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : MAYAPTRUNG.brd                                )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Fri Jul 29 02:20:58 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  U1 / STM8S003K3_STM8S003K3_LQFP32_ST / STM8S003K3_LQFP32
+         Placed symbol:  U4 / 74HC138_0_74HC138_SOIC16_74HC13 / 74HC138_SOIC16 at (-74.0718 57.5032)
+         Placed symbol:  D13 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22 at (-62.8284 61.8032)
+         Placed symbol:  D12 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22 at (-49.0100 61.8032)
+         Placed symbol:  D15 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22 at (-35.1916 61.8032)
+         Placed symbol:  D14 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22 at (-21.3732 61.8032)
+         Placed symbol:  D11 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22 at (-7.5548 61.8032)
+         Placed symbol:  D16 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22 at (6.2636 61.8032)
+         Placed symbol:  D4 / LDS-A32R_1_LED7DOAN_14_22_LDS-H / LED7DOAN_14_22 at (20.0820 61.8032)
+         Placed symbol:  LS3 / RELAY SPDT_J1_5_254_RELAY SPDT / J1_5_254 at (29.5824 53.7033)
+         Placed symbol:  LS2 / RELAY SPDT_J1_5_254_RELAY SPDT / J1_5_254 at (43.0728 53.7033)
+         Placed symbol:  ISO1 / OPTO ISOLATOR-A_0_PC817_SMD_OPT / PC817_SMD at (55.2424 54.2032)
+         Placed symbol:  J2 / CON4_J1_4_254_SWIM / J1_4_254 at (60.4656 53.8232)
+         Placed symbol:  SW1 / SW_TC_SPST_6_6_5_SMD_BUTTON_MOD / 6_6_5_SMD_BUTTON at (-75.6692 77.2564)
+         Placed symbol:  SW2 / SW_TC_SPST_6_6_5_SMD_BUTTON_MOD / 6_6_5_SMD_BUTTON at (-64.0550 77.2564)
+         Placed symbol:  SW3 / SW_TC_SPST_6_6_5_SMD_BUTTON_MOD / 6_6_5_SMD_BUTTON at (-52.4408 77.2564)
+         Placed symbol:  SW4 / SW_TC_SPST_6_6_5_SMD_BUTTON_MOD / 6_6_5_SMD_BUTTON at (-40.8266 77.2564)
+         Placed symbol:  SW5 / SW_TC_SPST_6_6_5_SMD_BUTTON_MOD / 6_6_5_SMD_BUTTON at (-29.2124 77.2564)
+ERROR:   Could not find symbol:  U2 / MOC3023_DIP6_MOC3023 / DIP6
+         Placed symbol:  U3 / ASM1117_SOT223_AMS1117 / SOT223 at (-15.8488 75.5821)
+         Placed symbol:  Q11 / NPN BEC_SOT-23_2SC1815 / SOT-23 at (-9.2884 74.9188)
+         Placed symbol:  Q12 / NPN BEC_SOT-23_2SC1815 / SOT-23 at (-4.8272 74.9188)
+         Placed symbol:  Q3 / NPN BEC_SOT-23_2SC1815 / SOT-23 at (-0.3660 74.9188)
+         Placed symbol:  Q9 / PNP BEC_SOT-23_2SA1015 / SOT-23 at (4.0952 74.9188)
+         Placed symbol:  Q8 / PNP BEC_SOT-23_2SA1015 / SOT-23 at (8.5564 74.9188)
+         Placed symbol:  Q7 / PNP BEC_SOT-23_2SA1015 / SOT-23 at (13.0176 74.9188)
+         Placed symbol:  Q6 / PNP BEC_SOT-23_2SA1015 / SOT-23 at (17.4788 74.9188)
+         Placed symbol:  Q5 / PNP BEC_SOT-23_2SA1015 / SOT-23 at (21.9400 74.9188)
+         Placed symbol:  Q4 / PNP BEC_SOT-23_2SA1015 / SOT-23 at (26.4012 74.9188)
+         Placed symbol:  Q10 / PNP BEC_SOT-23_2SA1015 / SOT-23 at (30.8624 74.9188)
+         Placed symbol:  Q1 / TRIAC_0_TO220_BTA12 / TO220 at (33.8928 72.9065)
+         Placed symbol:  J3 / CON3_J1_3_254_DHT11 / J1_3_254 at (43.5732 72.9065)
+         Placed symbol:  Q2 / NPN BEC_SOT-23_2SC1815 / SOT-23 at (52.0936 74.9188)
+         Placed symbol:  D19 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (55.1240 72.3064)
+ERROR:   Cannot place symbol:  D2 / LED_LED_D3_BLUE_BLUE LED / LED_D3_BLUE
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  D9 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (65.0168 72.3064)
+ERROR:   Cannot place symbol:  D24 / DIODE ZENER_DIODE_ZENNER_SOD8_1 / DIODE_ZENNER_SOD80C
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  F1 / FUSE_FUSE_CLIP_220V 10A / FUSE_CLIP
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  C30 / CAPACITOR NON-POL_RES_SMD_080_1 / RES_SMD_0805 at (-52.2372 80.5353)
+ERROR:   Cannot place symbol:  D3 / LED_LED_D3_RED_RED LED / LED_D3_RED
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  D23 / DIODE_1N4007_SMD_1N4007-SMD / 1N4007_SMD
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  J1 / CON2_J1_2_254_AC220V / J1_2_254 at (-35.4886 81.2553)
+         Placed symbol:  J4 / CON2_J1_2_254_COI BIP / J1_2_254 at (-29.7054 81.2553)
+         Placed symbol:  J5 / CON2_J1_2_254_DONG CO / J1_2_254 at (-23.9222 81.2553)
+         Placed symbol:  J6 / CON2_J1_2_254_PHUN SUONG / J1_2_254 at (-18.1390 81.2553)
+         Placed symbol:  J7 / CON2_J1_2_254_DEN DOT NONG / J1_2_254 at (-12.3558 81.2553)
+         Placed symbol:  C28 / CAPACITOR NON-POL_RES_SMD_0805_ / RES_SMD_0805 at (-6.3862 80.5353)
+ERROR:   Could not find symbol:  C27 / CAPACITOR NON-POL_CAP_SMD_0508_ / CAP_SMD_0508
+ERROR:   Cannot place symbol:  D22 / DIODE_1N4007_SMD_1N4007-SMD / 1N4007_SMD
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  D21 / DIODE_1N4007_SMD_1N4007-SMD / 1N4007_SMD
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  D20 / DIODE_1N4007_SMD_1N4007-SMD / 1N4007_SMD
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  D18 / DIODE_1N4007_SMD_1N4007-SMD / 1N4007_SMD
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  D17 / DIODE ZENER_DIODE_ZENNER_SOD80C / DIODE_ZENNER_SOD80C
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  C31 / CAPACITOR NON-POL_RES_SMD_080_1 / RES_SMD_0805 at (32.5354 80.5353)
+         Placed symbol:  C32 / CAPACITOR NON-POL_RES_SMD_080_1 / RES_SMD_0805 at (38.2550 80.5353)
+         Placed symbol:  C7 / CAP_0_CAP_SMD_0805_1UF / CAP_SMD_0805 at (43.9746 80.5353)
+ERROR:   Cannot place symbol:  D1 / LED_LED_D3_GREEN_GREENLED / LED_D3_GREEN
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  C29 / CAPACITOR NON-POL_CAP_SMD_SIZEF / CAP_SMD_SIZEF at (57.7660 83.9353)
+ERROR:   Cannot place symbol:  D10 / DIODE_1N4007_SMD_DIODE / 1N4007_SMD
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  D25 / DIODE_1N4007_SMD_DIODE / 1N4007_SMD
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  R1 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-76.0904 89.1385)
+         Placed symbol:  R103 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-70.3708 89.1385)
+         Placed symbol:  R104 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-64.6512 89.1385)
+         Placed symbol:  R105 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-58.9316 89.1385)
+         Placed symbol:  R106 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-53.2120 89.1385)
+         Placed symbol:  R107 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-47.4924 89.1385)
+         Placed symbol:  R108 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-41.7728 89.1385)
+         Placed symbol:  R109 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-36.0532 89.1385)
+         Placed symbol:  R111 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-30.3336 89.1385)
+         Placed symbol:  R116 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-24.6140 89.1385)
+         Placed symbol:  R117 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-18.8944 89.1385)
+         Placed symbol:  R119 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-13.1748 89.1385)
+         Placed symbol:  R18 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-7.4552 89.1385)
+         Placed symbol:  R22 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-1.7356 89.1385)
+         Placed symbol:  R25 / R_RES_SMD_0805_10K / RES_SMD_0805 at (3.9840 89.1385)
+         Placed symbol:  R100 / R_RES_SMD_0805_100K / RES_SMD_0805 at (9.7036 89.1385)
+         Placed symbol:  R101 / R_RES_SMD_0805_100K / RES_SMD_0805 at (15.4232 89.1385)
+         Placed symbol:  R102 / R_RES_SMD_0805_100K / RES_SMD_0805 at (21.1428 89.1385)
+         Placed symbol:  R98 / R_RES_SMD_0805_100K / RES_SMD_0805 at (26.8624 89.1385)
+         Placed symbol:  R99 / R_RES_SMD_0805_100K / RES_SMD_0805 at (32.5820 89.1385)
+         Placed symbol:  R110 / R_RES_SMD_0805_1K / RES_SMD_0805 at (38.3016 89.1385)
+         Placed symbol:  R113 / R_RES_SMD_0805_1K / RES_SMD_0805 at (44.0212 89.1385)
+ERROR:   Could not find symbol:  C26 / CAPACITOR NON-POL_CAP_SMD_0508_ / CAP_SMD_0508
+ERROR:   Could not find symbol:  C25 / CAPACITOR NON-POL_CAP_SMD_0508_ / CAP_SMD_0508
+         Placed symbol:  R21 / R_RES_SMD_0805_1K / RES_SMD_0805 at (49.7408 89.1385)
+         Placed symbol:  R23 / R_RES_SMD_0805_1K / RES_SMD_0805 at (55.4604 89.1385)
+ERROR:   Could not find symbol:  C24 / CAPACITOR NON-POL_CAP_SMD_0508_ / CAP_SMD_0508
+         Placed symbol:  R35 / R_RES_SMD_0805_1K / RES_SMD_0805 at (61.1800 89.1385)
+         Placed symbol:  R46 / R_RES_SMD_0805_1K / RES_SMD_0805 at (66.8996 89.1385)
+         Placed symbol:  R55 / R_RES_SMD_0805_1K / RES_SMD_0805 at (72.6192 89.1385)
+         Placed symbol:  R64 / R_RES_SMD_0805_1K / RES_SMD_0805 at (-76.0904 90.9417)
+         Placed symbol:  R73 / R_RES_SMD_0805_1K / RES_SMD_0805 at (-70.3708 90.9417)
+         Placed symbol:  R82 / R_RES_SMD_0805_1K / RES_SMD_0805 at (-64.6512 90.9417)
+         Placed symbol:  R91 / R_RES_SMD_0805_1K / RES_SMD_0805 at (-58.9316 90.9417)
+         Placed symbol:  R112 / R_RES_SMD_0805_470R 1/2W / RES_SMD_0805 at (-53.2120 90.9417)
+         Placed symbol:  R114 / R_RES_SMD_0805_10K-10W / RES_SMD_0805 at (-47.4924 90.9417)
+         Placed symbol:  R115 / R_RES_SMD_0805_100R / RES_SMD_0805 at (-41.7728 90.9417)
+         Placed symbol:  R20 / R_RES_SMD_0805_100R / RES_SMD_0805 at (-36.0532 90.9417)
+         Placed symbol:  R19 / R_RES_SMD_0805_470R / RES_SMD_0805 at (-30.3336 90.9417)
+         Placed symbol:  R26 / R_RES_SMD_0805_220R / RES_SMD_0805 at (-24.6140 90.9417)
+         Placed symbol:  R27 / R_RES_SMD_0805_220R / RES_SMD_0805 at (-18.8944 90.9417)
+         Placed symbol:  R28 / R_RES_SMD_0805_220R / RES_SMD_0805 at (-13.1748 90.9417)
+         Placed symbol:  R36 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-7.4552 90.9417)
+         Placed symbol:  R37 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-1.7356 90.9417)
+         Placed symbol:  R38 / R_RES_SMD_0805_330R / RES_SMD_0805 at (3.9840 90.9417)
+         Placed symbol:  R39 / R_RES_SMD_0805_330R / RES_SMD_0805 at (9.7036 90.9417)
+         Placed symbol:  R40 / R_RES_SMD_0805_330R / RES_SMD_0805 at (15.4232 90.9417)
+         Placed symbol:  R41 / R_RES_SMD_0805_330R / RES_SMD_0805 at (21.1428 90.9417)
+         Placed symbol:  R42 / R_RES_SMD_0805_330R / RES_SMD_0805 at (26.8624 90.9417)
+         Placed symbol:  R43 / R_RES_SMD_0805_330R / RES_SMD_0805 at (32.5820 90.9417)
+         Placed symbol:  R44 / R_RES_SMD_0805_330R / RES_SMD_0805 at (38.3016 90.9417)
+         Placed symbol:  R45 / R_RES_SMD_0805_330R / RES_SMD_0805 at (44.0212 90.9417)
+         Placed symbol:  R47 / R_RES_SMD_0805_330R / RES_SMD_0805 at (49.7408 90.9417)
+         Placed symbol:  R48 / R_RES_SMD_0805_330R / RES_SMD_0805 at (55.4604 90.9417)
+         Placed symbol:  R49 / R_RES_SMD_0805_330R / RES_SMD_0805 at (61.1800 90.9417)
+         Placed symbol:  R50 / R_RES_SMD_0805_330R / RES_SMD_0805 at (66.8996 90.9417)
+         Placed symbol:  R51 / R_RES_SMD_0805_330R / RES_SMD_0805 at (72.6192 90.9417)
+         Placed symbol:  R52 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-76.0904 92.7449)
+         Placed symbol:  R53 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-70.3708 92.7449)
+         Placed symbol:  R54 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-64.6512 92.7449)
+         Placed symbol:  R56 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-58.9316 92.7449)
+         Placed symbol:  R57 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-53.2120 92.7449)
+         Placed symbol:  R58 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-47.4924 92.7449)
+         Placed symbol:  R59 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-41.7728 92.7449)
+         Placed symbol:  R60 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-36.0532 92.7449)
+         Placed symbol:  R61 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-30.3336 92.7449)
+         Placed symbol:  R62 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-24.6140 92.7449)
+         Placed symbol:  R63 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-18.8944 92.7449)
+         Placed symbol:  R65 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-13.1748 92.7449)
+         Placed symbol:  R66 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-7.4552 92.7449)
+         Placed symbol:  R67 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-1.7356 92.7449)
+         Placed symbol:  R68 / R_RES_SMD_0805_330R / RES_SMD_0805 at (3.9840 92.7449)
+         Placed symbol:  R69 / R_RES_SMD_0805_330R / RES_SMD_0805 at (9.7036 92.7449)
+         Placed symbol:  R70 / R_RES_SMD_0805_330R / RES_SMD_0805 at (15.4232 92.7449)
+         Placed symbol:  R71 / R_RES_SMD_0805_330R / RES_SMD_0805 at (21.1428 92.7449)
+         Placed symbol:  R72 / R_RES_SMD_0805_330R / RES_SMD_0805 at (26.8624 92.7449)
+         Placed symbol:  R74 / R_RES_SMD_0805_330R / RES_SMD_0805 at (32.5820 92.7449)
+         Placed symbol:  R75 / R_RES_SMD_0805_330R / RES_SMD_0805 at (38.3016 92.7449)
+         Placed symbol:  R76 / R_RES_SMD_0805_330R / RES_SMD_0805 at (44.0212 92.7449)
+         Placed symbol:  R77 / R_RES_SMD_0805_330R / RES_SMD_0805 at (49.7408 92.7449)
+         Placed symbol:  R78 / R_RES_SMD_0805_330R / RES_SMD_0805 at (55.4604 92.7449)
+         Placed symbol:  R79 / R_RES_SMD_0805_330R / RES_SMD_0805 at (61.1800 92.7449)
+         Placed symbol:  R80 / R_RES_SMD_0805_330R / RES_SMD_0805 at (66.8996 92.7449)
+         Placed symbol:  R81 / R_RES_SMD_0805_330R / RES_SMD_0805 at (72.6192 92.7449)
+         Placed symbol:  R83 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-76.0904 94.5481)
+         Placed symbol:  R84 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-70.3708 94.5481)
+         Placed symbol:  R85 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-64.6512 94.5481)
+         Placed symbol:  R86 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-58.9316 94.5481)
+         Placed symbol:  R87 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-53.2120 94.5481)
+         Placed symbol:  R88 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-47.4924 94.5481)
+         Placed symbol:  R89 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-41.7728 94.5481)
+         Placed symbol:  R90 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-36.0532 94.5481)
+         Placed symbol:  R92 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-30.3336 94.5481)
+         Placed symbol:  R93 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-24.6140 94.5481)
+         Placed symbol:  R94 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-18.8944 94.5481)
+         Placed symbol:  R95 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-13.1748 94.5481)
+         Placed symbol:  R96 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-7.4552 94.5481)
+         Placed symbol:  R97 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-1.7356 94.5481)
+ERROR:   Could not find symbol:  C23 / CAPACITOR NON-POL_CAP_SMD_0508_ / CAP_SMD_0508
+         Placed symbol:  C33 / CAPACITOR NON-POL_CAP_SMD_080_1 / CAP_SMD_0805 at (3.9840 94.5481)
+         Placed symbol:  C22 / CAPACITOR NON-POL_CAP_SMD_080_1 / CAP_SMD_0805 at (9.7036 94.5481)
+         Placed symbol:  C21 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805 at (15.4232 94.5481)
+         Placed symbol:  C20 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805 at (21.1428 94.5481)
+         Placed symbol:  R118 / R_RES_SMD_0805_1K / RES_SMD_0805 at (26.8624 94.5481)
+         Placed symbol:  R17 / R_RES_SMD_0805_1K / RES_SMD_0805 at (32.5820 94.5481)
+         Placed symbol:  C1 / CAP NP_CAP_SMD_0805_10NF / CAP_SMD_0805 at (38.3016 94.5481)
+         Placed symbol:  R24 / R_RES_SMD_0805_1K / RES_SMD_0805 at (44.0212 94.5481)
+         Placed symbol:  Y1 / CRYSTAL_CRYSTAL_HC_49_16MHZ / CRYSTAL_HC_49 at (54.8044 96.3481)
+ERROR:   Cannot place symbol:  TP3 / T POINT R_TESTPOINTCIR_GND / TESTPOINTCIR
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  TP4 / T POINT R_TESTPOINTCIR_ZERO_POI / TESTPOINTCIR
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  TP1 / T POINT R_0_TESTPOINTCIR_5V / TESTPOINTCIR
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  TP2 / T POINT R_TESTPOINTCIR_3V3 / TESTPOINTCIR
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+
+
+Placed 148 of 172 applicable (172 total) symbols.
+
+-----------------------------------------------------------------------
+

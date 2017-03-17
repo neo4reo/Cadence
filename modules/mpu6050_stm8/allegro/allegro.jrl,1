@@ -1,0 +1,118 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Mar 15 23:55:39 2017
+\t (00:00:00)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=10356 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/DATA/git/Cadence/modules/mpu6050_stm8/allegro/MPU6050_STM8.brd
+\t (00:00:02) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:02) trapsize 1305
+\i (00:00:02) trapsize 1335
+\t (00:00:02) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:02) trapsize 1335
+\i (00:00:03) generaledit 
+\i (00:00:07) open 
+\i (00:06:20) fillin "menu_cancel"
+\i (00:06:20) xhilite 
+\i (00:06:20) xname_flush 
+\i (00:06:20) done 
+\i (00:06:20) xdehilite 
+\i (00:06:20) xname_flush 
+\i (00:06:20) done 
+\i (00:06:20) xhilite 
+\i (00:06:21) xname_flush 
+\i (00:06:21) done 
+\i (00:06:21) xdehilite 
+\i (00:06:21) xname_flush 
+\i (00:06:21) done 
+\i (00:06:21) xhilite 
+\i (00:06:21) xname_flush 
+\i (00:06:21) done 
+\i (00:06:21) xdehilite 
+\i (00:06:21) xname_flush 
+\i (00:06:21) done 
+\i (00:06:21) xhilite 
+\i (00:06:22) xname_flush 
+\i (00:06:22) done 
+\i (00:06:22) xdehilite 
+\i (00:06:22) xname_flush 
+\i (00:06:22) done 
+\i (00:06:22) xhilite 
+\i (00:06:22) xname_flush 
+\i (00:06:22) done 
+\i (00:06:22) xdehilite 
+\i (00:06:23) xname_flush 
+\i (00:06:23) done 
+\i (00:06:23) xhilite 
+\i (00:06:23) xname_flush 
+\i (00:06:23) done 
+\i (00:06:23) xdehilite 
+\i (00:06:23) xname_flush 
+\i (00:06:23) done 
+\i (00:06:23) xhilite 
+\i (00:06:24) xname_flush 
+\i (00:06:24) done 
+\i (00:06:24) xdehilite 
+\i (00:06:24) xname_flush 
+\i (00:06:24) done 
+\i (00:06:24) xhilite 
+\i (00:06:24) xname_flush 
+\i (00:06:24) done 
+\i (00:06:25) xdehilite 
+\i (00:06:25) xname_flush 
+\i (00:06:25) done 
+\i (00:06:25) xhilite 
+\i (00:06:25) xname_flush 
+\i (00:06:25) done 
+\i (00:06:25) xdehilite 
+\i (00:06:25) xname_flush 
+\i (00:06:25) done 
+\i (00:06:25) xhilite 
+\i (00:06:26) xname_flush 
+\i (00:06:26) done 
+\i (00:06:26) xdehilite 
+\i (00:06:26) xname_flush 
+\i (00:06:26) done 
+\i (00:06:26) xhilite 
+\i (00:06:27) xname_flush 
+\i (00:06:27) done 
+\i (00:06:27) xdehilite 
+\i (00:06:27) xname_flush 
+\i (00:06:27) done 
+\i (00:06:27) xhilite 
+\i (00:06:28) xname_flush 
+\i (00:06:28) done 
+\i (00:06:28) xdehilite 
+\i (00:06:28) xname_flush 
+\i (00:06:28) done 
+\i (00:06:28) xhilite 
+\i (00:06:29) xname_flush 
+\i (00:06:29) done 
+\i (00:06:29) xdehilite 
+\i (00:06:29) xname_flush 
+\i (00:06:29) done 
+\i (00:06:29) xhilite 
+\i (00:06:29) xname_flush 
+\i (00:06:29) done 
+\i (00:06:30) xdehilite 
+\i (00:06:30) xname_flush 
+\i (00:06:30) done 
+\i (00:06:30) xhilite 
+\i (00:06:30) xname_flush 
+\i (00:06:30) done 
+\i (00:06:30) xhilite 
+\i (00:06:31) xname_flush 
+\i (00:06:31) done 
+\i (00:06:31) xdehilite 
+\i (00:06:31) xname_flush 
+\i (00:06:31) done 
+\t (00:06:31) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:06:31) trapsize 8681
+\i (00:06:32) generaledit 
+\t (00:06:33) Grids are drawn 0.1000, 0.1000 apart for enhanced viewability.
+\i (00:06:33) trapsize 1212
+\i (00:06:35) exit 
+\e (00:06:35) Do you want to save the changes you made to MPU6050_STM8.brd?
+\i (00:06:37) fillin yes 
+\t (00:06:37)     Journal end - Thu Mar 16 00:02:16 2017

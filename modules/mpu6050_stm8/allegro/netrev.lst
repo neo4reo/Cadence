@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : MPU6050_STM8.brd                              )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Thu Jul 14 03:12:05 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\MPU6050_STM8\allegro'
+Design Directory:            'E:/mlabviet/Cadence/Alegro/projects/mpu6050_stm8/allegro'
+Old design name:             'E:/mlabviet/Cadence/Alegro/projects/mpu6050_stm8/allegro/MPU6050_STM8.brd'
+New design name:             'E:/mlabviet/Cadence/Alegro/projects/mpu6050_stm8/allegro/MPU6050_STM8.brd'
+
+CmdLine: netrev.exe -y 1 -i E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\MPU6050_STM8\allegro E:\mlabviet\Cadence\Alegro\projects\mpu6050_stm8\allegro\MPU6050_STM8.brd E:\mlabviet\Cadence\Alegro\projects\mpu6050_stm8\allegro\MPU6050_STM8.brd
+
+------ Preparing to read pst files ------
+
+Starting to read E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/MPU6050_STM8/allegro/pstchip.dat 
+   Finished reading E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/MPU6050_STM8/allegro/pstchip.dat (00:00:00.03)
+Starting to read E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/MPU6050_STM8/allegro/pstxprt.dat 
+   Finished reading E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/MPU6050_STM8/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/MPU6050_STM8/allegro/pstxnet.dat 
+   Finished reading E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/MPU6050_STM8/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
+
+PSMPATH =  E:/mlabviet/Cadence/Alegro/libraries/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+PADPATH =  E:/mlabviet/Cadence/Alegro/libraries/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jul 14 3:12:05 2016
+   DESIGN NAME : 'MPU6050_STM8'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:31
+elapsed time  0:00:00
+

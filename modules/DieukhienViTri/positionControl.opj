@@ -1,0 +1,121 @@
+(ExpressProject "positionControl"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\positioncontrol.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (VNH2SP30-E
+      (FullPartName "VNH2SP30-E.Normal")
+      (LibraryName "E:\MLABVIET\CADENCE\ALEGRO\LIBRARIES\SCHEMATICS\MYLIB.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("NPN BEC"
+      (FullPartName "NPN BEC.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TP
+      (FullPartName "TP.Normal")
+      (LibraryName "E:\MLABVIET\CADENCE\ALEGRO\LIBRARIES\SCHEMATICS\MYLIB.OLB")
+      (DeviceIndex "0"))
+    (STM32F103RCT6
+      (FullPartName "STM32F103RCT6.Normal")
+      (LibraryName "E:\MLABVIET\CADENCE\ALEGRO\LIBRARIES\SCHEMATICS\MYLIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE SCHOTTKY"
+      (FullPartName "DIODE SCHOTTKY.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE BRIDGE"
+      (FullPartName "DIODE BRIDGE.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("mini USB"
+      (FullPartName "mini USB.Normal")
+      (LibraryName "E:\MLABVIET\CADENCE\ALEGRO\LIBRARIES\SCHEMATICS\MYLIB.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (74hc74_smd
+      (FullPartName "74hc74_smd.Normal")
+      (LibraryName "E:\MLABVIET\CADENCE\ALEGRO\LIBRARIES\SCHEMATICS\MYLIB.OLB")
+      (DeviceIndex "0"))
+    (74HC14P
+      (FullPartName "74HC14P.Normal")
+      (LibraryName "E:\MLABVIET\CADENCE\ALEGRO\LIBRARIES\SCHEMATICS\MYLIB.OLB")
+      (DeviceIndex "0"))
+    (7414
+      (FullPartName "7414.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "1"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("dspic30f4011 - 44 pin TQFP"
+      (FullPartName "dspic30f4011 - 44 pin TQFP.Normal")
+      (LibraryName "E:\MLABVIET\CADENCE\ALEGRO\LIBRARIES\SCHEMATICS\MYLIB.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "e:\mlabviet\cadence\alegro\projects\dieukhienvitri\positioncontrol.dsn")
+      (Path "Design Resources"
+         "e:\mlabviet\cadence\alegro\projects\dieukhienvitri\positioncontrol.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "e:\mlabviet\cadence\alegro\projects\dieukhienvitri\positioncontrol.dsn"
+         "SCHEMATIC1" "3.ENCODER"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 430"))
+      (Tab 0)))
+  (MPSSessionName "QThan")
+  (ISPCBBASICLICENSE "false"))

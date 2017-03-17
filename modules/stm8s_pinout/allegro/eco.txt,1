@@ -1,0 +1,203 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/STM8S_PINOUT/allegro/STM8S_PINOUT.brd   |
+|                                                    Fri Jul 15 02:36:17 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3V3          pins ADDED TO this new net
+                                 C11.1          C12.1          J1.1           
+                                 J5.9           R1.1           R8.1           
+                                 R17.1          U1.9           U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V           pins ADDED TO this new net
+                                 C13.1          C14.1          J5.10          
+                                 U3.3           U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.2           C7.2           C11.2          
+                                 C12.2          C13.2          C14.2          
+                                 C20.1          C21.1          J1.3           
+                                 J5.7           J5.8           LD1.1          
+                                 SW1.1          U1.7           U3.1           
+                                 U4.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N71205       pins ADDED TO this new net
+                                 C7.1           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N140371      pins ADDED TO this new net
+                                 C20.2          J2.1           Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N140397      pins ADDED TO this new net
+                                 C21.2          J3.2           Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142589      pins ADDED TO this new net
+                                 J4.2           U1.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1418901     pins ADDED TO this new net
+                                 LD1.2          R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OSC1         pins ADDED TO this new net
+                                 J2.2           J5.4           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OSC2         pins ADDED TO this new net
+                                 J3.1           J5.5           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA3          pins ADDED TO this new net
+                                 J5.6           U1.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB4          pins ADDED TO this new net
+                                 J4.9           U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB5          pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/STM8S_PINOUT/allegro/STM8S_PINOUT.brd   |
+|                                                    Fri Jul 15 02:36:17 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J4.10          U1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC3          pins ADDED TO this new net
+                                 J4.8           U1.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC4          pins ADDED TO this new net
+                                 J4.7           U1.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC5          pins ADDED TO this new net
+                                 J4.6           U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC6          pins ADDED TO this new net
+                                 J4.5           U1.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC7          pins ADDED TO this new net
+                                 J4.4           U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD1          pins ADDED TO this new net
+                                 J1.2           J4.3           R17.2          
+                                 U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD3          pins ADDED TO this new net
+                                 J4.1           U1.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD4          pins ADDED TO this new net
+                                 J5.1           U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD5          pins ADDED TO this new net
+                                 J5.2           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD6          pins ADDED TO this new net
+                                 J5.3           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET        pins ADDED TO this new net
+                                 C1.1           J1.4           R1.2           
+                                 SW1.2          U1.4           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/STM8S_PINOUT/allegro/STM8S_PINOUT.brd   |
+|                                                    Fri Jul 15 02:36:17 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ASM1117-SOT223_0_SOT223_ASM1117
+ CAP NP_CAP_SMD_0805_100NF
+ CAP NP_CAP_SMD_0805_10NF
+ CAPACITOR NON-POL_CAP_SMD_0805_
+ CAP_0_CAP_SMD_0805_1UF
+ CON10_J1_10_254_CON10
+ CON2_J1_2_254_CON2
+ CON4_J1_4_254_SWIM
+ CRYSTAL_CRYSTAL_HC49_DIP_8MHZ
+ LED_LED_SMD_0805_LED
+ MINI USB_0_MINI_USB_MINI USB
+ R_RES_SMD_0805_10K
+ R_RES_SMD_0805_1K
+ STM8S003F3P6-TSSOP20_TSSOP20_ST
+ SW TACT-SPST/SM_SMD_2PIN_BUTTON
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/STM8S_PINOUT/allegro/STM8S_PINOUT.brd   |
+|                                                    Fri Jul 15 02:36:17 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAP_SMD_0805_10NF 
+ C7                  CAP_0_CAP_SMD_0805_1UF 
+ C11                 CAP NP_CAP_SMD_0805_100NF 
+ C12                 CAP_0_CAP_SMD_0805_1UF 
+ C13                 CAP NP_CAP_SMD_0805_100NF 
+ C14                 CAP_0_CAP_SMD_0805_1UF 
+ C20                 CAPACITOR NON-POL_CAP_SMD_0805_ 
+ C21                 CAPACITOR NON-POL_CAP_SMD_0805_ 
+ J1                  CON4_J1_4_254_SWIM    
+ J2                  CON2_J1_2_254_CON2    
+ J3                  CON2_J1_2_254_CON2    
+ J4                  CON10_J1_10_254_CON10 
+ J5                  CON10_J1_10_254_CON10 
+ LD1                 LED_LED_SMD_0805_LED  
+ R1                  R_RES_SMD_0805_10K    
+ R8                  R_RES_SMD_0805_1K     
+ R17                 R_RES_SMD_0805_1K     
+ SW1                 SW TACT-SPST/SM_SMD_2PIN_BUTTON 
+ U1                  STM8S003F3P6-TSSOP20_TSSOP20_ST 
+ U3                  ASM1117-SOT223_0_SOT223_ASM1117 
+ U4                  MINI USB_0_MINI_USB_MINI USB 
+ Y1                  CRYSTAL_CRYSTAL_HC49_DIP_8MHZ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  E:/MLABVIET/CADENCE/ALEGRO/PROJECTS/STM8S_PINOUT/allegro/STM8S_PINOUT.brd   |
+|                                                    Fri Jul 15 02:36:17 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ J1.4                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J3.2                           PRIM_FILE      .\pstchip.dat
+ J4.9                           PRIM_FILE      .\pstchip.dat
+ J5.9                           PRIM_FILE      .\pstchip.dat
+ LD1.1                          PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ SW1.2                          PRIM_FILE      .\pstchip.dat
+ U1.10                          PRIM_FILE      .\pstchip.dat
+ U3.2                           PRIM_FILE      .\pstchip.dat
+ U4.1                           PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      81                                        |
+|       Comp definitions added:      15                                        |
+|       Components added      :      22                                        |
+|       Slot property added   :      22                                        |
+|                                                                              |
+|   Total ECO changes reported:     140                                        |
+|------------------------------------------------------------------------------|

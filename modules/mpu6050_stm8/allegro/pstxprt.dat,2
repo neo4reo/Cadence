@@ -1,0 +1,320 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jul-14-2016 at 02:32:49 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MPU6050_STM8';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAP_SMD_0805_10NF':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71173@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71173@discrete.\cap np.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71173@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71804@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71804@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71804@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS72217@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins72217@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins72217@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_0_CAP_SMD_0805_1UF':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71255@DESKV2.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71255@deskv2.\cap_0.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71255@deskv2.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR NON-POL_CAP_SMD_080_2':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71688@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71688@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71688@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR NON-POL_CAP_SMD_080_3':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71755@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71755@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71755@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON4_SWIM_SMD_SWIM':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71503@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71503@connector.\con4.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71503@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LD1 'LED_LED_SMD_0603_LED':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS72809@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins72809@discrete.\led.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins72809@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73382@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73382@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73382@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P10 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73552@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73552@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73552@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P11 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS74153@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins74153@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins74153@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P12 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS74171@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins74171@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins74171@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P2 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73402@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73402@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73402@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P3 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73420@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73420@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73420@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P4 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73438@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73438@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73438@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P5 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73456@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73456@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73456@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P6 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73474@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73474@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73474@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P7 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73492@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73492@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73492@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P8 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73516@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73516@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73516@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P9 'PAD_PAD_CUSTOM_PAD':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73534@MYLIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73534@mylib.\pad.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73534@mylib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71035@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71035@discrete.\r.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71035@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES_SMD_0603_1K':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71475@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71475@discrete.\r.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71475@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_RES_SMD_0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71912@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71912@discrete.\r.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71912@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_RES_SMD_0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71931@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71931@discrete.\r.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71931@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_RES_SMD_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS72454@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins72454@discrete.\r.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins72454@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_RES_SMD_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS72616@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins72616@discrete.\r.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins72616@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_RES_SMD_0603_330R':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS72715@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins72715@discrete.\r.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins72715@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_RES_SMD_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS73027@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins73027@discrete.\r.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins73027@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'MPU6050_QFN_24PIN_4_4_09_MPU605':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS123@MYLIB.MPU6050.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins123@mylib.\mpu6050.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins123@mylib.\mpu6050.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ASM1117_SOT223_AMS1117':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS420@MYLIB.ASM1117.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins420@mylib.\asm1117.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins420@mylib.\asm1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'STM8S003F3P6-TSSOP20_TSSOP20_ST':;
+
+SECTION_NUMBER 1
+ '@MPU6050_STM8.SCHEMATIC1(SCH_1):INS71051@MYLIB.STM8S003F3P6-TSSOP20.NORMAL(CHIPS)':
+ C_PATH='@mpu6050_stm8.schematic1(sch_1):ins71051@mylib.\stm8s003f3p6-tssop20.normal\(chips)',
+ P_PATH='@mpu6050_stm8.schematic1(sch_1):page1_ins71051@mylib.\stm8s003f3p6-tssop20.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

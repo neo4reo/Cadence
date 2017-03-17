@@ -1,0 +1,230 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Apr-11-2016 at 02:20:35 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PIC1823-RCSERVO-USB2SERIAL';
+ POST_TIME='Jun  8 2015 17:42:25';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ D1 'LED_LED_SMD_0805_5V LED':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS458@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins458@discrete.\led.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins458@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED_SMD_0805_6V LED':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS643@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins643@discrete.\led.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins643@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_SMD_0805_TX LED':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS19598@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins19598@discrete.\led.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins19598@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED_SMD_0805_RX LED':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS19652@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins19652@discrete.\led.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins19652@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_J1_2_254_6V IN':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS485@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins485@connector.\con2.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins485@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_J1_2_254_5V IN':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS510@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins510@connector.\con2.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins510@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON3_J1_3_254_SERVO1':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS819@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins819@connector.\con3.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins819@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON3_J1_3_254_SERVO2':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS849@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins849@connector.\con3.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins849@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON3_J1_3_254_SERVO3':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS879@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins879@connector.\con3.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins879@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CON6_J1_6_254_ICSP':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS16343@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins16343@connector.\con6.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins16343@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CON9_J1_9_254_GPIO':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS17135@CONNECTOR.CON9.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins17135@connector.\con9.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins17135@connector.\con9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'CON2_J1_2_254_3V3 OUT':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS19398@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins19398@connector.\con2.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins19398@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'CON2_J1_2_254_5V_6V_JUMPER':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS20322@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins20322@connector.\con2.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins20322@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS433@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins433@discrete.\r.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins433@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS16624@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins16624@discrete.\r.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins16624@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES_SMD_0805_330':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS19516@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins19516@discrete.\r.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins19516@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES_SMD_0805_330':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS19636@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins19636@discrete.\r.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins19636@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS627@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins627@discrete.\r.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins627@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW_PB_SPST_SMD_2PIN_BUTTON_RESE':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS16608@DISCRETE.SW_PB_SPST.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins16608@discrete.\sw_pb_spst.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins16608@discrete.\sw_pb_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'PIC16F1823-SOIC14_0_SOIC-14_390':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS50@PIC1823-RCSERVO-USB2SERIAL.PIC16F1823-SOIC14_0.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins50@\pic1823-rcservo-usb2serial\.\pic16f1823-soic14_0.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins50@\pic1823-rcservo-usb2serial\.\pic16f1823-soic14_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'FT232RL_SSOP-28_FT232RL':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS193@MYLIB.FT232RL.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins193@mylib.\ft232rl.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins193@mylib.\ft232rl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'MINI USB_MINI_USB_FP_MINI USB':;
+
+SECTION_NUMBER 1
+ '@PIC1823-RCSERVO-USB2SERIAL.SCHEMATIC1(SCH_1):INS278@MYLIB.MINI USB.NORMAL(CHIPS)':
+ C_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):ins278@mylib.\mini usb.normal\(chips)',
+ P_PATH='@\pic1823-rcservo-usb2serial\.schematic1(sch_1):page1_ins278@mylib.\mini usb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

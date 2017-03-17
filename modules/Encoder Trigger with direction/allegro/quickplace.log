@@ -1,0 +1,47 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : ENCODER_ZPULSE_DIRECTION.brd                  )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Aug 29 02:13:55 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U2 / 74HC74_SMD_SOIC14_74HC74_SMD / SOIC14 at (-15.5643 64.2782)
+         Placed symbol:  U1 / 74HC14P_3_SOIC14_74HC14P / SOIC14 at (-7.8961 64.2782)
+         Placed symbol:  J2 / CON6_J1_6_254_ENCODER2 OUT / J1_6_254 at (-1.0140 60.9732)
+         Placed symbol:  J1 / CON6_J1_6_254_ENCODER1 OUT / J1_6_254 at (-16.3504 70.3264)
+         Placed symbol:  CON2 / CON5_J1_5_254_ENCODER2 IN / J1_5_254 at (-0.4500 70.3264)
+         Placed symbol:  CON1 / CON5_J1_5_254_ENCODER1 IN / J1_5_254 at (-16.2996 73.0696)
+         Placed symbol:  Q3 / PNP BEC_SOT23_2SA1015 / SOT23 at (-2.8800 75.1612)
+         Placed symbol:  Q1 / PNP BEC_SOT23_2SA1015 / SOT23 at (1.4796 75.1612)
+         Placed symbol:  Q2 / PNP BEC_SOT23_2SA1015 / SOT23 at (5.8392 75.1612)
+         Placed symbol:  Q4 / PNP BEC_SOT23_2SA1015 / SOT23 at (10.1988 75.1612)
+         Placed symbol:  D4 / LED_LED_SMD_0805_Z2 LED / LED_SMD_0805 at (13.1784 72.5996)
+         Placed symbol:  D3 / LED_LED_SMD_0805_Z1 LED / LED_SMD_0805 at (-17.6204 76.7644)
+         Placed symbol:  D5 / LED_LED_SMD_0805_DIR1 LED / LED_SMD_0805 at (-11.9308 76.7644)
+         Placed symbol:  R1 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-6.2112 76.7644)
+         Placed symbol:  D2 / LED_LED_SMD_0805_DIR2 LED / LED_SMD_0805 at (-0.5216 76.7644)
+         Placed symbol:  R3 / R_RES_SMD_0805_10K / RES_SMD_0805 at (5.1980 76.7644)
+         Placed symbol:  R4 / R_RES_SMD_0805_10K / RES_SMD_0805 at (10.9176 76.7644)
+         Placed symbol:  R5 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-17.5904 78.5676)
+         Placed symbol:  R10 / R_RES_SMD_0805_4.7K / RES_SMD_0805 at (-11.8708 78.5676)
+         Placed symbol:  R6 / R_RES_SMD_0805_4.7K / RES_SMD_0805 at (-6.1512 78.5676)
+         Placed symbol:  R8 / R_RES_SMD_0805_4.7K / RES_SMD_0805 at (-0.4316 78.5676)
+         Placed symbol:  R9 / R_RES_SMD_0805_4.7K / RES_SMD_0805 at (5.2880 78.5676)
+         Placed symbol:  R11 / R_RES_SMD_0805_470R / RES_SMD_0805 at (11.0076 78.5676)
+         Placed symbol:  R12 / R_RES_SMD_0805_470R / RES_SMD_0805 at (-17.5904 80.3708)
+         Placed symbol:  R13 / R_RES_SMD_0805_470R / RES_SMD_0805 at (-11.8708 80.3708)
+         Placed symbol:  R7 / R_RES_SMD_0805_470R / RES_SMD_0805 at (-6.1512 80.3708)
+         Placed symbol:  D1 / LED_LED_SMD_0805_POWER LED / LED_SMD_0805 at (-0.4616 80.3708)
+         Placed symbol:  R2 / R_RES_SMD_0805_10K / RES_SMD_0805 at (5.2580 80.3708)
+
+
+Placed 28 of 28 applicable (28 total) symbols.
+
+-----------------------------------------------------------------------
+

@@ -1,0 +1,23 @@
+\t (00:00:41) allegro 16.6-2015 S051 (v16-6-112EA) Windows 32
+\t (00:00:41)     Journal start - Tue Apr 12 03:24:44 2016
+\t (00:00:41)         Host=QUANGTHANH-PC User=QUANGTHANH Pid=10236 CPUs=4
+\t (00:00:41) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:41) 
+\d (00:00:41) Design opened: E:/mlabviet/Cadence/Alegro/projects/pic1823-rcservo-usb2serial/schematic/allegro/PIC1823-RCSERVO-USB2SERIAL.brd
+\i (00:00:42) shapeedit 
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 13511.527 11486.966
+\i (00:00:42) trapsize 6608
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 13511.527 11486.965
+\t (00:00:43) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:43) trapsize 13215
+\i (00:00:52) open 
+\i (00:01:08) fillin "E:\mlabviet\Cadence\Alegro\projects\pic1823-rcservo-usb2serial\allegro\pic1823-rcservo-usb2serial.brd"
+\i (00:01:08) cd "E:\mlabviet\Cadence\Alegro\projects\pic1823-rcservo-usb2serial\allegro"
+\t (00:01:08) Opening existing design...
+\t (00:01:08) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:01:08) trapsize 10572
+\t (00:01:08)     Journal end - Tue Apr 12 03:25:11 2016
