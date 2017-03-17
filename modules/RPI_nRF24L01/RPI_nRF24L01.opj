@@ -43,9 +43,56 @@
     (DRC_Visible_Power_pins "FALSE")
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
-    (DRC_Run_Physical_Custom_DRC "FALSE"))
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "C:\DATA\git\Cadence\modules\RPI_nRF24L01\allegro\RPI_NRF24L01.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    ("Allegro Netlist Input Board File"
+       "C:\DATA\git\Cadence\modules\RPI_nRF24L01\allegro\RPI_NRF24L01.brd"))
   (Folder "Outputs"
     (File ".\rpi_nrf24l01.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\session log"
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
@@ -96,14 +143,13 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\DATA\git\Cadence\modules\RPI_nRF24L01\rpi_nrf24l01.dsn")
+         "c:\data\git\cadence\modules\rpi_nrf24l01\rpi_nrf24l01.dsn")
       (Path "Design Resources"
-         "C:\DATA\git\Cadence\modules\RPI_nRF24L01\rpi_nrf24l01.dsn"
+         "c:\data\git\cadence\modules\rpi_nrf24l01\rpi_nrf24l01.dsn"
          "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "C:\DATA\git\Cadence\modules\RPI_nRF24L01\rpi_nrf24l01.dsn"
-         "SCHEMATIC1" "PAGE1"))
+         "c:\data\git\cadence\modules\rpi_nrf24l01\rpi_nrf24l01.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -113,10 +159,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 830 156 616")
-        (Scroll "0 0")
-        (Zoom "77")
+        (Placement "44 2 3 -1 -1 -8 -31 156 830 156 616")
+        (Scroll "-169 253")
+        (Zoom "126")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\RPI_NRF24L01.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Page "PAGE1")))
+  (MPSSessionName "Thanh")
+  (ISPCBBASICLICENSE "false"))

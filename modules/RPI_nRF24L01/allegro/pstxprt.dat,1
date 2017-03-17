@@ -1,0 +1,260 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Mar-17-2017 at 14:37:34 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='RPI_NRF24L01';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS713@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins713@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins713@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS784@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins784@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins784@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS642@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins642@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins642@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR NON-POL_CAP_SMD_080_2':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1079@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1079@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1079@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR NON-POL_CAP_SMD_080_3':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1099@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1099@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1099@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR NON-POL_CAP_SMD_080_4':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1210@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1210@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1210@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR NON-POL_CAP_SMD_080_5':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1249@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1249@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1249@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR NON-POL_CAP_SMD_080_6':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1485@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1485@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1485@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR NON-POL_CAP_SMD_080_6':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1526@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1526@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1526@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS4333@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins4333@discrete.\led.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins4333@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1950@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1950@discrete.\led.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1950@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1966@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1966@discrete.\led.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1966@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1982@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1982@discrete.\led.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1982@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'RPI_HEADER_J2_40_254_RPI_HEADER':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS102@MYLIB.RPI_HEADER.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins102@mylib.\rpi_header.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins102@mylib.\rpi_header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_RES_SMD_0805_3.9NH':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS917@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins917@discrete.\inductor.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins917@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_RES_SMD_0805_8.2NH':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS933@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins933@discrete.\inductor.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins933@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_RES_SMD_0805_2.7NH':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS949@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins949@discrete.\inductor.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins949@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS4400@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins4400@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins4400@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES_SMD_0805_22K':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS463@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins463@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins463@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1848@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1848@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1848@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1864@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1864@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1864@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1880@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1880@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1880@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES_SMD_0805_1M':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1427@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1427@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1427@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'NRF24L01_QFN20_4X4_NRF24L01':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS239@MYLIB.NRF24L01.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins239@mylib.\nrf24l01.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins239@mylib.\nrf24l01.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_CRYSTAL_HC_49_16MHZ':;
+
+SECTION_NUMBER 1
+ '@RPI_NRF24L01.SCHEMATIC1(SCH_1):INS1378@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@rpi_nrf24l01.schematic1(sch_1):ins1378@discrete.\crystal.normal\(chips)',
+ P_PATH='@rpi_nrf24l01.schematic1(sch_1):page1_ins1378@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

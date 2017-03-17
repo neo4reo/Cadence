@@ -1,0 +1,9 @@
+\t (00:00:14) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:14)     Journal start - Fri Mar 17 17:20:36 2017
+\t (00:00:14)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=10560 CPUs=4
+\t (00:00:14) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:14) 
+\d (00:00:14) Design opened: C:/DATA/git/Cadence/modules/RPI_nRF24L01/allegro/RPI_NRF24L01.brd
+\i (00:00:14) generaledit 
+\i (00:00:18) exit 
+\t (00:00:19)     Journal end - Fri Mar 17 17:20:40 2017

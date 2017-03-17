@@ -1,0 +1,285 @@
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/RPI_NRF24L01.brd
+Started on   Fri Mar 17 17:07:38 2017
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 25  Unplaced 0  Total 25
+        Nets:  W/Rats 24  No/Rats 0  Total 24
+        Pins:  W/Rats 78  No/Rats 0  Unused 28  Unplaced 0  Total 106
+        Equivalent ICs (1 pin = 1/14 EIC)  7
+        Router Keepin (in) (0.0118,0.0118) by (2.5512,1.1693)
+        Board area (sq in)  2.9
+        Board density (sq in/EIC) 0.388
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 54           0           54
+        Already Connected           53           0           53
+        Missing Connections          1           0            1
+        Connection Completion       98.15%       0.00%       98.15%
+        Manh Distance (inches)      14.91
+        Etch Length (inches)        19.39        0.00        19.39
+        Number of vias		     0           0            0
+        Vias per Connection          0.00        0.00         0.00
+        Smd pins with attached clines                        66
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H 0.1270 0.5000 0.5000  0.3000 0.3000  1.0000 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V 0.1270 0.5000 0.5000  0.3000 0.3000  1.0000 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 54           0           54
+        Already Connected           53           0           53
+        Missing Connections          1           0            1
+        Connection Completion       98.15%       0.00%       98.15%
+        Etch Length (inches)        19.39        0.00        19.39
+        Number of vias		     0           0            0
+        Vias per Connection          0.00        0.00         0.00
+        Smd pins with attached clines                        66
+
+
+
+    Total cpu time - 0:0:8 hours
+    Total elapsed time - -3748:-8:-15 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Fri Mar 17 17:07:38 2017
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/RPI_NRF24L01.brd
+Started on   Fri Mar 17 17:07:38 2017
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 25  Unplaced 0  Total 25
+        Nets:  W/Rats 24  No/Rats 0  Total 24
+        Pins:  W/Rats 78  No/Rats 0  Unused 28  Unplaced 0  Total 106
+        Equivalent ICs (1 pin = 1/14 EIC)  7
+        Router Keepin (in) (0.0118,0.0118) by (2.5512,1.1693)
+        Board area (sq in)  2.9
+        Board density (sq in/EIC) 0.388
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 54           0           54
+        Already Connected           54           0           54
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Manh Distance (inches)      16.41
+        Etch Length (inches)        18.73        0.00        18.73
+        Number of vias		     0           0            0
+        Vias per Connection          0.00        0.00         0.00
+        Smd pins with attached clines                        49
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H 0.1270 0.5000 0.5000  0.3000 0.3000  1.0000 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V 0.1270 0.5000 0.5000  0.3000 0.3000  1.0000 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 54           0           54
+        Already Connected           54           0           54
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        18.73        0.00        18.73
+        Number of vias		     0           0            0
+        Vias per Connection          0.00        0.00         0.00
+        Smd pins with attached clines                        49
+
+
+
+    Total cpu time - 0:0:9 hours
+    Total elapsed time - -3748:-8:-15 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Fri Mar 17 17:07:38 2017
+
+************************************************************************
+** rt_build_pass:  failed 
+** count_invalid:  failed 
+** rt_build_pass:  failed 
+** count_invalid:  failed 
+
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/RPI_NRF24L01.brd
+Started on   Fri Mar 17 17:07:39 2017
+
+---------------------------------------------------------------------
+Statistics at the Start of the Route:
+----------------------------
+
+    Board Statistics:
+    -----------------
+        Components:  Placed 25  Unplaced 0  Total 25
+        Nets:  W/Rats 24  No/Rats 0  Total 24
+        Pins:  W/Rats 78  No/Rats 0  Unused 28  Unplaced 0  Total 106
+        Equivalent ICs (1 pin = 1/14 EIC)  7
+        Router Keepin (in) (0.0118,0.0118) by (2.5512,1.1693)
+        Board area (sq in)  2.9
+        Board density (sq in/EIC) 0.388
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 54           0           54
+        Already Connected           54           0           54
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Manh Distance (inches)      16.41
+        Etch Length (inches)        15.56        0.00        15.56
+        Number of vias		     0           0            0
+        Vias per Connection          0.00        0.00         0.00
+        Smd pins with attached clines                        53
+
+
+
+---------------------------------------------------------------------
+General Routing Parameters
+--------------------------
+
+    Checkpoint at:  Last step 1:  Last execution 1
+    Overwrite router.log
+    Auto Save ON
+    Dynamic Control OFF
+    Direct Path Router OFF
+    Component Orientation  HORIZONTAL
+    Order Connections Short First
+    Max net priority 0
+    Corner type: 45
+    Side Entry ALLOWED
+    DO NOT FORCE to Pin Escape
+    Ripup/Cleanup Pin Escapes OFF
+    Via Preference OFF
+
+
+---------------------------------------------------------------------
+Layers and Drc Rules
+--------------------
+
+    Subclass                          Spacing       Line Width
+    Idx Name                Dir   ll    lv    vv    Def   Neck    Via    Max45
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     1  TOP                  H 0.1270 0.5000 0.5000  0.3000 0.3000  1.0000 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+    --- ----                ---   --    --    --    ---   ----    ---    ---
+     2  BOTTOM               V 0.1270 0.5000 0.5000  0.3000 0.3000  1.0000 0.6350
+        X grids:     0.1000  Offset: 0.0000
+        Y grids:     0.1000  Offset: 0.0000
+
+    ATTEMPTS: 0 this step: 0 skips:  
+    count_invalid 0 in 0  0:0:0 hours
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 54           0           54
+        Already Connected           54           0           54
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        15.76        0.00        15.76
+        Number of vias		     0           0            0
+        Vias per Connection          0.00        0.00         0.00
+        Smd pins with attached clines                        53
+
+
+
+    Total cpu time - 0:0:9 hours
+    Total elapsed time - -3748:-8:-14 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Fri Mar 17 17:07:39 2017
