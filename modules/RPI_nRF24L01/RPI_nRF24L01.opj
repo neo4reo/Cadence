@@ -149,7 +149,8 @@
          "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "c:\data\git\cadence\modules\rpi_nrf24l01\rpi_nrf24l01.dsn"))
+         "c:\data\git\cadence\modules\rpi_nrf24l01\rpi_nrf24l01.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -159,9 +160,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 830 156 616")
-        (Scroll "-169 253")
-        (Zoom "126")
+        (Placement "44 0 1 -1 -1 -8 -31 182 1524 182 651")
+        (Scroll "-197 0")
+        (Zoom "77")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\RPI_NRF24L01.DSN")
       (Schematic "SCHEMATIC1")

@@ -1,0 +1,440 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Mar-20-2017 at 19:06:51 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ZM5202_PL2303';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS41280@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins41280@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins41280@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS42691@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins42691@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins42691@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS42099@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins42099@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins42099@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS42405@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins42405@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins42405@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR NON-POL_CAP_SMD_080_2':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39367@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39367@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39367@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR NON-POL_CAP_SMD_080_3':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39505@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39505@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39505@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR NON-POL_CAP_SMD_080_4':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39857@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39857@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39857@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR NON-POL_CAP_SMD_080_5':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39873@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39873@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39873@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR NON-POL_CAP_SMD_080_4':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS40435@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins40435@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins40435@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED_SMD_0805_TX LED':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS46064@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins46064@discrete.\led.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins46064@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED_SMD_0805_RX LED':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS46098@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins46098@discrete.\led.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins46098@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_SMD_0805_TRIAC LED':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39809@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39809@discrete.\led.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39809@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED_SMD_0805_ZEROX LED':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39825@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39825@discrete.\led.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39825@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_LED_SMD_0805_PWM LED':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39841@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39841@discrete.\led.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39841@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON4_J1_4_254_ZWAVE SERIAL':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39053@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39053@connector.\con4.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39053@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON10_HEADER5X2X254_ZWAVE ISP':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS40301@CONNECTOR.CON10.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins40301@connector.\con10.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins40301@connector.\con10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON6_J1_6_254_GPIO':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS40045@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins40045@connector.\con6.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins40045@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_RES_SMD_0805_INDUCTOR':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS41099@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins41099@discrete.\inductor.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins41099@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS42781@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins42781@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins42781@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS38997@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins38997@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins38997@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39125@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39125@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39125@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39187@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39187@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39187@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RES_SMD_0805_0R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39435@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39435@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39435@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS46048@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins46048@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins46048@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS46082@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins46082@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins46082@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39615@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39615@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39615@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39631@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39631@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39631@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39647@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39647@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39647@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS40247@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins40247@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins40247@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES_SMD_0805_1M':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39351@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39351@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39351@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES_SMD_0805_1.5K':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS42557@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins42557@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins42557@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES_SMD_0805_27R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS42475@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins42475@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins42475@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES_SMD_0805_27R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS42491@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins42491@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins42491@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES_SMD_0805_27R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS40383@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins40383@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins40383@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES_SMD_0805_27R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS40409@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins40409@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins40409@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES_SMD_0805_27R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS40451@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins40451@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins40451@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES_SMD_0805_27R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS40481@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins40481@discrete.\r.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins40481@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW_PB_SPST_SMD_2PIN_BUTTON_SW_P':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS44940@DISCRETE.SW_PB_SPST.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins44940@discrete.\sw_pb_spst.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins44940@discrete.\sw_pb_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'MINI USB_MINI_USB_MINIUSB':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS38857@QUANGTHANH-SCHEMATIC.MINI USB.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins38857@\quangthanh-schematic\.\mini usb.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins38857@\quangthanh-schematic\.\mini usb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'PL2303-HX_SSOP28_SSOP28_PL2303-':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS41917@MYLIB.PL2303-HX_SSOP28.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins41917@mylib.\pl2303-hx_ssop28.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins41917@mylib.\pl2303-hx_ssop28.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ZM5202_ZM5202_ZM5202AU-CME3R':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39301@QUANGTHANH-SCHEMATIC.ZM5202.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39301@\quangthanh-schematic\.\zm5202.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39301@\quangthanh-schematic\.\zm5202.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'RF-ANTENA_RF_ANTENA_5-1814832-1':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS39585@QUANGTHANH-SCHEMATIC.RF-ANTENA.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins39585@\quangthanh-schematic\.\rf-antena.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins39585@\quangthanh-schematic\.\rf-antena.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'SPI EPPROM SOIC-8_SOIC_8_25LC12':;
+
+SECTION_NUMBER 1
+ '@ZM5202_PL2303.SCHEMATIC1(SCH_1):INS40263@QUANGTHANH-SCHEMATIC.SPI EPPROM SOIC-8.NORMAL(CHIPS)':
+ C_PATH='@zm5202_pl2303.schematic1(sch_1):ins40263@\quangthanh-schematic\.\spi epprom soic-8.normal\(chips)',
+ P_PATH='@zm5202_pl2303.schematic1(sch_1):page1_ins40263@\quangthanh-schematic\.\spi epprom soic-8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : RPI_NRF24L01.brd                              )
 (    Software Version : 17.2P028                                      )
-(    Date/Time        : Fri Mar 17 17:07:38 2017                      )
+(    Date/Time        : Mon Mar 20 12:06:43 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -14,7 +14,7 @@
 
 
 Via Eliminate glossing in progress.
-Started on Fri Mar 17 17:07:38 2017
+Started on Mon Mar 20 12:06:43 2017
  with Parameters: 
    Jog limit            : -1 
    Used pin escapes        : YES 
@@ -25,7 +25,7 @@ Started on Fri Mar 17 17:07:38 2017
 
 
 Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Fri Mar 17 17:07:38 2017
+Actual time of completion: Mon Mar 20 12:06:43 2017
 
 
 Via Eliminate Total Stats:
@@ -35,7 +35,7 @@ Vias: Total Candidates = 0,  Total Eliminations = 0,  100 % Eliminatons.
 
 
 Via Eliminate glossing in progress.
-Started on Fri Mar 17 17:07:38 2017
+Started on Mon Mar 20 12:06:43 2017
  with Parameters: 
    Jog limit            : -1 
    Used pin escapes        : YES 
@@ -46,7 +46,7 @@ Started on Fri Mar 17 17:07:38 2017
 
 
 Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Fri Mar 17 17:07:38 2017
+Actual time of completion: Mon Mar 20 12:06:43 2017
 
 
 Via Eliminate Total Stats:
@@ -56,7 +56,7 @@ Vias: Total Candidates = 0,  Total Eliminations = 0,  100 % Eliminatons.
 
 
 Line entry into Pad glossing in progress.
-Started on Fri Mar 17 17:07:38 2017
+Started on Mon Mar 20 12:06:43 2017
 Bend Distance is 0.3048.
 
  Circular pads:          YES
@@ -71,39 +71,17 @@ Bend Distance is 0.3048.
  Corner type  :     45
  Maximum 45 limit is -1.
 
-Glossing attempt unsuccessful. Active pad is at (48.9000,21.3000).
-
-Glossing was successful:  SYMBOL PIN at (21.1000,25.2000) defined by pad  PAD16CIR10
-
-Glossing was successful:  SYMBOL PIN at (18.9000,22.2000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (51.9000,21.3000) defined by pad  SMD12SQ12
+Glossing attempt unsuccessful. Active pad is at (18.9000,22.2000).
 
 Glossing attempt unsuccessful. Active pad is at (22.7800,12.3000).
 
-Glossing was successful:  SYMBOL PIN at (22.7800,12.3000) defined by pad  SMD55REC15
-
-Glossing was successful:  SYMBOL PIN at (12.2800,12.3000) defined by pad  SMD55REC15
-
 Glossing attempt unsuccessful. Active pad is at (12.2800,12.3000).
 
-Glossing attempt unsuccessful. Active pad is at (31.6625,15.1000).
+Glossing attempt unsuccessful. Active pad is at (27.3000,9.3000).
 
-Glossing was successful:  SYMBOL PIN at (27.3000,9.3000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (27.3000,9.3000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (29.7000,7.2000) defined by pad  SMD12SQ12
+Glossing attempt unsuccessful. Active pad is at (27.3000,9.3000).
 
 Glossing attempt unsuccessful. Active pad is at (32.6000,13.6625).
-
-Glossing was successful:  SYMBOL PIN at (37.2000,9.3000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (34.5000,7.2000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (34.5000,9.3000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (31.8000,7.2000) defined by pad  SMD12SQ12
 
 Glossing attempt unsuccessful. Active pad is at (44.1000,13.5000).
 
@@ -111,63 +89,26 @@ Glossing attempt unsuccessful. Active pad is at (39.3000,13.5000).
 
 Glossing attempt unsuccessful. Active pad is at (35.5375,16.6000).
 
-Glossing attempt unsuccessful. Active pad is at (51.9000,19.2000).
-
-Glossing was successful:  SYMBOL PIN at (51.9000,19.2000) defined by pad  SMD12SQ12
-
-Glossing attempt unsuccessful. Active pad is at (41.7000,11.4000).
-
-Glossing attempt unsuccessful. Active pad is at (41.7000,11.4000).
-
-Glossing was successful:  SYMBOL PIN at (44.1000,11.4000) defined by pad  SMD12SQ12
-
 Error getting pad info on pad connected to active pad = -3000099. Active pad is at (27.0000,12.3000).
 
-Glossing was successful:  SYMBOL PIN at (23.7000,7.5000) defined by pad  SMD12SQ12
+Glossing attempt unsuccessful. Active pad is at (23.7000,7.5000).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (23.7000,7.5000).
 
 Glossing attempt unsuccessful. Active pad is at (34.1000,13.6625).
-
-Glossing was successful:  SYMBOL PIN at (33.8000,25.2000) defined by pad  PAD16CIR10
 
 
 Finished execution 1
 
-Glossing attempt unsuccessful. Active pad is at (48.9000,21.3000).
-
-Glossing attempt unsuccessful. Active pad is at (22.7800,12.3000).
-
-Glossing attempt unsuccessful. Active pad is at (12.2800,12.3000).
-
-Glossing attempt unsuccessful. Active pad is at (31.6625,15.1000).
-
-Glossing attempt unsuccessful. Active pad is at (32.6000,13.6625).
-
-Glossing attempt unsuccessful. Active pad is at (44.1000,13.5000).
-
-Glossing attempt unsuccessful. Active pad is at (39.3000,13.5000).
-
-Glossing attempt unsuccessful. Active pad is at (35.5375,16.6000).
-
-Glossing attempt unsuccessful. Active pad is at (41.7000,11.4000).
-
-Glossing attempt unsuccessful. Active pad is at (41.7000,11.4000).
-
-Error getting pad info on pad connected to active pad = -3000099. Active pad is at (27.0000,12.3000).
-
-Glossing attempt unsuccessful. Active pad is at (34.1000,13.6625).
-
-
-Finished execution 2
-
 
 Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Fri Mar 17 17:07:38 2017
+Actual time of completion: Mon Mar 20 12:06:43 2017
 
 
 Line Entry Into Pad Glossings Stats
 
-Number of Glossing Attempts                   : 39
-Number of Actual Glossings                    : 16
+Number of Glossing Attempts                   : 11
+Number of Actual Glossings                    : 0
 Number of Glossings Aborted by DRC violations : 0
 
 There were 2 errors reported in logfile
@@ -175,7 +116,7 @@ There were 2 errors reported in logfile
 
 
 Line Fattening glossing in progress.
-Started on Fri Mar 17 17:07:38 2017
+Started on Mon Mar 20 12:06:43 2017
 	Line Fattening Parameters
 	-------------------------
 
@@ -184,11 +125,11 @@ Started on Fri Mar 17 17:07:38 2017
 	DEFAULT			1.3000	0.0000 0.0000 0.0000 0.0000
 	TOP			0.3000	0.0000 0.0000 0.0000 0.0000
 	TOP			1.3000	0.0000 0.0000 0.0000 0.0000
-Pass 1 Candidates 183 Fattened 0 Failed 183 Skipped 0 (  0%)
+Pass 1 Candidates 152 Fattened 0 Failed 152 Skipped 0 (  0%)
 
 
 Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Fri Mar 17 17:07:38 2017
+Actual time of completion: Mon Mar 20 12:06:43 2017
 
 Number of errors from Line Fattening Glossing = 0
 There were 2 errors reported in logfile
@@ -196,7 +137,7 @@ There were 2 errors reported in logfile
 
 
 Line Smooth glossing in progress.
-Started on Fri Mar 17 17:07:38 2017
+Started on Mon Mar 20 12:06:43 2017
 
  Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
  Number of executions  : 1
@@ -207,13 +148,13 @@ Started on Fri Mar 17 17:07:38 2017
 
 
 Elapsed time:  0 hr 0 min 1 sec ( 0.00 hr)
-Actual time of completion: Fri Mar 17 17:07:39 2017
+Actual time of completion: Mon Mar 20 12:06:44 2017
 
  - 0 - Error(s) from Line smooth Glossing
 
 
 Line Centering Between Pins glossing in progress.
-Started on Fri Mar 17 17:07:39 2017
+Started on Mon Mar 20 12:06:44 2017
 
 Minimum Move Size 0.0508.
 Line spacing MINIMUM
@@ -222,7 +163,7 @@ Corner type 45
 
 
 Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Fri Mar 17 17:07:39 2017
+Actual time of completion: Mon Mar 20 12:06:44 2017
 
 
 
@@ -236,7 +177,7 @@ Number of Glossings Aborted by No-Gloss nets  : 0
 
 
 Line entry into Pad glossing in progress.
-Started on Fri Mar 17 17:07:39 2017
+Started on Mon Mar 20 12:06:44 2017
 Bend Distance is 0.3048.
 
  Circular pads:          YES
@@ -251,7 +192,7 @@ Bend Distance is 0.3048.
  Corner type  :     45
  Maximum 45 limit is -1.
 
-Glossing was successful:  SYMBOL PIN at (49.0400,25.2000) defined by pad  PAD16CIR10
+Glossing was successful:  SYMBOL PIN at (48.9000,21.3000) defined by pad  SMD12SQ12
 
 Glossing attempt unsuccessful. Active pad is at (18.9000,22.2000).
 
@@ -274,6 +215,8 @@ Glossing attempt unsuccessful. Active pad is at (39.3000,11.4000).
 Glossing was successful:  SYMBOL PIN at (39.3000,11.4000) defined by pad  SMD12SQ12
 
 Glossing attempt unsuccessful. Active pad is at (35.5375,16.6000).
+
+Glossing attempt unsuccessful. Active pad is at (51.9000,19.2000).
 
 Glossing was successful:  SYMBOL PIN at (51.9000,19.2000) defined by pad  SMD12SQ12
 
@@ -323,12 +266,12 @@ Finished execution 2
 
 
 Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Fri Mar 17 17:07:39 2017
+Actual time of completion: Mon Mar 20 12:06:44 2017
 
 
 Line Entry Into Pad Glossings Stats
 
-Number of Glossing Attempts                   : 28
+Number of Glossing Attempts                   : 29
 Number of Actual Glossings                    : 5
 Number of Glossings Aborted by DRC violations : 0
 
@@ -337,7 +280,7 @@ There were 4 errors reported in logfile
 
 
 Pad and T Fillet glossing in progress.
-Started on Fri Mar 17 17:07:39 2017
+Started on Mon Mar 20 12:06:44 2017
 
  Round pads:          YES   max size: 2.5400
  Square pads:         YES   max size: 2.5400
@@ -427,9 +370,6 @@ Started on Fri Mar 17 17:07:39 2017
 *WARNING: Can't create fillet at pad (41.7000 13.5000) on subclass TOP.
           Computed fillet point lies inside pad boundary; required to be outside.
 
-*WARNING: Can't create fillet at pad (16.8000 22.2000) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
 *WARNING: Can't create fillet at pad (35.5375 16.6000) on subclass TOP.
           Line width exceeds (unrotated) height of destination pad.
 
@@ -456,6 +396,9 @@ Started on Fri Mar 17 17:07:39 2017
 
 *WARNING: Can't create fillet at pad (35.5375 15.1000) on subclass TOP.
           Line width exceeds (unrotated) height of destination pad.
+
+*WARNING: Can't create fillet at pad (16.8000 22.2000) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
 
 *WARNING: Can't create fillet at pad (31.6625 16.6000) on subclass TOP.
           Line width exceeds (unrotated) height of destination pad.
@@ -484,7 +427,7 @@ Number of fillets rejected due to DRC errors: 0
 
 
 Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Fri Mar 17 17:07:39 2017
+Actual time of completion: Mon Mar 20 12:06:44 2017
 
 
 There were 34 errors or warnings reported in logfile.

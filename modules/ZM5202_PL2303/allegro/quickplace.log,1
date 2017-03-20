@@ -1,0 +1,31 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : ZM5202_PL2303.brd                             )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Mar 20 15:05:13 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  J2 / CON10_HEADER5X2X254_ZWAVE ISP / HEADER5X2X254 at (11.1000 19.2000)
+         Placed symbol:  J1 / CON4_J1_4_254_ZWAVE SERIAL / J1_4_254 at (18.4200 14.7200)
+         Placed symbol:  D4 / LED_LED_SMD_0805_ZEROX LED / LED_SMD_0805 at (29.7364 14.0000)
+         Placed symbol:  D5 / LED_LED_SMD_0805_PWM LED / LED_SMD_0805 at (35.7228 14.0000)
+         Placed symbol:  D3 / LED_LED_SMD_0805_TRIAC LED / LED_SMD_0805 at (41.7092 14.0000)
+         Placed symbol:  R16 / R_RES_SMD_0805_330R / RES_SMD_0805 at (47.7256 14.0000)
+         Placed symbol:  R17 / R_RES_SMD_0805_330R / RES_SMD_0805 at (53.7420 14.0000)
+         Placed symbol:  R18 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-2.6936 24.3000)
+         Placed symbol:  R6 / R_RES_SMD_0805_27R / RES_SMD_0805 at (3.3228 24.3000)
+         Placed symbol:  R7 / R_RES_SMD_0805_27R / RES_SMD_0805 at (9.3392 24.3000)
+         Placed symbol:  R8 / R_RES_SMD_0805_27R / RES_SMD_0805 at (15.3556 24.3000)
+         Placed symbol:  R9 / R_RES_SMD_0805_27R / RES_SMD_0805 at (21.3720 24.3000)
+
+
+Placed 12 of 12 applicable (12 total) symbols.
+
+-----------------------------------------------------------------------
+

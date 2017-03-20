@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : ZM5202_PL2303.brd                             )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Mar 20 23:22:45 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-363): Units system is being switched when generating drill output file data.
+
+
+ Drill files being output to directory 'C:/DATA/git/Cadence/modules/ZM5202_PL2303/production' ...
+
+
+
+     'ZM5202_PL2303-1-2.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  19.6850    0.0000/  0.0000      PLATED         21
+            2.  39.3701    0.0000/  0.0000      PLATED         20
+            3.  39.3701    3.9409/  3.9409      PLATED          2
+            4.  78.7402    0.0000/  0.0000      PLATED          5
+
+     ---- Total holes:                                         48
+
+     ---- Total head travel:              1.46 feet (0.44 meters)
+

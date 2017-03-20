@@ -4,7 +4,7 @@ X-OFFSET               0.000000
 Y-OFFSET               0.000000
 FEEDRATE               1
 COORDINATES            ABSOLUTE
-OUTPUT-UNITS           METRIC
+OUTPUT-UNITS           ENGLISH
 TOOL-ORDER             INCREASING
 REPEAT-CODES           YES
 SUPPRESS-LEAD-ZEROES   NO
@@ -13,7 +13,7 @@ SUPPRESS-EQUAL         NO
 TOOL-SELECT            NO
 OPTIMIZE_DRILLING      NO
 ENHANCED_EXCELLON      NO
-TAPE-FILE              C:/DATA/git/Cadence/modules/RPI_nRF24L01/productions/RPI_NRF24L01.drl
+TAPE-FILE              C:/DATA/git/Cadence/modules/RPI_nRF24L01/productions/RPI_NRF24L01-1-2.drl
 HEADER                 none
 LEADER                 12
 CODE                   ASCII
