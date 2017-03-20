@@ -1,0 +1,77 @@
+Mon Mar 20 12:06:07 2017				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Mon Mar 20 12:06:07 2017
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : RPI_NRF24L01.brd                              )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Mar 20 12:06:08 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Mar 20 12:06:08 2017				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/RPI_NRF24L01.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/Thanh/AppData/Local/Temp/#Taaaaab08816.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+'J2_40_254'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

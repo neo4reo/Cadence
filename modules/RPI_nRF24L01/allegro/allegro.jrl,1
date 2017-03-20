@@ -1,9 +1,32 @@
-\t (00:00:14) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:14)     Journal start - Fri Mar 17 17:20:36 2017
-\t (00:00:14)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=10560 CPUs=4
-\t (00:00:14) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:14) 
-\d (00:00:14) Design opened: C:/DATA/git/Cadence/modules/RPI_nRF24L01/allegro/RPI_NRF24L01.brd
-\i (00:00:14) generaledit 
-\i (00:00:18) exit 
-\t (00:00:19)     Journal end - Fri Mar 17 17:20:40 2017
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Mar 20 13:52:29 2017
+\t (00:00:00)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=11316 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/RPI_NRF24L01.brd
+\t (00:00:02) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:00:02) trapsize 13492
+\i (00:00:03) trapsize 13799
+\t (00:00:03) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:00:03) trapsize 13799
+\i (00:00:03) trapsize 13280
+\i (00:00:03) placementedit 
+\i (00:00:07) zoom fit 
+\t (00:00:07) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:07) trapsize 2053
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 33.6289 15.9229
+\i (00:00:10) trapsize 1026
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 33.6290 15.9229
+\i (00:00:10) trapsize 513
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 33.6290 15.9230
+\i (00:00:16) trapsize 1026
+\i (00:00:39) exit 
+\t (00:00:40)     Journal end - Mon Mar 20 13:53:09 2017

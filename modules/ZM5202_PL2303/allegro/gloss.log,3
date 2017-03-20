@@ -1,0 +1,106 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : ZM5202_PL2303.brd                             )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Mar 20 22:43:09 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+
+Line entry into Pad glossing in progress.
+Started on Mon Mar 20 22:43:09 2017
+Bend Distance is 0.3048.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (-1.8000,-12.6000).
+
+Glossing attempt unsuccessful. Active pad is at (10.7506,1.5000).
+
+Glossing attempt unsuccessful. Active pad is at (9.6000,1.2000).
+
+Glossing attempt unsuccessful. Active pad is at (26.7000,10.8000).
+
+Glossing attempt unsuccessful. Active pad is at (25.8000,3.3000).
+
+Glossing attempt unsuccessful. Active pad is at (25.8000,3.3000).
+
+Glossing attempt unsuccessful. Active pad is at (24.3000,9.6000).
+
+Glossing attempt unsuccessful. Active pad is at (18.3000,3.0000).
+
+Glossing attempt unsuccessful. Active pad is at (14.2100,12.0000).
+
+Glossing attempt unsuccessful. Active pad is at (29.8600,3.4400).
+
+Glossing attempt unsuccessful. Active pad is at (26.7000,3.0000).
+
+Glossing attempt unsuccessful. Active pad is at (14.3000,-1.4000).
+
+Glossing attempt unsuccessful. Active pad is at (12.0000,8.1000).
+
+Glossing attempt unsuccessful. Active pad is at (11.6700,12.0000).
+
+Glossing attempt unsuccessful. Active pad is at (8.1000,11.7000).
+
+Glossing attempt unsuccessful. Active pad is at (8.1000,11.7000).
+
+Glossing attempt unsuccessful. Active pad is at (3.0362,4.7000).
+
+Glossing attempt unsuccessful. Active pad is at (9.7500,-7.2000).
+
+Glossing attempt unsuccessful. Active pad is at (19.2900,12.0000).
+
+Glossing attempt unsuccessful. Active pad is at (13.8000,-7.8000).
+
+Glossing attempt unsuccessful. Active pad is at (17.4000,-8.4000).
+
+Glossing attempt unsuccessful. Active pad is at (17.4000,-8.4000).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (21.1400,-15.0000).
+
+Glossing attempt unsuccessful. Active pad is at (25.8000,1.5000).
+
+Glossing attempt unsuccessful. Active pad is at (3.0362,6.3000).
+
+Glossing attempt unsuccessful. Active pad is at (6.0000,8.1000).
+
+Glossing attempt unsuccessful. Active pad is at (3.1500,-6.3000).
+
+Glossing attempt unsuccessful. Active pad is at (5.1400,-0.0900).
+
+
+Finished execution 1
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon Mar 20 22:43:09 2017
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 27
+Number of Actual Glossings                    : 0
+Number of Glossings Aborted by DRC violations : 0
+
+There were 1 errors reported in logfile
+
+WARNING: Glossing operations may leave fillets out of date.
+
+
+Glossing complete.

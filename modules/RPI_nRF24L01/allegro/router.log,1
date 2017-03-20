@@ -1,0 +1,24 @@
+
+---------------------------------------------------------------------------
+BOARD: C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/RPI_NRF24L01.brd ROUTER: 17.2
+DATE: Fri Mar 17 17:07:38 2017        HOST: DESKTOP-TPQV6B2
+---------------------------------------------------------------------------
+Cnt St-ex Router      Att  Inv Miss Com% Drcs Vias   Etch  Cpu exec  Cpu Tot
+--------- ------    ----- ---- ---- ---- ---- ---- ------  -------- --------
+  Start    ----        54    1    1  98%   45    0    19.0  0:00:08  0:00:08
+
+---------------------------------------------------------------------------
+BOARD: C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/RPI_NRF24L01.brd ROUTER: 17.2
+DATE: Fri Mar 17 17:07:38 2017        HOST: DESKTOP-TPQV6B2
+---------------------------------------------------------------------------
+Cnt St-ex Router      Att  Inv Miss Com% Drcs Vias   Etch  Cpu exec  Cpu Tot
+--------- ------    ----- ---- ---- ---- ---- ---- ------  -------- --------
+  Start    ----        54    0    0 100%   45    0    19.0  0:00:08  0:00:08
+
+---------------------------------------------------------------------------
+BOARD: C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01/allegro/RPI_NRF24L01.brd ROUTER: 17.2
+DATE: Fri Mar 17 17:07:39 2017        HOST: DESKTOP-TPQV6B2
+---------------------------------------------------------------------------
+Cnt St-ex Router      Att  Inv Miss Com% Drcs Vias   Etch  Cpu exec  Cpu Tot
+--------- ------    ----- ---- ---- ---- ---- ---- ------  -------- --------
+  Start    ----        54    0    0 100%   45    0    16.0  0:00:09  0:00:09
