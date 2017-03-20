@@ -1,0 +1,450 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3V3          pins MOVED FROM this net (to net name listed on right)
+                                 C4.2             9.6000 -1.2000
+                                                                            GND
+                                 J2.1             1.7200 -13.050
+                                                                             5V
+                                 J3.2            23.1000  9.4600
+                                                                             5V
+                                 R1.1            25.8000  3.3000
+                                                                        N406093
+                                 R3.2             9.6000  1.2000
+                                                                           MISO
+                                 R10.1           23.7000 -10.500
+                                                                         N49201
+                                 R12.2           19.5000 -8.4000
+                                                                        N493191
+                                 U2.4            18.7600 -0.1600
+                                                                            GND
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.2            -0.8200 -13.050
+                                 U1.11            2.9500  6.3000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V           pins MOVED FROM this net (to net name listed on right)
+                                 C1.1             9.9000  8.1000
+                                                                         N49201
+                                 C3.2             9.6000 -3.3000
+                                                                            GND
+                                 J3.1            23.1000 12.0000
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DM           pins MOVED FROM this net (to net name listed on right)
+                                 R4.2             7.5000  5.1000
+                                                                         N49085
+                                 U1.2            12.2000 -2.3500
+                                                                    ZWAVE_RESET
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DP           pins MOVED FROM this net (to net name listed on right)
+                                 R3.1             7.5000  1.2000
+                                                                        N406095
+                                 R5.2             7.5000  3.3000
+                                                                            SCK
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 C3.1             7.5000 -3.3000
+                                                                            3V3
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C4.1             7.5000 -1.2000
+                                                                            3V3
+                                 R2.2             8.1000 11.7000
+                                                                         N49001
+                                 U1.5            12.2000  2.1500
+                                                                           P1.5
+                                 U3.1             8.4000  8.4000
+                                                                           P1.5
+                                 U3.6            10.9400  2.6600
+                                                                            SCK
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 J1.7            10.9800 -15.000
+                                 J1.9             8.4400 -15.000
+                                 J3.39           -25.160 12.0000
+                                 U1.6            12.2000  3.6500
+                                 U1.12           -0.3000  3.6500
+                                 U1.17           -0.3000 -4.6000
+                                 U1.18            5.7000 -7.3000
+                                 U2.2            23.8400 -5.2400
+                                 U2.3            18.7600 -5.2400
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MISO         pins MOVED FROM this net (to net name listed on right)
+                                 R7.2             5.5500 -6.3000
+                                                                            3V3
+                                 U3.7             9.6700  2.6600
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MOSI         pins MOVED FROM this net (to net name listed on right)
+                                 R6.2             3.1500 -6.3000
+                                                                    ZWAVE_RESET
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.9             5.9500  6.3000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N39079       pins MOVED FROM this net (to net name listed on right)
+                                 R10.2           21.6000 -10.500
+                                                                         N49209
+                                 R11.1           19.5000 -10.500
+                                                                            3V3
+                                 SW1.1           26.1000 -6.9000
+                                                                         N49001
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N39229       pins MOVED FROM this net (to net name listed on right)
+                                 R11.2           17.4000 -10.500
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                        N493031
+                                 U3.3            10.9400  8.4000
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N39287       pins MOVED FROM this net (to net name listed on right)
+                                 C5.1             6.0000  9.9000
+                                                                             5V
+                                 R2.1             6.0000 11.7000
+                                                                            3V3
+                                 U1.7             8.9500  6.3000
+                                                                           MISO
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N39473       pins MOVED FROM this net (to net name listed on right)
+                                 C6.1            24.6000  3.0000
+                                                                            3V3
+                                 R13.1           24.6000  0.9000
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N39481       pins MOVED FROM this net (to net name listed on right)
+                                 R13.2           26.7000  0.9000
+                                                                        N493351
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N41115       pins MOVED FROM this net (to net name listed on right)
+                                 U1.1            12.2000 -4.6000
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42507       pins MOVED FROM this net (to net name listed on right)
+                                 R4.1             9.6000  5.1000
+                                                                         N49001
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42519       pins MOVED FROM this net (to net name listed on right)
+                                 R5.1             9.6000  3.3000
+                                                                        N406097
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42742       pins MOVED FROM this net (to net name listed on right)
+                                 C2.2            25.8000  1.5000
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42807       pins MOVED FROM this net (to net name listed on right)
+                                 R1.2            25.8000  5.4000
+                                                                           MOSI
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N49085       pins ADDED TO this new net
+                                 U1.3            12.2000 -0.8500
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N49201       pins ADDED TO this new net
+                                 U1.19            7.4500 -7.2000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N49209       pins ADDED TO this new net
+                                 U2.1            21.3000 -2.7000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N396251      pins MOVED FROM this net (to net name listed on right)
+                                 D3.2            33.6000  7.2000
+                                                                        N493031
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N396411      pins MOVED FROM this net (to net name listed on right)
+                                 D4.2            29.1000  7.2000
+                                                                        N493191
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N396571      pins MOVED FROM this net (to net name listed on right)
+                                 D5.2            24.3000  9.6000
+                                                                        N493351
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N403273      pins MOVED FROM this net (to net name listed on right)
+                                 J2.4            -5.9000 -13.050
+                                                                          ZEROX
+                                 R6.1             3.1500 -8.4000
+                                                                        N406099
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N403275      pins MOVED FROM this net (to net name listed on right)
+                                 J2.6            -10.980 -13.050
+                                                                            GND
+                                 R7.1             5.5500 -8.4000
+                                                                    ZWAVE_RESET
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N403277      pins MOVED FROM this net (to net name listed on right)
+                                 R8.1             8.1000 -8.7000
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N403279      pins MOVED FROM this net (to net name listed on right)
+                                 R9.1            11.7000 -7.8000
+                                                                            3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N406093      pins ADDED TO this new net
+                                 J1.4            16.0600 -17.540
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N406095      pins ADDED TO this new net
+                                 J1.6            13.5200 -17.540
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N406097      pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J1.8            10.9800 -17.540
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N406099      pins ADDED TO this new net
+                                 J1.10            8.4400 -17.540
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N460581      pins MOVED FROM this net (to net name listed on right)
+                                 D1.2            -3.3000 -6.0000
+                                                                        N463171
+                                 R14.2           -3.3000 -4.2000
+                                                                           P1.5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N460921      pins MOVED FROM this net (to net name listed on right)
+                                 D2.2            -3.3000 -0.6000
+                                                                        N463331
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1.5         pins MOVED FROM this net (to net name listed on right)
+                                 U3.5            12.2100  2.6600
+                                                                           MOSI
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWM          pins MOVED FROM this net (to net name listed on right)
+                                 U3.4            12.2100  8.4000
+                                                                            GND
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.3            -3.3600 -13.050
+                                 U1.4            12.2000  0.6500
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RPI_RX       pins ADDED TO this new net
+                                 J3.10           12.9400  9.4600
+                                 U1.15           -0.3000 -0.8500
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RPI_TX       pins ADDED TO this new net
+                                 J3.8            15.4800  9.4600
+                                 U1.10            4.4500  6.3000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX           pins MOVED FROM this net (to net name listed on right)
+                                 D2.1            -1.2000 -0.6000
+                                                                         RPI_RX
+                                 U2.5            23.8400 -0.1600
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK          pins MOVED FROM this net (to net name listed on right)
+                                 R8.2             8.1000 -6.6000
+                                                                        N463171
+                                 U3.8             8.4000  2.6600
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                            3V3
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.8             7.4500  6.3000
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TRIAC        pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.5            -8.4400 -13.050
+                                 U1.13           -0.3000  2.1500
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TX           pins MOVED FROM this net (to net name listed on right)
+                                 D1.1            -1.2000 -6.0000
+                                                                         RPI_TX
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ZEROX        pins MOVED FROM this net (to net name listed on right)
+                                 J3.4            20.5600  9.4600
+                                                                             5V
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.14           -0.3000  0.6500
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ZWAVE_RESET  pins MOVED FROM this net (to net name listed on right)
+                                 R9.2            13.8000 -7.8000
+                                                                        N463331
+                                 R12.1           17.4000 -8.4000
+                                                                            3V3
+                                 U3.2             9.6700  8.4000
+                                                                           MISO
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAPACITOR NON-POL_CAP_SMD_0805_
+ CAPACITOR NON-POL_CAP_SMD_080_1
+ CAPACITOR NON-POL_CAP_SMD_080_2
+ CAPACITOR NON-POL_CAP_SMD_080_3
+ CON10_HEADER5X2X254_ZWAVE ISP
+ CON6_J1_6_254_GPIO
+ RPI_HEADER_J2_40_254_RPI_HEADER
+ R_RES_SMD_0805_0R
+ ZM5202_ZM5202_ZM5202AU-CME3R
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C7                  CAPACITOR NON-POL_CAP_SMD_080_4  4.5000  9.3000
+ C8                  CAPACITOR NON-POL_CAP_SMD_080_5  4.5000 11.4000
+ C9                  CAPACITOR NON-POL_CAP_SMD_080_4 -3.1500 -4.2000
+ L1                  INDUCTOR_RES_SMD_0805_INDUCTOR  6.0000  8.1000
+ R15                 R_RES_SMD_0805_330R   -1.2000 -2.4000
+ R16                 R_RES_SMD_0805_330R   36.0000  9.3000
+ R17                 R_RES_SMD_0805_330R   30.9000  9.3000
+ R18                 R_RES_SMD_0805_330R   26.7000 10.8000
+ R19                 R_RES_SMD_0805_10K    -1.8000 -12.600
+ U4                  RF-ANTENA_RF_ANTENA_5-1814832-1 32.4000  0.9000
+ U5                  SPI EPPROM SOIC-8_SOIC_8_25LC12 -0.6000 -3.9000
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAPACITOR NON-POL_CAP_SMD_0805_  9.9000  8.1000 CAPACITOR NON-POL_CAP_SMD_0805_
+ C2                  CAPACITOR NON-POL_CAP_SMD_080_1 25.8000 -0.6000 CAPACITOR NON-POL_CAP_SMD_080_1
+ C3                  CAPACITOR NON-POL_CAP_SMD_080_2  7.5000 -3.3000 CAPACITOR NON-POL_CAP_SMD_080_1
+ C4                  CAPACITOR NON-POL_CAP_SMD_080_3  7.5000 -1.2000 CAPACITOR NON-POL_CAP_SMD_080_1
+ C5                  CAPACITOR NON-POL_CAP_SMD_080_3  6.0000  9.9000 CAPACITOR NON-POL_CAP_SMD_080_2
+ C6                  CAPACITOR NON-POL_CAP_SMD_080_1 24.6000  3.0000 CAPACITOR NON-POL_CAP_SMD_080_3
+ J1                  CON10_HEADER5X2X254_ZWAVE ISP 18.6000 -15.000 CON4_J1_4_254_ZWAVE SERIAL
+ J2                  CON6_J1_6_254_GPIO     0.4500 -13.050 CON10_HEADER5X2X254_ZWAVE ISP
+ J3                  RPI_HEADER_J2_40_254_RPI_HEADER 23.1000 12.0000 CON6_J1_6_254_GPIO
+ R1                  R_RES_SMD_0805_27R    25.8000  3.3000 R_RES_SMD_0805_4.7K
+ R2                  R_RES_SMD_0805_10K     6.0000 11.7000 R_RES_SMD_0805_1M
+ R3                  R_RES_SMD_0805_27R     7.5000  1.2000 R_RES_SMD_0805_1.5K
+ R4                  R_RES_SMD_0805_1K      9.6000  5.1000 R_RES_SMD_0805_27R
+ R7                  R_RES_SMD_0805_10K     5.5500 -8.4000 R_RES_SMD_0805_27R
+ R8                  R_RES_SMD_0805_330R    8.1000 -8.7000 R_RES_SMD_0805_27R
+ R9                  R_RES_SMD_0805_330R   11.7000 -7.8000 R_RES_SMD_0805_27R
+ R10                 R_RES_SMD_0805_0R     23.7000 -10.500 R_RES_SMD_0805_10K
+ R11                 R_RES_SMD_0805_330R   19.5000 -10.500 R_RES_SMD_0805_1K
+ R12                 R_RES_SMD_0805_330R   17.4000 -8.4000 R_RES_SMD_0805_10K
+ R13                 R_RES_SMD_0805_330R   24.6000  0.9000 R_RES_SMD_0805_0R
+ R14                 R_RES_SMD_0805_10K    -1.2000 -4.2000 R_RES_SMD_0805_330R
+ U1                  ZM5202_ZM5202_ZM5202AU-CME3R -0.3000  6.3000 MINI USB_MINI_USB_MINIUSB
+ U2                  RF-ANTENA_RF_ANTENA_5-1814832-1 21.3000 -2.7000 PL2303-HX_SSOP28_SSOP28_PL2303-
+ U3                  SPI EPPROM SOIC-8_SOIC_8_25LC12  8.4000  8.4000 ZM5202_ZM5202_ZM5202AU-CME3R
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2            9.9000  8.1000 PRIM_FILE      .\pstchip.dat
+ C2.2           25.8000 -0.6000 PRIM_FILE      .\pstchip.dat
+ C3.2            7.5000 -3.3000 PRIM_FILE      .\pstchip.dat
+ C4.2            7.5000 -1.2000 PRIM_FILE      .\pstchip.dat
+ C5.2            6.0000  9.9000 PRIM_FILE      .\pstchip.dat
+ C6.2           24.6000  3.0000 PRIM_FILE      .\pstchip.dat
+ J1.9           18.6000 -15.000 PRIM_FILE      .\pstchip.dat
+ J2.6            0.4500 -13.050 PRIM_FILE      .\pstchip.dat
+ J3.21          23.1000 12.0000 PRIM_FILE      .\pstchip.dat
+ R1.2           25.8000  3.3000 PRIM_FILE      .\pstchip.dat
+ R2.2            6.0000 11.7000 PRIM_FILE      .\pstchip.dat
+ R3.2            7.5000  1.2000 PRIM_FILE      .\pstchip.dat
+ R4.2            9.6000  5.1000 PRIM_FILE      .\pstchip.dat
+ R7.2            5.5500 -8.4000 PRIM_FILE      .\pstchip.dat
+ R8.2            8.1000 -8.7000 PRIM_FILE      .\pstchip.dat
+ R9.2           11.7000 -7.8000 PRIM_FILE      .\pstchip.dat
+ R10.2          23.7000 -10.500 PRIM_FILE      .\pstchip.dat
+ R11.2          19.5000 -10.500 PRIM_FILE      .\pstchip.dat
+ R12.2          17.4000 -8.4000 PRIM_FILE      .\pstchip.dat
+ R13.2          24.6000  0.9000 PRIM_FILE      .\pstchip.dat
+ R14.2          -1.2000 -4.2000 PRIM_FILE      .\pstchip.dat
+ U1.16          -0.3000  6.3000 PRIM_FILE      .\pstchip.dat
+ U2.1           21.3000 -2.7000 PRIM_FILE      .\pstchip.dat
+ U3.3            8.4000  8.4000 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd         |
+|                                                    Mon Mar 20 23:57:45 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      92                                        |
+|       Comp definitions added:       9                                        |
+|       Components deleted    :      11                                        |
+|       Components changed    :      24                                        |
+|       Slot property added   :      24                                        |
+|                                                                              |
+|   Total ECO changes reported:     160                                        |
+|------------------------------------------------------------------------------|

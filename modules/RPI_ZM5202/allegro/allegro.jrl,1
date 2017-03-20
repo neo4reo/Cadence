@@ -1,0 +1,17 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Mar 20 23:57:08 2017
+\t (00:00:00)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=17296 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -mpssession Thanh C:\DATA\GIT\CADENCE\MODULES\RPI_ZM5202\allegro\RPI_ZM5202.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro/RPI_ZM5202.brd
+\i (00:00:02) trapsize 6688
+\i (00:00:02) trapsize 6840
+\i (00:00:02) trapsize 11111
+\i (00:00:03) trapsize 11288
+\i (00:00:03) placementedit 
+\i (00:00:04) exit 
+\e (00:00:04) Do you want to save the changes you made to RPI_ZM5202.brd?
+\i (00:00:06) fillin yes 
+\t (00:00:06)     Journal end - Mon Mar 20 23:57:15 2017

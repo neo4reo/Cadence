@@ -1,13 +1,29 @@
-(ExpressProject "RPI_nRF24L01"
+(ExpressProject "RPI_ZM5202"
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
     (NoModify)
-    (File ".\rpi_nrf24l01.dsn"
+    (File ".\rpi_zm5202.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
     (DRC_Scope "0")
     (DRC_Action "0")
     (DRC_Create_Warnings "FALSE")
@@ -15,8 +31,7 @@
     (DRC_Preserved_Waived "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
-    (DRC_Report_File
-       "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\RPI_NRF24L01.DRC")
+    (DRC_Report_File "C:\DATA\GIT\CADENCE\MODULES\RPI_ZM5202\RPI_ZM5202.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -44,29 +59,13 @@
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
-    (ANNOTATE_Scope "0")
-    (ANNOTATE_Mode "1")
-    (ANNOTATE_Action "0")
-    (Annotate_Page_Order "0")
-    (ANNOTATE_Reset_References_to_1 "FALSE")
-    (ANNOTATE_No_Page_Number_Change "FALSE")
-    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
-    (ANNOTATE_IncludeNonPrimitive "FALSE")
-    (ANNOTATE_PreserveDesignator "FALSE")
-    (ANNOTATE_PreserveUserEdits "FALSE")
-    (ANNOTATE_Refdes_Control_Required "FALSE")
-    (Update_Instace_for_External_Design "FALSE")
-    (Annotate_type "Default")
-    (width_pages "100")
-    (width_start "80")
-    (width_End "80")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory" "allegro")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Output Board File"
-       "C:\DATA\git\Cadence\modules\RPI_nRF24L01\allegro\RPI_NRF24L01.brd")
+       "C:\DATA\git\Cadence\modules\RPI_ZM5202\allegro\RPI_ZM5202.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -79,9 +78,9 @@
     ("Allegro Netlist User Defined Property" "FALSE")
     (Netlist_TAB "0")
     ("Allegro Netlist Input Board File"
-       "C:\DATA\git\Cadence\modules\RPI_nRF24L01\allegro\RPI_NRF24L01.brd"))
+       "C:\DATA\git\Cadence\modules\RPI_ZM5202\allegro\RPI_ZM5202.brd"))
   (Folder "Outputs"
-    (File ".\rpi_nrf24l01.drc"
+    (File ".\rpi_zm5202.drc"
       (Type "Report"))
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -91,81 +90,40 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat"))
-    (File ".\session log"
-      (Type "Report")))
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
+  (MPSSessionName "Thanh")
   (PartMRUSelector
     (GND
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (LED
-      (FullPartName "LED.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (R
-      (FullPartName "R.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (VCC
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (CRYSTAL
-      (FullPartName "CRYSTAL.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (INDUCTOR
-      (FullPartName "INDUCTOR.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    ("CAPACITOR NON-POL"
-      (FullPartName "CAPACITOR NON-POL.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (nRF24L01
-      (FullPartName "nRF24L01.Normal")
-      (LibraryName
-         "C:\DATA\GIT\HARDWARE\LIBRARY\CADENCELIB\SCHEMATICS\MYLIB.OLB")
-      (DeviceIndex "0"))
-    (RPI_HEADER
-      (FullPartName "RPI_HEADER.Normal")
-      (LibraryName
-         "C:\DATA\GIT\HARDWARE\LIBRARY\CADENCELIB\SCHEMATICS\MYLIB.OLB")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "c:\data\git\cadence\modules\rpi_nrf24l01\rpi_nrf24l01.dsn")
+         "C:\DATA\git\Cadence\modules\RPI_ZM5202\rpi_zm5202.dsn")
       (Path "Design Resources"
-         "c:\data\git\cadence\modules\rpi_nrf24l01\rpi_nrf24l01.dsn"
-         "SCHEMATIC1")
+         "C:\DATA\git\Cadence\modules\RPI_ZM5202\rpi_zm5202.dsn" "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "c:\data\git\cadence\modules\rpi_nrf24l01\rpi_nrf24l01.dsn"
-         "SCHEMATIC1" "PAGE1"))
+         "C:\DATA\git\Cadence\modules\RPI_ZM5202\rpi_zm5202.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 421"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 430"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1524 182 651")
-        (Scroll "0 30")
-        (Zoom "154")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1740 104 573")
+        (Scroll "-344 0")
+        (Zoom "77")
         (Occurrence "/"))
-      (Path "C:\DATA\GIT\CADENCE\MODULES\RPI_NRF24L01\RPI_NRF24L01.DSN")
+      (Path "C:\DATA\GIT\CADENCE\MODULES\RPI_ZM5202\RPI_ZM5202.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (MPSSessionName "Thanh")
   (ISPCBBASICLICENSE "false"))
