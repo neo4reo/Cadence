@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : RPI_ZM5202.brd                                )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon Mar 20 23:58:23 2017                      )
+(    Date/Time        : Tue Mar 21 00:32:21 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -63,7 +63,7 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 ------ Summary Statistics ------
 
 
-netrev run on Mar 20 23:58:23 2017
+netrev run on Mar 21 0:32:21 2017
    DESIGN NAME : 'RPI_ZM5202'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -88,6 +88,6 @@ netrev run on Mar 20 23:58:23 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:26
+cpu time      0:00:22
 elapsed time  0:00:00
 

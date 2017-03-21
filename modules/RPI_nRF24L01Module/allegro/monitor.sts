@@ -1,0 +1,22 @@
+#Allegro PCB Router v17-2-50 made 2016/03/28 at 15:56:36
+#Host 
+#ROUTING STATUS <<< C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn >>>
+Start  Time: Report Time: Tue Mar 21 23:58:55 2017
+
+Nets         =       18   Connections         =       32
+Current Wire =       42   Reroute wires       =       42
+Completion   =  100.00%   Unconnections       =        0
+| ROUTING HISTORY ================================================================
+|     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+|   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+|----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+| Bus      |  0|     0|     0|   0|   32|    0|    0|   0|   |  0:00:00|  0:00:00|
+| Route    |  1|    11|     0|   1|    1|    6|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  2|    11|     0|   0|    0|    9|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  3|     8|     0|   2|    0|    8|    0|   0| 27|  0:00:00|  0:00:00|
+| Route    |  4|     0|     0|   1|    0|   14|    0|   0|100|  0:00:00|  0:00:00|
+| Clean    |  5|     0|     0|   0|    0|   13|    0|   0|   |  0:00:00|  0:00:00|
+| Clean    |  6|     0|     0|   0|    0|   13|    0|   0|   |  0:00:00|  0:00:00|
+| Clean    |  7|     0|     0|   0|    0|   12|    0|   0|   |  0:00:00|  0:00:00|
+| Clean    |  8|     0|     0|   0|    0|   12|    0|   0|   |  0:00:01|  0:00:01|
+| Conflicts between polygon wires and fixed objects:   0

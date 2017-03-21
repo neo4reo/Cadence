@@ -1,135 +1,111 @@
-\t (00:00:25) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:25)     Journal start - Thu Mar 16 23:23:46 2017
-\t (00:00:25)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=6708 CPUs=4
-\t (00:00:25) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:25) 
-\d (00:00:25) Design opened: C:/DATA/git/Cadence/modules/arduino_stm8_lcd_nrf24l01/allegro/ARDUINO_STM8_LCD_NRF24.brd
-\i (00:00:25) generaledit 
-\i (00:00:27) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:00:28) zoom out 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom out 35.4640 -57.0855
-\i (00:00:28) trapsize 1225
-\i (00:00:28) zoom out 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom out 35.3415 -56.8893
-\i (00:00:28) trapsize 2451
-\i (00:00:28) zoom out 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom out 34.9003 -56.8894
-\t (00:00:28) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:28) trapsize 4902
-\i (00:00:28) zoom out 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom out 33.5277 -57.2815
-\t (00:00:28) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:00:28) trapsize 9804
-\i (00:00:28) zoom out 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom out 95.6838 -42.1580
-\t (00:00:28) Grids are drawn 2.4000, 2.4000 apart for enhanced viewability.
-\i (00:00:28) trapsize 19608
-\i (00:00:29) zoom in 1 
-\i (00:00:29) setwindow pcb
-\i (00:00:29) zoom in 73.1372 -5.6863
-\t (00:00:29) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:00:29) trapsize 9804
-\i (00:00:30) 3d_viewer 
-\i (00:00:32) setwindow pcb3D
-\i (00:00:32) trapsize 9804
+\t (00:00:30) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:30)     Journal start - Tue Mar 21 19:10:52 2017
+\t (00:00:30)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=17348 CPUs=4
+\t (00:00:30) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:30) 
+\d (00:00:30) Design opened: C:/DATA/git/Cadence/modules/arduino_stm8_lcd_nrf24l01/allegro/ARDUINO_STM8_LCD_NRF24.brd
+\i (00:00:30) placementedit 
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 22.8280 -49.0080
+\t (00:00:31) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:31) trapsize 8254
+\i (00:00:32) zoom out 1 
 \i (00:00:32) setwindow pcb
-\i (00:00:32) generaledit 
-\i (00:00:33) trapsize 9804
-\i (00:00:36) pick grid 26.0784 -58.6274
-\t (00:00:36) last pick:  26.1000 -58.5000
-\i (00:00:38) pick grid 73.1372 -63.1372
-\t (00:00:38) last pick:  73.2000 -63.0000
-\i (00:00:39) zoom in 1 
-\i (00:00:39) setwindow pcb
-\i (00:00:39) zoom in 78.0392 -49.0196
-\t (00:00:39) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:39) trapsize 4902
-\i (00:00:39) zoom in 1 
-\i (00:00:39) setwindow pcb
-\i (00:00:39) zoom in 78.0392 -49.0195
-\i (00:00:39) trapsize 2451
-\i (00:00:39) zoom out 1 
-\i (00:00:39) setwindow pcb
-\i (00:00:39) zoom out 77.8921 -49.1666
-\i (00:00:39) trapsize 4902
-\i (00:00:39) zoom out 1 
-\i (00:00:39) setwindow pcb
-\i (00:00:39) zoom out 77.3039 -49.1666
-\t (00:00:39) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:00:39) trapsize 9804
-\i (00:00:40) zoom out 1 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) zoom out 76.2745 -49.1665
-\t (00:00:40) Grids are drawn 2.4000, 2.4000 apart for enhanced viewability.
-\i (00:00:40) trapsize 19608
-\i (00:00:40) zoom out 1 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) zoom out 302.5490 -93.5294
-\i (00:00:40) trapsize 19608
-\i (00:00:48) open 
-\i (00:01:20) fillin "menu_cancel"
-\i (00:01:20) generaledit 
-\i (00:01:36) xhilite 
-\i (00:01:36) xrefdes Reset 
-\i (00:01:36) xname_flush 
-\i (00:01:36) trapsize 2029
-\t (00:01:36) Symbol "Reset" highlighted.
-\i (00:01:36) done 
-\i (00:01:37) generaledit 
-\i (00:01:57) xhilite 
-\i (00:01:57) xname_flush 
-\i (00:01:57) done 
-\i (00:01:57) generaledit 
-\i (00:04:11) xhilite 
-\i (00:04:11) xname_flush 
-\i (00:04:11) done 
-\i (00:04:11) generaledit 
-\i (00:04:12) zoom out 1 
-\i (00:04:12) setwindow pcb
-\i (00:04:12) zoom out -6.9650 -59.4052
-\t (00:04:12) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:04:12) trapsize 4058
-\i (00:04:14) refresh symbol 
-\i (00:04:19) setwindow form.upd_element
-\i (00:04:19) FORM upd_element tree 'MULTISEL YES' SMD_2PIN_BUTTON 'Package symbols' 
-\i (00:04:19) FORM upd_element tree  SMD_2PIN_BUTTON 'Package symbols' 
-\i (00:04:20) FORM upd_element refresh  
-\t (00:04:20) Starting Refresh Symbol...
-\t (00:04:21) Opening existing design...
-\t (00:04:21) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:04:21) setwindow pcb
-\i (00:04:21) trapsize 4058
-\i (00:04:23) setwindow form.upd_element
-\i (00:04:23) FORM upd_element close  
-\i (00:04:23) setwindow pcb
-\i (00:04:23) generaledit 
-\i (00:04:25) 3d_viewer 
-\i (00:04:27) setwindow pcb3D
-\i (00:04:27) trapsize 4058
-\i (00:04:27) setwindow pcb
-\i (00:04:27) generaledit 
-\i (00:04:29) trapsize 4058
-\i (00:04:36) pick grid 8.7820 -70.1197
-\t (00:04:36) last pick:  8.7000 -70.2000
-\i (00:04:41) setwindow pcb3D
-\i (00:04:41) view3d export 
-\i (00:04:47) setwindow pcb
-\i (00:04:47) save 
-\i (00:04:49) fillin yes 
-\i (00:04:49) generaledit 
-\i (00:04:52) setwindow pcb3D
-\i (00:04:52) view3d export 
-\i (00:04:56) fillin "C:\Users\Thanh\Desktop\Board.bmp"
-\i (00:04:56) cd "C:\Users\Thanh\Desktop"
-\i (00:04:56) view3d export "C:/Users/Thanh/Desktop/Board.bmp" 
-\t (00:11:02) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:11:02) setwindow pcb
-\i (00:11:02) trapsize 10190
-\i (00:11:02) trapsize 9974
-\i (00:11:04) exit 
-\t (00:11:04)     Journal end - Thu Mar 16 23:34:26 2017
+\i (00:00:32) zoom out 30.6056 -22.7591
+\t (00:00:32) Grids are drawn 2.4000, 2.4000 apart for enhanced viewability.
+\i (00:00:32) trapsize 16509
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 50.7463 0.8899
+\t (00:00:32) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:33) trapsize 8254
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in -12.4460 -0.9260
+\t (00:00:33) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:33) trapsize 4127
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -2.0455 1.1376
+\t (00:00:33) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:33) trapsize 8254
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 38.0708 -10.5836
+\t (00:00:34) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:34) trapsize 4127
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 37.9883 -10.7487
+\i (00:00:34) trapsize 2064
+\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 39.1027 -5.1357
+\i (00:00:38) trapsize 4127
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 37.1216 -3.8976
+\t (00:00:38) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:38) trapsize 8254
+\i (00:00:42) artwork 
+\i (00:00:44) setwindow form.film_control
+\i (00:00:44) FORM film_control shape_update  
+\i (00:00:44) setwindow form.status
+\i (00:00:44) FORM status fill_update  
+\t (00:00:44) Updating dynamic shape (1 of 2) Gnd, Boundary/Top @ (-9.5999 -61.4999) ...
+\t (00:00:44) Updating dynamic shape (2 of 2) 5V, Boundary/Top @ (8.1000 -38.7000) ...
+\i (00:00:45) FORM status drc_update  
+\t (00:00:45) Running DRC, wait...
+\t (00:00:45) Performing DRC...
+\t (00:00:45) Multithreaded DRC update (4 threads).
+\t (00:00:45) DRC done; 24 errors detected.
+\t (00:00:46) DRC done.
+\i (00:00:47) FORM status done  
+\i (00:00:48) setwindow form.film_control
+\i (00:00:48) FORM film_control ok  
+\i (00:00:49) setwindow pcb
+\i (00:00:49) placementedit 
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 40.7535 -14.4632
+\t (00:00:50) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:50) trapsize 4127
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 40.7536 -15.2061
+\i (00:00:50) trapsize 2064
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 40.7536 -16.4443
+\i (00:00:50) trapsize 1032
+\i (00:00:50) zoom out 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom out 41.2489 -15.2680
+\i (00:00:50) trapsize 2064
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 41.4140 -14.2775
+\i (00:00:51) trapsize 4127
+\i (00:00:57) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOT_DS"
+\i (00:00:57) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOT_DS"
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 25.8957 -15.7632
+\t (00:00:58) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:58) trapsize 8254
+\i (00:01:00) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:01) 3d_viewer 
+\i (00:01:03) setwindow pcb3D
+\i (00:01:03) trapsize 8254
+\i (00:01:03) setwindow pcb
+\i (00:01:03) placementedit 
+\i (00:01:05) setwindow pcb3D
+\i (00:01:05) trapsize 8254
+\i (00:01:23) setwindow pcb
+\i (00:01:23) exit 
+\e (00:01:23) Do you want to save the changes you made to ARDUINO_STM8_LCD_NRF24.brd?
+\i (00:01:25) fillin yes 
+\t (00:01:25)     Journal end - Tue Mar 21 19:11:46 2017

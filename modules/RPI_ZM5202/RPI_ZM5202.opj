@@ -104,12 +104,12 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\DATA\git\Cadence\modules\RPI_ZM5202\rpi_zm5202.dsn")
+         "c:\data\git\cadence\modules\rpi_zm5202\rpi_zm5202.dsn")
       (Path "Design Resources"
-         "C:\DATA\git\Cadence\modules\RPI_ZM5202\rpi_zm5202.dsn" "SCHEMATIC1")
+         "c:\data\git\cadence\modules\rpi_zm5202\rpi_zm5202.dsn" "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "C:\DATA\git\Cadence\modules\RPI_ZM5202\rpi_zm5202.dsn"))
+         "c:\data\git\cadence\modules\rpi_zm5202\rpi_zm5202.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -120,8 +120,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1740 104 573")
-        (Scroll "-344 0")
-        (Zoom "77")
+        (Scroll "0 15")
+        (Zoom "154")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\RPI_ZM5202\RPI_ZM5202.DSN")
       (Schematic "SCHEMATIC1")

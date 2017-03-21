@@ -1,0 +1,393 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Tue Mar 21 00:52:28 2017
+# 
+# Allegro PCB Router v17-2-50 made 2016/03/28 at 15:56:36
+# Running on: desktop-tpqv6b2, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202.dsn
+# Batch File Name: pasde.do
+# Did File Name: C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro/specctra.did
+# Current time = Tue Mar 21 00:52:29 2017
+# PCB C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro
+# Master Unit set up as: MM 100000
+# PCB Limits xlo=-46.7500 ylo=-30.8000 xhi= 46.7500 yhi= 30.8000
+# Total 26 Images Consolidated.
+# Via VIA z=1, 2 xlo= -0.5000 ylo= -0.5000 xhi=  0.5000 yhi=  0.5000
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# Wires Processed 0, Vias Processed 0
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 32, Images Processed 42, Padstacks Processed 11
+# Nets Processed 26, Net Terminals 102
+# PCB Area= 4760.000  EIC=10  Area/EIC=476.000  SMDs=28
+# Total Pin Count: 140
+# Signal Connections Created 76
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202.dsn
+# Nets 26 Connections 76 Unroutes 76
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 1043.1200 Horizontal 700.9381 Vertical 342.1819
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 1043.1200 Horizontal 652.1800 Vertical 390.9400
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Loading Do File pasde.do ...
+# Loading Do File C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <# Loading Do File C:/Users/Thanh/AppData/Local/Temp/#Taaaaad04164.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 0
+grid wire 0.000100 (direction x) (offset 0.000000)
+grid wire 0.000100 (direction y) (offset 0.000000)
+grid via 0.000100 (direction x) (offset 0.000000)
+grid via 0.000100 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+smart_route (auto_fanout off) (auto_testpoint off) (auto_miter off)
+# Smart Route: Executing bus diagonal.
+# Diagonal wire corners are preferred.
+# Current time = Tue Mar 21 00:52:34 2017
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202.dsn
+# Nets 26 Connections 76 Unroutes 76
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 1043.1200 Horizontal 700.9381 Vertical 342.1819
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 1043.1200 Horizontal 652.1800 Vertical 390.9400
+# Attempts 2 Successes 2 Failures 0 Vias 0
+# 90 degree wire corners are preferred.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202.dsn
+# Nets 26 Connections 76 Unroutes 74
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    2.63
+# Manhattan Length 1043.1200 Horizontal 700.9381 Vertical 342.1819
+# Routed Length   4.8000 Horizontal   4.8000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0046
+# Unconnected Length 1038.3200 Horizontal 647.3800 Vertical 390.9400
+# Smart Route: Bus successful, 2 of 2 wires routed.
+# 90 degree wire corners are preferred.
+# Smart Route: Executing 25 route passes.
+# Current time = Tue Mar 21 00:52:34 2017
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202.dsn
+# Nets 26 Connections 76 Unroutes 74
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    2.63
+# Manhattan Length 1043.1200 Horizontal 700.9381 Vertical 342.1819
+# Routed Length   4.8000 Horizontal   4.8000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0046
+# Unconnected Length 1038.3200 Horizontal 647.3800 Vertical 390.9400
+# Start Route Pass 1 of 25
+# Routing 74 wires.
+# 10 bend points have been removed.
+# 0 bend points have been removed.
+# 4 bend points have been removed.
+# Total Conflicts: 35 (Cross: 35, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 74 Successes 74 Failures 0 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 25
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 1 passes.
+# Start Route Pass 2 of 25
+# Routing 103 wires.
+# Total Conflicts: 22 (Cross: 20, Clear: 2, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 94 Successes 94 Failures 0 Vias 10
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.3714
+# End Pass 2 of 25
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 2 passes.
+# Start Route Pass 3 of 25
+# Routing 118 wires.
+# Total Conflicts: 8 (Cross: 6, Clear: 2, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 95 Successes 95 Failures 0 Vias 18
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.6364
+# End Pass 3 of 25
+# 8 bend points have been removed.
+# 0 bend points have been removed.
+# 3 bend points have been removed.
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 3 passes.
+# Start Route Pass 4 of 25
+# Routing 25 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 23 Successes 23 Failures 0 Vias 25
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 25
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 4 passes.
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   74|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    35|     0|   0|    0|    9|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    20|     2|   0|    0|   10|    0|   0| 37|  0:00:00|  0:00:00|
+# Route    |  3|     6|     2|   0|    0|   18|    0|   0| 63|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    0|   25|    0|   0|100|  0:00:00|  0:00:00|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:00
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202.dsn
+# Nets 26 Connections 76 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 31, at vias 10 Total Vias 25
+# Percent Connected  100.00
+# Manhattan Length 1105.5873 Horizontal 736.2699 Vertical 369.3175
+# Routed Length 1210.1977 Horizontal 755.0674 Vertical 455.1303
+# Ratio Actual / Manhattan   1.0946
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Smart Route: Executing 2 clean passes.
+# Current time = Tue Mar 21 00:52:34 2017
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202.dsn
+# Nets 26 Connections 76 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 31, at vias 10 Total Vias 25
+# Percent Connected  100.00
+# Manhattan Length 1105.5873 Horizontal 736.2699 Vertical 369.3175
+# Routed Length 1210.1977 Horizontal 755.0674 Vertical 455.1303
+# Ratio Actual / Manhattan   1.0946
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Clean Pass 1 of 2
+# Routing 120 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 104 Successes 104 Failures 0 Vias 22
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\bestsave.w
+# Start Clean Pass 2 of 2
+# Routing 124 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 103 Successes 103 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\bestsave.w
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   74|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    35|     0|   0|    0|    9|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    20|     2|   0|    0|   10|    0|   0| 37|  0:00:00|  0:00:00|
+# Route    |  3|     6|     2|   0|    0|   18|    0|   0| 63|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    0|   25|    0|   0|100|  0:00:00|  0:00:00|
+# Clean    |  5|     0|     0|   0|    0|   22|    0|   0|   |  0:00:01|  0:00:01|
+# Clean    |  6|     0|     0|   0|    0|   21|    0|   0|   |  0:00:00|  0:00:01|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:01
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202.dsn
+# Nets 26 Connections 76 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 32, at vias 12 Total Vias 21
+# Percent Connected  100.00
+# Manhattan Length 1119.0622 Horizontal 744.0144 Vertical 375.0478
+# Routed Length 1174.7222 Horizontal 730.5371 Vertical 444.1851
+# Ratio Actual / Manhattan   1.0497
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Smart Route: Executing 2 clean passes.
+# Current time = Tue Mar 21 00:52:35 2017
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202.dsn
+# Nets 26 Connections 76 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 32, at vias 12 Total Vias 21
+# Percent Connected  100.00
+# Manhattan Length 1119.0622 Horizontal 744.0144 Vertical 375.0478
+# Routed Length 1174.7222 Horizontal 730.5371 Vertical 444.1851
+# Ratio Actual / Manhattan   1.0497
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Clean Pass 1 of 2
+# Routing 115 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 106 Successes 106 Failures 0 Vias 23
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\bestsave.w
+# Start Clean Pass 2 of 2
+# Routing 120 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 105 Successes 105 Failures 0 Vias 21
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\bestsave.w
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.3000, Clearance= 0.3000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   74|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    35|     0|   0|    0|    9|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    20|     2|   0|    0|   10|    0|   0| 37|  0:00:00|  0:00:00|
+# Route    |  3|     6|     2|   0|    0|   18|    0|   0| 63|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    0|   25|    0|   0|100|  0:00:00|  0:00:00|
+# Clean    |  5|     0|     0|   0|    0|   22|    0|   0|   |  0:00:01|  0:00:01|
+# Clean    |  6|     0|     0|   0|    0|   21|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    |  7|     0|     0|   0|    0|   23|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    |  8|     0|     0|   0|    0|   21|    0|   0|   |  0:00:00|  0:00:01|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:01
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro\RPI_ZM5202.dsn
+# Nets 26 Connections 76 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 33, at vias 12 Total Vias 21
+# Percent Connected  100.00
+# Manhattan Length 1115.3922 Horizontal 740.9840 Vertical 374.4082
+# Routed Length 1175.5522 Horizontal 730.9421 Vertical 444.6101
+# Ratio Actual / Manhattan   1.0539
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Smart Route: Smart_route finished, completion rate: 100.00.
+write routes (changed_only) (reset_changed) C:/Users/Thanh/AppData/Local/Temp/#Taaaaae04164.tmp
+# Routing Written to File C:/Users/Thanh/AppData/Local/Temp/#Taaaaae04164.tmp
+quit

@@ -128,12 +128,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\DATA\git\Cadence\modules\ZM5202_PL2303\zm5202_pl2303.dsn")
-      (Path "Design Resources"
-         "C:\DATA\git\Cadence\modules\ZM5202_PL2303\zm5202_pl2303.dsn"
-         "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -150,4 +146,5 @@
       (Path "C:\DATA\GIT\CADENCE\MODULES\ZM5202_PL2303\ZM5202_PL2303.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "Thanh"))

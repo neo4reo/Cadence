@@ -1,129 +1,24 @@
 \t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Mon Mar 20 23:25:35 2017
-\t (00:00:01)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=16472 CPUs=4
+\t (00:00:01)     Journal start - Tue Mar 21 00:02:52 2017
+\t (00:00:01)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=13280 CPUs=4
 \t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
 \t (00:00:01) 
    (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\d (00:00:04) Design opened: C:/DATA/GIT/CADENCE/MODULES/ZM5202_PL2303/allegro/ZM5202_PL2303.brd
-\t (00:00:04) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:04) trapsize 4268
-\i (00:00:04) trapsize 4365
-\t (00:00:05) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:05) trapsize 4365
-\i (00:00:05) trapsize 4201
-\i (00:00:07) placementedit 
-\i (00:00:42) zoom in 1 
-\i (00:00:42) setwindow pcb
-\i (00:00:42) zoom in -3.1684 11.9303
-\t (00:00:42) Grids are drawn 0.3000, 0.3000 apart for enhanced viewability.
-\i (00:00:42) trapsize 2101
-\i (00:00:42) zoom in 1 
-\i (00:00:42) setwindow pcb
-\i (00:00:42) zoom in -3.1264 12.0143
-\i (00:00:42) trapsize 1050
-\i (00:00:44) show measure 
-\i (00:00:46) pick grid -3.5675 14.4089
-\t (00:00:46) last pick:  -3.6000 14.4000
-\i (00:00:46) zoom out 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom out -2.1181 13.9888
-\i (00:00:46) trapsize 2101
-\i (00:00:46) zoom out 1 
-\i (00:00:46) setwindow pcb
-\i (00:00:46) zoom out -1.7400 10.6280
-\t (00:00:46) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:46) trapsize 4201
-\i (00:00:47) zoom in 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom in 2.9651 -17.6869
-\t (00:00:47) Grids are drawn 0.3000, 0.3000 apart for enhanced viewability.
-\i (00:00:47) trapsize 2101
-\i (00:00:48) pick grid 2.7130 -16.8047
-\t (00:00:48) last pick:  2.7000 -16.8000
-\i (00:00:56) setwindow text
-\i (00:00:56) close 
-\i (00:00:57) setwindow pcb
-\i (00:00:57) pick grid -4.8909 -6.5961
-\t (00:00:57) last pick:  -4.9500 -6.6000
-\i (00:00:59) pick grid 37.4976 -6.5121
-\t (00:00:59) last pick:  37.5000 -6.4500
-\i (00:01:06) setwindow text
-\i (00:01:06) close 
-\i (00:09:56) setwindow pcb
-\i (00:09:56) pick grid -18.1242 -10.1670
-\t (00:09:56) last pick:  -18.1500 -10.2000
-\i (00:09:58) setwindow text
-\i (00:09:58) close 
-\i (00:09:58) setwindow pcb
-\i (00:09:58) prepopup -10.6463 -4.6216
-\i (00:09:59) done 
-\i (00:09:59) placementedit 
-\i (00:10:00) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:10:00) zoom out 1 
-\i (00:10:00) setwindow pcb
-\i (00:10:00) zoom out 12.8795 -16.6366
-\t (00:10:00) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:10:00) trapsize 4201
-\i (00:10:00) zoom out 1 
-\i (00:10:00) setwindow pcb
-\i (00:10:00) zoom out 9.4346 -17.9809
-\t (00:10:00) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:10:00) trapsize 8402
-\i (00:10:01) zoom in 1 
-\i (00:10:01) setwindow pcb
-\i (00:10:01) zoom in 34.1368 1.5119
-\t (00:10:01) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:10:01) trapsize 4201
-\i (00:10:03) 3d_viewer 
-\i (00:10:03) setwindow pcb3D
-\i (00:10:03) trapsize 4201
-\i (00:10:03) setwindow pcb
-\i (00:10:03) placementedit 
-\i (00:10:05) trapsize 4201
-\i (00:10:12) pick grid 32.7925 -18.3170
-\t (00:10:12) last pick:  32.8500 -18.3000
-\i (00:10:13) zoom in 1 
-\i (00:10:13) setwindow pcb
-\i (00:10:13) zoom in 21.7857 -4.2015
-\t (00:10:13) Grids are drawn 0.3000, 0.3000 apart for enhanced viewability.
-\i (00:10:13) trapsize 2101
-\i (00:10:13) zoom in 1 
-\i (00:10:13) setwindow pcb
-\i (00:10:13) zoom in 21.7857 -4.1175
-\i (00:10:13) trapsize 1050
-\i (00:10:13) zoom in 1 
-\i (00:10:13) setwindow pcb
-\i (00:10:13) zoom in 21.7647 -4.0964
-\i (00:10:13) trapsize 525
-\i (00:10:14) zoom out 1 
-\i (00:10:14) setwindow pcb
-\i (00:10:14) zoom out 21.8593 -2.5525
-\i (00:10:14) trapsize 1050
-\t (00:10:15) Pick to complete the window.
-\i (00:10:17) setwindow pcb3D
-\i (00:10:17) view3d export 
-\i (00:10:19) setwindow pcb
-\i (00:10:19) save 
-\i (00:10:19) zoom points
-\i (00:10:19) pick 22.4263 -5.9133
-\i (00:10:19) pick 22.3374 -5.8713
-\i (00:10:19) trapsize 3
-\i (00:10:21) fillin yes 
-\i (00:10:21) placementedit 
-\i (00:10:22) zoom fit 
-\i (00:10:22) trapsize 2164
-\i (00:10:24) 3d_viewer 
-\i (00:10:24) setwindow pcb3D
-\i (00:10:24) trapsize 2164
-\i (00:10:24) setwindow pcb
-\i (00:10:24) placementedit 
-\i (00:10:25) setwindow pcb3D
-\i (00:10:25) trapsize 2164
-\i (00:10:30) view3d export 
-\i (00:10:36) fillin "C:\Users\Thanh\Desktop\image.bmp"
-\i (00:10:36) cd "C:\Users\Thanh\Desktop"
-\i (00:10:36) view3d export "C:/Users/Thanh/Desktop/image.bmp" 
-\i (00:10:40) setwindow pcb
-\i (00:10:40) exit 
-\t (00:10:40)     Journal end - Mon Mar 20 23:36:14 2017
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/DATA/GIT/CADENCE/MODULES/ZM5202_PL2303/allegro/ZM5202_PL2303.brd
+\i (00:00:03) trapsize 3
+\i (00:00:04) trapsize 3
+\i (00:00:04) placementedit 
+\i (00:00:06) zoom fit 
+\t (00:00:06) Grids are drawn 0.3000, 0.3000 apart for enhanced viewability.
+\i (00:00:06) trapsize 2164
+\i (00:00:10) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:00:10) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:00:14) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP_DS"
+\i (00:00:14) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP_DS"
+\i (00:00:17) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:00:17) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:00:21) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:00:21) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:00:24) exit 
+\t (00:00:25)     Journal end - Tue Mar 21 00:03:15 2017

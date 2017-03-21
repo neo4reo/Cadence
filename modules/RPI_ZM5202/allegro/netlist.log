@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Mar-20-2017 at 23:58:22 }
+{ Using PSTWRITER 17.2.0 d001Mar-21-2017 at 00:32:20 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.4" ignored for J3: SCHEMATIC1, PAGE1 (30.48, 134.62). Connecting pin to net "5V".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.2" ignored for J3: SCHEMATIC1, PAGE1 (30.48, 134.62). Connecting pin to net "5V".
