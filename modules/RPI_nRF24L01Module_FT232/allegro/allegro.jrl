@@ -1,0 +1,63 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Apr 07 16:24:58 2017
+\t (00:00:03)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=9272 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:05) Design opened: C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE_FT232/allegro/RPI_NRF24L01MODULE_FT232.brd
+\t (00:00:05) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:05) trapsize 2552
+\i (00:00:05) trapsize 2596
+\t (00:00:05) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:05) trapsize 2596
+\t (00:00:05) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:05) trapsize 2380
+\i (00:00:06) generaledit 
+\i (00:00:09) 3d_viewer 
+\i (00:00:11) trapsize 2380
+\i (00:00:11) generaledit 
+\i (00:00:12) setwindow pcb3D
+\i (00:00:12) trapsize 2380
+\i (00:00:18) view3d export 
+\i (00:00:22) fillin "hinh.bmp"
+\i (00:00:22) view3d export "C:/DATA/git/Cadence/modules/RPI_nRF24L01Module_FT232/allegro/hinh.bmp" 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) 3d_viewer 
+\i (00:00:32) setwindow pcb3D
+\i (00:00:32) trapsize 2380
+\i (00:00:32) setwindow pcb
+\i (00:00:32) generaledit 
+\i (00:00:34) trapsize 2380
+\i (00:00:49) pick grid 4.3883 -11.8931
+\t (00:00:49) last pick:  4.4000 -11.9000
+\t (00:00:51) Pick to complete the window.
+\i (00:00:53) setwindow pcb3D
+\i (00:00:53) view3d export 
+\i (00:00:56) view3d export 
+\i (00:00:59) view3d export 
+\i (00:01:01) view3d exit 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) Esc 
+\i (00:01:07) zoom fit 
+\i (00:01:07) trapsize 1457
+\i (00:01:09) zoom fit 
+\i (00:01:09) trapsize 1457
+\i (00:01:10) prepopup -13.0684 12.5440
+\i (00:01:10) cancel 
+\i (00:01:11) generaledit 
+\e (00:01:12) Command not found: ~S
+\i (00:01:14) 3d_viewer 
+\i (00:01:15) setwindow pcb3D
+\i (00:01:15) trapsize 2380
+\i (00:01:15) setwindow pcb
+\i (00:01:15) generaledit 
+\i (00:01:16) setwindow pcb3D
+\i (00:01:16) trapsize 2380
+\i (00:01:22) view3d export 
+\i (00:01:25) fillin "C:\Users\Thanh\Desktop\hinh.bmp"
+\i (00:01:25) cd "C:\Users\Thanh\Desktop"
+\i (00:01:25) view3d export "C:/Users/Thanh/Desktop/hinh.bmp" 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) exit 
+\t (00:01:28)     Journal end - Fri Apr 07 16:26:23 2017

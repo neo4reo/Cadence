@@ -228,50 +228,35 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "e:\mlabviet\cadence\alegro\projects\boardaptrung\mayaptrung.dsn")
-      (Path "Design Resources"
-         "e:\mlabviet\cadence\alegro\projects\boardaptrung\mayaptrung.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\mayaptrung.dsn")
+      (Path "Design Resources" ".\mayaptrung.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources"
-         "e:\mlabviet\cadence\alegro\projects\boardaptrung\mayaptrung.dsn"
-         "SCHEMATIC1" "POWER"))
+      (Select "Design Resources" ".\mayaptrung.dsn" "SCHEMATIC1" "MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 430"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 430"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1420 78 547")
-        (Scroll "0 0")
-        (Zoom "78")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 521")
+        (Scroll "1025 1608")
+        (Zoom "156")
         (Occurrence "/"))
-      (Path "E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\BOARDAPTRUNG\MAYAPTRUNG.DSN")
+      (Path "C:\DATA\GIT\CADENCE\MODULES\BOARDAPTRUNG\MAYAPTRUNG.DSN")
       (Schematic "SCHEMATIC1")
       (Page "MCU"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1472 130 599")
-        (Scroll "0 0")
-        (Zoom "64")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1714 78 547")
+        (Scroll "-309 0")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\BOARDAPTRUNG\MAYAPTRUNG.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "BUTTON_LEDS"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1342 0 469")
-        (Scroll "0 18")
-        (Zoom "176")
-        (Occurrence "/"))
-      (Path "E:\MLABVIET\CADENCE\ALEGRO\PROJECTS\BOARDAPTRUNG\MAYAPTRUNG.DSN")
+      (Path "C:\DATA\GIT\CADENCE\MODULES\BOARDAPTRUNG\MAYAPTRUNG.DSN")
       (Schematic "SCHEMATIC1")
       (Page "POWER")))
-  (MPSSessionName "QThan")
+  (MPSSessionName "Thanh")
   (ISPCBBASICLICENSE "false"))

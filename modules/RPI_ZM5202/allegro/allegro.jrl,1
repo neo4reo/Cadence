@@ -1,26 +1,22 @@
 \t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Tue Mar 21 18:04:27 2017
-\t (00:00:01)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=15140 CPUs=4
+\t (00:00:01)     Journal start - Tue Mar 21 19:10:23 2017
+\t (00:00:01)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=17348 CPUs=4
 \t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
 \t (00:00:01) 
    (00:00:01) Loading axlcore.cxt 
-\t (00:00:02) Opening existing design...
+\t (00:00:03) Opening existing design...
 \d (00:00:03) Design opened: C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro/RPI_ZM5202.brd
-\t (00:00:03) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:03) trapsize 3818
-\i (00:00:03) trapsize 3905
-\t (00:00:03) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:03) trapsize 3905
-\i (00:00:03) trapsize 3758
-\i (00:00:03) placementedit 
-\i (00:00:07) enved 
-\i (00:00:07) placementedit 
-\i (00:00:13) setwindow form.prfedit
-\i (00:00:13) FORM prfedit treelist  Library Paths 
-\i (00:00:15) FORM prfedit devpath  
-\i (00:00:18) FORM prfedit modulepath  
-\i (00:00:31) FORM prfedit apply  
-\i (00:00:31) FORM prfedit done  
-\i (00:21:41) setwindow pcb
-\i (00:21:41) exit 
-\t (00:21:41)     Journal end - Tue Mar 21 18:26:06 2017
+\t (00:00:04) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:04) trapsize 3818
+\i (00:00:04) trapsize 3905
+\t (00:00:04) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:04) trapsize 3905
+\i (00:00:04) trapsize 3758
+\i (00:00:04) placementedit 
+\i (00:00:06) open 
+\i (00:00:30) fillin "C:\DATA\git\Cadence\modules\arduino_stm8_lcd_nrf24l01\allegro\ARDUINO_STM8_LCD_NRF24.brd"
+\i (00:00:30) cd "C:\DATA\git\Cadence\modules\arduino_stm8_lcd_nrf24l01\allegro"
+\t (00:00:30) Opening existing design...
+\t (00:00:30) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:30) trapsize 4127
+\t (00:00:30)     Journal end - Tue Mar 21 19:10:52 2017

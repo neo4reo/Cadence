@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : RPI_ZM5202.brd                                )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Tue Mar 21 00:32:21 2017                      )
+(    Date/Time        : Mon Apr 03 18:28:17 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -27,7 +27,7 @@ CmdLine: netrev.exe -y 1 -i C:\DATA\GIT\CADENCE\MODULES\RPI_ZM5202\allegro C:\DA
 ------ Preparing to read pst files ------
 
 Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro/pstchip.dat 
-   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro/pstchip.dat (00:00:00.02)
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro/pstchip.dat (00:00:00.03)
 Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro/pstxprt.dat 
    Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_ZM5202/allegro/pstxnet.dat 
@@ -63,7 +63,7 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 ------ Summary Statistics ------
 
 
-netrev run on Mar 21 0:32:21 2017
+netrev run on Apr 3 18:28:17 2017
    DESIGN NAME : 'RPI_ZM5202'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -88,6 +88,6 @@ netrev run on Mar 21 0:32:21 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:22
+cpu time      0:00:28
 elapsed time  0:00:00
 

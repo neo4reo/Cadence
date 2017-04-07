@@ -1,0 +1,35 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : RPI_NRF24L01MODULE.brd                        )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Tue Mar 21 23:38:50 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  J1 / RPI_HEADER_J2_40_254_RPI_HEADER / J2_40_254 at (-30.6768 16.7032)
+         Placed symbol:  U1 / NRF24L01_MODULE_NRF24L01_MODULE / NRF24L01_MODULE at (-26.7568 45.7764)
+         Placed symbol:  D3 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (-15.1772 21.7264)
+         Placed symbol:  D4 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (-9.4876 21.7264)
+         Placed symbol:  D2 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (-3.7980 21.7264)
+         Placed symbol:  R1 / R_RES_SMD_0805_330R / RES_SMD_0805 at (1.9216 21.7264)
+         Placed symbol:  R2 / R_RES_SMD_0805_330R / RES_SMD_0805 at (7.6412 21.7264)
+         Placed symbol:  R4 / R_RES_SMD_0805_330R / RES_SMD_0805 at (13.3608 21.7264)
+         Placed symbol:  R3 / R_RES_SMD_0805_330R / RES_SMD_0805 at (19.0804 21.7264)
+         Placed symbol:  R5 / R_RES_SMD_0805_10K / RES_SMD_0805 at (24.8000 21.7264)
+         Placed symbol:  R6 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-30.5904 50.9796)
+         Placed symbol:  R7 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-24.8708 50.9796)
+         Placed symbol:  SW1 / SW_PB_SPST_SMD_2PIN_BUTTON_RESE / SMD_2PIN_BUTTON at (-15.2812 52.2116)
+         Placed symbol:  SW2 / SW_PB_SPST_SMD_2PIN_BUTTON_RESE / SMD_2PIN_BUTTON at (-4.6756 52.2116)
+         Placed symbol:  SW3 / SW_PB_SPST_SMD_2PIN_BUTTON_RESE / SMD_2PIN_BUTTON at (5.9300 52.2116)
+         Placed symbol:  D1 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (12.6356 50.9796)
+
+
+Placed 16 of 16 applicable (16 total) symbols.
+
+-----------------------------------------------------------------------
+

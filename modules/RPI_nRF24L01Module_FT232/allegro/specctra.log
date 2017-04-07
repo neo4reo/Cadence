@@ -1,0 +1,394 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Tue Mar 21 23:58:53 2017
+# 
+# Allegro PCB Router v17-2-50 made 2016/03/28 at 15:56:36
+# Running on: desktop-tpqv6b2, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn
+# Batch File Name: pasde.do
+# Did File Name: C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro/specctra.did
+# Current time = Tue Mar 21 23:58:53 2017
+# PCB C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro
+# Master Unit set up as: MM 100000
+# PCB Limits xlo=-35.1450 ylo=-16.5500 xhi= 35.1450 yhi= 16.5500
+# Total 13 Images Consolidated.
+# Via VIA z=1, 2 xlo= -0.5000 ylo= -0.5000 xhi=  0.5000 yhi=  0.5000
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# Wires Processed 0, Vias Processed 0
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 16, Images Processed 21, Padstacks Processed 5
+# Nets Processed 18, Net Terminals 50
+# PCB Area= 1859.490  EIC=5  Area/EIC=371.898  SMDs=14
+# Total Pin Count: 76
+# Signal Connections Created 32
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn
+# Nets 18 Connections 32 Unroutes 32
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 542.5100 Horizontal 311.9699 Vertical 230.5401
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 542.5100 Horizontal 294.3500 Vertical 248.1600
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <# Loading Do File C:/Users/Thanh/AppData/Local/Temp/#Taaaaae08208.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 0
+grid wire 0.000100 (direction x) (offset 0.000000)
+grid wire 0.000100 (direction y) (offset 0.000000)
+grid via 0.000100 (direction x) (offset 0.000000)
+grid via 0.000100 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+smart_route (auto_fanout off) (auto_testpoint off) (auto_miter off)
+# Smart Route: Executing bus diagonal.
+# Diagonal wire corners are preferred.
+# Current time = Tue Mar 21 23:58:55 2017
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn
+# Nets 18 Connections 32 Unroutes 32
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 542.5100 Horizontal 311.9699 Vertical 230.5401
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 542.5100 Horizontal 294.3500 Vertical 248.1600
+# Attempts 0 Successes 0 Failures 0 Vias 0
+# 90 degree wire corners are preferred.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn
+# Nets 18 Connections 32 Unroutes 32
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 542.5100 Horizontal 311.9699 Vertical 230.5401
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 542.5100 Horizontal 294.3500 Vertical 248.1600
+# 90 degree wire corners are preferred.
+# Smart Route: Executing 25 route passes.
+# Current time = Tue Mar 21 23:58:55 2017
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn
+# Nets 18 Connections 32 Unroutes 32
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 542.5100 Horizontal 311.9699 Vertical 230.5401
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 542.5100 Horizontal 294.3500 Vertical 248.1600
+# Start Route Pass 1 of 25
+# Routing 32 wires.
+# Total Conflicts: 11 (Cross: 11, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 32 Successes 31 Failures 1 Vias 6
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 25
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 1 passes.
+# Start Route Pass 2 of 25
+# Routing 44 wires.
+# Total Conflicts: 11 (Cross: 11, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 38 Successes 38 Failures 0 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.0001
+# End Pass 2 of 25
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\bestsave.w
+# <<WARNING:>> Smart Route: Conflict reduction rate 0 is very low 
+# after 2 passes. 
+# Design may not reach 100%. 
+# Check number of layers, grids and design rules.
+# Start Route Pass 3 of 25
+# Routing 53 wires.
+# Total Conflicts: 8 (Cross: 8, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 43 Successes 41 Failures 2 Vias 8
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.2728
+# End Pass 3 of 25
+# 4 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\bestsave.w
+# <<WARNING:>> Smart Route: Average reduction ratio only 14 after 3 passes. 
+# Design may converge very slowly. 
+# Monitor status file carefully.
+# Start Route Pass 4 of 25
+# Routing 13 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 13 Successes 12 Failures 1 Vias 14
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 25
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\bestsave.w
+# Smart Route: Smart_route progressing normally after 4 passes.
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   32|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    11|     0|   1|    1|    6|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    11|     0|   0|    0|    9|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  3|     8|     0|   2|    0|    8|    0|   0| 27|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   1|    0|   14|    0|   0|100|  0:00:00|  0:00:00|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:00
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn
+# Nets 18 Connections 32 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 12, at vias 5 Total Vias 14
+# Percent Connected  100.00
+# Manhattan Length 557.3339 Horizontal 327.7132 Vertical 229.6207
+# Routed Length 705.6354 Horizontal 385.5880 Vertical 320.0474
+# Ratio Actual / Manhattan   1.2661
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Smart Route: Executing 2 clean passes.
+# Current time = Tue Mar 21 23:58:55 2017
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn
+# Nets 18 Connections 32 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 12, at vias 5 Total Vias 14
+# Percent Connected  100.00
+# Manhattan Length 557.3339 Horizontal 327.7132 Vertical 229.6207
+# Routed Length 705.6354 Horizontal 385.5880 Vertical 320.0474
+# Ratio Actual / Manhattan   1.2661
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Clean Pass 1 of 2
+# Routing 53 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 43 Successes 43 Failures 0 Vias 13
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\bestsave.w
+# Start Clean Pass 2 of 2
+# Routing 53 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 43 Successes 43 Failures 0 Vias 13
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\bestsave.w
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   32|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    11|     0|   1|    1|    6|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    11|     0|   0|    0|    9|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  3|     8|     0|   2|    0|    8|    0|   0| 27|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   1|    0|   14|    0|   0|100|  0:00:00|  0:00:00|
+# Clean    |  5|     0|     0|   0|    0|   13|    0|   0|   |  0:00:00|  0:00:00|
+# Clean    |  6|     0|     0|   0|    0|   13|    0|   0|   |  0:00:00|  0:00:00|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:00
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn
+# Nets 18 Connections 32 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 11, at vias 4 Total Vias 13
+# Percent Connected  100.00
+# Manhattan Length 569.8840 Horizontal 334.8654 Vertical 235.0186
+# Routed Length 705.6096 Horizontal 389.3120 Vertical 316.2976
+# Ratio Actual / Manhattan   1.2382
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Smart Route: Executing 2 clean passes.
+# Current time = Tue Mar 21 23:58:55 2017
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn
+# Nets 18 Connections 32 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 11, at vias 4 Total Vias 13
+# Percent Connected  100.00
+# Manhattan Length 569.8840 Horizontal 334.8654 Vertical 235.0186
+# Routed Length 705.6096 Horizontal 389.3120 Vertical 316.2976
+# Ratio Actual / Manhattan   1.2382
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Clean Pass 1 of 2
+# Routing 52 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 43 Successes 43 Failures 0 Vias 12
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\bestsave.w
+# Start Clean Pass 2 of 2
+# Routing 51 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 42 Successes 42 Failures 0 Vias 12
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Wiring Written to File C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\bestsave.w
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 0.5000, Clearance= 0.5000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|   32|    0|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|    11|     0|   1|    1|    6|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    11|     0|   0|    0|    9|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  3|     8|     0|   2|    0|    8|    0|   0| 27|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   1|    0|   14|    0|   0|100|  0:00:00|  0:00:00|
+# Clean    |  5|     0|     0|   0|    0|   13|    0|   0|   |  0:00:00|  0:00:00|
+# Clean    |  6|     0|     0|   0|    0|   13|    0|   0|   |  0:00:00|  0:00:00|
+# Clean    |  7|     0|     0|   0|    0|   12|    0|   0|   |  0:00:00|  0:00:00|
+# Clean    |  8|     0|     0|   0|    0|   12|    0|   0|   |  0:00:01|  0:00:01|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:01
+# 
+# Wiring Statistics ----------------- C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro\RPI_NRF24L01MODULE.dsn
+# Nets 18 Connections 32 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 10, at vias 4 Total Vias 12
+# Percent Connected  100.00
+# Manhattan Length 572.9840 Horizontal 333.9008 Vertical 239.0832
+# Routed Length 716.2596 Horizontal 388.9380 Vertical 327.3216
+# Ratio Actual / Manhattan   1.2501
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Smart Route: Smart_route finished, completion rate: 100.00.
+write routes (changed_only) (reset_changed) C:/Users/Thanh/AppData/Local/Temp/#Taaaaaf08208.tmp
+# Routing Written to File C:/Users/Thanh/AppData/Local/Temp/#Taaaaaf08208.tmp
+quit

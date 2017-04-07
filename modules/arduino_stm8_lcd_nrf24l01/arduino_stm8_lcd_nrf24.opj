@@ -79,7 +79,20 @@
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
     ("Allegro Netlist Input Board File"
-       "C:\DATA\git\Cadence\modules\arduino_stm8_lcd_nrf24l01\allegro\ARDUINO_STM8_LCD_NRF24.brd"))
+       "C:\DATA\git\Cadence\modules\arduino_stm8_lcd_nrf24l01\allegro\ARDUINO_STM8_LCD_NRF24.brd")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\DATA\GIT\CADENCE\MODULES\ARDUINO_STM8_LCD_NRF24L01\ARDUINO_STM8_LCD_NRF24.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\DATA\GIT\CADENCE\MODULES\ARDUINO_STM8_LCD_NRF24L01\ARDUINO_STM8_LCD_NRF24.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
   (Folder "Outputs"
     (File ".\arduino_stm8_lcd_nrf24.drc"
       (Type "Report"))
@@ -91,7 +104,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\arduino_stm8_lcd_nrf24.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (GND
@@ -168,7 +183,8 @@
          "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "c:\data\git\cadence\modules\arduino_stm8_lcd_nrf24l01\arduino_stm8_lcd_nrf24.dsn"))
+         "c:\data\git\cadence\modules\arduino_stm8_lcd_nrf24l01\arduino_stm8_lcd_nrf24.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -178,7 +194,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1684 52 517")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1475 52 507")
         (Scroll "0 0")
         (Zoom "110")
         (Occurrence "/"))

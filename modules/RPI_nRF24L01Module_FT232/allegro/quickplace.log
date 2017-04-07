@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : RPI_NRF24L01MODULE_FT232.brd                  )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Apr 05 11:46:11 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / FT232RL_2_SSOP_28_FT232RL / SSOP_28 at (-29.3410 24.7750)
+         Placed symbol:  U2 / MINI USB_MINI_USB_MINIUSB / MINI_USB at (-14.4888 20.1750)
+         Placed symbol:  C2 / CAPACITOR NON-POL_CAP_SMD_080_1 / CAP_SMD_0805 at (-6.2824 16.3750)
+         Placed symbol:  R8 / R_RES_SMD_0805_1M / RES_SMD_0805 at (-0.2660 16.3750)
+         Placed symbol:  L1 / INDUCTOR_RES_SMD_0805_INDUCTOR / RES_SMD_0805 at (5.7504 16.3750)
+         Placed symbol:  C1 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805 at (11.7668 16.3750)
+         Placed symbol:  D5 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (17.7532 16.3750)
+         Placed symbol:  D6 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (23.7396 16.3750)
+         Placed symbol:  R10 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-30.3686 27.1970)
+         Placed symbol:  R9 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-24.3522 27.1970)
+
+
+Placed 10 of 10 applicable (10 total) symbols.
+
+-----------------------------------------------------------------------
+

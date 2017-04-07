@@ -1,0 +1,30 @@
+  Revised: Thursday, March 16, 2017
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials          March 24,2017      14:37:00	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	10nF
+2	1	C2	1uF
+3	3	D1,D2,D3	LED
+4	5	J1,J2,J3,J4,J5	CON2
+5	1	J6	SWIM
+6	1	J7	CON3
+7	5	R1,R2,R4,R6,R7	1K
+8	2	R3,R5	10K
+9	1	R8	330
+10	1	R9	330R
+11	3	SW1,SW2,SW3	RESET BUTTON
+12	1	U1	ArduinoNanoModule
+13	1	U2	AMS1117
+14	1	U3	stm8s003f3p6-TSSOP20
+15	1	U4	LCD1602
+16	1	U5	nRF24L01_Module

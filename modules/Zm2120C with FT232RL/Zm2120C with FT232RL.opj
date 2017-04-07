@@ -91,11 +91,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\zm2120c with ft232rl.dsn")
-      (Path "Design Resources" ".\zm2120c with ft232rl.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\data\git\cadence\modules\zm2120c with ft232rl\zm2120c with ft232rl.dsn")
+      (Path "Design Resources"
+         "c:\data\git\cadence\modules\zm2120c with ft232rl\zm2120c with ft232rl.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\zm2120c with ft232rl.dsn" "SCHEMATIC1"
-         "PAGE1"))
+      (Select "Design Resources"
+         "c:\data\git\cadence\modules\zm2120c with ft232rl\zm2120c with ft232rl.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

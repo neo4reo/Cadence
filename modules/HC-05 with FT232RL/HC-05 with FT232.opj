@@ -79,21 +79,26 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\hc-05 with ft232.dsn")
-      (Path "Design Resources" ".\hc-05 with ft232.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\data\git\cadence\modules\hc-05 with ft232rl\hc-05 with ft232.dsn")
+      (Path "Design Resources"
+         "c:\data\git\cadence\modules\hc-05 with ft232rl\hc-05 with ft232.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\hc-05 with ft232.dsn" "SCHEMATIC1" "PAGE1"))
+      (Select "Design Resources"
+         "c:\data\git\cadence\modules\hc-05 with ft232rl\hc-05 with ft232.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 607"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 607"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 521")
-        (Scroll "-321 0")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 521")
+        (Scroll "-209 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path

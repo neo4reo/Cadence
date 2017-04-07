@@ -1,0 +1,380 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Mar-24-2017 at 12:24:18 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='HM10_KIT';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS2815@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins2815@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins2815@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS2565@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins2565@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins2565@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS1104@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins1104@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins1104@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS1585@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins1585@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins1585@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS711716@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins711716@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins711716@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS711732@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins711732@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins711732@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CN1 'RJ10F-TIMOTION_8_RJ10F_V2_TO TI':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS708938@SMARTDESKV2_ADDON.RJ10F-TIMOTION_8.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins708938@smartdeskv2_addon.\rj10f-timotion_8.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins708938@smartdeskv2_addon.\rj10f-timotion_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CN2 'RJ10F-TIMOTION_9_RJ10F_V2_FROM':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS711238@SMARTDESKV2_ADDON.RJ10F-TIMOTION_9.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins711238@smartdeskv2_addon.\rj10f-timotion_9.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins711238@smartdeskv2_addon.\rj10f-timotion_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS1510@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins1510@discrete.\led.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins1510@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS712053@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins712053@discrete.\led.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins712053@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS712075@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins712075@discrete.\led.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins712075@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS712093@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins712093@discrete.\led.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins712093@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS712111@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins712111@discrete.\led.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins712111@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN TRBLK 5X2_HEADER5X2X254_CO':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS373@CONNECTOR.CONN TRBLK 5X2.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins373@connector.\conn trblk 5x2.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins373@connector.\conn trblk 5x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'IRF1010E/TO_0_SOT23_2302':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713500@ADDONBOARDV1_1.IRF1010E/TO_0.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713500@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713500@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'IRF1010E/TO_0_SOT23_2302':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713518@ADDONBOARDV1_1.IRF1010E/TO_0.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713518@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713518@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'IRF1010E/TO_0_SOT23_2302':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713746@ADDONBOARDV1_1.IRF1010E/TO_0.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713746@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713746@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'IRF1010E/TO_0_SOT23_2302':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713720@ADDONBOARDV1_1.IRF1010E/TO_0.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713720@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713720@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS895@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins895@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins895@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS711964@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins711964@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins711964@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS711984@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins711984@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins711984@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS712004@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins712004@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins712004@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS712024@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins712024@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins712024@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713648@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713648@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713648@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713664@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713664@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713664@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713688@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713688@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713688@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713704@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713704@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713704@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS1064@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins1064@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins1064@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES_SMD_0603_10K':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS711190@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins711190@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins711190@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES_SMD_0603_10K':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS711222@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins711222@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins711222@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS1479@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins1479@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins1479@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713436@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713436@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713436@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713452@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713452@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713452@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713468@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713468@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713468@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS713484@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins713484@discrete.\r.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins713484@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'HM-10_3_HC05-FP_HM-10':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS2025@HM10_KIT.HM-10_3.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins2025@hm10_kit.\hm-10_3.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins2025@hm10_kit.\hm-10_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'ASM1117_SOT223_AMS1117':;
+
+SECTION_NUMBER 1
+ '@HM10_KIT.SCHEMATIC1(SCH_1):INS1389@MYLIB.ASM1117.NORMAL(CHIPS)':
+ C_PATH='@hm10_kit.schematic1(sch_1):ins1389@mylib.\asm1117.normal\(chips)',
+ P_PATH='@hm10_kit.schematic1(sch_1):page1_ins1389@mylib.\asm1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

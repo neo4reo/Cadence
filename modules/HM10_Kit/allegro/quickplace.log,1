@@ -1,0 +1,35 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : HM10_KIT.brd                                  )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Fri Mar 24 13:53:56 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  C1 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805 at (-22.6936 18.5800)
+         Placed symbol:  C2 / CAPACITOR NON-POL_CAP_SMD_080_1 / CAP_SMD_0805 at (-16.6772 18.5800)
+         Placed symbol:  C5 / CAPACITOR NON-POL_CAP_SMD_080_1 / CAP_SMD_0805 at (-10.6608 18.5800)
+         Placed symbol:  C6 / CAPACITOR NON-POL_CAP_SMD_080_1 / CAP_SMD_0805 at (-4.6444 18.5800)
+         Placed symbol:  D2 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (1.3420 18.5800)
+         Placed symbol:  D3 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (7.3284 18.5800)
+         Placed symbol:  D4 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (13.3148 18.5800)
+         Placed symbol:  D5 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (19.3012 18.5800)
+         Placed symbol:  R1 / R_RES_SMD_0805_10K / RES_SMD_0805 at (25.3176 18.5800)
+         Placed symbol:  R2 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-22.6936 20.6800)
+         Placed symbol:  R10 / R_RES_SMD_0805_1K / RES_SMD_0805 at (-16.6772 20.6800)
+         Placed symbol:  R11 / R_RES_SMD_0805_1K / RES_SMD_0805 at (-10.6608 20.6800)
+         Placed symbol:  R12 / R_RES_SMD_0805_1K / RES_SMD_0805 at (-4.6444 20.6800)
+         Placed symbol:  R13 / R_RES_SMD_0805_1K / RES_SMD_0805 at (1.3720 20.6800)
+         Placed symbol:  R3 / R_RES_SMD_0603_10K / RES_SMD_0603 at (6.9020 20.4550)
+         Placed symbol:  R4 / R_RES_SMD_0603_10K / RES_SMD_0603 at (9.8420 20.4550)
+
+
+Placed 16 of 16 applicable (16 total) symbols.
+
+-----------------------------------------------------------------------
+

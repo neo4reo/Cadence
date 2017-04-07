@@ -1,0 +1,261 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : RPI_NRF24L01MODULE.brd                        )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Mar 22 00:51:05 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     3.50000                                  DARK 
+  SQUARE     1.20000                     0.000 NO     DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+  SQUARE     1.59990                     0.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     3.50000                                  DARK 
+  SQUARE     1.59990                     0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-32.5000 -12.0000)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15000                                  DARK 
+
+     OUTLINE created with warnings
+
+
+================================================================
+     PROCESSING FILM < SC_TOP >
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro/SC_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (29.5500 14.5500)
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     SC_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SM_TOP >
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro/SM_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.90000                                  DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.65100                     0.000 NO     DARK 
+  SQUARE     2.00000                     0.000 NO     DARK 
+
+     SM_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SM_BOT >
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro/SM_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.90000                                  DARK 
+  SQUARE     1.80010                     0.000 NO     DARK 
+
+     SM_BOT created.
+
+
+================================================================
+     PROCESSING FILM < SP_TOP >
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE/allegro/SP_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  SQUARE     1.20000                     0.000 NO     DARK 
+  SQUARE     1.47320                     0.000 NO     DARK 
+
+     SP_TOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        OUTLINE created with warnings
+        SC_TOP created with warnings
+        SM_TOP created with warnings
+        SM_BOT created.
+        SP_TOP created.
+
+ ARTWORK had warnings

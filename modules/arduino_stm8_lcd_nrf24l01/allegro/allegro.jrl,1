@@ -1,111 +1,150 @@
-\t (00:00:30) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:30)     Journal start - Tue Mar 21 19:10:52 2017
-\t (00:00:30)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=17348 CPUs=4
-\t (00:00:30) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:30) 
-\d (00:00:30) Design opened: C:/DATA/git/Cadence/modules/arduino_stm8_lcd_nrf24l01/allegro/ARDUINO_STM8_LCD_NRF24.brd
-\i (00:00:30) placementedit 
-\i (00:00:31) zoom out 1 
-\i (00:00:31) setwindow pcb
-\i (00:00:31) zoom out 22.8280 -49.0080
-\t (00:00:31) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:00:31) trapsize 8254
-\i (00:00:32) zoom out 1 
-\i (00:00:32) setwindow pcb
-\i (00:00:32) zoom out 30.6056 -22.7591
-\t (00:00:32) Grids are drawn 2.4000, 2.4000 apart for enhanced viewability.
-\i (00:00:32) trapsize 16509
-\i (00:00:32) zoom in 1 
-\i (00:00:32) setwindow pcb
-\i (00:00:32) zoom in 50.7463 0.8899
-\t (00:00:32) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:00:33) trapsize 8254
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Mar 23 12:00:19 2017
+\t (00:00:03)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=1388 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/DATA/git/Cadence/modules/arduino_stm8_lcd_nrf24l01/allegro/ARDUINO_STM8_LCD_NRF24.brd
+\i (00:00:05) trapsize 5594
+\i (00:00:05) trapsize 5721
+\i (00:00:05) trapsize 5721
+\i (00:00:05) trapsize 5506
+\i (00:00:06) placementedit 
+\i (00:00:07) prepopup 74.8691 -17.2874
+\i (00:00:08) pick grid 72.7768 -9.2485
+\t (00:00:08) last pick:  72.6000 -9.0000
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 19.9182 -41.7345
+\t (00:00:14) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:14) trapsize 11012
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 31.7014 -8.2574
+\i (00:00:14) trapsize 5506
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 34.0140 5.5079
+\i (00:00:16) trapsize 2753
 \i (00:00:33) zoom in 1 
 \i (00:00:33) setwindow pcb
-\i (00:00:33) zoom in -12.4460 -0.9260
-\t (00:00:33) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:33) trapsize 4127
-\i (00:00:33) zoom out 1 
+\i (00:00:33) zoom in 15.4034 5.3427
+\i (00:00:33) trapsize 1377
+\i (00:00:33) zoom in 1 
 \i (00:00:33) setwindow pcb
-\i (00:00:33) zoom out -2.0455 1.1376
-\t (00:00:33) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:00:33) trapsize 8254
-\i (00:00:34) zoom in 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom in 38.0708 -10.5836
-\t (00:00:34) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:34) trapsize 4127
-\i (00:00:34) zoom in 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom in 37.9883 -10.7487
-\i (00:00:34) trapsize 2064
-\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
-\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 39.1027 -5.1357
-\i (00:00:38) trapsize 4127
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 37.1216 -3.8976
-\t (00:00:38) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:00:38) trapsize 8254
-\i (00:00:42) artwork 
-\i (00:00:44) setwindow form.film_control
-\i (00:00:44) FORM film_control shape_update  
-\i (00:00:44) setwindow form.status
-\i (00:00:44) FORM status fill_update  
-\t (00:00:44) Updating dynamic shape (1 of 2) Gnd, Boundary/Top @ (-9.5999 -61.4999) ...
-\t (00:00:44) Updating dynamic shape (2 of 2) 5V, Boundary/Top @ (8.1000 -38.7000) ...
-\i (00:00:45) FORM status drc_update  
-\t (00:00:45) Running DRC, wait...
-\t (00:00:45) Performing DRC...
-\t (00:00:45) Multithreaded DRC update (4 threads).
-\t (00:00:45) DRC done; 24 errors detected.
-\t (00:00:46) DRC done.
-\i (00:00:47) FORM status done  
-\i (00:00:48) setwindow form.film_control
-\i (00:00:48) FORM film_control ok  
-\i (00:00:49) setwindow pcb
-\i (00:00:49) placementedit 
-\i (00:00:50) zoom in 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom in 40.7535 -14.4632
-\t (00:00:50) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:50) trapsize 4127
-\i (00:00:50) zoom in 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom in 40.7536 -15.2061
-\i (00:00:50) trapsize 2064
-\i (00:00:50) zoom in 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom in 40.7536 -16.4443
-\i (00:00:50) trapsize 1032
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out 41.2489 -15.2680
-\i (00:00:50) trapsize 2064
-\i (00:00:51) zoom out 1 
+\i (00:00:33) zoom in 15.4034 5.3427
+\i (00:00:33) trapsize 688
+\i (00:00:34) prepopup 16.3257 5.5492
+\i (00:00:47) setwindow form.mini
+\i (00:00:47) FORM mini plcman_button  
+\i (00:00:47) setwindow pcb
+\i (00:00:47) placementedit 
+\i (00:00:47) place manual 
+\i (00:00:51) setwindow form.plc_manual
+\i (00:00:51) FORM plc_manual cancel  
 \i (00:00:51) setwindow pcb
-\i (00:00:51) zoom out 41.4140 -14.2775
-\i (00:00:51) trapsize 4127
-\i (00:00:57) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOT_DS"
-\i (00:00:57) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOT_DS"
-\i (00:00:58) zoom out 1 
-\i (00:00:58) setwindow pcb
-\i (00:00:58) zoom out 25.8957 -15.7632
-\t (00:00:58) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:00:58) trapsize 8254
-\i (00:01:00) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:01:01) 3d_viewer 
-\i (00:01:03) setwindow pcb3D
-\i (00:01:03) trapsize 8254
-\i (00:01:03) setwindow pcb
-\i (00:01:03) placementedit 
-\i (00:01:05) setwindow pcb3D
-\i (00:01:05) trapsize 8254
-\i (00:01:23) setwindow pcb
-\i (00:01:23) exit 
-\e (00:01:23) Do you want to save the changes you made to ARDUINO_STM8_LCD_NRF24.brd?
-\i (00:01:25) fillin yes 
-\t (00:01:25)     Journal end - Tue Mar 21 19:11:46 2017
+\i (00:00:51) placementedit 
+\i (00:01:01) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:01:01) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 24.7775 2.9889
+\i (00:01:02) trapsize 1377
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 21.4188 2.8512
+\i (00:01:02) trapsize 2753
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 21.4189 2.8512
+\i (00:01:02) trapsize 5506
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 18.9962 4.6132
+\i (00:01:02) trapsize 2753
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 18.9963 4.6132
+\i (00:01:02) trapsize 1377
+\i (00:01:04) pick grid 21.3639 4.8334
+\t (00:01:04) last pick:  21.6000 4.8000
+\i (00:01:09) prepopup 25.0254 8.9905
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 10.6821 3.9249
+\i (00:01:12) trapsize 2753
+\i (00:01:16) setwindow form.mini
+\i (00:01:16) FORM mini class BOARD GEOMETRY 
+\i (00:01:19) FORM mini class ETCH 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:27) pick grid 18.9412 15.6529
+\t (00:01:27) last pick:  19.2000 15.6000
+\i (00:01:27) move 
+\t (00:01:27) last pick:  18.4500 16.3500
+\t (00:01:27) Moving J1 / CON2_J1_2_254_CON2 / J1_2_254.
+\t (00:01:27) Pick new location for the element(s).
+\i (00:01:30) prepopup 20.0975 17.8003
+\i (00:01:31) cancel 
+\i (00:01:31) placementedit 
+\i (00:01:35) shape global param 
+\i (00:01:36) placementedit 
+\i (00:01:37) setwindow form.dyn_xshape
+\i (00:01:37) FORM dyn_xshape dyn_cop_wysiwyg YES 
+\i (00:01:38) FORM dyn_xshape apply  
+\i (00:01:39) FORM dyn_xshape done  
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom out 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom out 23.9517 8.1647
+\i (00:01:41) trapsize 5506
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in 45.0951 -0.7552
+\i (00:01:41) trapsize 2753
+\i (00:01:46) zoom in 1 
+\i (00:01:46) setwindow pcb
+\i (00:01:46) zoom in 21.7493 -0.6450
+\i (00:01:46) trapsize 1377
+\i (00:01:46) zoom out 1 
+\i (00:01:46) setwindow pcb
+\i (00:01:46) zoom out 22.1073 0.1809
+\i (00:01:46) trapsize 2753
+\i (00:01:53) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP_DS"
+\i (00:01:53) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP_DS"
+\i (00:01:56) pick grid 21.5566 -0.5900
+\t (00:01:56) last pick:  21.6000 -0.6000
+\i (00:01:57) pick grid 21.3364 -0.4248
+\t (00:01:57) last pick:  21.6000 -0.6000
+\i (00:01:58) pick grid 21.3364 0.1258
+\t (00:01:58) last pick:  21.6000 0.0000
+\i (00:01:59) pick grid 21.0060 1.0068
+\t (00:01:59) last pick:  21.0000 1.2000
+\i (00:01:59) pick grid 21.3914 2.6586
+\t (00:01:59) last pick:  21.6000 2.4000
+\i (00:02:00) pick grid 20.8959 3.2643
+\t (00:02:00) last pick:  21.0000 3.0000
+\i (00:02:00) pick grid 21.5016 3.5947
+\t (00:02:00) last pick:  21.6000 3.6000
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in 17.7574 11.3582
+\i (00:02:06) trapsize 1377
+\i (00:02:09) zoom out 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom out 19.4643 1.0894
+\i (00:02:09) trapsize 2753
+\i (00:02:10) zoom in 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom in 11.0401 5.3291
+\i (00:02:10) trapsize 1377
+\i (00:02:12) zoom out 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom out 12.0037 3.7324
+\i (00:02:12) trapsize 2753
+\i (00:04:11) about 
+\i (00:04:21) exit 
+\e (00:04:21) Do you want to save the changes you made to ARDUINO_STM8_LCD_NRF24.brd?
+\i (00:04:24) fillin no 
+\t (00:04:24)     Journal end - Thu Mar 23 12:04:39 2017
