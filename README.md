@@ -7,3 +7,5 @@
 ![atl tag](https://s5.postimg.org/icfyxc3g7/image.jpg)
 4. RPI Zeros and nRf24L01 Module
 ![atl tag](https://s5.postimg.org/wmc7mywl3/img.jpg)
+5. RPI Zero , nRF24L01 module and USB2Serial
+![alt tag](https://s5.postimg.org/6ehnylmrb/hinh.jpg)
