@@ -3,59 +3,9 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:/DATA/git/Cadence/modules/HM10_Kit/allegro/HM10_KIT.brd                   |
-|                                                    Fri Mar 24 14:10:21 2017  |
+|                                                    Mon Apr 10 10:50:41 2017  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R_RES_SMD_0805_4K7
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:/DATA/git/Cadence/modules/HM10_Kit/allegro/HM10_KIT.brd                   |
-|                                                    Fri Mar 24 14:10:21 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R3                  R_RES_SMD_0805_10K     8.4000 13.5000 R_RES_SMD_0603_10K
- R4                  R_RES_SMD_0805_10K     9.9000 13.5000 R_RES_SMD_0603_10K
- R6                  R_RES_SMD_0805_4K7     6.9850  0.6350 R_RES_SMD_0603_4K7
- R7                  R_RES_SMD_0805_4K7     0.0000  0.6350 R_RES_SMD_0603_4K7
- R8                  R_RES_SMD_0805_4K7     6.9850 -4.4450 R_RES_SMD_0603_4K7
- R9                  R_RES_SMD_0805_4K7     0.0000 -4.4450 R_RES_SMD_0603_4K7
- R14                 R_RES_SMD_0805_4K7     6.9850 10.7950 R_RES_SMD_0603_4K7
- R15                 R_RES_SMD_0805_4K7     0.0000 10.7950 R_RES_SMD_0603_4K7
- R16                 R_RES_SMD_0805_4K7     6.9850  5.7150 R_RES_SMD_0603_4K7
- R17                 R_RES_SMD_0805_4K7     0.0000  5.7150 R_RES_SMD_0603_4K7
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  C:/DATA/git/Cadence/modules/HM10_Kit/allegro/HM10_KIT.brd                   |
-|                                                    Fri Mar 24 14:10:21 2017  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R3.2            8.4000 13.5000 PRIM_FILE      .\pstchip.dat
- R4.2            9.9000 13.5000 PRIM_FILE      .\pstchip.dat
- R6.2            6.9850  0.6350 PRIM_FILE      .\pstchip.dat
- R7.2            0.0000  0.6350 PRIM_FILE      .\pstchip.dat
- R8.2            6.9850 -4.4450 PRIM_FILE      .\pstchip.dat
- R9.2            0.0000 -4.4450 PRIM_FILE      .\pstchip.dat
- R14.2           6.9850 10.7950 PRIM_FILE      .\pstchip.dat
- R15.2           0.0000 10.7950 PRIM_FILE      .\pstchip.dat
- R16.2           6.9850  5.7150 PRIM_FILE      .\pstchip.dat
- R17.2           0.0000  5.7150 PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|       Comp definitions added:       1                                        |
-|       Components changed    :      10                                        |
-|       Slot property added   :      10                                        |
 |                                                                              |
-|   Total ECO changes reported:      21                                        |
+|   Total ECO changes reported:       0                                        |
 |------------------------------------------------------------------------------|

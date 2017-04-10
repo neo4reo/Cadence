@@ -1,64 +1,32 @@
-\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Wed Apr 05 14:10:58 2017
-\t (00:00:01)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=1528 CPUs=4
-\t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE_FT232/allegro/RPI_NRF24L01MODULE_FT232.brd
-\t (00:00:04) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:00:04) trapsize 3373
-\i (00:00:04) trapsize 3450
-\t (00:00:04) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:00:04) trapsize 3450
-\i (00:00:04) trapsize 3320
-\i (00:00:04) generaledit 
-\i (00:00:08) nctape_full 
-\i (00:00:10) setwindow form.nc_drill
-\i (00:00:10) FORM nc_drill parameters  
-\i (00:00:16) setwindow form.nc_parameters
-\i (00:00:16) FORM nc_parameters done  
-\i (00:00:21) setwindow form.nc_drill
-\i (00:00:21) FORM nc_drill parameters  
-\i (00:00:25) setwindow form.nc_parameters
-\i (00:00:25) FORM nc_parameters done  
-\i (00:00:29) setwindow form.nc_drill
-\i (00:00:29) FORM nc_drill cancel  
-\i (00:00:29) setwindow pcb
-\i (00:00:29) generaledit 
-\i (00:00:44) nctape_full 
-\i (00:00:54) setwindow form.nc_drill
-\i (00:00:54) FORM nc_drill parameters  
-\i (00:00:57) setwindow form.nc_parameters
-\i (00:00:57) FORM nc_parameters done  
-\i (00:00:58) setwindow form.nc_drill
-\i (00:00:58) FORM nc_drill execute  
-\t (00:00:58) Starting Generating NC Drill...
-\i (00:01:01) FORM nc_drill cancel  
-\i (00:01:01) setwindow pcb
-\i (00:01:01) generaledit 
-\i (00:02:31) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:02:36) nctape_full 
-\i (00:02:39) setwindow form.nc_drill
-\i (00:02:39) FORM nc_drill parameters  
-\i (00:02:46) setwindow form.nc_parameters
-\i (00:02:46) FORM nc_parameters incremental_coords YES 
-\i (00:02:47) FORM nc_parameters done  
-\i (00:02:49) setwindow form.nc_drill
-\i (00:02:49) FORM nc_drill execute  
-\t (00:02:49) Starting Generating NC Drill...
-\i (00:04:05) FORM nc_drill parameters  
-\i (00:04:07) setwindow form.nc_parameters
-\i (00:04:07) FORM nc_parameters absolute_coords YES 
-\i (00:04:08) FORM nc_parameters metric_units YES 
-\i (00:04:09) FORM nc_parameters done  
-\i (00:04:10) setwindow form.nc_drill
-\i (00:04:10) FORM nc_drill execute  
-\t (00:04:10) Starting Generating NC Drill...
-\i (00:04:12) FORM nc_drill cancel  
-\i (00:04:12) setwindow pcb
-\i (00:04:12) generaledit 
-\i (00:30:45) exit 
-\e (00:30:45) Do you want to save the changes you made to RPI_NRF24L01MODULE_FT232.brd?
-\i (00:30:54) fillin yes 
-\t (00:30:55)     Journal end - Wed Apr 05 14:41:52 2017
+\t (00:06:20) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:06:20)     Journal start - Fri Apr 07 17:53:07 2017
+\t (00:06:20)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=2512 CPUs=4
+\t (00:06:20) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:06:20) 
+\d (00:06:20) Design opened: C:/DATA/git/Cadence/modules/RPI_nRF24L01Module_FT232/allegro/RPI_NRF24L01MODULE_FT232.brd
+\i (00:06:21) generaledit 
+\i (00:06:25) place manual 
+\i (00:06:31) setwindow form.plc_manual
+\i (00:06:31) FORM plc_manual tree 'MULTISEL YES' LOGO_MLAB_100X100 'Mechanical symbols' 
+\i (00:06:31) FORM plc_manual tree  LOGO_MLAB_100X100 'Mechanical symbols' 
+\i (00:06:46) FORM plc_manual done  
+\i (00:06:46) setwindow pcb
+\i (00:06:46) generaledit 
+\i (00:13:30) 3d_viewer 
+\i (00:13:32) setwindow pcb3D
+\i (00:13:32) trapsize 2380
+\i (00:13:32) setwindow pcb
+\i (00:13:32) generaledit 
+\i (00:13:33) setwindow pcb3D
+\i (00:13:33) trapsize 2380
+\i (01:04:38) setwindow pcb
+\i (01:04:38) trapsize 2380
+\i (01:04:44) open 
+\e (01:04:45) Do you want to save the changes you made to RPI_NRF24L01MODULE_FT232.brd?
+\i (01:04:46) fillin yes 
+\i (01:04:53) fillin "C:\DATA\git\Cadence\modules\RPI_nRF24L01Module\allegro\RPI_NRF24L01MODULE.brd"
+\i (01:04:53) cd "C:\DATA\git\Cadence\modules\RPI_nRF24L01Module\allegro"
+\t (01:04:53) Opening existing design...
+\t (01:04:53) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (01:04:53) trapsize 2936
+\t (01:04:54)     Journal end - Fri Apr 07 18:51:41 2017

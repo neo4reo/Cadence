@@ -1,63 +1,173 @@
-\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Fri Apr 07 16:24:58 2017
-\t (00:00:03)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=9272 CPUs=4
-\t (00:00:03) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\d (00:00:05) Design opened: C:/DATA/GIT/CADENCE/MODULES/RPI_NRF24L01MODULE_FT232/allegro/RPI_NRF24L01MODULE_FT232.brd
-\t (00:00:05) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:00:05) trapsize 2552
-\i (00:00:05) trapsize 2596
-\t (00:00:05) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:00:05) trapsize 2596
-\t (00:00:05) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
-\i (00:00:05) trapsize 2380
-\i (00:00:06) generaledit 
-\i (00:00:09) 3d_viewer 
-\i (00:00:11) trapsize 2380
-\i (00:00:11) generaledit 
-\i (00:00:12) setwindow pcb3D
-\i (00:00:12) trapsize 2380
-\i (00:00:18) view3d export 
-\i (00:00:22) fillin "hinh.bmp"
-\i (00:00:22) view3d export "C:/DATA/git/Cadence/modules/RPI_nRF24L01Module_FT232/allegro/hinh.bmp" 
-\i (00:00:32) setwindow pcb
-\i (00:00:32) 3d_viewer 
-\i (00:00:32) setwindow pcb3D
-\i (00:00:32) trapsize 2380
-\i (00:00:32) setwindow pcb
-\i (00:00:32) generaledit 
-\i (00:00:34) trapsize 2380
-\i (00:00:49) pick grid 4.3883 -11.8931
-\t (00:00:49) last pick:  4.4000 -11.9000
-\t (00:00:51) Pick to complete the window.
-\i (00:00:53) setwindow pcb3D
-\i (00:00:53) view3d export 
-\i (00:00:56) view3d export 
-\i (00:00:59) view3d export 
-\i (00:01:01) view3d exit 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) Esc 
-\i (00:01:07) zoom fit 
-\i (00:01:07) trapsize 1457
-\i (00:01:09) zoom fit 
-\i (00:01:09) trapsize 1457
-\i (00:01:10) prepopup -13.0684 12.5440
-\i (00:01:10) cancel 
-\i (00:01:11) generaledit 
-\e (00:01:12) Command not found: ~S
-\i (00:01:14) 3d_viewer 
-\i (00:01:15) setwindow pcb3D
-\i (00:01:15) trapsize 2380
-\i (00:01:15) setwindow pcb
-\i (00:01:15) generaledit 
-\i (00:01:16) setwindow pcb3D
-\i (00:01:16) trapsize 2380
-\i (00:01:22) view3d export 
-\i (00:01:25) fillin "C:\Users\Thanh\Desktop\hinh.bmp"
-\i (00:01:25) cd "C:\Users\Thanh\Desktop"
-\i (00:01:25) view3d export "C:/Users/Thanh/Desktop/hinh.bmp" 
-\i (00:01:28) setwindow pcb
-\i (00:01:28) exit 
-\t (00:01:28)     Journal end - Fri Apr 07 16:26:23 2017
+\t (00:04:05) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:04:05)     Journal start - Fri Apr 07 20:22:30 2017
+\t (00:04:05)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=6404 CPUs=4
+\t (00:04:05) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:04:05) 
+\d (00:04:05) Design opened: C:/DATA/git/Cadence/modules/RPI_nRF24L01Module_FT232/allegro/RPI_NRF24L01MODULE_FT232.brd
+\i (00:04:06) generaledit 
+\i (00:04:12) place manual 
+\i (00:04:14) setwindow form.plc_manual
+\i (00:04:14) FORM plc_manual advanced_settings  
+\i (00:04:15) FORM plc_manual library YES 
+\i (00:04:16) FORM plc_manual placement_list  
+\i (00:04:18) FORM plc_manual advanced_settings  
+\i (00:04:19) FORM plc_manual placement_list  
+\i (00:04:24) FORM plc_manual categories Mechanical symbols 
+\i (00:04:28) FORM plc_manual tree 'MULTISEL YES' LOGO_MLAB_60X67 'Mechanical symbols' 
+\i (00:04:28) FORM plc_manual tree  LOGO_MLAB_60X67 'Mechanical symbols' 
+\i (00:04:35) setwindow pcb
+\i (00:04:35) pick grid -49.4952 -25.4461
+\t (00:04:35) last pick:  -49.5000 -25.4000
+\i (00:04:40) setwindow form.plc_manual
+\i (00:04:40) FORM plc_manual tree 'MULTISEL YES' LOGO_MLAB_100X100 'Mechanical symbols' 
+\i (00:04:40) FORM plc_manual tree  LOGO_MLAB_100X100 'Mechanical symbols' 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) pick grid 26.7605 -23.3993
+\t (00:04:41) last pick:  26.8000 -23.4000
+\i (00:04:45) setwindow form.plc_manual
+\i (00:04:45) FORM plc_manual tree 'MULTISEL YES' LAMDA_LOGO_5X5MM 'Mechanical symbols' 
+\i (00:04:45) FORM plc_manual tree  LAMDA_LOGO_5X5MM 'Mechanical symbols' 
+\i (00:04:47) FORM plc_manual tree 'MULTISEL NO' LAMDA_LOGO_5X5MM 'Mechanical symbols' 
+\i (00:04:49) FORM plc_manual tree 'MULTISEL YES' LOGO_MLAB 'Mechanical symbols' 
+\i (00:04:49) FORM plc_manual tree  LOGO_MLAB 'Mechanical symbols' 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) pick grid -48.1148 -14.7360
+\t (00:04:53) last pick:  -48.1000 -14.7000
+\i (00:05:02) setwindow form.plc_manual
+\i (00:05:02) FORM plc_manual cancel  
+\i (00:05:02) setwindow pcb
+\i (00:05:02) generaledit 
+\i (00:05:07) delete 
+\i (00:05:11) setwindow form.find
+\i (00:05:11) FORM find symbols YES 
+\i (00:05:12) FORM find all_off  
+\i (00:05:13) FORM find symbols YES 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) pick grid 38.3273 19.0602
+\t (00:05:14) last pick:  38.3000 19.1000
+\i (00:05:14) pick grid 39.5649 17.4418
+\t (00:05:14) last pick:  39.6000 17.4000
+\i (00:05:15) pick grid 39.5649 17.4418
+\t (00:05:15) last pick:  39.6000 17.4000
+\i (00:05:15) pick grid 40.2313 16.6326
+\t (00:05:15) last pick:  40.2000 16.6000
+\i (00:05:16) pick grid 39.5173 16.9182
+\t (00:05:16) last pick:  39.5000 16.9000
+\t (00:05:16) Symbol "Logo_Mlab_100X100"
+\i (00:05:16) pick grid dbl 39.5173 16.9182
+\t (00:05:16) last pick:  39.5000 16.9000
+\i (00:05:17) pick grid 21.0484 20.7738
+\t (00:05:17) last pick:  21.0000 20.8000
+\i (00:05:17) pick grid dbl 21.0484 20.7738
+\t (00:05:17) last pick:  21.0000 20.8000
+\i (00:05:18) pick grid 19.3348 20.9166
+\t (00:05:18) last pick:  19.3000 20.9000
+\t (00:05:18) Symbol "Logo_Mlab_60X67"
+\i (00:05:18) pick grid dbl 19.3348 20.9166
+\t (00:05:18) last pick:  19.3000 20.9000
+\i (00:05:18) pick grid 19.3348 20.9166
+\t (00:05:18) last pick:  19.3000 20.9000
+\i (00:05:19) prepopup 19.0968 21.1070
+\i (00:05:20) done 
+\i (00:05:20) generaledit 
+\i (00:08:16) open 
+\e (00:08:16) Do you want to save the changes you made to RPI_NRF24L01MODULE_FT232.brd?
+\i (00:08:18) fillin yes 
+\i (00:08:20) fillin "menu_cancel"
+\i (00:08:21) generaledit 
+\i (00:08:21) zoom out 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom out -29.0271 -30.3013
+\t (00:08:21) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:08:21) trapsize 4760
+\i (00:08:22) zoom out 1 
+\i (00:08:22) setwindow pcb
+\i (00:08:22) zoom out 26.8556 24.7247
+\t (00:08:22) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:08:22) trapsize 9520
+\i (00:08:53) xhilite 
+\i (00:08:54) xname_flush 
+\i (00:08:54) done 
+\i (00:08:54) generaledit 
+\i (00:11:00) place manual 
+\i (00:11:02) setwindow form.plc_manual
+\i (00:11:02) FORM plc_manual advanced_settings  
+\i (00:11:04) FORM plc_manual library YES 
+\i (00:11:05) FORM plc_manual placement_list  
+\i (00:11:09) FORM plc_manual tree 'MULTISEL YES' LOGO_MLAB_60X67 'Mechanical symbols' 
+\i (00:11:09) FORM plc_manual tree  LOGO_MLAB_60X67 'Mechanical symbols' 
+\i (00:11:13) setwindow pcb
+\i (00:11:13) pick grid -109.5594 -16.7828
+\t (00:11:13) last pick:  -109.6000 -16.8000
+\i (00:11:13) prepopup -109.5594 -16.7828
+\i (00:11:15) done 
+\i (00:11:15) generaledit 
+\i (00:11:15) pick grid -88.2345 -20.9717
+\t (00:11:15) last pick:  -88.2000 -21.0000
+\i (00:11:19) refresh symbol 
+\i (00:11:22) setwindow form.upd_element
+\i (00:11:22) FORM upd_element tree 'MULTISEL YES' 'Mechanical symbols' 
+\i (00:11:22) FORM upd_element tree  'Mechanical symbols' 
+\i (00:11:24) FORM upd_element refresh  
+\t (00:11:24) Starting Refresh Symbol...
+\t (00:11:24) Opening existing design...
+\t (00:11:24) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:11:24) setwindow pcb
+\i (00:11:24) trapsize 9520
+\t (00:11:25) Updating dynamic shape (1 of 3) Gnd, Boundary/Bottom @ (-29.5500 -14.5499) ...
+\t (00:11:25) Updating dynamic shape (2 of 3) Gnd, Boundary/Top @ (-29.5500 -14.5499) ...
+\t (00:11:26) Updating dynamic shape (3 of 3) 5V, Boundary/Bottom @ (-20.6000 13.6000) ...
+\i (00:11:27) setwindow form.upd_element
+\i (00:11:27) FORM upd_element close  
+\i (00:11:28) setwindow pcb
+\i (00:11:28) generaledit 
+\i (00:11:35) prmed 
+\i (00:11:37) setwindow form.prmedit
+\i (00:11:37) FORM prmedit view_grids_button  
+\t (00:11:37) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:11:40) setwindow form.grid
+\i (00:11:40) FORM grid non_etch non_etch_x_grids 1 
+\i (00:11:41) FORM grid non_etch non_etch_y_grids 1 
+\i (00:11:43) FORM grid top subclass_x_grids 1 
+\i (00:11:44) FORM grid top subclass_y_grids 1 
+\i (00:11:45) FORM grid bottom subclass_x_grids 1 
+\i (00:11:45) FORM grid bottom subclass_y_grids 1 
+\i (00:11:46) FORM grid done  
+\i (00:11:49) setwindow form.prmedit
+\i (00:11:49) FORM prmedit done  
+\i (00:11:49) setwindow pcb
+\i (00:11:49) generaledit 
+\i (00:11:51) zoom in 1 
+\i (00:11:51) setwindow pcb
+\i (00:11:51) zoom in -49.3927 35.0063
+\i (00:11:51) trapsize 4760
+\i (00:11:52) zoom in 1 
+\i (00:11:52) setwindow pcb
+\i (00:11:52) zoom in -49.3926 35.0063
+\i (00:11:52) trapsize 2380
+\i (00:11:52) zoom in 1 
+\i (00:11:52) setwindow pcb
+\i (00:11:52) zoom in -49.3926 35.0063
+\i (00:11:52) trapsize 1190
+\i (00:11:57) prepopup -36.9214 42.3606
+\i (00:11:58) pick grid -37.6116 42.2178
+\t (00:11:58) last pick:  -38.0000 42.0000
+\i (00:11:59) prepopup -37.6116 42.2178
+\i (00:12:01) pick grid -37.3498 44.1694
+\t (00:12:01) last pick:  -37.0000 44.0000
+\i (00:12:03) prepopup -39.6584 39.2904
+\i (00:12:04) pick grid -42.8714 40.4328
+\t (00:12:04) last pick:  -43.0000 40.0000
+\t (00:13:04) Pick to complete the window.
+\i (00:13:05) pick -45.0134 40.7184
+\t (00:13:05) last pick:  -45.0134 40.7184
+\i (00:13:05) setwindow pcb
+\i (00:13:05) zoom points
+\i (00:13:05) pick -44.5612 40.2424
+\i (00:13:05) pick -45.4328 40.7184
+\i (00:13:05) trapsize 20
+\i (00:13:05) generaledit 
+\i (00:13:06) exit 
+\e (00:13:06) Do you want to save the changes you made to C:/DATA/git/Cadence/modules/RPI_nRF24L01Module_FT232/allegro/RPI_NRF24L01MODULE_FT232.brd?
+\i (00:13:08) fillin no 
+\t (00:13:08)     Journal end - Fri Apr 07 20:31:32 2017
