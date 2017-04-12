@@ -1,18 +1,23 @@
-\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Fri Apr 07 20:18:26 2017
-\t (00:00:01)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=6404 CPUs=4
-\t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\d (00:00:04) Design opened: C:/DATA/git/Cadence/modules/RPI_nRF24L01Module/allegro/RPI_NRF24L01MODULE.brd
-\t (00:00:04) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:00:04) trapsize 3148
-\i (00:00:04) trapsize 3202
-\t (00:00:04) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:00:04) trapsize 3202
-\i (00:00:04) trapsize 2936
-\i (00:00:05) generaledit 
-\i (00:02:42) new 
-\i (00:03:06) newdrawfillin "logo_mlab_60x67.dra" "Mechanical Symbol"
-\t (00:03:06)     Journal end - Fri Apr 07 20:21:30 2017
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Apr 07 20:26:50 2017
+\t (00:00:00)         Host=DESKTOP-TPQV6B2 User=Thanh Pid=12340 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/DATA/git/Cadence/modules/RPI_nRF24L01Module/allegro/RPI_NRF24L01MODULE.brd
+\t (00:00:00) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:00) trapsize 3148
+\i (00:00:01) trapsize 3202
+\t (00:00:01) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:01) trapsize 3202
+\i (00:00:01) trapsize 2936
+\i (00:00:01) generaledit 
+\i (00:00:07) open 
+\i (00:00:27) fillin "C:\DATA\git\hardware\Library\CadenceLib\layout\symbol_lib\logo_mlab_60x67.dra"
+\i (00:00:27) cd "C:\DATA\git\hardware\Library\CadenceLib\layout\symbol_lib"
+\t (00:00:27) Opening existing design...
+\i (00:00:27) trapsize 16013
+\i (00:00:28) trapsize 16461
+\i (00:00:28) trapsize 16461
+\t (00:00:28)     Journal end - Fri Apr 07 20:27:18 2017
