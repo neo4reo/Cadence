@@ -1,0 +1,30 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/RPI_Dynamixel/allegro/RPI_DYNAMIXEL.brd         |
+|                                                    Mon Apr 24 10:38:42 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  DIR          pins DELETED FROM this net (pin now not on any net)
+                                 U2.13           -8.4475 -6.9850
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U2.1            -14.412 -5.7150
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N720587      pins DELETED FROM this net (all pins deleted)
+                                 U2.12           -8.4475 -8.2550
+               pins MOVED FROM this net (to net name listed on right)
+                                 U1.4            -23.937 -9.5250
+                                                                        N720596
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N720596      pins ADDED TO this new net
+                                 U2.2            -14.412 -6.9850
+|------------------------------------------------------------------------------|
+|       Nets changed          :       5                                        |
+|                                                                              |
+|   Total ECO changes reported:       5                                        |
+|------------------------------------------------------------------------------|

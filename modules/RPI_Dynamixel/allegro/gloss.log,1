@@ -1,0 +1,158 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : RPI_DYNAMIXEL.brd                             )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Apr 24 11:38:13 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+**WARNING: Disabling dynamic shapes
+
+
+
+Line entry into Pad glossing in progress.
+Started on Mon Apr 24 11:38:13 2017
+Bend Distance is 0.3048.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (8.7750,-1.2700).
+
+Glossing was successful:  SYMBOL PIN at (-6.6000,-9.7500) defined by pad  R74_102
+
+Glossing attempt unsuccessful. Active pad is at (-12.7600,4.4450).
+
+Glossing attempt unsuccessful. Active pad is at (-12.7600,4.4450).
+
+Glossing attempt unsuccessful. Active pad is at (-16.5100,7.6200).
+
+Glossing attempt unsuccessful. Active pad is at (-18.4150,5.0800).
+
+Glossing attempt unsuccessful. Active pad is at (-18.4150,5.0800).
+
+Glossing was successful:  SYMBOL PIN at (-23.9375,-5.7150) defined by pad  B200_60
+
+Glossing attempt unsuccessful. Active pad is at (-27.9400,-3.8100).
+
+Glossing was successful:  SYMBOL PIN at (-29.8450,5.0800) defined by pad  SMD12SQ12
+
+Glossing attempt unsuccessful. Active pad is at (-14.4125,-5.7150).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (14.0300,3.8100).
+
+Glossing attempt unsuccessful. Active pad is at (14.0300,3.8100).
+
+Glossing was successful:  SYMBOL PIN at (-23.9375,-12.0650) defined by pad  B200_60
+
+Glossing was successful:  SYMBOL PIN at (-26.0350,5.0800) defined by pad  SMD12SQ12
+
+Glossing was successful:  VIA at (31.1150,5.0800) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (29.7650,-6.3500) defined by pad  PAD16CIR10
+
+Glossing was successful:  SYMBOL PIN at (26.6650,-13.3350) defined by pad  SMD08REC09
+
+Glossing attempt unsuccessful. Active pad is at (5.8100,-8.8900).
+
+Glossing attempt unsuccessful. Active pad is at (5.8100,-8.8900).
+
+Glossing attempt unsuccessful. Active pad is at (5.8100,-8.8900).
+
+Glossing was successful:  SYMBOL PIN at (24.7650,-6.3500) defined by pad  PAD16SQR10
+
+Glossing attempt unsuccessful. Active pad is at (-3.5600,-8.8900).
+
+Glossing attempt unsuccessful. Active pad is at (-15.7350,-13.3350).
+
+Glossing was successful:  SYMBOL PIN at (-13.9700,10.1600) defined by pad  PAD16CIR10
+
+Glossing was successful:  VIA at (-3.0275,3.8100) defined by pad  VIA
+
+Glossing was successful:  VIA at (-13.8000,-1.8000) defined by pad  VIA
+
+Glossing was successful:  SYMBOL PIN at (-18.4150,-2.2200) defined by pad  SMD26REC35
+
+Glossing attempt unsuccessful. Active pad is at (22.2250,-11.4300).
+
+Glossing attempt unsuccessful. Active pad is at (-16.4125,-5.9377).
+
+Glossing attempt unsuccessful. Active pad is at (-16.4125,-5.9377).
+
+Glossing attempt unsuccessful. Active pad is at (-17.9725,-5.7150).
+
+Glossing was successful:  SYMBOL PIN at (-24.1300,10.1600) defined by pad  PAD16SQR10
+
+
+Finished execution 1
+
+Glossing attempt unsuccessful. Active pad is at (8.7750,-1.2700).
+
+Glossing attempt unsuccessful. Active pad is at (-12.7600,4.4450).
+
+Glossing attempt unsuccessful. Active pad is at (-12.7600,4.4450).
+
+Glossing attempt unsuccessful. Active pad is at (-16.5100,7.6200).
+
+Glossing attempt unsuccessful. Active pad is at (-18.4150,5.0800).
+
+Glossing attempt unsuccessful. Active pad is at (-18.4150,5.0800).
+
+Glossing attempt unsuccessful. Active pad is at (-27.9400,-3.8100).
+
+Glossing attempt unsuccessful. Active pad is at (-14.4125,-5.7150).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (14.0300,3.8100).
+
+Glossing attempt unsuccessful. Active pad is at (14.0300,3.8100).
+
+Glossing attempt unsuccessful. Active pad is at (5.8100,-8.8900).
+
+Glossing attempt unsuccessful. Active pad is at (5.8100,-8.8900).
+
+Glossing attempt unsuccessful. Active pad is at (5.8100,-8.8900).
+
+Glossing attempt unsuccessful. Active pad is at (-3.5600,-8.8900).
+
+Glossing attempt unsuccessful. Active pad is at (-15.7350,-13.3350).
+
+Glossing attempt unsuccessful. Active pad is at (22.2250,-11.4300).
+
+Glossing attempt unsuccessful. Active pad is at (-16.4125,-5.9377).
+
+Glossing attempt unsuccessful. Active pad is at (-16.4125,-5.9377).
+
+Glossing attempt unsuccessful. Active pad is at (-17.9725,-5.7150).
+
+
+Finished execution 2
+
+
+Elapsed time:  0 hr 0 min 1 sec ( 0.00 hr)
+Actual time of completion: Mon Apr 24 11:38:14 2017
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 50
+Number of Actual Glossings                    : 14
+Number of Glossings Aborted by DRC violations : 0
+
+There were 2 errors reported in logfile
+
+WARNING: Glossing operations may leave fillets out of date.
+
+
+Glossing complete.

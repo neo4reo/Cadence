@@ -1,0 +1,51 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : RPI_DYNAMIXEL.brd                             )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Sun Apr 23 13:46:53 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  J2 / RPI_HEADER_J2_40_254_RPI_HEADER / J2_40_254 at (-30.6768 16.7032)
+         Placed symbol:  U3 / 74HC04_SOIC14_74HC04_3V3 / SOIC14 at (23.4089 19.7782)
+         Placed symbol:  U2 / 74HC126_3_SOIC14_74HC126 / SOIC14 at (-28.3143 29.1314)
+         Placed symbol:  U1 / 74HC126_2_SOIC14_74HC126 / SOIC14 at (-20.1461 29.1314)
+         Placed symbol:  U4 / LM2576/TO_0_TO263_5_LM2576/TO_0 / TO263_5 at (-7.7604 30.2064)
+         Placed symbol:  J3 / DC-JACK_0_DC_JACK_25_DIP_POWER / DC_JACK_25_DIP at (8.1428 30.6680)
+         Placed symbol:  J1 / CON3_CONNECTOR3PINS_CON3 / CONNECTOR3PINS at (19.3460 26.9564)
+         Placed symbol:  Q1 / IRF1010E/TO_0_SOT23_2302 / SOT23 at (28.7056 27.9180)
+         Placed symbol:  C8 / CAP NP_CAP_SMD_0603_C104 / CAP_SMD_0603 at (31.1288 25.0664)
+         Placed symbol:  C9 / CAP NP_CAP_SMD_0603_C104 / CAP_SMD_0603 at (-31.1768 36.5696)
+         Placed symbol:  C6 / CAPACITOR POL_TANTALUM_7343_100 / TANTALUM_7343 at (-20.8264 38.3095)
+         Placed symbol:  D2 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (-17.4967 36.8596)
+         Placed symbol:  D1 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (-11.8071 36.8596)
+         Placed symbol:  D4 / DIODE_0_1N4007_SMD_SS34 / 1N4007_SMD at (-4.3894 37.7576)
+         Placed symbol:  D3 / LED_LED_SMD_0805_LED / LED_SMD_0805 at (0.8947 36.8596)
+         Placed symbol:  C5 / CAP NP_CAP_SMD_0603_C104 / CAP_SMD_0603 at (6.0279 36.5696)
+         Placed symbol:  C4 / CAP NP_CAP_SMD_0603_C104 / CAP_SMD_0603 at (8.4711 36.5696)
+         Placed symbol:  L1 / INDUCTOR_L81X73X55_6R8 / L81X73X55 at (14.4263 39.6156)
+         Placed symbol:  L2 / INDUCTOR_L81X73X55_100UH/3A / L81X73X55 at (23.8935 39.6156)
+         Placed symbol:  C7 / CAP NP_CAP_SMD_0603_C104 / CAP_SMD_0603 at (29.8487 36.5696)
+         Placed symbol:  L3 / INDUCTOR_RES_SMD_0805_30OHM / RES_SMD_0805 at (-30.5904 44.1748)
+         Placed symbol:  R1 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-24.8708 44.1748)
+         Placed symbol:  R2 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-19.1512 44.1748)
+         Placed symbol:  R3 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-13.4316 44.1748)
+         Placed symbol:  R4 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-7.7120 44.1748)
+         Placed symbol:  R7 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-1.9924 44.1748)
+         Placed symbol:  R5 / R_RES_SMD_0805_4K7 / RES_SMD_0805 at (3.7272 44.1748)
+         Placed symbol:  R6 / R_RES_SMD_0805_4K7 / RES_SMD_0805 at (9.4468 44.1748)
+         Placed symbol:  C2 / CAP NP_CAP_SMD_0603_C104 / CAP_SMD_0603 at (14.5800 43.8848)
+         Placed symbol:  C10 / CAP NP_CAP_SMD_0603_C104 / CAP_SMD_0603 at (17.0232 43.8848)
+         Placed symbol:  C3 / CAPACITOR POL_CAP_SMD_SIZEF_470 / CAP_SMD_SIZEF at (23.9214 47.5748)
+         Placed symbol:  C1 / CAPACITOR POL_CAP_SMD_SIZEF_470 / CAP_SMD_SIZEF at (-26.7218 56.1780)
+
+
+Placed 32 of 32 applicable (32 total) symbols.
+
+-----------------------------------------------------------------------
+

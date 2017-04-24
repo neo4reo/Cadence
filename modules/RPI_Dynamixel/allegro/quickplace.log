@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : RPI_DYNAMIXEL.brd                             )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Apr 24 10:22:13 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U1 / 74HC126_SOIC14_SOIC14_74HC126_S / SOIC14 at (-28.0175 20.0750)
+         Placed symbol:  U2 / 74HC04_SOIC14_74HC04 / SOIC14 at (-19.5525 20.0750)
+
+
+Placed 2 of 2 applicable (2 total) symbols.
+
+-----------------------------------------------------------------------
+

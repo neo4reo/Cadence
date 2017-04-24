@@ -1,0 +1,16 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space0.
+done.
+NOTE: Ignoring unsupported element POINT on line 2204.
+Layer conversion file: C:/DATA/git/Cadence/modules/RPI_nRF24L01/outline_l.cnv
+DXF file: C:/DATA/git/Cadence/modules/RPI_nRF24L01/outline.DXF
+BRD file: #Taaaaab15584.tmp
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILLIMETERS
+Design precision: 4
+dxf2a complete.

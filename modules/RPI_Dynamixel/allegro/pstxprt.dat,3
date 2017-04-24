@@ -1,0 +1,320 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Apr-24-2017 at 10:20:56 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='RPI_DYNAMIXEL';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR POL_CAP_SMD_SIZEF_470':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724292@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724292@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724292@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_CAP_SMD_0603_C104':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724508@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724508@discrete.\cap np.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724508@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CAP_SMD_0603_C104':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724412@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724412@discrete.\cap np.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724412@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR POL_CAP_SMD_SIZEF_470':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724308@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724308@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724308@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CAP_SMD_0603_C104':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724324@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724324@discrete.\cap np.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724324@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_CAP_SMD_0603_C104':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724340@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724340@discrete.\cap np.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724340@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR POL_TANTALUM_7343_100':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724464@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724464@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724464@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_CAP_SMD_0603_C104':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724524@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724524@discrete.\cap np.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724524@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_CAP_SMD_0603_C104':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724540@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724540@discrete.\cap np.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724540@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CAP_SMD_0603_C104':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724492@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724492@discrete.\cap np.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724492@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS621133@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins621133@discrete.\led.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins621133@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS621596@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins621596@discrete.\led.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins621596@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_SMD_0805_LED':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS621665@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins621665@discrete.\led.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins621665@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE_0_1N4007_SMD_SS34':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724448@SMARTDESKV2_ADDON.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724448@smartdeskv2_addon.\diode_0.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724448@smartdeskv2_addon.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON3_CONNECTOR3PINS_CON3':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS366@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins366@connector.\con3.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins366@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'RPI_HEADER_J2_40_254_RPI_HEADER':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS4796@MYLIB.RPI_HEADER.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins4796@mylib.\rpi_header.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins4796@mylib.\rpi_header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'DC-JACK_0_DC_JACK_25_DIP_POWER':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724190@RPI_DYNAMIXEL.DC-JACK_0.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724190@rpi_dynamixel.\dc-jack_0.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724190@rpi_dynamixel.\dc-jack_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_L81X73X55_6R8':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724114@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724114@discrete.\inductor.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724114@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_L81X73X55_100UH/3A':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724260@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724260@discrete.\inductor.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724260@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_RES_SMD_0805_30OHM':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724276@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724276@discrete.\inductor.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724276@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'IRF1010E/TO_0_SOT23_2302':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS713708@ADDONBOARDV1_1.IRF1010E/TO_0.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins713708@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins713708@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS441@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins441@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins441@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS264@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins264@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins264@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS621174@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins621174@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins621174@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS621612@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins621612@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins621612@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES_SMD_0805_4K7':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS713676@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins713676@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins713676@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES_SMD_0805_4K7':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS713692@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins713692@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins713692@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS621681@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins621681@discrete.\r.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins621681@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 '74HC126_SOIC14_SOIC14_74HC126_S':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS720283@MYLIB.74HC126_SOIC14.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins720283@mylib.\74hc126_soic14.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins720283@mylib.\74hc126_soic14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 '74HC04_SOIC14_74HC04':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS720361@MYLIB.74HC04.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins720361@mylib.\74hc04.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins720361@mylib.\74hc04.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LM2576/TO_0_TO263_5_LM2576/TO_0':;
+
+SECTION_NUMBER 1
+ '@RPI_DYNAMIXEL.SCHEMATIC1(SCH_1):INS724216@RPI_DYNAMIXEL.LM2576/TO_0.NORMAL(CHIPS)':
+ C_PATH='@rpi_dynamixel.schematic1(sch_1):ins724216@rpi_dynamixel.\lm2576/to_0.normal\(chips)',
+ P_PATH='@rpi_dynamixel.schematic1(sch_1):page1_ins724216@rpi_dynamixel.\lm2576/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
