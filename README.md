@@ -9,3 +9,5 @@
 ![atl tag](https://s5.postimg.org/wmc7mywl3/img.jpg)
 5. RPI Zero , nRF24L01 module and USB2Serial
 ![alt tag](https://s5.postimg.org/6ehnylmrb/hinh.jpg)
+6. dynamixel shield for raspberry zero
+![alt tag](https://s17.postimg.org/6nvoebwzj/image.jpg)
