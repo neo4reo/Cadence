@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : RPI_DYNAMIXEL.brd                             )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Apr 24 13:02:12 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-365): This design contains 3 slot holes that can NOT be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+
+
+ Drill files being output to directory 'C:/DATA/git/Cadence/modules/RPI_Dynamixel/production' ...
+
+
+
+     'RPI_DYNAMIXEL-1-2.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.5000    0.0000/  0.0000      PLATED         24
+            2.   1.0000    0.0000/  0.0000      PLATED         43
+            3.   3.3000    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                         71
+
+     ---- Total head travel:              2.46 feet (0.75 meters)
+

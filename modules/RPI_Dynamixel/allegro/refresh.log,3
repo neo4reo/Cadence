@@ -1,9 +1,9 @@
-Mon Apr 24 13:21:43 2017				Page     1
+Mon Apr 24 13:20:53 2017				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Mon Apr 24 13:21:43 2017
+	Mon Apr 24 13:20:53 2017
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : RPI_DYNAMIXEL.brd                             )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon Apr 24 13:21:43 2017                      )
+(    Date/Time        : Mon Apr 24 13:20:53 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Mon Apr 24 13:21:43 2017				Page     1
+Mon Apr 24 13:20:53 2017				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -36,13 +36,13 @@ Update mechanical symbols              = 'NO'
 Update format symbols                  = 'NO'
 Update package symbols                 = 'NO'
 Update shape/flash symbols             = 'NO'
-Update symbol padstacks                = 'YES'
+Update symbol padstacks                = 'NO'
 Preserve padstacks replaced on pins    = 'NO'
 Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/Thanh/AppData/Local/Temp/#Taaaaaq11184.tmp'
+Symbol list file                       = 'C:/Users/Thanh/AppData/Local/Temp/#Taaaaam11184.tmp'
 
 
 ------ Library Paths ------
@@ -68,11 +68,6 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 ------ Symbol Refresh Messages ------
 
 'L81X73X55'  symbol refreshed successfully.
-
-
------- Pad Stack Refresh Messages ------
-
-'SMD140REC250'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----
