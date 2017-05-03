@@ -1,2 +1,0 @@
-C:\Cadence\SPB_16.6\share\pcb\pcb_lib\symbols
-
