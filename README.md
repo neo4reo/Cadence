@@ -11,3 +11,7 @@
 ![alt tag](https://s5.postimg.org/6ehnylmrb/hinh.jpg)
 6. dynamixel shield for raspberry zero
 ![alt tag](https://s17.postimg.org/6nvoebwzj/image.jpg)
+7. Zwave Switch
+![alt tag](https://s15.postimg.org/x81jl37iz/zwave.png)
+8. Wifi Switch
+![alt tag](https://s7.postimg.org/56wqmfoaz/wifi.png)
