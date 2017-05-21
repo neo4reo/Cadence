@@ -1,0 +1,280 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001May-21-2017 at 00:07:37 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ZWAVE_SWITCH';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS54973@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins54973@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins54973@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS54570@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins54570@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins54570@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS55053@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins55053@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins55053@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS55069@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins55069@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins55069@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS50074@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins50074@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins50074@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR NON-POL_CAP_SMD_080_2':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS50344@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins50344@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins50344@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR NON-POL_CAP_SMD_080_3':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS50360@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins50360@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins50360@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED_SMD_0805_PWM LED':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS50328@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins50328@discrete.\led.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins50328@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_BARRIERTERMINALBLOCK_2PINS':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS58277@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins58277@connector.\con2.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins58277@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_BARRIERTERMINALBLOCK_2PI_1':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS53834@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins53834@connector.\con2.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins53834@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON6_HEADER3X2X2_CON6':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS56129@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins56129@connector.\con6.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins56129@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LS1 'RELAY SPDT_SONGLE_RELAY_5PINS_R':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS51699@DISCRETE.RELAY SPDT.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins51699@discrete.\relay spdt.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins51699@discrete.\relay spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M1 'AC2DC_MODULE_AC2DC_MODULE_12V':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS47@MYLIB.AC2DC_MODULE.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins47@mylib.\ac2dc_module.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins47@mylib.\ac2dc_module.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN BEC_1_SOT23_MMBT2222A':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS53627@DESKV2.NPN BEC_1.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins53627@deskv2.\npn bec_1.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins53627@deskv2.\npn bec_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS53611@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins53611@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins53611@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES_SMD_0805_100K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS53667@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins53667@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins53667@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS49726@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins49726@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins49726@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES_SMD_0805_1K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS49824@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins49824@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins49824@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS50600@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins50600@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins50600@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS49896@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins49896@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins49896@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS50216@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins50216@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins50216@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES_SMD_0805_0R':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS50016@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins50016@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins50016@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW_PB_SPST_SMD_2PIN_BUTTON_SW_P':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS49742@DISCRETE.SW_PB_SPST.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins49742@discrete.\sw_pb_spst.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins49742@discrete.\sw_pb_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'ASM1117_SOT223_AMS1117':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS51365@MYLIB.ASM1117.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins51365@mylib.\asm1117.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins51365@mylib.\asm1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'ASM1117_SOT223_AMS1117':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS51415@MYLIB.ASM1117.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins51415@mylib.\asm1117.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins51415@mylib.\asm1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ZM5202_ZM5202_ZM5202AU-CME3R':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS49952@QUANGTHANH-SCHEMATIC.ZM5202.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins49952@\quangthanh-schematic\.\zm5202.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins49952@\quangthanh-schematic\.\zm5202.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'RF-ANTENA_RF_ANTENA_5-1814832-1':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_SWITCH.SCHEMATIC1(SCH_1):INS50162@QUANGTHANH-SCHEMATIC.RF-ANTENA.NORMAL(CHIPS)':
+ C_PATH='@zwave_switch.schematic1(sch_1):ins50162@\quangthanh-schematic\.\rf-antena.normal\(chips)',
+ P_PATH='@zwave_switch.schematic1(sch_1):page1_ins50162@\quangthanh-schematic\.\rf-antena.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

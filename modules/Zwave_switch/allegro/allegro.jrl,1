@@ -1,0 +1,21 @@
+\t (00:00:15) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:15)     Journal start - Sun May 21 20:45:44 2017
+\t (00:00:15)         Host=QUANGTHANH-PC User=Thanh Pid=208 CPUs=4
+\t (00:00:15) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:15) 
+\d (00:00:15) Design opened: C:/DATA/git/Cadence/modules/Zwave_switch/allegro/ZWAVE_SWITCH.brd
+\i (00:00:15) generaledit 
+\i (00:00:51) nctape_full 
+\w (00:00:51) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
+\i (00:00:54) setwindow form.nc_drill
+\i (00:00:54) FORM nc_drill browse  
+\i (00:01:00) fillin "C:\DATA\git\Cadence\modules\Zwave_switch\production\ZWAVE_SWITCH.drl"
+\i (00:01:04) FORM nc_drill execute  
+\t (00:01:04) Starting Generating NC Drill...
+\i (00:01:06) FORM nc_drill cancel  
+\i (00:01:06) setwindow pcb
+\i (00:01:06) generaledit 
+\i (00:01:09) exit 
+\e (00:01:09) Do you want to save the changes you made to ZWAVE_SWITCH.brd?
+\i (00:01:10) fillin yes 
+\t (00:01:11)     Journal end - Sun May 21 20:46:40 2017

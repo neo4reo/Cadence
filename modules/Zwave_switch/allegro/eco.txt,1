@@ -1,0 +1,69 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../Cadence/modules/RPI_Dynamixel/Zwave_switch/allegro/ZWAVE_SWITCH.brd   |
+|                                                    Sun May 21 01:10:21 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  12V          pins ADDED TO this existing net (pins not previously on any net)
+                                 C11.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V           pins ADDED TO this existing net (pins not previously on any net)
+                                 D2.C                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C11.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N53737       pins ADDED TO this existing net (pins not previously on any net)
+                                 D2.A                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../Cadence/modules/RPI_Dynamixel/Zwave_switch/allegro/ZWAVE_SWITCH.brd   |
+|                                                    Sun May 21 01:10:21 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAPACITOR POL_TANTALUM_7343_100
+ DIODE_0_1N4007_SMD_1N4007
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../Cadence/modules/RPI_Dynamixel/Zwave_switch/allegro/ZWAVE_SWITCH.brd   |
+|                                                    Sun May 21 01:10:21 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11                 CAPACITOR POL_TANTALUM_7343_100 
+ D2                  DIODE_0_1N4007_SMD_1N4007 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../Cadence/modules/RPI_Dynamixel/Zwave_switch/allegro/ZWAVE_SWITCH.brd   |
+|                                                    Sun May 21 01:10:21 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ D2.C                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :       4                                        |
+|       Comp definitions added:       2                                        |
+|       Components added      :       2                                        |
+|       Slot property added   :       2                                        |
+|                                                                              |
+|   Total ECO changes reported:      10                                        |
+|------------------------------------------------------------------------------|

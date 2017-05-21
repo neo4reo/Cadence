@@ -1,0 +1,46 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : ZWAVE_SWITCH.brd                              )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Sun May 21 00:12:38 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / ZM5202_ZM5202_ZM5202AU-CME3R / ZM5202 at (-30.0816 17.7848)
+         Placed symbol:  J3 / CON6_HEADER3X2X2_CON6 / HEADER3X2X2 at (-12.3034 19.4932)
+         Placed symbol:  U4 / RF-ANTENA_RF_ANTENA_5-1814832-1 / RF_ANTENA at (-3.6802 20.1132)
+         Placed symbol:  LS1 / RELAY SPDT_SONGLE_RELAY_5PINS_R / SONGLE_RELAY_5PINS at (-24.3168 42.6280)
+         Placed symbol:  M1 / AC2DC_MODULE_AC2DC_CONVERTER_12 / AC2DC_CONVERTER at (-15.8972 53.0280)
+         Placed symbol:  Q1 / NPN BEC_1_SOT23_MMBT2222A / SOT23 at (-29.2604 56.5928)
+         Placed symbol:  U2 / ASM1117_SOT223_AMS1117 / SOT223 at (-24.0802 57.3069)
+         Placed symbol:  U1 / ASM1117_SOT223_AMS1117 / SOT223 at (-16.7500 57.3069)
+         Placed symbol:  D1 / LED_LED_SMD_0805_PWM LED / LED_SMD_0805 at (-11.6204 54.0312)
+         Placed symbol:  J2 / CON2_BARRIERTERMINALBLOCK_2PI_1 / BARRIERTERMINALBLOCK_2PINS_P10MM at (-7.6072 53.2312)
+         Placed symbol:  J1 / CON2_BARRIERTERMINALBLOCK_2PINS / BARRIERTERMINALBLOCK_2PINS_P10MM at (-32.3168 68.9344)
+         Placed symbol:  C6 / CAPACITOR NON-POL_CAP_SMD_080_2 / CAP_SMD_0805 at (-8.4072 69.7344)
+         Placed symbol:  C4 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805 at (-2.6876 69.7344)
+         Placed symbol:  C3 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805 at (3.0320 69.7344)
+         Placed symbol:  C5 / CAPACITOR NON-POL_CAP_SMD_080_1 / CAP_SMD_0805 at (8.7516 69.7344)
+         Placed symbol:  R4 / R_RES_SMD_0805_1K / RES_SMD_0805 at (-30.6104 85.4376)
+         Placed symbol:  R1 / R_RES_SMD_0805_1K / RES_SMD_0805 at (-24.8908 85.4376)
+         Placed symbol:  R3 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-19.1712 85.4376)
+         Placed symbol:  R5 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-13.4516 85.4376)
+         Placed symbol:  R6 / R_RES_SMD_0805_10K / RES_SMD_0805 at (-7.7320 85.4376)
+         Placed symbol:  R7 / R_RES_SMD_0805_330R / RES_SMD_0805 at (-2.0124 85.4376)
+         Placed symbol:  R8 / R_RES_SMD_0805_0R / RES_SMD_0805 at (3.7072 85.4376)
+         Placed symbol:  SW1 / SW_PB_SPST_SMD_2PIN_BUTTON_SW_P / SMD_2PIN_BUTTON at (-26.7404 88.4728)
+         Placed symbol:  C7 / CAPACITOR NON-POL_CAP_SMD_080_3 / CAP_SMD_0805 at (-20.0048 87.2408)
+         Placed symbol:  R2 / R_RES_SMD_0805_100K / RES_SMD_0805 at (-14.2852 87.2408)
+         Placed symbol:  C2 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805 at (-8.5656 87.2408)
+         Placed symbol:  C1 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805 at (-2.8460 87.2408)
+
+
+Placed 27 of 27 applicable (27 total) symbols.
+
+-----------------------------------------------------------------------
+

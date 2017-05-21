@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : ZWAVE_SWITCH.brd                              )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Sun May 21 01:10:30 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  C11 / CAPACITOR POL_TANTALUM_7343_100 / TANTALUM_7343 at (-44.2728 25.3499)
+         Placed symbol:  D2 / DIODE_0_1N4007_SMD_1N4007 / 1N4007_SMD at (-38.9182 24.7980)
+         Placed symbol:  C3 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805 at (-33.3073 23.9000)
+
+
+Placed 3 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+

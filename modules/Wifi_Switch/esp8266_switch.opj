@@ -1,13 +1,29 @@
-(ExpressProject "ZM5202_PL2303"
+(ExpressProject "esp8266_switch"
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
     (NoModify)
-    (File ".\zm5202_pl2303.dsn"
+    (File ".\esp8266_switch.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
     (DRC_Scope "0")
     (DRC_Action "0")
     (DRC_Create_Warnings "FALSE")
@@ -16,7 +32,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "C:\DATA\GIT\CADENCE\MODULES\ZM5202_PL2303\ZM5202_PL2303.DRC")
+       "C:\DATA\GIT\CADENCE\MODULES\WIFI_SWITCH\ESP8266_SWITCH.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -44,29 +60,13 @@
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
-    (ANNOTATE_Scope "0")
-    (ANNOTATE_Mode "1")
-    (ANNOTATE_Action "0")
-    (Annotate_Page_Order "0")
-    (ANNOTATE_Reset_References_to_1 "FALSE")
-    (ANNOTATE_No_Page_Number_Change "FALSE")
-    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
-    (ANNOTATE_IncludeNonPrimitive "FALSE")
-    (ANNOTATE_PreserveDesignator "FALSE")
-    (ANNOTATE_PreserveUserEdits "FALSE")
-    (ANNOTATE_Refdes_Control_Required "FALSE")
-    (Update_Instace_for_External_Design "FALSE")
-    (Annotate_type "Default")
-    (width_pages "100")
-    (width_start "80")
-    (width_End "80")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory" "allegro")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Output Board File"
-       "C:\DATA\git\Cadence\modules\ZM5202_PL2303\allegro\ZM5202_PL2303.brd")
+       "C:\DATA\git\Cadence\modules\Wifi_Switch\allegro\ESP8266_SWITCH.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -79,22 +79,9 @@
     ("Allegro Netlist User Defined Property" "FALSE")
     (Netlist_TAB "0")
     ("Allegro Netlist Input Board File"
-       "C:\DATA\git\Cadence\modules\ZM5202_PL2303\allegro\ZM5202_PL2303.brd")
-    (BOM_Scope "0")
-    (BOM_Mode "0")
-    (BOM_Report_File
-       "C:\DATA\GIT\CADENCE\MODULES\ZM5202_PL2303\ZM5202_PL2303.BOM")
-    (BOM_Merge_Include "FALSE")
-    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
-    (BOM_Header "Item\tQuantity\tReference\tPart")
-    (BOM_Include_File
-       "C:\DATA\GIT\CADENCE\MODULES\ZM5202_PL2303\ZM5202_PL2303.INC")
-    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
-    (BOM_One_Part_Per_Line "FALSE")
-    (Open_BOM_in_Excel "TRUE")
-    (BOM_View_Output "FALSE"))
+       "C:\DATA\git\Cadence\modules\Wifi_Switch\allegro\ESP8266_SWITCH.brd"))
   (Folder "Outputs"
-    (File ".\zm5202_pl2303.drc"
+    (File ".\esp8266_switch.drc"
       (Type "Report"))
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -104,49 +91,40 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat"))
-    (File ".\zm5202_pl2303.bom"
-      (Type "Report")))
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
-    (VCC
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (SW_PB_SPST
-      (FullPartName "SW_PB_SPST.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (SW_PB_SPDT
-      (FullPartName "SW_PB_SPDT.Normal")
+    (CON5
+      (FullPartName "CON5.Normal")
       (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0"))
-    (TP
-      (FullPartName "TP.Normal")
+    (ESP8266-12E
+      (FullPartName "ESP8266-12E.Normal")
       (LibraryName
          "C:\DATA\GIT\HARDWARE\LIBRARY\CADENCELIB\SCHEMATICS\MYLIB.OLB")
-      (DeviceIndex "0"))
-    (PL2303-HX_SSOP28
-      (FullPartName "PL2303-HX_SSOP28.Normal")
-      (LibraryName
-         "C:\DATA\GIT\HARDWARE\LIBRARY\CADENCELIB\SCHEMATICS\MYLIB.OLB")
-      (DeviceIndex "0"))
-    (INDUCTOR
-      (FullPartName "INDUCTOR.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0")))
+  (MPSSessionName "Thanh")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\zm5202_pl2303.dsn")
-      (Path "Design Resources" ".\zm5202_pl2303.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\DATA\git\Cadence\modules\Wifi_Switch\esp8266_switch.dsn")
+      (Path "Design Resources"
+         "C:\DATA\git\Cadence\modules\Wifi_Switch\esp8266_switch.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\DATA\git\Cadence\modules\Wifi_Switch\esp8266_switch.dsn"
+         "Design Cache")
       (Path "Outputs")
-      (Select "Design Resources" ".\zm5202_pl2303.dsn" "SCHEMATIC1" "PAGE1"))
+      (Select "Design Resources"
+         "C:\DATA\git\Cadence\modules\Wifi_Switch\esp8266_switch.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -156,12 +134,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1740 104 573")
-        (Scroll "-339 0")
-        (Zoom "55")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 521")
+        (Scroll "368 0")
+        (Zoom "132")
         (Occurrence "/"))
-      (Path "C:\DATA\GIT\CADENCE\MODULES\ZM5202_PL2303\ZM5202_PL2303.DSN")
+      (Path "C:\DATA\GIT\CADENCE\MODULES\WIFI_SWITCH\ESP8266_SWITCH.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (ISPCBBASICLICENSE "false")
-  (MPSSessionName "Thanh"))
+  (ISPCBBASICLICENSE "false"))
