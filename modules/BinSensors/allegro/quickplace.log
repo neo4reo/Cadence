@@ -1,0 +1,49 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : BINSENSORS.brd                                )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jun 19 18:37:25 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / ZM5202_ZM5202_ZM5202AU-CME3R / ZM5202 at (2.9384 41.9148)
+         Placed symbol:  U2 / SPI EPPROM SOIC-8_SOIC_8_25LC12 / SOIC_8 at (20.7166 40.4032)
+         Placed symbol:  J3 / CON7_J1_7_254_CON7 / J1_7_254 at (27.7961 46.1032)
+         Placed symbol:  M1 / AC2DC_MODULE_AC2DC_CONVERTER_12 / AC2DC_CONVERTER at (0.9196 77.1580)
+         Placed symbol:  J2 / CON4_CONNECTOR4PINS_BUTTON IN / CONNECTOR4PINS at (34.8928 59.5580)
+         Placed symbol:  U1 / ASM1117_SOT223_AMS1117 / SOT223 at (47.5730 61.2337)
+         Placed symbol:  C6 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (52.1462 57.6681)
+         Placed symbol:  C10 / CAPACITOR NON-POL_CAP_SMD_060_1 / CAP_SMD_0603 at (54.5894 57.6681)
+         Placed symbol:  C7 / CAPACITOR NON-POL_CAP_SMD_0805_ / CAP_SMD_0805 at (2.4096 78.1612)
+         Placed symbol:  C4 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (7.5428 77.8713)
+         Placed symbol:  C5 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (9.9860 77.8713)
+         Placed symbol:  D1 / LED_LED_SMD_0603_PWM LED / LED_SMD_0603 at (13.2698 77.9362)
+         Placed symbol:  D2 / LED_LED_SMD_0603_STATUS LED / LED_SMD_0603 at (16.6086 77.9362)
+         Placed symbol:  J1 / CON2_KF850_2P_AC IN / KF850_2P at (22.2368 87.3612)
+         Placed symbol:  C8 / CAPACITOR NON-POL_CAP_SMD_060_2 / CAP_SMD_0603 at (36.2600 77.8713)
+         Placed symbol:  C9 / CAPACITOR NON-POL_CAP_SMD_060_3 / CAP_SMD_0603 at (38.7032 77.8713)
+         Placed symbol:  C3 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (41.1464 77.8713)
+         Placed symbol:  C2 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (43.5896 77.8713)
+         Placed symbol:  R1 / R_RES_SMD_0603_10K / RES_SMD_0603 at (46.1328 77.9362)
+         Placed symbol:  R2 / R_RES_SMD_0603_10K / RES_SMD_0603 at (48.7760 77.9362)
+         Placed symbol:  R3 / R_RES_SMD_0603_10K / RES_SMD_0603 at (51.4192 77.9362)
+         Placed symbol:  R5 / R_RES_SMD_0603_10K / RES_SMD_0603 at (54.0624 77.9362)
+         Placed symbol:  R6 / R_RES_SMD_0603_10K / RES_SMD_0603 at (56.7056 77.9362)
+         Placed symbol:  R4 / R_RES_SMD_0805_10K / RES_SMD_0805 at (2.4096 90.3644)
+         Placed symbol:  R7 / R_RES_SMD_0603_0R / RES_SMD_0603 at (7.6428 90.1394)
+         Placed symbol:  R8 / R_RES_SMD_0603_330R / RES_SMD_0603 at (10.2860 90.1394)
+         Placed symbol:  R9 / R_RES_SMD_0603_330R / RES_SMD_0603 at (12.9292 90.1394)
+         Placed symbol:  L1 / INDUCTOR_RES_SMD_0603_3.9 NH / RES_SMD_0603 at (15.5724 90.1394)
+         Placed symbol:  C1 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (18.1156 90.0745)
+         Placed symbol:  AN1 / MYANTENA_MYANTENA_MYANTENA / MYANTENA at (7.0532 91.6676)
+
+
+Placed 30 of 30 applicable (30 total) symbols.
+
+-----------------------------------------------------------------------
+
