@@ -1,24 +1,246 @@
-\t (00:00:30) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:30)     Journal start - Mon May 22 01:49:08 2017
-\t (00:00:30)         Host=QUANGTHANH-PC User=Thanh Pid=4224 CPUs=4
-\t (00:00:30) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:30) 
-\d (00:00:30) Design opened: C:/DATA/git/Cadence/modules/Zwave_switch/allegro/ZWAVE_SWITCH.brd
-\i (00:00:30) generaledit 
-\i (00:00:37) 3d_viewer 
-\i (00:00:38) setwindow pcb3D
-\i (00:00:38) trapsize 3371
-\i (00:00:38) setwindow pcb
-\i (00:00:38) generaledit 
-\i (00:00:39) trapsize 3371
-\i (00:00:56) pick grid 4.5018 -0.3250
-\t (00:00:56) last pick:  4.5000 -0.3000
-\i (00:00:59) setwindow pcb3D
-\i (00:00:59) view3d export 
-\i (00:01:48) setwindow pcb
-\i (00:01:48) open 
-\i (00:01:55) fillin "C:\DATA\git\Cadence\modules\Wifi_Switch\allegro\ESP8266_SWITCH.brd"
-\i (00:01:55) cd "C:\DATA\git\Cadence\modules\Wifi_Switch\allegro"
-\t (00:01:55) Opening existing design...
-\i (00:01:55) trapsize 208
-\t (00:01:55)     Journal end - Mon May 22 01:50:33 2017
+\t (00:11:56) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:11:56)     Journal start - Fri Jun 02 22:42:08 2017
+\t (00:11:56)         Host=QUANGTHANH-PC User=Thanh Pid=7504 CPUs=4
+\t (00:11:56) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -mpssession Thanh C:\DATA\git\Cadence\modules\Zwave_switchV2\allegro\ZWAVE_SWITCHV2.brd
+\t (00:11:56) 
+\d (00:11:56) Design opened: C:/DATA/git/Cadence/modules/Zwave_switch/allegro/ZWAVE_SWITCH.brd
+\i (00:11:57) generaledit 
+\i (00:11:59) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:12:00) zoom out 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom out 26.0065 -3.8010
+\t (00:12:00) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:12:00) trapsize 6553
+\i (00:12:02) 3d_viewer 
+\i (00:12:02) setwindow pcb3D
+\i (00:12:02) trapsize 6553
+\i (00:12:03) setwindow pcb
+\i (00:12:03) generaledit 
+\i (00:12:03) trapsize 6553
+\i (00:12:09) pick grid 37.4735 -12.5815
+\t (00:12:09) last pick:  37.5000 -12.6000
+\i (00:12:20) zoom fit 
+\i (00:12:20) trapsize 3201
+\i (00:12:25) 3d_viewer 
+\i (00:12:26) setwindow pcb3D
+\i (00:12:26) trapsize 3201
+\i (00:12:26) setwindow pcb
+\i (00:12:26) generaledit 
+\i (00:12:46) step out 
+\i (00:13:04) setwindow form.step_out
+\i (00:13:04) FORM step_out browse  
+\i (00:13:08) fillin "C:\Users\Thanh\Desktop\ZWAVE_SWITCH.stp"
+\i (00:13:09) FORM step_out done  
+\t (00:13:10) Starting Exporting STEP File...
+\t (00:13:11) STEP output completed.
+\i (00:15:02) FORM step_out protocol AP-242 
+\i (00:15:07) FORM step_out elec_drill YES 
+   (00:15:07) The STEP file size will increase dramatically to include electrical holes.
+\i (00:15:12) fillin confirm
+\i (00:15:13) FORM step_out external_copper YES 
+   (00:15:13) The STEP file size will increase dramatically to include external copper.
+\i (00:15:15) fillin confirm
+\i (00:15:15) FORM step_out inner_copper YES 
+   (00:15:15) The STEP file size will increase dramatically to include internal copper.
+\i (00:15:16) fillin confirm
+\i (00:15:17) FORM step_out bare_board YES 
+\i (00:15:23) FORM step_out done  
+\t (00:15:23) Starting Exporting STEP File...
+\e (00:15:42) ERROR(SPMHGE-268): step out had errors, use Viewlog to review the log file.
+\e (00:15:43) A problem occurred, check the logfile using Viewlog.
+\i (00:16:07) FORM step_out inner_copper NO 
+\i (00:16:07) FORM step_out external_copper NO 
+\i (00:16:09) FORM step_out elec_drill NO 
+\i (00:16:09) FORM step_out external_copper YES 
+   (00:16:09) The STEP file size will increase dramatically to include external copper.
+\i (00:16:11) fillin confirm
+\i (00:16:12) FORM step_out external_copper NO 
+\i (00:16:13) FORM step_out inner_copper YES 
+   (00:16:13) The STEP file size will increase dramatically to include internal copper.
+\i (00:16:14) fillin confirm
+\i (00:16:15) FORM step_out elec_drill YES 
+   (00:16:15) The STEP file size will increase dramatically to include electrical holes.
+\i (00:16:17) fillin confirm
+\i (00:16:18) FORM step_out elec_drill NO 
+\i (00:16:22) FORM step_out done  
+\t (00:16:22) Starting Exporting STEP File...
+\t (00:16:23) STEP output completed.
+\i (00:17:29) FORM step_out unmapped_pkg YES 
+\i (00:17:33) FORM step_out done  
+\t (00:17:33) Starting Exporting STEP File...
+\t (00:17:35) STEP output completed.
+\i (00:17:58) FORM step_out protocol AP-214 
+\i (00:18:00) FORM step_out done  
+\t (00:18:00) Starting Exporting STEP File...
+\t (00:18:01) STEP output completed.
+\i (00:18:48) FORM step_out mapped_pkg YES 
+\i (00:19:12) FORM step_out unit Micron 
+\i (00:19:13) FORM step_out unit Inch 
+\i (00:19:15) FORM step_out done  
+\t (00:19:15) Starting Exporting STEP File...
+\t (00:19:16) STEP output completed.
+\i (00:19:27) FORM step_out done  
+\t (00:19:27) Starting Exporting STEP File...
+\t (00:19:28) STEP output completed.
+\i (00:22:48) FORM step_out cancel  
+\i (00:22:49) setwindow pcb
+\i (00:22:49) generaledit 
+\i (00:29:26) show measure 
+\i (00:29:28) pick grid -57.6565 -14.8548
+\t (00:29:28) last pick:  -57.6000 -15.0000
+\i (00:29:29) pick grid -57.3364 28.3585
+\t (00:29:29) last pick:  -57.3000 28.5000
+\i (00:29:46) pick grid 11.8048 -13.9585
+\t (00:29:46) last pick:  11.7000 -14.1000
+\i (00:29:47) pick grid 11.7407 28.6786
+\t (00:29:47) last pick:  11.7000 28.8000
+\i (00:29:50) pick grid -57.1444 28.3585
+\t (00:29:50) last pick:  -57.0000 28.5000
+\i (00:29:53) pick grid 11.4206 -13.7664
+\t (00:29:53) last pick:  11.4000 -13.8000
+\i (00:29:55) pick grid -58.2967 -15.1749
+\t (00:29:55) last pick:  -58.2000 -15.3000
+\i (00:30:26) pick grid -56.5682 28.1024
+\t (00:30:26) last pick:  -56.7000 28.2000
+\i (00:30:27) pick grid 11.6127 28.9347
+\t (00:30:27) last pick:  11.7000 28.8000
+\i (00:31:04) pick grid -56.6962 -14.0225
+\t (00:31:04) last pick:  -56.7000 -14.1000
+\i (00:31:05) pick grid -57.5925 28.1664
+\t (00:31:05) last pick:  -57.6000 28.2000
+\i (00:41:49) setwindow text
+\i (00:41:49) close 
+\i (00:41:49) setwindow pcb
+\i (00:41:49) zoom in 1 
+\i (00:41:49) setwindow pcb
+\i (00:41:49) zoom in -56.8883 27.3982
+\i (00:41:49) trapsize 1600
+\i (00:41:49) zoom in 1 
+\i (00:41:49) setwindow pcb
+\i (00:41:49) zoom in -57.0803 27.8143
+\i (00:41:49) trapsize 800
+\i (00:41:49) zoom in 1 
+\i (00:41:49) setwindow pcb
+\i (00:41:49) zoom in -57.1123 27.8944
+\i (00:41:49) trapsize 400
+\i (00:41:50) zoom out 1 
+\i (00:41:50) setwindow pcb
+\i (00:41:50) zoom out -56.9122 27.8624
+\i (00:41:50) trapsize 800
+\i (00:41:50) zoom out 1 
+\i (00:41:50) setwindow pcb
+\i (00:41:50) zoom out -55.8720 27.1903
+\i (00:41:50) trapsize 1600
+\i (00:41:50) zoom out 1 
+\i (00:41:50) setwindow pcb
+\i (00:41:50) zoom out -54.6877 26.2620
+\i (00:41:50) trapsize 3201
+\i (00:41:50) zoom out 1 
+\i (00:41:50) setwindow pcb
+\i (00:41:50) zoom out -42.9721 22.8048
+\i (00:41:50) trapsize 6402
+\i (00:41:53) pick grid 40.0752 12.8178
+\t (00:41:53) last pick:  40.2000 12.9000
+\i (00:41:54) setwindow text
+\i (00:41:54) close 
+\i (00:41:55) setwindow pcb
+\i (00:41:55) zoom in 1 
+\i (00:41:55) setwindow pcb
+\i (00:41:55) zoom in 12.6747 26.2620
+\i (00:41:55) trapsize 3201
+\i (00:41:55) zoom in 1 
+\i (00:41:55) setwindow pcb
+\i (00:41:55) zoom in 13.1229 27.0302
+\i (00:41:55) trapsize 1600
+\i (00:41:55) zoom in 1 
+\i (00:41:55) setwindow pcb
+\i (00:41:55) zoom in 10.6582 28.6947
+\i (00:41:55) trapsize 800
+\i (00:41:55) zoom in 1 
+\i (00:41:55) setwindow pcb
+\i (00:41:55) zoom in 10.6582 28.6947
+\i (00:41:55) trapsize 400
+\i (00:41:56) zoom out 1 
+\i (00:41:56) setwindow pcb
+\i (00:41:56) zoom out 10.6662 28.6147
+\i (00:41:56) trapsize 800
+\i (00:42:00) zoom out 1 
+\i (00:42:00) setwindow pcb
+\i (00:42:00) zoom out 15.1475 26.1980
+\i (00:42:00) trapsize 1600
+\i (00:42:00) zoom out 1 
+\i (00:42:00) setwindow pcb
+\i (00:42:00) zoom out 15.1474 26.1980
+\i (00:42:00) trapsize 3201
+\i (00:42:09) place manual 
+\i (00:42:12) setwindow form.plc_manual
+\i (00:42:12) FORM plc_manual categories Mechanical symbols 
+\i (00:42:28) setwindow pcb
+\i (00:42:28) zoom out 1 
+\i (00:42:28) setwindow pcb
+\i (00:42:28) zoom out 5.4805 19.4760
+\i (00:42:28) trapsize 6402
+\i (00:42:28) zoom out 1 
+\i (00:42:28) setwindow pcb
+\i (00:42:28) zoom out 31.4965 25.7499
+\t (00:42:28) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:42:28) trapsize 13280
+\i (00:42:29) zoom in 1 
+\i (00:42:29) setwindow pcb
+\i (00:42:29) zoom in -7.3041 -9.9602
+\t (00:42:29) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:42:29) trapsize 6640
+\i (00:42:29) zoom in 1 
+\i (00:42:29) setwindow pcb
+\i (00:42:29) zoom in -58.5657 -11.4210
+\i (00:42:29) trapsize 3320
+\i (00:42:30) zoom out 1 
+\i (00:42:30) setwindow pcb
+\i (00:42:30) zoom out -61.6201 1.2617
+\i (00:42:30) trapsize 6640
+\i (00:42:32) zoom in 1 
+\i (00:42:32) setwindow pcb
+\i (00:42:32) zoom in -59.4953 27.6893
+\i (00:42:32) trapsize 3320
+\i (00:42:32) zoom out 1 
+\i (00:42:32) setwindow pcb
+\i (00:42:32) zoom out -58.3664 26.2285
+\i (00:42:32) trapsize 6640
+\i (00:42:33) zoom in 1 
+\i (00:42:33) setwindow pcb
+\i (00:42:33) zoom in -60.8234 30.7437
+\i (00:42:33) trapsize 3320
+\i (00:42:34) show measure 
+\i (00:42:35) pick grid -58.0345 28.8845
+\t (00:42:35) last pick:  -57.9000 28.8000
+\i (00:42:36) pick grid -57.1713 -13.9442
+\t (00:42:36) last pick:  -57.3000 -13.8000
+\i (00:42:43) pick grid 11.4874 -13.9442
+\t (00:42:43) last pick:  11.4000 -13.8000
+\i (00:42:44) pick grid 11.5538 28.5525
+\t (00:42:44) last pick:  11.7000 28.5000
+\i (00:42:49) pick grid -57.0385 28.7517
+\t (00:42:49) last pick:  -57.0000 28.8000
+\i (00:42:57) setwindow text
+\i (00:42:57) close 
+\i (01:17:53) setwindow pcb
+\i (01:17:53) open 
+\e (01:17:53) Do you want to save the changes you made to ZWAVE_SWITCH.brd?
+\i (01:17:55) fillin yes 
+\i (01:18:31) fillin "menu_cancel"
+\i (01:18:31) generaledit 
+\i (01:18:51) xhilite 
+\i (01:18:52) xname_flush 
+\i (01:18:52) done 
+\i (01:18:52) generaledit 
+\i (01:19:01) open 
+\e (01:19:01) Do you want to save the changes you made to ZWAVE_SWITCH.brd?
+\i (01:19:03) fillin yes 
+\i (01:19:22) fillin "C:\DATA\git\hardware\Library\CadenceLib\layout\symbol_lib\smd_2pin_button.dra"
+\i (01:19:22) cd "C:\DATA\git\hardware\Library\CadenceLib\layout\symbol_lib"
+\t (01:19:22) Opening existing design...
+\t (01:19:22) Grids are drawn 0.5080, 0.5080 apart for enhanced viewability.
+\i (01:19:22) trapsize 945
+\i (01:19:22) trapsize 966
+\i (01:19:22) trapsize 966
+\t (01:19:22)     Journal end - Fri Jun 02 23:49:33 2017

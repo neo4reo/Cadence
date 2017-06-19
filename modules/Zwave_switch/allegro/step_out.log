@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    STEP Export                                                      )
+(                                                                     )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Jun 02 22:49:38 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+STEP file: C:/Users/Thanh/Desktop/ZWAVE_SWITCH.stp
+Design file: C:/DATA/git/Cadence/modules/Zwave_switch/allegro/ZWAVE_SWITCH.brd
+Export units: Inch
+STEP protocol: AP-214
+Source identification: allegro_17.2P028
+Export selected and highlighted parts?: NO
+Export secondary parts?: NO
+Export parts with mapped STEP Models?: YES
+Export parts without mapped STEP Models?: YES
+Export assemblies and enclosures parts?: NO
+Export mechanical drills?: YES
+Export electrical through pin drills?: NO
+Export electrical through via drills?: NO
+Export bare board only?: NO
+Export external copper?: NO
+step_out complete.

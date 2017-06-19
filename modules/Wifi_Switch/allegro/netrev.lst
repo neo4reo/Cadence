@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon May 22 00:41:43 2017                      )
+(    Date/Time        : Fri Jun 02 14:31:21 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -63,7 +63,7 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 ------ Summary Statistics ------
 
 
-netrev run on May 22 0:41:43 2017
+netrev run on Jun 2 14:31:21 2017
    DESIGN NAME : 'ESP8266_SWITCH'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -88,6 +88,6 @@ netrev run on May 22 0:41:43 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:20
-elapsed time  0:00:00
+cpu time      0:00:26
+elapsed time  0:00:01
 

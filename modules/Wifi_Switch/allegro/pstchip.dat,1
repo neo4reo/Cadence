@@ -1,6 +1,6 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001May-21-2017 at 22:05:32}
-primitive 'CAPACITOR NON-POL_CAP_SMD_0805_';
+{ Using PSTWRITER 17.2.0 d001May-24-2017 at 18:58:03}
+primitive 'CAPACITOR NON-POL_CAP_SMD_0603_';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -11,11 +11,11 @@ primitive 'CAPACITOR NON-POL_CAP_SMD_0805_';
   end_pin;
   body
     PART_NAME='CAPACITOR NON-POL';
-    JEDEC_TYPE='cap_smd_0805';
+    JEDEC_TYPE='cap_smd_0603';
     VALUE='104';
   end_body;
 end_primitive;
-primitive 'LED_LED_SMD_0805_PWM LED';
+primitive 'LED_LED_SMD_0603_PWM LED';
   pin
     'ANODE':
       PIN_NUMBER='(2)';
@@ -26,7 +26,7 @@ primitive 'LED_LED_SMD_0805_PWM LED';
   end_pin;
   body
     PART_NAME='LED';
-    JEDEC_TYPE='led_smd_0805';
+    JEDEC_TYPE='led_smd_0603';
     VALUE='PWM LED';
   end_body;
 end_primitive;
@@ -45,7 +45,7 @@ primitive 'DIODE_0_1N4007_SMD_1N4007';
     VALUE='1N4007';
   end_body;
 end_primitive;
-primitive 'CON2_BARRIERTERMINALBLOCK_2PINS';
+primitive 'CON5_J1_5_254_CON5';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -53,14 +53,23 @@ primitive 'CON2_BARRIERTERMINALBLOCK_2PINS';
     '2':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='CON2';
-    JEDEC_TYPE='barrierTerminalBlock_2pins_p10mm';
-    VALUE='AC IN';
+    PART_NAME='CON5';
+    JEDEC_TYPE='J1_5_254';
+    VALUE='CON5';
   end_body;
 end_primitive;
-primitive 'CON2_BARRIERTERMINALBLOCK_2PI_1';
+primitive 'CON6_KF850_6P_CON6';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -68,11 +77,23 @@ primitive 'CON2_BARRIERTERMINALBLOCK_2PI_1';
     '2':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='CON2';
-    JEDEC_TYPE='barrierTerminalBlock_2pins_p10mm';
-    VALUE='AC OUT';
+    PART_NAME='CON6';
+    JEDEC_TYPE='KF850_6P';
+    VALUE='CON6';
   end_body;
 end_primitive;
 primitive 'RELAY SPDT_SONGLE_RELAY_5PINS_R';
@@ -141,7 +162,7 @@ primitive 'NPN BEC_1_SOT23_MMBT2222A';
     VALUE='MMBT2222A';
   end_body;
 end_primitive;
-primitive 'R_RES_SMD_0805_330R';
+primitive 'R_RES_SMD_0603_330R';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -152,11 +173,11 @@ primitive 'R_RES_SMD_0805_330R';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='res_smd_0805';
+    JEDEC_TYPE='res_smd_0603';
     VALUE='330R';
   end_body;
 end_primitive;
-primitive 'R_RES_SMD_0805_1K';
+primitive 'R_RES_SMD_0603_1K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -167,11 +188,11 @@ primitive 'R_RES_SMD_0805_1K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='res_smd_0805';
+    JEDEC_TYPE='res_smd_0603';
     VALUE='1K';
   end_body;
 end_primitive;
-primitive 'R_RES_SMD_0805_100K';
+primitive 'R_RES_SMD_0603_100K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -182,11 +203,11 @@ primitive 'R_RES_SMD_0805_100K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='res_smd_0805';
+    JEDEC_TYPE='res_smd_0603';
     VALUE='100k';
   end_body;
 end_primitive;
-primitive 'R_RES_SMD_0805_10K';
+primitive 'R_RES_SMD_0603_10K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -197,7 +218,7 @@ primitive 'R_RES_SMD_0805_10K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='res_smd_0805';
+    JEDEC_TYPE='res_smd_0603';
     VALUE='10K';
   end_body;
 end_primitive;
@@ -251,9 +272,6 @@ primitive 'ESP8266-12E_ESP8266_SMD_ESP8266';
     'GPIO16':
       PIN_NUMBER='(4)';
       PINUSE='UNSPEC';
-    'CHIP_EB/CH_PD':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
     'ADC/TOUT':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
@@ -301,6 +319,9 @@ primitive 'ESP8266-12E_ESP8266_SMD_ESP8266';
       PINUSE='UNSPEC';
     'GPIO1':
       PIN_NUMBER='(22)';
+      PINUSE='UNSPEC';
+    'CH_PD':
+      PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
   end_pin;
   body

@@ -1,0 +1,22 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Jun 09 14:56:12 2017
+\t (00:00:03)         Host=QUANGTHANH-PC User=Thanh Pid=10920 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/DATA/git/Cadence/modules/Zwave_switchV2/allegro/ZWAVE_SWITCHV2.brd
+\t (00:00:05) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:05) trapsize 6378
+\i (00:00:05) trapsize 6523
+\t (00:00:05) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:05) trapsize 6523
+\i (00:00:05) trapsize 6402
+\i (00:00:06) generaledit 
+\i (00:00:14) open 
+\i (00:00:42) fillin "C:\DATA\git\hardware\Projects\smartDesk\version3_addonboard\addonBoard\schematic_layoutV1.0\allegro\SMARTDESKV2_ADDON.brd"
+\i (00:00:42) cd "C:\DATA\git\hardware\Projects\smartDesk\version3_addonboard\addonBoard\schematic_layoutV1.0\allegro"
+\t (00:00:42) Opening existing design...
+\t (00:00:42) Grids are drawn 2.5600, 2.5600 apart for enhanced viewability.
+\i (00:00:42) trapsize 18179
+\t (00:00:42)     Journal end - Fri Jun 09 14:56:50 2017

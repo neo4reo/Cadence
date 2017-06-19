@@ -13,7 +13,7 @@ SUPPRESS-EQUAL         NO
 TOOL-SELECT            NO
 OPTIMIZE_DRILLING      NO
 ENHANCED_EXCELLON      NO
-TAPE-FILE              C:/DATA/git/Cadence/modules/Wifi_Switch/production/ESP8266_SWITCH.drl
+TAPE-FILE              C:/DATA/git/Cadence/modules/Wifi_Switch/production/V3/ESP8266_SWITCH.drl
 HEADER                 none
 LEADER                 12
 CODE                   ASCII

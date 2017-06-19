@@ -97,6 +97,11 @@
     (GND
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
     (VCC
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -115,16 +120,14 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\DATA\git\Cadence\modules\Wifi_Switch\esp8266_switch.dsn")
+         "c:\data\git\cadence\modules\wifi_switch\esp8266_switch.dsn")
       (Path "Design Resources"
-         "C:\DATA\git\Cadence\modules\Wifi_Switch\esp8266_switch.dsn"
+         "c:\data\git\cadence\modules\wifi_switch\esp8266_switch.dsn"
          "SCHEMATIC1")
-      (Path "Design Resources"
-         "C:\DATA\git\Cadence\modules\Wifi_Switch\esp8266_switch.dsn"
-         "Design Cache")
       (Path "Outputs")
       (Select "Design Resources"
-         "C:\DATA\git\Cadence\modules\Wifi_Switch\esp8266_switch.dsn"))
+         "c:\data\git\cadence\modules\wifi_switch\esp8266_switch.dsn"
+         "SCHEMATIC1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -135,8 +138,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 521")
-        (Scroll "368 0")
-        (Zoom "132")
+        (Scroll "-63 0")
+        (Zoom "102")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\WIFI_SWITCH\ESP8266_SWITCH.DSN")
       (Schematic "SCHEMATIC1")

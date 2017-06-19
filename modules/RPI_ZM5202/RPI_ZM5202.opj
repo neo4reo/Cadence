@@ -103,13 +103,9 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "c:\data\git\cadence\modules\rpi_zm5202\rpi_zm5202.dsn")
-      (Path "Design Resources"
-         "c:\data\git\cadence\modules\rpi_zm5202\rpi_zm5202.dsn" "SCHEMATIC1")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "c:\data\git\cadence\modules\rpi_zm5202\rpi_zm5202.dsn"))
+      (Path "Design Resources" ".\rpi_zm5202.dsn")
+      (Path "Design Resources" ".\rpi_zm5202.dsn" "SCHEMATIC1")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

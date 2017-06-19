@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
 (    Software Version : 17.2P028                                      )
-(    Date/Time        : Mon May 22 00:57:02 2017                      )
+(    Date/Time        : Mon May 22 00:57:59 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -13,7 +13,7 @@
 
 
 Line entry into Pad glossing in progress.
-Started on Mon May 22 00:57:02 2017
+Started on Mon May 22 00:57:59 2017
 Bend Distance is 0.3048.
 
  Circular pads:          YES
@@ -32,27 +32,18 @@ Glossing attempt unsuccessful. Active pad is at (66.4800,29.2100).
 
 Glossing attempt unsuccessful. Active pad is at (1.8000,30.6000).
 
-Glossing was successful:  SYMBOL PIN at (57.6550,16.0000) defined by pad  PAD32CIR18
-
 
 Finished execution 1
 
-Glossing attempt unsuccessful. Active pad is at (66.4800,29.2100).
-
-Glossing attempt unsuccessful. Active pad is at (1.8000,30.6000).
-
-
-Finished execution 2
-
 
 Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Mon May 22 00:57:02 2017
+Actual time of completion: Mon May 22 00:57:59 2017
 
 
 Line Entry Into Pad Glossings Stats
 
-Number of Glossing Attempts                   : 5
-Number of Actual Glossings                    : 1
+Number of Glossing Attempts                   : 2
+Number of Actual Glossings                    : 0
 Number of Glossings Aborted by DRC violations : 0
 
 

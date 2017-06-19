@@ -32,7 +32,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "C:\DATA\GIT\CADENCE\MODULES\RPI_DYNAMIXEL\ZWAVE_SWITCH\ZWAVE_SWITCH.DRC")
+       "C:\DATA\git\Cadence\modules\Zwave_switch\ZWAVE_SWITCH.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -67,7 +67,7 @@
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Output Board File"
-       "C:\DATA\git\Cadence\modules\RPI_Dynamixel\Zwave_switch\allegro\ZWAVE_SWITCH.brd")
+       "C:\DATA\git\Cadence\modules\Zwave_switch\allegro\ZWAVE_SWITCH.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -79,7 +79,20 @@
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
     ("Allegro Netlist Input Board File"
-       "C:\DATA\git\Cadence\modules\RPI_Dynamixel\Zwave_switch\allegro\ZWAVE_SWITCH.brd"))
+       "C:\DATA\git\Cadence\modules\Zwave_switch\allegro\ZWAVE_SWITCH.brd")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\DATA\GIT\CADENCE\MODULES\ZWAVE_SWITCH\ZWAVE_SWITCH.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\DATA\GIT\CADENCE\MODULES\ZWAVE_SWITCH\ZWAVE_SWITCH.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
   (Folder "Outputs"
     (File ".\zwave_switch.drc"
       (Type "Report"))
@@ -91,9 +104,33 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\zwave_switch.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MyAntena
+      (FullPartName "MyAntena.Normal")
+      (LibraryName
+         "C:\DATA\GIT\HARDWARE\LIBRARY\CADENCELIB\SCHEMATICS\MYLIB.OLB")
+      (DeviceIndex "0"))
+    (AntenaD023
+      (FullPartName "AntenaD023.Normal")
+      (LibraryName
+         "C:\DATA\GIT\HARDWARE\LIBRARY\CADENCELIB\SCHEMATICS\MYLIB.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (CON2
       (FullPartName "CON2.Normal")
       (LibraryName
@@ -104,10 +141,6 @@
       (LibraryName
          "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0"))
-    (CON6
-      (FullPartName "CON6.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
     (VCC
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -115,9 +148,6 @@
       (FullPartName "RELAY SPDT.Normal")
       (LibraryName
          "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (GND
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (ASM1117
       (FullPartName "ASM1117.Normal")
@@ -135,10 +165,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\zwave_switch.dsn")
-      (Path "Design Resources" ".\zwave_switch.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\data\git\cadence\modules\zwave_switch\zwave_switch.dsn")
+      (Path "Design Resources"
+         "c:\data\git\cadence\modules\zwave_switch\zwave_switch.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\zwave_switch.dsn" "SCHEMATIC1" "PAGE1"))
+      (Select "Design Resources"
+         "c:\data\git\cadence\modules\zwave_switch\zwave_switch.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -149,8 +184,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1740 104 573")
-        (Scroll "-209 110")
-        (Zoom "100")
+        (Scroll "-344 0")
+        (Zoom "77")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\ZWAVE_SWITCH\ZWAVE_SWITCH.DSN")
       (Schematic "SCHEMATIC1")

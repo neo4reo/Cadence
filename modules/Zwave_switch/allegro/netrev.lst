@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ZWAVE_SWITCH.brd                              )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Sun May 21 01:14:41 2017                      )
+(    Date/Time        : Wed May 24 13:52:18 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,21 +17,21 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'C:\DATA\GIT\CADENCE\MODULES\RPI_DYNAMIXEL\ZWAVE_SWITCH\allegro'
-Design Directory:            'C:/DATA/git/Cadence/modules/RPI_Dynamixel/Zwave_switch/allegro'
-Old design name:             'C:/DATA/git/Cadence/modules/RPI_Dynamixel/Zwave_switch/allegro/ZWAVE_SWITCH.brd'
-New design name:             'C:/DATA/git/Cadence/modules/RPI_Dynamixel/Zwave_switch/allegro/ZWAVE_SWITCH.brd'
+Schematic directory:         'C:\DATA\GIT\CADENCE\MODULES\ZWAVE_SWITCH\allegro'
+Design Directory:            'C:/DATA/git/Cadence/modules/Zwave_switch/allegro'
+Old design name:             'C:/DATA/git/Cadence/modules/Zwave_switch/allegro/ZWAVE_SWITCH.brd'
+New design name:             'C:/DATA/git/Cadence/modules/Zwave_switch/allegro/ZWAVE_SWITCH.brd'
 
-CmdLine: netrev.exe -y 1 -i C:\DATA\GIT\CADENCE\MODULES\RPI_DYNAMIXEL\ZWAVE_SWITCH\allegro C:\DATA\git\Cadence\modules\RPI_Dynamixel\Zwave_switch\allegro\ZWAVE_SWITCH.brd C:\DATA\git\Cadence\modules\RPI_Dynamixel\Zwave_switch\allegro\ZWAVE_SWITCH.brd
+CmdLine: netrev.exe -y 1 -i C:\DATA\GIT\CADENCE\MODULES\ZWAVE_SWITCH\allegro C:\DATA\git\Cadence\modules\Zwave_switch\allegro\ZWAVE_SWITCH.brd C:\DATA\git\Cadence\modules\Zwave_switch\allegro\ZWAVE_SWITCH.brd
 
 ------ Preparing to read pst files ------
 
-Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_DYNAMIXEL/ZWAVE_SWITCH/allegro/pstchip.dat 
-   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_DYNAMIXEL/ZWAVE_SWITCH/allegro/pstchip.dat (00:00:00.02)
-Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_DYNAMIXEL/ZWAVE_SWITCH/allegro/pstxprt.dat 
-   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_DYNAMIXEL/ZWAVE_SWITCH/allegro/pstxprt.dat (00:00:00.00)
-Starting to read C:/DATA/GIT/CADENCE/MODULES/RPI_DYNAMIXEL/ZWAVE_SWITCH/allegro/pstxnet.dat 
-   Finished reading C:/DATA/GIT/CADENCE/MODULES/RPI_DYNAMIXEL/ZWAVE_SWITCH/allegro/pstxnet.dat (00:00:00.00)
+Starting to read C:/DATA/GIT/CADENCE/MODULES/ZWAVE_SWITCH/allegro/pstchip.dat 
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/ZWAVE_SWITCH/allegro/pstchip.dat (00:00:00.02)
+Starting to read C:/DATA/GIT/CADENCE/MODULES/ZWAVE_SWITCH/allegro/pstxprt.dat 
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/ZWAVE_SWITCH/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/DATA/GIT/CADENCE/MODULES/ZWAVE_SWITCH/allegro/pstxnet.dat 
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/ZWAVE_SWITCH/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -63,7 +63,7 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 ------ Summary Statistics ------
 
 
-netrev run on May 21 1:14:41 2017
+netrev run on May 24 13:52:18 2017
    DESIGN NAME : 'ZWAVE_SWITCH'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -88,6 +88,6 @@ netrev run on May 21 1:14:41 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:18
+cpu time      0:00:17
 elapsed time  0:00:00
 

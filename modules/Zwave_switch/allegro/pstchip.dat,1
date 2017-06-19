@@ -1,6 +1,18 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001May-21-2017 at 00:07:37}
-primitive 'CAPACITOR NON-POL_CAP_SMD_0805_';
+{ Using PSTWRITER 17.2.0 d001May-24-2017 at 01:19:52}
+primitive 'MYANTENA_MYANTENA_MYANTENA';
+  pin
+    'AN':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MyAntena';
+    JEDEC_TYPE='MyAntena';
+    VALUE='MyAntena';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR NON-POL_CAP_SMD_0603_';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -11,11 +23,11 @@ primitive 'CAPACITOR NON-POL_CAP_SMD_0805_';
   end_pin;
   body
     PART_NAME='CAPACITOR NON-POL';
-    JEDEC_TYPE='cap_smd_0805';
+    JEDEC_TYPE='cap_smd_0603';
     VALUE='104';
   end_body;
 end_primitive;
-primitive 'CAPACITOR NON-POL_CAP_SMD_080_1';
+primitive 'CAPACITOR NON-POL_CAP_SMD_060_1';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -26,26 +38,11 @@ primitive 'CAPACITOR NON-POL_CAP_SMD_080_1';
   end_pin;
   body
     PART_NAME='CAPACITOR NON-POL';
-    JEDEC_TYPE='cap_smd_0805';
-    VALUE='33pF';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR NON-POL_CAP_SMD_080_2';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAPACITOR NON-POL';
-    JEDEC_TYPE='cap_smd_0805';
+    JEDEC_TYPE='cap_smd_0603';
     VALUE='33nF';
   end_body;
 end_primitive;
-primitive 'CAPACITOR NON-POL_CAP_SMD_080_3';
+primitive 'CAPACITOR NON-POL_CAP_SMD_060_2';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -56,11 +53,26 @@ primitive 'CAPACITOR NON-POL_CAP_SMD_080_3';
   end_pin;
   body
     PART_NAME='CAPACITOR NON-POL';
-    JEDEC_TYPE='cap_smd_0805';
+    JEDEC_TYPE='cap_smd_0603';
     VALUE='4.7uF';
   end_body;
 end_primitive;
-primitive 'LED_LED_SMD_0805_PWM LED';
+primitive 'CAPACITOR NON-POL_CAP_SMD_060_3';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR NON-POL';
+    JEDEC_TYPE='cap_smd_0603';
+    VALUE='3.3pF';
+  end_body;
+end_primitive;
+primitive 'LED_LED_SMD_0603_PWM LED';
   pin
     'ANODE':
       PIN_NUMBER='(2)';
@@ -71,8 +83,23 @@ primitive 'LED_LED_SMD_0805_PWM LED';
   end_pin;
   body
     PART_NAME='LED';
-    JEDEC_TYPE='led_smd_0805';
+    JEDEC_TYPE='led_smd_0603';
     VALUE='PWM LED';
+  end_body;
+end_primitive;
+primitive 'DIODE_0_1N4007_SMD_1N4007';
+  pin
+    'A':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(C)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE_0';
+    JEDEC_TYPE='1N4007_SMD';
+    VALUE='1N4007';
   end_body;
 end_primitive;
 primitive 'CON2_BARRIERTERMINALBLOCK_2PINS';
@@ -105,7 +132,7 @@ primitive 'CON2_BARRIERTERMINALBLOCK_2PI_1';
     VALUE='AC OUT';
   end_body;
 end_primitive;
-primitive 'CON6_HEADER3X2X2_CON6';
+primitive 'CON6_J1_6_254_CON6';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -128,8 +155,38 @@ primitive 'CON6_HEADER3X2X2_CON6';
   end_pin;
   body
     PART_NAME='CON6';
-    JEDEC_TYPE='header3x2x2';
+    JEDEC_TYPE='J1_6_254';
     VALUE='CON6';
+  end_body;
+end_primitive;
+primitive 'CON2_BARRIERTERMINALBLOCK_2PI_2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='barrierTerminalBlock_2pins_p10mm';
+    VALUE='SW';
+  end_body;
+end_primitive;
+primitive 'INDUCTOR_RES_SMD_0603_3.9 NH';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='INDUCTOR';
+    JEDEC_TYPE='res_smd_0603';
+    VALUE='3.9 nH';
   end_body;
 end_primitive;
 primitive 'RELAY SPDT_SONGLE_RELAY_5PINS_R';
@@ -156,7 +213,7 @@ primitive 'RELAY SPDT_SONGLE_RELAY_5PINS_R';
     VALUE='RELAY SPDT';
   end_body;
 end_primitive;
-primitive 'AC2DC_MODULE_AC2DC_MODULE_12V';
+primitive 'AC2DC_MODULE_AC2DC_CONVERTER_12';
   pin
     'AC1':
       PIN_NUMBER='(1)';
@@ -176,7 +233,7 @@ primitive 'AC2DC_MODULE_AC2DC_MODULE_12V';
   end_pin;
   body
     PART_NAME='AC2DC_Module';
-    JEDEC_TYPE='AC2DC_Module';
+    JEDEC_TYPE='AC2DC_Converter';
     VALUE='12V';
   end_body;
 end_primitive;
@@ -198,7 +255,7 @@ primitive 'NPN BEC_1_SOT23_MMBT2222A';
     VALUE='MMBT2222A';
   end_body;
 end_primitive;
-primitive 'R_RES_SMD_0805_1K';
+primitive 'R_RES_SMD_0603_1K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -209,11 +266,11 @@ primitive 'R_RES_SMD_0805_1K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='res_smd_0805';
+    JEDEC_TYPE='res_smd_0603';
     VALUE='1k';
   end_body;
 end_primitive;
-primitive 'R_RES_SMD_0805_100K';
+primitive 'R_RES_SMD_0603_100K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -224,11 +281,11 @@ primitive 'R_RES_SMD_0805_100K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='res_smd_0805';
+    JEDEC_TYPE='res_smd_0603';
     VALUE='100k';
   end_body;
 end_primitive;
-primitive 'R_RES_SMD_0805_10K';
+primitive 'R_RES_SMD_0603_10K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -239,11 +296,11 @@ primitive 'R_RES_SMD_0805_10K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='res_smd_0805';
+    JEDEC_TYPE='res_smd_0603';
     VALUE='10K';
   end_body;
 end_primitive;
-primitive 'R_RES_SMD_0805_330R';
+primitive 'R_RES_SMD_0603_330R';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -254,11 +311,11 @@ primitive 'R_RES_SMD_0805_330R';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='res_smd_0805';
+    JEDEC_TYPE='res_smd_0603';
     VALUE='330R';
   end_body;
 end_primitive;
-primitive 'R_RES_SMD_0805_0R';
+primitive 'R_RES_SMD_0603_0R';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -269,7 +326,7 @@ primitive 'R_RES_SMD_0805_0R';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='res_smd_0805';
+    JEDEC_TYPE='res_smd_0603';
     VALUE='0R';
   end_body;
 end_primitive;
@@ -370,32 +427,6 @@ primitive 'ZM5202_ZM5202_ZM5202AU-CME3R';
     PART_NAME='ZM5202';
     JEDEC_TYPE='ZM5202';
     VALUE='ZM5202AU-CME3R';
-  end_body;
-end_primitive;
-primitive 'RF-ANTENA_RF_ANTENA_5-1814832-1';
-  pin
-    'GND1':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'GND2':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'GND3':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    'GND4':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    'RF':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-  end_pin;
-  body
-    PART_NAME='RF-Antena';
-    JEDEC_TYPE='rf_antena';
-    VALUE='5-1814832-1';
   end_body;
 end_primitive;
 END.

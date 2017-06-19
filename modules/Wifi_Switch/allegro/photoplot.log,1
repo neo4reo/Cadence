@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon May 22 01:20:42 2017                      )
+(    Date/Time        : Mon May 22 01:33:04 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -169,6 +169,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
+  CIRCLE     0.15000                                  DARK 
   CIRCLE     0.25400                                  DARK 
 
      SC_BOT created with warnings

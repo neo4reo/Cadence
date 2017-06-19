@@ -1,0 +1,137 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : ZWAVE_SWITCH.brd                              )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed May 24 16:02:57 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+**WARNING: Disabling dynamic shapes
+
+
+
+Pad and T Fillet glossing in progress.
+Started on Wed May 24 16:02:57 2017
+
+ Round pads:          YES   max size: 2.5400
+ Square pads:         YES   max size: 2.5400
+ Rectangular pads:    YES   max size: 2.5400
+ Oblong pads:         YES   max size: 2.5400
+ Octagon pads:        YES   max size: 2.5400
+ Pads as shapes:      NO 
+ Pins:                YES
+ Vias:                YES
+ Bond Fingers:        NO 
+ Ts:                  YES
+ Unused nets:         YES
+ Pads Without Drills: YES
+ Desired Pin Angle:       90
+ Desired Via Angle:       90
+ Desired T Angle:         90
+ Maximum Pin Angle:       90
+ Maximum Via Angle:       90
+ Maximum T Angle:         90
+ Pin Maximum offset:      0.6350
+ Via Maximum offset:      0.6350
+ T Maximum offset:        0.6350
+ Pin minimum line width:  0.0762
+ Via minimum line width:  0.0762
+ T minimum line width:    0.0762
+ Pin maximum line width:  0.6350
+ Via maximum line width:  0.6350
+ T maximum line width:    0.6350
+ Tapers:                  NO 
+ Desired Taper Angle:     60
+ Taper Maximum offset:    0.6350
+ Allow drc:           NO 
+ Dynamic:             NO 
+ Curved lines:        NO 
+
+*WARNING: Can't fillet T at (-30.1000 -9.8201) on subclass TOP.
+          The fillet does not fit.
+
+*WARNING: Can't create fillet at pad (-46.3000 17.4500) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (-46.3000 18.6000) on subclass TOP.
+          Line width exceeds (unrotated) height of destination pad.
+
+*WARNING: Can't fillet T at (-46.2000 -9.8006) on subclass TOP.
+          The fillet does not fit.
+
+*WARNING: Can't create fillet at pad (-53.4000 3.9000) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-53.4000 4.1500) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-45.0000 3.0000) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-51.1000 0.5500) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (-38.6000 0.5500) on subclass TOP.
+          Removed due to DRC error.
+
+*WARNING: Can't create fillet at pad (4.7500 17.7500) on subclass TOP.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-0.7955 15.2000) on subclass TOP.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-7.9900 -0.7100) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-7.9900 4.3700) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (2.3500 14.7500) on subclass TOP.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (1.8000 16.5000) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (1.8000 16.5000) on subclass TOP.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-5.0045 17.4000) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-5.0045 17.4000) on subclass TOP.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-5.0045 15.2000) on subclass TOP.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (11.4000 13.2000) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-35.1400 14.6000) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-48.9993 -7.5006) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't fillet T at (-53.4000 6.6000) on subclass TOP.
+          The fillet does not fit.
+
+
+
+
+Total number of fillets added: 121
+
+Number of fillets rejected due to DRC errors: 3
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Wed May 24 16:02:57 2017
+
+
+There were 23 errors or warnings reported in logfile.
+
+
+Glossing complete.

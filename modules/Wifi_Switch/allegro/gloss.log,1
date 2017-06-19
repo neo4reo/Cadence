@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
 (    Software Version : 17.2P028                                      )
-(    Date/Time        : Mon May 22 00:54:45 2017                      )
+(    Date/Time        : Mon May 22 00:57:02 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -12,70 +12,8 @@
 
 
 
-Via Eliminate glossing in progress.
-Started on Mon May 22 00:54:45 2017
- with Parameters: 
-   Jog limit            : -1 
-   Used pin escapes        : YES 
-   Unused pin escapes      : YES 
-   Stand alone vias        : YES 
-   Regular through vias    : YES 
-
-
-Eliminations on net 12V :
-Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
-
-Eliminations on net GND :
-Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
-
-Eliminations on net 3V3 :
-Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
-
-
-Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Mon May 22 00:54:45 2017
-
-
-Via Eliminate Total Stats:
-Total Through Via Candidates: 9, Eliminations: 0,  = 0 % Eliminated.
-Vias: Total Candidates = 9,  Total Eliminations = 0,  0 % Eliminatons.
-
-
-
-
-Via Eliminate glossing in progress.
-Started on Mon May 22 00:54:46 2017
- with Parameters: 
-   Jog limit            : -1 
-   Used pin escapes        : YES 
-   Unused pin escapes      : YES 
-   Stand alone vias        : YES 
-   Regular through vias    : YES 
-
-
-Eliminations on net 12V :
-Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
-
-Eliminations on net GND :
-Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
-
-Eliminations on net 3V3 :
-Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
-
-
-Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Mon May 22 00:54:46 2017
-
-
-Via Eliminate Total Stats:
-Total Through Via Candidates: 9, Eliminations: 0,  = 0 % Eliminated.
-Vias: Total Candidates = 9,  Total Eliminations = 0,  0 % Eliminatons.
-
-
-
-
 Line entry into Pad glossing in progress.
-Started on Mon May 22 00:54:46 2017
+Started on Mon May 22 00:57:02 2017
 Bend Distance is 0.3048.
 
  Circular pads:          YES
@@ -90,143 +28,9 @@ Bend Distance is 0.3048.
  Corner type  :     45
  Maximum 45 limit is -1.
 
-Glossing was successful:  SYMBOL PIN at (37.5000,29.6500) defined by pad  PAD16CIR10
-
-Glossing was successful:  SYMBOL PIN at (9.5250,38.1000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (37.5000,32.1900) defined by pad  PAD16CIR10
-
-Glossing was successful:  SYMBOL PIN at (37.5000,34.7300) defined by pad  PAD16CIR10
-
-Glossing was successful:  SYMBOL PIN at (15.4350,38.1000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (67.9450,13.9700) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (67.6300,23.9200) defined by pad  SMD08REC09
-
-Glossing was successful:  SYMBOL PIN at (49.1450,36.4800) defined by pad  PAD25CIR16
-
-Glossing was successful:  SYMBOL PIN at (44.0007,25.4994) defined by pad  SMD095REX215
-
-Glossing was successful:  SYMBOL PIN at (37.5000,27.1100) defined by pad  PAD16CIR10
-
-Glossing was successful:  SYMBOL PIN at (17.1450,19.0500) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (19.8750,7.2250) defined by pad  PAD16CIR10
-
-Glossing attempt unsuccessful. Active pad is at (66.4800,29.2100).
-
-Glossing was successful:  SYMBOL PIN at (44.0007,20.8994) defined by pad  SMD095REX215
-
-Glossing attempt unsuccessful. Active pad is at (1.8000,30.6000).
-
-Glossing was successful:  SYMBOL PIN at (17.1450,21.1500) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (8.1000,28.5000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (6.4494,31.3893) defined by pad  SMD095REX215
-
-Glossing was successful:  SYMBOL PIN at (1.8000,32.7000) defined by pad  SMD12SQ12
-
-
-Finished execution 1
-
 Glossing attempt unsuccessful. Active pad is at (66.4800,29.2100).
 
 Glossing attempt unsuccessful. Active pad is at (1.8000,30.6000).
-
-
-Finished execution 2
-
-
-Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Mon May 22 00:54:46 2017
-
-
-Line Entry Into Pad Glossings Stats
-
-Number of Glossing Attempts                   : 21
-Number of Actual Glossings                    : 17
-Number of Glossings Aborted by DRC violations : 0
-
-
-
-
-Line Smooth glossing in progress.
-Started on Mon May 22 00:54:46 2017
-
- Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
- Number of executions  : 1
- Corner type  : 45
- Length limit is -0.0001.
-
- Maximum 45 limit is -0.0001.
-
-
-Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Mon May 22 00:54:46 2017
-
- - 0 - Error(s) from Line smooth Glossing
-
-
-Line Centering Between Pins glossing in progress.
-Started on Mon May 22 00:54:46 2017
-
-Minimum Move Size 0.0508.
-Line spacing MINIMUM
-Pad Tolerance 2.5400.
-Corner type 45
-
-
-Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Mon May 22 00:54:46 2017
-
-
-
-Line Center Between Pins Stats
-
-Number of Glossing Attempts                   : 69
-Number of Actual Glossings                    : 0
-Number of Glossings Aborted by DRC violations : 1
-Number of Glossings Aborted by No-Gloss nets  : 0
-
-
-
-Line entry into Pad glossing in progress.
-Started on Mon May 22 00:54:46 2017
-Bend Distance is 0.3048.
-
- Circular pads:          YES
- Square pads  :          YES
- Rectangular pads :      YES
- Oblong pads :           YES
- Enter Square Pad :      Side : YES      Corner : YES  
- Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
- Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
- Enter Circular Pad :    Angle : 45 OR 90
- Create Odd Segs:   NO
- Corner type  :     45
- Maximum 45 limit is -1.
-
-Glossing was successful:  SYMBOL PIN at (15.4350,38.1000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (6.0000,28.5000) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (67.9450,20.9550) defined by pad  SMD12SQ12
-
-Glossing was successful:  SYMBOL PIN at (49.1450,36.4800) defined by pad  PAD25CIR16
-
-Glossing was successful:  SYMBOL PIN at (44.0007,25.4994) defined by pad  SMD095REX215
-
-Glossing was successful:  SYMBOL PIN at (66.4800,29.2100) defined by pad  SMD12SQ12
-
-Glossing attempt unsuccessful. Active pad is at (66.4800,29.2100).
-
-Glossing was successful:  SYMBOL PIN at (44.0007,20.8994) defined by pad  SMD095REX215
-
-Glossing attempt unsuccessful. Active pad is at (1.8000,30.6000).
-
-Glossing was successful:  SYMBOL PIN at (47.0250,2.0750) defined by pad  PAD16CIR10
 
 Glossing was successful:  SYMBOL PIN at (57.6550,16.0000) defined by pad  PAD32CIR18
 
@@ -241,114 +45,18 @@ Glossing attempt unsuccessful. Active pad is at (1.8000,30.6000).
 Finished execution 2
 
 
-Elapsed time:  0 hr 0 min 1 sec ( 0.00 hr)
-Actual time of completion: Mon May 22 00:54:47 2017
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon May 22 00:57:02 2017
 
 
 Line Entry Into Pad Glossings Stats
 
-Number of Glossing Attempts                   : 13
-Number of Actual Glossings                    : 9
+Number of Glossing Attempts                   : 5
+Number of Actual Glossings                    : 1
 Number of Glossings Aborted by DRC violations : 0
 
 
-
-
-Pad and T Fillet glossing in progress.
-Started on Mon May 22 00:54:47 2017
-
- Round pads:          YES   max size: 2.5400
- Square pads:         YES   max size: 2.5400
- Rectangular pads:    YES   max size: 2.5400
- Oblong pads:         YES   max size: 2.5400
- Octagon pads:        YES   max size: 2.5400
- Pads as shapes:      NO 
- Pins:                YES
- Vias:                YES
- Bond Fingers:        NO 
- Ts:                  YES
- Unused nets:         YES
- Pads Without Drills: YES
- Desired Pin Angle:       90
- Desired Via Angle:       90
- Desired T Angle:         90
- Maximum Pin Angle:       90
- Maximum Via Angle:       90
- Maximum T Angle:         90
- Pin Maximum offset:      0.6350
- Via Maximum offset:      0.6350
- T Maximum offset:        0.6350
- Pin minimum line width:  0.0762
- Via minimum line width:  0.0762
- T minimum line width:    0.0762
- Pin maximum line width:  0.6350
- Via maximum line width:  0.6350
- T maximum line width:    0.6350
- Tapers:                  NO 
- Desired Taper Angle:     60
- Taper Maximum offset:    0.6350
- Allow drc:           NO 
- Dynamic:             NO 
- Curved lines:        NO 
-
-*WARNING: Can't create fillet at pad (9.5250 1.2700) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't create fillet at pad (13.9700 28.4850) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't create fillet at pad (13.9700 28.4850) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't create fillet at pad (67.9450 20.9550) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't create fillet at pad (67.6300 23.9200) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't create fillet at pad (43.8150 37.0295) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't create fillet at pad (44.0007 25.4994) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't create fillet at pad (44.0007 25.4994) on subclass TOP.
-          Unable to create fillet, parameters result in fillet entirely within pad.
-
-*WARNING: Can't create fillet at pad (43.8000 25.4994) on subclass TOP.
-          Unable to create fillet, parameters result in fillet entirely within pad.
-
-*WARNING: Can't create fillet at pad (66.4800 31.7500) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't create fillet at pad (47.0250 2.0750) on subclass BOTTOM.
-          Line width greater than the maximum specified in glossing parameters.
-
-*WARNING: Can't create fillet at pad (47.0250 2.0750) on subclass TOP.
-          Line width greater than the maximum specified in glossing parameters.
-
-*WARNING: Can't create fillet at pad (47.0250 7.1550) on subclass TOP.
-          Line width greater than the maximum specified in glossing parameters.
-
-*WARNING: Can't create fillet at pad (17.1450 21.1500) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't create fillet at pad (1.8000 32.7000) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-
-
-
-Total number of fillets added: 70
-
-Number of fillets rejected due to DRC errors: 0
-
-
-Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Mon May 22 00:54:47 2017
-
-
-There were 15 errors or warnings reported in logfile.
+WARNING: Glossing operations may leave fillets out of date.
 
 
 Glossing complete.
