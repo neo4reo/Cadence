@@ -111,6 +111,8 @@
       (Type "Report")
       (DisplayName ".\zwave_switch.bom"))
     (File "..\zwave_switch\zwave_switch.drc"
+      (Type "Report"))
+    (File "..\zwave_switch\zwave_switch.bom"
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
@@ -183,14 +185,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 430"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 430"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 521")
-        (Scroll "-209 170")
-        (Zoom "100")
+        (Scroll "0 224")
+        (Zoom "144")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\ZWAVE_SWITCHV2\ZWAVE_SWITCHV2.DSN")
       (Schematic "SCHEMATIC1")

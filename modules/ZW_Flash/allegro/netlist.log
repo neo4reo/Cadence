@@ -1,0 +1,14 @@
+{ Using PSTWRITER 17.2.0 d001Jun-29-2017 at 17:45:59 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.15" ignored for J2: SCHEMATIC1, PAGE1 (200.66, 15.24). Connecting pin to net "ZWAVE_RESET".
+#2 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_CAP_SMD_0603_104" is renamed to "CAPACITOR NON-POL_CAP_SMD_0603_".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\ZW_FLASH\allegro/pstchip.dat
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\ZW_FLASH\allegro/pstchip.dat
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\ZW_FLASH\allegro/pstxprt.dat
+
+Loading... C:\DATA\GIT\CADENCE\MODULES\ZW_FLASH\allegro/pstxnet.dat
+packaging the design view...

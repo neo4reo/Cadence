@@ -1,9 +1,9 @@
 G04 ================== begin FILE IDENTIFICATION RECORD ==================*
-G04 Layout Name:  C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/BINSENSORS.brd*
+G04 Layout Name:  C:/DATA/git/Cadence/modules/BinSensors/allegro/BINSENSORS.brd*
 G04 Film Name:    SM_TOP*
 G04 File Format:  Gerber RS274X*
 G04 File Origin:  Cadence Allegro 17.2-P019*
-G04 Origin Date:  Mon Jun 19 23:53:12 2017*
+G04 Origin Date:  Tue Jun 20 09:33:12 2017*
 G04 *
 G04 Layer:  VIA CLASS/SOLDERMASK_TOP*
 G04 Layer:  PIN/SOLDERMASK_TOP*

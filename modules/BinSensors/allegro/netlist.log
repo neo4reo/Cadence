@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Jun-19-2017 at 21:54:18 }
+{ Using PSTWRITER 17.2.0 d001Jun-28-2017 at 11:24:59 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.15" ignored for U3: SCHEMATIC1, PAGE1 (60.96, 134.62). Connecting pin to net "BUTTON1".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.14" ignored for U3: SCHEMATIC1, PAGE1 (60.96, 134.62). Connecting pin to net "BUTTON2".

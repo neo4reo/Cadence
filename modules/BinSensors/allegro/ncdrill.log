@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : BINSENSORS.brd                                )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon Jun 19 23:53:42 2017                      )
+(    Date/Time        : Tue Jun 20 09:34:01 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -46,11 +46,11 @@
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.   0.2000    0.0000/  0.0000      PLATED         99
+            1.   0.4000    0.0000/  0.0000      PLATED         99
             2.   1.0000    0.0000/  0.0000      PLATED         16
             3.   1.4000    0.0000/  0.0000      PLATED          2
 
      ---- Total holes:                                        117
 
-     ---- Total head travel:              2.99 feet (0.91 meters)
+     ---- Total head travel:              7.07 feet (2.15 meters)
 

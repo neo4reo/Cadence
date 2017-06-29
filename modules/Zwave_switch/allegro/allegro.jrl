@@ -1,56 +1,28 @@
-\t (00:03:16) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:03:16)     Journal start - Mon Jun 19 23:59:11 2017
-\t (00:03:16)         Host=QUANGTHANH-PC User=Thanh Pid=9468 CPUs=4
-\t (00:03:16) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:03:16) 
-\d (00:03:16) Design opened: C:/DATA/git/Cadence/modules/Zwave_switch/allegro/ZWAVE_SWITCH.brd
-\i (00:03:16) generaledit 
-\i (00:03:19) zoom in 1 
-\i (00:03:19) setwindow pcb
-\i (00:03:19) zoom in -54.3825 30.2125
-\i (00:03:19) trapsize 1660
-\i (00:03:19) zoom in 1 
-\i (00:03:19) setwindow pcb
-\i (00:03:19) zoom in -54.2497 30.1129
-\i (00:03:19) trapsize 830
-\i (00:03:19) zoom in 1 
-\i (00:03:19) setwindow pcb
-\i (00:03:19) zoom in -54.2497 30.0631
-\i (00:03:19) trapsize 415
-\i (00:03:27) padeditdb 
-\i (00:03:30) setwindow form.mini
-\i (00:03:30) FORM mini padlist VIA 
-\i (00:03:30) FORMDBLCLK mini padlist VIA 
-\i (00:04:11) setwindow pcb
-\i (00:04:11) zoom out 1 
-\i (00:04:11) setwindow pcb
-\i (00:04:11) zoom out -49.7759 27.5897
-\i (00:04:11) trapsize 830
-\i (00:04:11) zoom out 1 
-\i (00:04:11) setwindow pcb
-\i (00:04:11) zoom out -49.5601 27.9880
-\i (00:04:11) trapsize 1660
-\i (00:04:12) zoom out 1 
-\i (00:04:12) setwindow pcb
-\i (00:04:12) zoom out -48.8628 29.2164
-\i (00:04:12) trapsize 3320
-\i (00:04:13) zoom in 1 
-\i (00:04:13) setwindow pcb
-\i (00:04:13) zoom in -32.0053 10.0266
-\i (00:04:13) trapsize 1660
-\i (00:04:14) zoom out 1 
-\i (00:04:14) setwindow pcb
-\i (00:04:14) zoom out -38.2470 17.9283
-\i (00:04:14) trapsize 3320
-\i (00:04:14) zoom out 1 
-\i (00:04:14) setwindow pcb
-\i (00:04:14) zoom out -38.2469 26.2285
-\t (00:04:14) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:04:14) trapsize 6640
-\i (00:04:18) open 
-\i (00:04:24) fillin "C:\DATA\git\Cadence\modules\BinSensors\allegro\BINSENSORS.brd"
-\i (00:04:24) cd "C:\DATA\git\Cadence\modules\BinSensors\allegro"
-\t (00:04:24) Opening existing design...
-\t (00:04:24) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
-\i (00:04:24) trapsize 2255
-\t (00:04:24)     Journal end - Tue Jun 20 00:00:19 2017
+\t (00:00:10) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Tue Jun 20 18:44:54 2017
+\t (00:00:10)         Host=QUANGTHANH-PC User=Thanh Pid=13300 CPUs=4
+\t (00:00:10) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:10) 
+\d (00:00:10) Design opened: C:/DATA/git/Cadence/modules/Zwave_switch/allegro/ZWAVE_SWITCH.brd
+\i (00:00:10) generaledit 
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 34.1442 30.9435
+\t (00:00:11) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:11) trapsize 8306
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 33.3136 26.1262
+\t (00:01:05) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:01:05) trapsize 4153
+\i (00:01:09) trapsize 1598
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 52.3626 1.7313
+\i (00:01:09) trapsize 3197
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 48.3984 -3.1919
+\i (00:01:10) trapsize 6394
+\i (00:01:11) exit 
+\t (00:01:12)     Journal end - Tue Jun 20 18:45:56 2017

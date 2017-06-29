@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : CP506.brd                                     )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Jun 21 14:22:39 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  Q2 / IRF1010E/TO_0_SOT23_2302 / SOT23 at (37.8392 33.3616)
+         Placed symbol:  Q3 / IRF1010E/TO_0_SOT23_2302 / SOT23 at (4.0564 42.8616)
+         Placed symbol:  R14 / R_RES_SMD_0603_4K7 / RES_SMD_0603 at (6.8764 40.0750)
+         Placed symbol:  R15 / R_RES_SMD_0603_4K7 / RES_SMD_0603 at (9.8164 40.0750)
+         Placed symbol:  R16 / R_RES_SMD_0603_4K7 / RES_SMD_0603 at (12.7564 40.0750)
+         Placed symbol:  R17 / R_RES_SMD_0603_4K7 / RES_SMD_0603 at (15.6964 40.0750)
+
+
+Placed 6 of 6 applicable (6 total) symbols.
+
+-----------------------------------------------------------------------
+

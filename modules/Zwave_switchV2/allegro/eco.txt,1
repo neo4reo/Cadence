@@ -2,22 +2,30 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/DATA/git/Cadence/modules/Zwave_switch/allegro/ZWAVE_SWITCH.brd           |
-|                                                    Wed May 24 13:52:18 2017  |
+|  C:/DATA/git/Cadence/modules/Zwave_switchV2/allegro/ZWAVE_SWITCHV2.brd       |
+|                                                    Tue Jun 20 18:21:06 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  AC1          pins MOVED FROM this net (to net name listed on right)
-                                 J5.3            -15.500 -19.600
-                                                                            AC2
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  AC2          pins MOVED FROM this net (to net name listed on right)
-                                 J5.4            -24.000 -19.600
-                                                                            AC1
+  N50646       pins DELETED FROM this net (all pins deleted)
+                                 U3.5             3.2000  4.1500
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       2                                        |
+|  C:/DATA/git/Cadence/modules/Zwave_switchV2/allegro/ZWAVE_SWITCHV2.brd       |
+|                                                    Tue Jun 20 18:21:06 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R5                  R_RES_SMD_0603_10K    -66.000 -21.100
+|------------------------------------------------------------------------------|
+|       Nets changed          :       1                                        |
+|       Components deleted    :       1                                        |
 |                                                                              |
 |   Total ECO changes reported:       2                                        |
 |------------------------------------------------------------------------------|

@@ -4,15 +4,10 @@
 (                                                                     )
 (    Drawing          : ZWAVE_SWITCH.brd                              )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Wed May 24 02:13:10 2017                      )
+(    Date/Time        : Wed May 24 16:04:16 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
-
-
- ******************************************
- WARNING: DRC OUT OF DATE on this layout.
- ******************************************
 
  ---- Photoplot outline rectangle not found; using drawing extents.
 
@@ -58,13 +53,15 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
   CIRCLE     1.00000                                  DARK 
   CIRCLE     1.59990                                  DARK 
   CIRCLE     3.00000                                  DARK 
-  CIRCLE     3.20000                                  DARK 
   CIRCLE     3.50000                                  DARK 
   SQUARE     0.30000                     0.000 NO     DARK 
   SQUARE     1.59990                     0.000 NO     DARK 
+  SQUARE     3.00000                     0.000 NO     DARK 
   RECTANGLE  0.74000     x 1.02000       0.000 NO     DARK 
   RECTANGLE  0.74000     x 1.02000      90.000 NO     DARK 
   RECTANGLE  0.80010     x 0.89990      90.000 NO     DARK 
@@ -104,15 +101,17 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
   CIRCLE     1.00000                                  DARK 
   CIRCLE     1.59990                                  DARK 
   CIRCLE     3.00000                                  DARK 
-  CIRCLE     3.20000                                  DARK 
   CIRCLE     3.50000                                  DARK 
   SQUARE     1.52400                     0.000 NO     DARK 
   SQUARE     1.59990                     0.000 NO     DARK 
+  SQUARE     3.00000                     0.000 NO     DARK 
 
-     BOTTOM created with warnings
+     BOTTOM created.
 
 
 ================================================================
@@ -131,10 +130,10 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: rectangle or unfilled shape composed 0 width line found at (-60.4000 -24.1300)
+    WARNING: rectangle or unfilled shape composed 0 width line found at (-60.0000 -16.6000)
            ... ignored.
 
-    WARNING: text composed 0 width line found at (-55.9728 -3.5145)
+    WARNING: text composed 0 width line found at (-55.9728 -1.8145)
            ... ignored.
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
@@ -180,6 +179,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
   CIRCLE     0.15000                                  DARK 
   CIRCLE     0.25400                                  DARK 
 
@@ -208,12 +208,12 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     1.50000                                  DARK 
   CIRCLE     1.89990                                  DARK 
+  CIRCLE     3.50000                                  DARK 
   CIRCLE     3.59990                                  DARK 
-  CIRCLE     3.70000                                  DARK 
   SQUARE     0.60000                     0.000 NO     DARK 
   SQUARE     2.00000                     0.000 NO     DARK 
+  SQUARE     3.50000                     0.000 NO     DARK 
   RECTANGLE  0.74000     x 1.02000       0.000 NO     DARK 
   RECTANGLE  0.74000     x 1.02000      90.000 NO     DARK 
   RECTANGLE  1.00000     x 1.10010      90.000 NO     DARK 
@@ -227,7 +227,7 @@ Results from parameter file ...
   RECTANGLE  3.45010     x 2.35000       0.000 NO     DARK 
   RECTANGLE  3.45010     x 2.35000      90.000 NO     DARK 
 
-     SM_TOP created with warnings
+     SM_TOP created.
 
 
 ================================================================
@@ -252,14 +252,15 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     1.50000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
   CIRCLE     1.89990                                  DARK 
+  CIRCLE     3.50000                                  DARK 
   CIRCLE     3.59990                                  DARK 
-  CIRCLE     3.70000                                  DARK 
   SQUARE     1.65100                     0.000 NO     DARK 
   SQUARE     1.80010                     0.000 NO     DARK 
+  SQUARE     3.50000                     0.000 NO     DARK 
 
-     SM_BOT created with warnings
+     SM_BOT created.
 
 
 ================================================================
@@ -297,7 +298,7 @@ Results from parameter file ...
   RECTANGLE  3.24990     x 2.15010       0.000 NO     DARK 
   RECTANGLE  3.24990     x 2.15010      90.000 NO     DARK 
 
-     SP_TOP created with warnings
+     SP_TOP created.
 
 
 ================================================================
@@ -324,7 +325,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   SQUARE     1.47320                     0.000 NO     DARK 
 
-     SP_BOT created with warnings
+     SP_BOT created.
 
 
 ================================================================
@@ -345,20 +346,25 @@ Results from parameter file ...
 
 
 
-  APERTURES USED:  NONE
-     OUTLINE created with warnings
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     OUTLINE created.
 
 
 ------------------------------------------------------
  SUMMARY:
         TOP created with warnings
-        BOTTOM created with warnings
+        BOTTOM created.
         SC_TOP created with warnings
         SC_BOT created with warnings
-        SM_TOP created with warnings
-        SM_BOT created with warnings
-        SP_TOP created with warnings
-        SP_BOT created with warnings
-        OUTLINE created with warnings
+        SM_TOP created.
+        SM_BOT created.
+        SP_TOP created.
+        SP_BOT created.
+        OUTLINE created.
 
  ARTWORK had warnings

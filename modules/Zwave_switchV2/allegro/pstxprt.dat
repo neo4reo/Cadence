@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Jun-02-2017 at 22:30:10 }
+{ Using PSTWRITER 17.2.0 d001Jun-20-2017 at 18:24:26 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='ZWAVE_SWITCHV2';
@@ -214,16 +214,6 @@ SECTION_NUMBER 1
  '@ZWAVE_SWITCHV2.SCHEMATIC1(SCH_1):INS49824@DISCRETE.R.NORMAL(CHIPS)':
  C_PATH='@zwave_switchv2.schematic1(sch_1):ins49824@discrete.\r.normal\(chips)',
  P_PATH='@zwave_switchv2.schematic1(sch_1):page1_ins49824@discrete.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R5 'R_RES_SMD_0603_10K':;
-
-SECTION_NUMBER 1
- '@ZWAVE_SWITCHV2.SCHEMATIC1(SCH_1):INS50600@DISCRETE.R.NORMAL(CHIPS)':
- C_PATH='@zwave_switchv2.schematic1(sch_1):ins50600@discrete.\r.normal\(chips)',
- P_PATH='@zwave_switchv2.schematic1(sch_1):page1_ins50600@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

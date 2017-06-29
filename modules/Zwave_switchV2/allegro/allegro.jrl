@@ -1,22 +1,42 @@
-\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Fri Jun 09 14:56:12 2017
-\t (00:00:03)         Host=QUANGTHANH-PC User=Thanh Pid=10920 CPUs=4
-\t (00:00:03) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:04) Loading axlcore.cxt 
-\t (00:00:05) Opening existing design...
-\d (00:00:05) Design opened: C:/DATA/git/Cadence/modules/Zwave_switchV2/allegro/ZWAVE_SWITCHV2.brd
-\t (00:00:05) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:05) trapsize 6378
-\i (00:00:05) trapsize 6523
-\t (00:00:05) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:05) trapsize 6523
-\i (00:00:05) trapsize 6402
-\i (00:00:06) generaledit 
-\i (00:00:14) open 
-\i (00:00:42) fillin "C:\DATA\git\hardware\Projects\smartDesk\version3_addonboard\addonBoard\schematic_layoutV1.0\allegro\SMARTDESKV2_ADDON.brd"
-\i (00:00:42) cd "C:\DATA\git\hardware\Projects\smartDesk\version3_addonboard\addonBoard\schematic_layoutV1.0\allegro"
-\t (00:00:42) Opening existing design...
-\t (00:00:42) Grids are drawn 2.5600, 2.5600 apart for enhanced viewability.
-\i (00:00:42) trapsize 18179
-\t (00:00:42)     Journal end - Fri Jun 09 14:56:50 2017
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Jun 22 11:28:34 2017
+\t (00:00:02)         Host=QUANGTHANH-PC User=Thanh Pid=12268 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/DATA/git/Cadence/modules/Zwave_switchV2/allegro/ZWAVE_SWITCHV2.brd
+\i (00:00:04) trapsize 3307
+\i (00:00:04) trapsize 3383
+\i (00:00:04) trapsize 3383
+\i (00:00:04) trapsize 3320
+\i (00:00:05) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 4.3162 -1.5901
+\i (00:00:10) trapsize 1660
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 5.0466 -1.7893
+\i (00:00:10) trapsize 830
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 5.0466 -1.7893
+\i (00:00:11) trapsize 1660
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 5.0467 -1.7893
+\i (00:00:11) trapsize 3320
+\i (00:16:52) plctxt out 
+\i (00:17:02) setwindow form.plctxt
+\i (00:17:02) FORM plctxt browse  
+\i (00:17:04) fillin "C:\Users\Thanh\Desktop\place_txt.txt"
+\i (00:17:06) FORM plctxt execute  
+\t (00:17:06) Starting Place symbols by text file...
+\i (00:18:00) FORM plctxt cancel  
+\i (00:18:00) setwindow pcb
+\i (00:18:00) generaledit 
+\i (02:10:23) exit 
+\e (02:10:23) Do you want to save the changes you made to ZWAVE_SWITCHV2.brd?
+\i (02:10:24) fillin yes 
+\t (02:10:24)     Journal end - Thu Jun 22 13:38:57 2017

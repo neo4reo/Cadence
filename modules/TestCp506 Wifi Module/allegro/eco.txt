@@ -1,0 +1,63 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/TestCp506 Wifi Module/allegro/CP506.brd         |
+|                                                    Wed Jun 21 14:22:25 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAPACITOR NON-POL_CAP_SMD_0603_
+ CAPACITOR NON-POL_CAP_SMD_060_1
+ INDUCTOR_RES_SMD_0603_INDUCTOR
+ LED_LED_SMD_0603_POWER LED
+ R_RES_SMD_0603_10K
+ R_RES_SMD_0603_1M
+ R_RES_SMD_0603_330R
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/TestCp506 Wifi Module/allegro/CP506.brd         |
+|                                                    Wed Jun 21 14:22:25 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAPACITOR NON-POL_CAP_SMD_0603_  5.1000 11.4000 CAPACITOR NON-POL_CAP_SMD_0805_
+ C2                  CAPACITOR NON-POL_CAP_SMD_0603_ 33.3828 30.8000 CAPACITOR NON-POL_CAP_SMD_0805_
+ C3                  CAPACITOR NON-POL_CAP_SMD_060_1 21.3500 30.8000 CAPACITOR NON-POL_CAP_SMD_080_1
+ D1                  LED_LED_SMD_0603_POWER LED 17.5000  8.6000 LED_LED_SMD_0805_POWER LED
+ L1                  INDUCTOR_RES_SMD_0603_INDUCTOR 15.3336 30.8000 INDUCTOR_RES_SMD_0805_INDUCTOR
+ R1                  R_RES_SMD_0603_10K    11.1000  6.5000 R_RES_SMD_0805_10K
+ R2                  R_RES_SMD_0603_330R   11.1000  8.6000 R_RES_SMD_0805_330R
+ R3                  R_RES_SMD_0603_1M     27.3664 30.8000 R_RES_SMD_0805_1M
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/DATA/git/Cadence/modules/TestCp506 Wifi Module/allegro/CP506.brd         |
+|                                                    Wed Jun 21 14:22:25 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2            5.1000 11.4000 PRIM_FILE      .\pstchip.dat
+ C2.2           33.3828 30.8000 PRIM_FILE      .\pstchip.dat
+ C3.2           21.3500 30.8000 PRIM_FILE      .\pstchip.dat
+ D1.1           17.5000  8.6000 PRIM_FILE      .\pstchip.dat
+ L1.2           15.3336 30.8000 PRIM_FILE      .\pstchip.dat
+ R1.2           11.1000  6.5000 PRIM_FILE      .\pstchip.dat
+ R2.2           11.1000  8.6000 PRIM_FILE      .\pstchip.dat
+ R3.2           27.3664 30.8000 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Comp definitions added:       7                                        |
+|       Components changed    :       8                                        |
+|       Slot property added   :       8                                        |
+|                                                                              |
+|   Total ECO changes reported:      23                                        |
+|------------------------------------------------------------------------------|

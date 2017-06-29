@@ -13,7 +13,7 @@ SUPPRESS-EQUAL         NO
 TOOL-SELECT            NO
 OPTIMIZE_DRILLING      NO
 ENHANCED_EXCELLON      NO
-TAPE-FILE              C:/DATA/git/Cadence/modules/Zwave_switch/production/v4/ZWAVE_SWITCH.drl
+TAPE-FILE              C:/DATA/git/Cadence/modules/Zwave_switchV2/production/ZWAVE_SWITCH.drl
 HEADER                 none
 LEADER                 12
 CODE                   ASCII

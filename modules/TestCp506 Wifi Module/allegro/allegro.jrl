@@ -1,0 +1,21 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Jun 21 15:21:10 2017
+\t (00:00:02)         Host=QUANGTHANH-PC User=Thanh Pid=12868 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/DATA/GIT/CADENCE/MODULES/TESTCP506 WIFI MODULE/allegro/CP506.brd
+\t (00:00:04) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:04) trapsize 8530
+\i (00:00:04) trapsize 8724
+\t (00:00:04) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:04) trapsize 8724
+\i (00:00:05) trapsize 8563
+\i (00:00:05) generaledit 
+\i (00:00:06) open 
+\i (00:00:12) fillin "C:\DATA\git\Cadence\modules\Zwave_switchV2\allegro\ZWAVE_SWITCHV2.brd"
+\i (00:00:12) cd "C:\DATA\git\Cadence\modules\Zwave_switchV2\allegro"
+\t (00:00:12) Opening existing design...
+\i (00:00:12) trapsize 3320
+\t (00:00:13)     Journal end - Wed Jun 21 15:21:21 2017

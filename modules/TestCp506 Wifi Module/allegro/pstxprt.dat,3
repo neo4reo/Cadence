@@ -1,0 +1,180 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jun-21-2017 at 14:17:02 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CP506';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS46554@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins46554@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins46554@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR NON-POL_CAP_SMD_0805_':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS51224@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins51224@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins51224@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_CAP_SMD_080_1':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS51302@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins51302@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins51302@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED_SMD_0805_POWER LED':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS46287@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins46287@discrete.\led.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins46287@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_RES_SMD_0805_INDUCTOR':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS51158@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins51158@discrete.\inductor.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins51158@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'IRF1010E/TO_0_SOT23_2302':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS653483@ADDONBOARDV1_1.IRF1010E/TO_0.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins653483@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins653483@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'IRF1010E/TO_0_SOT23_2302':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS653717@ADDONBOARDV1_1.IRF1010E/TO_0.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins653717@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins653717@addonboardv1_1.\irf1010e/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_SMD_0805_10K':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS46355@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins46355@discrete.\r.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins46355@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS653451@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins653451@discrete.\r.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins653451@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS653467@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins653467@discrete.\r.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins653467@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS653685@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins653685@discrete.\r.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins653685@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES_SMD_0603_4K7':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS653701@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins653701@discrete.\r.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins653701@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES_SMD_0805_330R':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS46271@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins46271@discrete.\r.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins46271@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES_SMD_0805_1M':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS51286@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins51286@discrete.\r.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins51286@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'WIFI_CP506_WIFI_CP506_WIFI_CP50':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS46@MYLIB.WIFI_CP506.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins46@mylib.\wifi_cp506.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins46@mylib.\wifi_cp506.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'ASM1117_SOT223_AMS1117':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS93@MYLIB.ASM1117.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins93@mylib.\asm1117.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins93@mylib.\asm1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'MINI USB_MINI_USB_MINIUSB':;
+
+SECTION_NUMBER 1
+ '@CP506.SCHEMATIC1(SCH_1):INS51124@QUANGTHANH-SCHEMATIC.MINI USB.NORMAL(CHIPS)':
+ C_PATH='@cp506.schematic1(sch_1):ins51124@\quangthanh-schematic\.\mini usb.normal\(chips)',
+ P_PATH='@cp506.schematic1(sch_1):page1_ins51124@\quangthanh-schematic\.\mini usb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

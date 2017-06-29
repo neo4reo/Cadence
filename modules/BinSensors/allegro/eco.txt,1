@@ -3,48 +3,9 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:/DATA/git/Cadence/modules/BinSensors/allegro/BINSENSORS.brd               |
-|                                                    Mon Jun 19 21:51:36 2017  |
+|                                                    Mon Jun 26 11:04:06 2017  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- CAPACITOR NON-POL_CAP_SMD_060_2
- CAPACITOR NON-POL_CAP_SMD_060_3
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:/DATA/git/Cadence/modules/BinSensors/allegro/BINSENSORS.brd               |
-|                                                    Mon Jun 19 21:51:36 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C7                  CAPACITOR NON-POL_CAP_SMD_060_2 46.5000 25.8000 CAPACITOR NON-POL_CAP_SMD_0805_
- C8                  CAPACITOR NON-POL_CAP_SMD_060_3  7.1000 26.1000 CAPACITOR NON-POL_CAP_SMD_060_2
- C9                  CAPACITOR NON-POL_CAP_SMD_060_2 10.8000  9.9000 CAPACITOR NON-POL_CAP_SMD_060_3
- R4                  R_RES_SMD_0603_10K    46.5000 27.9000 R_RES_SMD_0805_10K
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  C:/DATA/git/Cadence/modules/BinSensors/allegro/BINSENSORS.brd               |
-|                                                    Mon Jun 19 21:51:36 2017  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C7.2           46.5000 25.8000 PRIM_FILE      .\pstchip.dat
- C8.2            7.1000 26.1000 PRIM_FILE      .\pstchip.dat
- C9.2           10.8000  9.9000 PRIM_FILE      .\pstchip.dat
- R4.2           46.5000 27.9000 PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|       Comp definitions added:       2                                        |
-|       Components changed    :       4                                        |
-|       Slot property added   :       4                                        |
 |                                                                              |
-|   Total ECO changes reported:      10                                        |
+|   Total ECO changes reported:       0                                        |
 |------------------------------------------------------------------------------|

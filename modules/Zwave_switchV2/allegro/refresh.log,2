@@ -1,9 +1,9 @@
-Wed May 24 13:48:54 2017				Page     1
+Tue Jun 20 17:56:25 2017				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Wed May 24 13:48:54 2017
+	Tue Jun 20 17:56:25 2017
 
 ------ Module Refresh Messages ------
 
@@ -17,22 +17,22 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : ZWAVE_SWITCH.brd                              )
+(    Drawing          : ZWAVE_SWITCHV2.brd                            )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Wed May 24 13:48:55 2017                      )
+(    Date/Time        : Tue Jun 20 17:56:25 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Wed May 24 13:48:55 2017				Page     1
+Tue Jun 20 17:56:25 2017				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/DATA/GIT/CADENCE/MODULES/ZWAVE_SWITCH/allegro/ZWAVE_SWITCH.brd'
+Input design  = 'C:/DATA/git/Cadence/modules/Zwave_switchV2/allegro/ZWAVE_SWITCHV2.brd'
 Output design = ''
 
-Update mechanical symbols              = 'YES'
+Update mechanical symbols              = 'NO'
 Update format symbols                  = 'NO'
 Update package symbols                 = 'YES'
 Update shape/flash symbols             = 'NO'
@@ -73,17 +73,12 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 'SOT223'  symbol refreshed successfully.
 'J1_6_254'  symbol refreshed successfully.
 'AC2DC_CONVERTER'  symbol refreshed successfully.
-'SONGLE_RELAY_5PINS'  symbol refreshed successfully.
 'CAP_SMD_0603'  symbol refreshed successfully.
 'RES_SMD_0603'  symbol refreshed successfully.
 'ZM5202'  symbol refreshed successfully.
-
-'MYANTENA'  symbol starting to refresh:
-     WARNING(SPMHNI-339): Symbol definition contains ETCH but Instance has no associated ETCH.
-     Check for duplicate or misaligned symbol etch. (NOTE: dbdoctor will remove duplicate VIAs)
-     
-     'MYANTENA'  symbol refreshed successfully.
-'HOLE_35CIR33'  symbol refreshed successfully.
+'MYANTENA'  symbol refreshed successfully.
+'KF850_6P'  symbol refreshed successfully.
+'SONGLE_RELAY_5PINS'  symbol refreshed successfully.
 
 
 ----- Symbol Update Summary ----

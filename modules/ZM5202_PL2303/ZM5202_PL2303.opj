@@ -148,7 +148,10 @@
       (Path "Design Resources"
          "c:\data\git\cadence\modules\zm5202_pl2303\zm5202_pl2303.dsn"
          "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\data\git\cadence\modules\zm5202_pl2303\zm5202_pl2303.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -159,8 +162,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 521")
-        (Scroll "521 1470")
-        (Zoom "220")
+        (Scroll "0 121")
+        (Zoom "110")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\ZM5202_PL2303\ZM5202_PL2303.DSN")
       (Schematic "SCHEMATIC1")

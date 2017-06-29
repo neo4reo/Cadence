@@ -1,0 +1,147 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Jun-21-2017 at 14:04:13}
+primitive 'CAPACITOR NON-POL_CAP_SMD_0805_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR NON-POL';
+    JEDEC_TYPE='cap_smd_0805';
+    VALUE='10uF';
+  end_body;
+end_primitive;
+primitive 'LED_LED_SMD_0805_POWER LED';
+  pin
+    'ANODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='led_smd_0805';
+    VALUE='POWER LED';
+  end_body;
+end_primitive;
+primitive 'CON4_J1_4_254_CON4';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON4';
+    JEDEC_TYPE='J1_4_254';
+    VALUE='CON4';
+  end_body;
+end_primitive;
+primitive 'R_RES_SMD_0805_10K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='res_smd_0805';
+    VALUE='10K';
+  end_body;
+end_primitive;
+primitive 'R_RES_SMD_0805_330R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='res_smd_0805';
+    VALUE='330R';
+  end_body;
+end_primitive;
+primitive 'WIFI_CP506_WIFI_CP506_WIFI_CP50';
+  pin
+    'CHIP_PWD_L':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'D+':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'D-':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '3V3':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'NC1':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'GND3':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    'RF1':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    'NC':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    'GND2':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    'RF':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'GND1':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='WIFI_CP506';
+    JEDEC_TYPE='WIFI_CP506';
+    VALUE='WIFI_CP506';
+  end_body;
+end_primitive;
+primitive 'ASM1117_SOT223_AMS1117';
+  pin
+    'VIN':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'VOUT':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='ASM1117';
+    JEDEC_TYPE='SOT223';
+    VALUE='AMS1117';
+  end_body;
+end_primitive;
+END.

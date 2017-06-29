@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : BINSENSORS.brd                                )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon Jun 19 23:53:12 2017                      )
+(    Date/Time        : Tue Jun 20 09:33:12 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -29,7 +29,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/TOP.art > ...
+     TO FILE < C:/DATA/git/Cadence/modules/BinSensors/allegro/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -53,7 +53,7 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.30000                                  DARK 
-  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
   CIRCLE     1.59990                                  DARK 
   CIRCLE     3.00000                                  DARK 
   SQUARE     0.30000                     0.000 NO     DARK 
@@ -71,7 +71,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/BOTTOM.art > ...
+     TO FILE < C:/DATA/git/Cadence/modules/BinSensors/allegro/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -85,9 +85,6 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: Film contains objects with associated DRCs (1).
-           In the design editor view this film and enable visibility for the
-           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
 
 
   APERTURES USED:
@@ -95,7 +92,7 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.30000                                  DARK 
-  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
   CIRCLE     1.59990                                  DARK 
   CIRCLE     2.00000                                  DARK 
   CIRCLE     3.00000                                  DARK 
@@ -107,12 +104,12 @@ Results from parameter file ...
   RECTANGLE  0.95000     x 2.15010      90.000 NO     DARK 
   RECTANGLE  3.24990     x 2.15010      90.000 NO     DARK 
 
-     BOTTOM created with warnings
+     BOTTOM created.
 
 
 ================================================================
      PROCESSING FILM < SC_TOP >
-     TO FILE < C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/SC_TOP.art > ...
+     TO FILE < C:/DATA/git/Cadence/modules/BinSensors/allegro/SC_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -151,7 +148,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SC_BOT >
-     TO FILE < C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/SC_BOT.art > ...
+     TO FILE < C:/DATA/git/Cadence/modules/BinSensors/allegro/SC_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -183,7 +180,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SM_TOP >
-     TO FILE < C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/SM_TOP.art > ...
+     TO FILE < C:/DATA/git/Cadence/modules/BinSensors/allegro/SM_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -221,7 +218,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SM_BOT >
-     TO FILE < C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/SM_BOT.art > ...
+     TO FILE < C:/DATA/git/Cadence/modules/BinSensors/allegro/SM_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -257,7 +254,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SP_TOP >
-     TO FILE < C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/SP_TOP.art > ...
+     TO FILE < C:/DATA/git/Cadence/modules/BinSensors/allegro/SP_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -289,7 +286,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SP_BOT >
-     TO FILE < C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/SP_BOT.art > ...
+     TO FILE < C:/DATA/git/Cadence/modules/BinSensors/allegro/SP_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -320,7 +317,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < OUTLINE >
-     TO FILE < C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/OUTLINE.art > ...
+     TO FILE < C:/DATA/git/Cadence/modules/BinSensors/allegro/OUTLINE.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -348,7 +345,7 @@ Results from parameter file ...
 ------------------------------------------------------
  SUMMARY:
         TOP created with warnings
-        BOTTOM created with warnings
+        BOTTOM created.
         SC_TOP created with warnings
         SC_BOT created with warnings
         SM_TOP created.

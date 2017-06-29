@@ -2,9 +2,9 @@
 (                                                                     )
 (    DBDOCTOR                                                         )
 (                                                                     )
-(    Drawing          : ZWAVE_SWITCH.brd                              )
+(    Drawing          : ZWAVE_SWITCHV2.brd                            )
 (    Software Version : 17.2P028                                      )
-(    Date/Time        : Wed May 24 15:32:22 2017                      )
+(    Date/Time        : Tue Jun 20 23:32:12 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -14,8 +14,8 @@ Number of Xnets before update: 0        after update: 0
 Number of Diff Pairs before update: 0   after update: 0
 
 Regenerating DRC
-  Original DRC errors:   7
-  Updated DRC errors:    7
+  Original DRC errors:   8
+  Updated DRC errors:    8
   DRC elapsed time:      00:00:01
 
 0 warnings, 0 errors detected, 0 errors  fixed.

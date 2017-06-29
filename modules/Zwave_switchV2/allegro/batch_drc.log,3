@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : ZWAVE_SWITCH.brd                              )
+(    Drawing          : ZWAVE_SWITCHV2.brd                            )
 (    Software Version : 17.2P028                                      )
-(    Date/Time        : Wed May 24 16:03:03 2017                      )
+(    Date/Time        : Tue Jun 20 23:32:52 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  7
+ ..... Total number of DRC errors  8
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

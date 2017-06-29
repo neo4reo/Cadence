@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ZWAVE_SWITCH.brd                              )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Wed May 24 02:14:18 2017                      )
+(    Date/Time        : Wed May 24 16:04:39 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -37,7 +37,7 @@
 
 
 
- Drill files being output to directory 'C:/DATA/git/Cadence/modules/Zwave_switch/production/Updated' ...
+ Drill files being output to directory 'C:/DATA/git/Cadence/modules/Zwave_switch/production/v3' ...
 
 
 
@@ -46,13 +46,13 @@
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.   0.5000    0.0000/  0.0000      PLATED        100
+            1.   0.5000    0.0000/  0.0000      PLATED        172
             2.   1.0000    0.0000/  0.0000      PLATED         11
-            3.   1.8000    0.0000/  0.0000      PLATED          6
+            3.   1.4000    0.0000/  0.0000      PLATED          6
             4.   2.0000    0.0000/  0.0000      PLATED          5
             5.   3.3000    0.0000/  0.0000      PLATED          4
 
-     ---- Total holes:                                        126
+     ---- Total holes:                                        198
 
-     ---- Total head travel:              4.15 feet (1.27 meters)
+     ---- Total head travel:              5.47 feet (1.67 meters)
 

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : BINSENSORS.brd                                )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon Jun 19 21:54:19 2017                      )
+(    Date/Time        : Wed Jun 28 11:25:00 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -27,7 +27,7 @@ CmdLine: netrev.exe -y 1 -i C:\DATA\GIT\CADENCE\MODULES\BINSENSORS\allegro C:\DA
 ------ Preparing to read pst files ------
 
 Starting to read C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/pstchip.dat 
-   Finished reading C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/pstchip.dat (00:00:00.02)
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/pstchip.dat (00:00:00.04)
 Starting to read C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/pstxprt.dat 
    Finished reading C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/pstxnet.dat 
@@ -63,7 +63,7 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 ------ Summary Statistics ------
 
 
-netrev run on Jun 19 21:54:19 2017
+netrev run on Jun 28 11:25:00 2017
    DESIGN NAME : 'BINSENSORS'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -88,6 +88,6 @@ netrev run on Jun 19 21:54:19 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:18
+cpu time      0:00:36
 elapsed time  0:00:00
 
