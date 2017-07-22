@@ -1,0 +1,70 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : Z_FLASH.brd                                   )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 03 14:08:01 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+
+Pad and T Fillet glossing in progress.
+Started on Mon Jul 03 14:08:01 2017
+
+ Round pads:          YES   max size: 2.5400
+ Square pads:         YES   max size: 2.5400
+ Rectangular pads:    YES   max size: 2.5400
+ Oblong pads:         YES   max size: 2.5400
+ Octagon pads:        YES   max size: 2.5400
+ Pads as shapes:      NO 
+ Pins:                YES
+ Vias:                YES
+ Bond Fingers:        NO 
+ Ts:                  YES
+ Unused nets:         YES
+ Pads Without Drills: YES
+ Desired Pin Angle:       90
+ Desired Via Angle:       90
+ Desired T Angle:         90
+ Maximum Pin Angle:       90
+ Maximum Via Angle:       90
+ Maximum T Angle:         90
+ Pin Maximum offset:      0.6350
+ Via Maximum offset:      0.6350
+ T Maximum offset:        0.6350
+ Pin minimum line width:  0.0762
+ Via minimum line width:  0.0762
+ T minimum line width:    0.0762
+ Pin maximum line width:  0.6350
+ Via maximum line width:  0.6350
+ T maximum line width:    0.6350
+ Tapers:                  NO 
+ Desired Taper Angle:     60
+ Taper Maximum offset:    0.6350
+ Allow drc:           NO 
+ Dynamic:             NO 
+ Curved lines:        NO 
+
+*WARNING: Can't fillet T at (59.5500 97.3499) on subclass BOTTOM.
+          The fillet does not fit.
+
+
+
+
+Total number of fillets added: 46
+
+Number of fillets rejected due to DRC errors: 0
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon Jul 03 14:08:01 2017
+
+
+There were 1 errors or warnings reported in logfile.
+
+
+Glossing complete.

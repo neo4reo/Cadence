@@ -1,0 +1,23 @@
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Jul 12 14:40:57 2017
+\t (00:00:04)         Host=QUANGTHANH-PC User=Thanh Pid=7332 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/Z_FLASH.brd
+\t (00:00:05) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:05) trapsize 2367
+\i (00:00:06) trapsize 2408
+\t (00:00:06) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:06) trapsize 2408
+\i (00:00:06) trapsize 2239
+\i (00:00:07) placementedit 
+\i (00:00:14) open 
+\i (00:00:28) fillin "C:\DATA\git\hardware\Library\CadenceLib\layout\symbol_lib\PLCC.dra"
+\i (00:00:28) cd "C:\DATA\git\hardware\Library\CadenceLib\layout\symbol_lib"
+\t (00:00:28) Opening existing design...
+\i (00:00:28) trapsize 1135
+\i (00:00:28) trapsize 1153
+\i (00:00:28) trapsize 1153
+\t (00:00:28)     Journal end - Wed Jul 12 14:41:22 2017

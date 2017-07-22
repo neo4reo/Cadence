@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : Z_FLASH.brd                                   )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Thu Jun 29 17:46:00 2017                      )
+(    Date/Time        : Mon Jul 03 12:20:11 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,15 +19,15 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'C:\DATA\GIT\CADENCE\MODULES\ZW_FLASH\allegro'
 Design Directory:            '.'
-Old design name:             'Z_FLASH.brd'
+Old design name:             'C:/DATA/git/Cadence/modules/ZW_Flash/allegro/Z_FLASH.brd'
 New design name:             'Z_FLASH.brd'
 
-CmdLine: netrev.exe -y 1 -n -i C:\DATA\GIT\CADENCE\MODULES\ZW_FLASH\allegro C:\DATA\GIT\CADENCE\MODULES\ZW_FLASH\allegro\Z_FLASH.brd C:\DATA\GIT\CADENCE\MODULES\ZW_FLASH\allegro\Z_FLASH.brd
+CmdLine: netrev.exe -y 1 -i C:\DATA\GIT\CADENCE\MODULES\ZW_FLASH\allegro C:\DATA\git\Cadence\modules\ZW_Flash\allegro\Z_FLASH.brd C:\DATA\GIT\CADENCE\MODULES\ZW_FLASH\allegro\Z_FLASH.brd
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/pstchip.dat 
-   Finished reading C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/pstchip.dat (00:00:00.04)
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/pstchip.dat (00:00:00.02)
 Starting to read C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/pstxprt.dat 
    Finished reading C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/pstxnet.dat 
@@ -35,10 +35,6 @@ Starting to read C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/pstxnet.dat
 
 ------ Oversights/Warnings/Errors ------
 
-
-#1   ERROR(SPMHNI-191): Device/Symbol check error detected.
-
-ERROR(SPMHNI-195): Symbol 'J1_7_254' for device 'CON7_J1_7_254_SENSOR' is missing pin '7'.
 
 ------ Library Paths ------
 MODULEPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
@@ -67,9 +63,7 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 ------ Summary Statistics ------
 
 
-#2   Run stopped because errors were detected
-
-netrev run on Jun 29 17:46:00 2017
+netrev run on Jul 3 12:20:11 2017
    DESIGN NAME : 'Z_FLASH'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -90,10 +84,10 @@ netrev run on Jun 29 17:46:00 2017
    SUPPRESS   20
    WARNINGS ON
 
-  2 errors detected
+ No error detected
  No oversight detected
  No warning detected
 
-cpu time      0:00:30
+cpu time      0:00:23
 elapsed time  0:00:00
 

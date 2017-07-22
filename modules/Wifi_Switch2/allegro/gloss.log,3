@@ -1,0 +1,86 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : ESP8266_SWITCH.brd                            )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed May 24 20:23:01 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+**WARNING: Disabling dynamic shapes
+
+
+
+Pad and T Fillet glossing in progress.
+Started on Wed May 24 20:23:01 2017
+
+ Round pads:          YES   max size: 2.5400
+ Square pads:         YES   max size: 2.5400
+ Rectangular pads:    YES   max size: 2.5400
+ Oblong pads:         YES   max size: 2.5400
+ Octagon pads:        YES   max size: 2.5400
+ Pads as shapes:      NO 
+ Pins:                YES
+ Vias:                YES
+ Bond Fingers:        NO 
+ Ts:                  YES
+ Unused nets:         YES
+ Pads Without Drills: YES
+ Desired Pin Angle:       90
+ Desired Via Angle:       90
+ Desired T Angle:         90
+ Maximum Pin Angle:       90
+ Maximum Via Angle:       90
+ Maximum T Angle:         90
+ Pin Maximum offset:      0.6350
+ Via Maximum offset:      0.6350
+ T Maximum offset:        0.6350
+ Pin minimum line width:  0.0762
+ Via minimum line width:  0.0762
+ T minimum line width:    0.0762
+ Pin maximum line width:  0.6350
+ Via maximum line width:  0.6350
+ T maximum line width:    0.6350
+ Tapers:                  NO 
+ Desired Taper Angle:     60
+ Taper Maximum offset:    0.6350
+ Allow drc:           NO 
+ Dynamic:             NO 
+ Curved lines:        NO 
+
+*WARNING: Can't create fillet at pad (54.2955 33.7000) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't fillet T at (26.2000 5.5000) on subclass TOP.
+          The fillet does not fit.
+
+*WARNING: Can't create fillet at pad (21.0000 34.4500) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (-2.9100 29.3100) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-2.9100 24.2300) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't fillet T at (37.5000 12.3000) on subclass BOTTOM.
+          The fillet does not fit.
+
+
+
+
+Total number of fillets added: 115
+
+Number of fillets rejected due to DRC errors: 0
+
+
+Elapsed time:  0 hr 0 min 1 sec ( 0.00 hr)
+Actual time of completion: Wed May 24 20:23:02 2017
+
+
+There were 6 errors or warnings reported in logfile.
+
+
+Glossing complete.

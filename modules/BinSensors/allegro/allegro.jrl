@@ -1,21 +1,36 @@
-\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Thu Jun 29 17:37:13 2017
-\t (00:00:00)         Host=QUANGTHANH-PC User=Thanh Pid=12952 CPUs=4
-\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:00) 
-   (00:00:00) Loading axlcore.cxt 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Design opened: C:/DATA/GIT/CADENCE/MODULES/BINSENSORS/allegro/BINSENSORS.brd
-\i (00:00:02) trapsize 1654
-\i (00:00:02) trapsize 1691
-\i (00:00:02) trapsize 1691
-\i (00:00:02) trapsize 1660
-\i (00:00:03) generaledit 
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sat Jul 22 12:39:17 2017
+\t (00:00:01)         Host=QUANGTHANH-PC User=Thanh Pid=4428 CPUs=4
+\t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/DATA/git/Cadence/modules/BinSensors/allegro/BINSENSORS.brd
+\i (00:00:03) trapsize 1251
+\i (00:00:03) trapsize 1273
+\i (00:00:03) trapsize 1273
+\i (00:00:03) trapsize 1183
+\i (00:00:04) generaledit 
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 46.5812 28.8227
+\i (00:00:04) trapsize 2366
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 50.6989 30.1479
+\i (00:00:05) trapsize 1183
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 50.6989 30.1479
+\i (00:00:05) trapsize 592
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 49.9535 30.3490
+\i (00:00:05) trapsize 296
 \i (00:00:06) open 
-\i (00:00:38) fillin "C:\DATA\git\hardware\Library\CadenceLib\layout\symbol_lib\J2_40_200.dra"
-\i (00:00:38) cd "C:\DATA\git\hardware\Library\CadenceLib\layout\symbol_lib"
-\t (00:00:38) Opening existing design...
-\i (00:00:38) trapsize 2533
-\i (00:00:38) trapsize 2590
-\i (00:00:38) trapsize 2658
-\t (00:00:38)     Journal end - Thu Jun 29 17:37:50 2017
+\i (00:00:26) fillin "C:\DATA\git\Cadence\modules\Wifi_Switch\allegro\ESP8266_SWITCH.brd"
+\i (00:00:26) cd "C:\DATA\git\Cadence\modules\Wifi_Switch\allegro"
+\t (00:00:26) Opening existing design...
+\t (00:00:26) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:26) trapsize 2058
+\t (00:00:26)     Journal end - Sat Jul 22 12:39:41 2017

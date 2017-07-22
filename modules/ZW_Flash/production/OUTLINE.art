@@ -1,0 +1,29 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/Z_FLASH.brd*
+G04 Film Name:    OUTLINE*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 17.2-P019*
+G04 Origin Date:  Mon Jul 03 14:22:33 2017*
+G04 *
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.0000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.15*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X4740000Y10380000D02*
+X7710000D01*
+Y8040000D01*
+X4740000D01*
+Y10380000D01*
+M02*

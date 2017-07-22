@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : Z_FLASH.brd                                   )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 03 12:21:59 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  J2 / CON20_J2_20_200_CON20 / J2_20_200 at (50.2532 104.4532)
+         Placed symbol:  J4 / CON10_HEADER5X2X254_ZWAVE ISP / HEADER5X2X254 at (85.7564 108.7032)
+         Placed symbol:  J1 / CON7_J1_7_254_SENSOR / J1_7_254 at (50.6795 119.1064)
+         Placed symbol:  J3 / CON6_J1_6_254_SWITCH / J1_6_254 at (70.6291 113.9764)
+         Placed symbol:  C1 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (84.6523 113.2165)
+
+
+Placed 5 of 5 applicable (5 total) symbols.
+
+-----------------------------------------------------------------------
+

@@ -1,0 +1,50 @@
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/Z_FLASH.brd
+Started on   Mon Jul 03 14:08:15 2017
+**ERROR - there is no route keepin rectangle
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 22           0           22
+        Already Connected           22           0           22
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        10.52        0.00        10.52
+        Number of vias		     1           0            1
+        Vias per Connection          0.05        0.00         0.05
+        Smd pins with attached clines                         0
+
+
+
+    Total cpu time - 0:1:14 hours
+    Total elapsed time - -1159:-7:-38 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Mon Jul 03 14:08:15 2017
+
+************************************************************************
+** get_route_keepin:  route keepin is bad 
+** find_special_areas:  failed 
+** rt_routinit:  failed 
+** get_route_keepin:  route keepin is bad 
+** find_special_areas:  failed 
+** rt_routinit:  failed 
+** rt_main_cle:  terminating execution  -3000289
+
+
+************************************************************************
+** get_route_keepin:  route keepin is bad 
+** find_special_areas:  failed 
+** rt_routinit:  failed 
+** get_route_keepin:  route keepin is bad 
+** find_special_areas:  failed 
+** rt_routinit:  failed 
+** rt_main_cle:  terminating execution  -3000289
+

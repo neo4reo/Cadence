@@ -1,0 +1,89 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : Z_FLASH.brd                                   )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 03 14:08:15 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+
+Via Eliminate glossing in progress.
+Started on Mon Jul 03 14:08:15 2017
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+
+
+Eliminations on net 3V3 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Mon Jul 03 14:08:15 2017
+
+
+Via Eliminate Total Stats:
+Total Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+Vias: Total Candidates = 1,  Total Eliminations = 0,  0 % Eliminatons.
+
+
+
+
+Line and Via Cleanup glossing in progress.
+Started on Mon Jul 03 14:08:15 2017
+
+ To be cleaned  : lines and vias
+ Number of executions  : 1
+ Retry?  : NO
+ Clean pin escapes?  : NO
+ Slip Slide?  : NO
+ Jog size limit is -0.0001.
+
+ Etch length/via is -0.0001.
+
+ Net length limit is 254.0000.
+
+ Minimum Via Limit : 1
+ Maximum 45 limit is 0.3000.
+
+*********************************************************************
+                         ROUTER-LOG
+*********************************************************************
+
+NEW ROUTE on C:/DATA/GIT/CADENCE/MODULES/ZW_FLASH/allegro/Z_FLASH.brd
+Started on   Mon Jul 03 14:08:15 2017
+**ERROR - there is no route keepin rectangle
+---------------------------------------------------------------------
+Statistics at the End of the Route:
+----------------------------
+
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                 22           0           22
+        Already Connected           22           0           22
+        Missing Connections          0           0            0
+        Connection Completion      100.00%       0.00%      100.00%
+        Etch Length (inches)        10.52        0.00        10.52
+        Number of vias		     1           0            1
+        Vias per Connection          0.05        0.00         0.05
+        Smd pins with attached clines                         0
+
+
+
+    Total cpu time - 0:0:0 hours
+    Total elapsed time - 0:0:0 hours
+    Invalid Count Time: 0 0:0:0 hours
+    Route ended on  Mon Jul 03 14:08:15 2017
+
+
+Glossing complete.
+ERROR(SPMHA1-289): Unexpected error; first obtain latest ISR if that does not fix problem contact cadence Customer support.

@@ -75,7 +75,9 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (Netlist_TAB "0"))
+    (Netlist_TAB "0")
+    ("Allegro Netlist Input Board File"
+       "C:\DATA\git\Cadence\modules\ZW_Flash\allegro\Z_FLASH.brd"))
   (Folder "Outputs"
     (File ".\z_flash.drc"
       (Type "Report"))
@@ -111,7 +113,7 @@
          "c:\data\git\cadence\modules\zw_flash\z_flash.dsn" "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "c:\data\git\cadence\modules\zw_flash\z_flash.dsn" "SCHEMATIC1" "PAGE1"))
+         "c:\data\git\cadence\modules\zw_flash\z_flash.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
