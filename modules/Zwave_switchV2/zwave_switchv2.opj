@@ -191,7 +191,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1529 52 521")
-        (Scroll "0 344")
+        (Scroll "0 526")
         (Zoom "144")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\ZWAVE_SWITCHV2\ZWAVE_SWITCHV2.DSN")

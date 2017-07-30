@@ -1,174 +1,21 @@
-\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Tue Jul 18 21:38:59 2017
-\t (00:00:00)         Host=QUANGTHANH-PC User=Thanh Pid=7444 CPUs=4
-\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -mpssession Thanh C:\DATA\git\Cadence\modules\Zwave_switchV2\allegro\ZWAVE_SWITCHV2.brd
-\t (00:00:00) 
-   (00:00:00) Loading axlcore.cxt 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Design opened: C:/DATA/GIT/CADENCE/MODULES/ZWAVE_SWITCHV2/allegro/ZWAVE_SWITCHV2.brd
-\t (00:00:02) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:02) trapsize 4351
-\i (00:00:02) trapsize 4426
-\t (00:00:02) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:02) trapsize 4426
-\i (00:00:02) trapsize 4115
-\i (00:00:03) generaledit 
-\i (00:00:04) zoom in 1 
-\i (00:00:04) setwindow pcb
-\i (00:00:04) zoom in -20.6995 4.2616
-\i (00:00:04) trapsize 2058
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in -35.5142 6.0724
-\i (00:00:09) trapsize 1029
-\i (00:00:11) zoom in 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom in -42.9834 6.1547
-\i (00:00:11) trapsize 514
-\i (00:00:12) zoom in 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom in -40.8640 7.7802
-\i (00:00:12) trapsize 257
-\i (00:00:13) zoom out 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom out -40.0358 7.4098
-\i (00:00:13) trapsize 514
-\i (00:00:13) zoom out 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom out -38.8321 6.7926
-\i (00:00:13) trapsize 1029
-\i (00:00:14) zoom out 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom out -36.6304 12.3892
-\i (00:00:14) trapsize 2058
-\i (00:03:05) zoom in 1 
-\i (00:03:05) setwindow pcb
-\i (00:03:05) zoom in -22.2682 5.0642
-\i (00:03:05) trapsize 1029
-\i (00:03:05) zoom in 1 
-\i (00:03:05) setwindow pcb
-\i (00:03:05) zoom in -18.7497 11.2782
-\i (00:03:05) trapsize 514
-\i (00:03:06) zoom in 1 
-\i (00:03:06) setwindow pcb
-\i (00:03:06) zoom in -18.8114 11.3091
-\i (00:03:06) trapsize 257
-\i (00:04:33) zoom out 1 
-\i (00:04:33) setwindow pcb
-\i (00:04:33) zoom out -18.6725 10.6559
-\i (00:04:33) trapsize 514
-\i (00:04:33) zoom out 1 
-\i (00:04:33) setwindow pcb
-\i (00:04:33) zoom out -18.6005 10.5735
-\i (00:04:33) trapsize 1029
-\i (00:04:33) zoom out 1 
-\i (00:04:33) setwindow pcb
-\i (00:04:33) zoom out -18.2507 10.1414
-\i (00:04:33) trapsize 2058
-\i (00:04:33) zoom out 1 
-\i (00:04:33) setwindow pcb
-\i (00:04:33) zoom out -18.2506 10.1415
-\i (00:04:33) trapsize 4115
-\i (00:04:33) zoom out 1 
-\i (00:04:33) setwindow pcb
-\i (00:04:33) zoom out 3.2922 10.1416
-\t (00:04:33) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
-\i (00:04:33) trapsize 8230
-\i (00:04:34) zoom in 1 
-\i (00:04:34) setwindow pcb
-\i (00:04:34) zoom in -41.3992 12.5926
-\t (00:04:34) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:04:34) trapsize 4115
-\i (00:04:35) zoom in 1 
-\i (00:04:35) setwindow pcb
-\i (00:04:35) zoom in -48.8066 9.6296
-\i (00:04:35) trapsize 2058
-\i (00:04:35) zoom in 1 
-\i (00:04:35) setwindow pcb
-\i (00:04:35) zoom in -46.0082 8.3540
-\i (00:04:35) trapsize 1029
-\i (00:04:40) zoom out 1 
-\i (00:04:40) setwindow pcb
-\i (00:04:40) zoom out -27.7571 4.4239
-\i (00:04:40) trapsize 2058
-\i (00:04:41) zoom out 1 
-\i (00:04:41) setwindow pcb
-\i (00:04:41) zoom out 1.1730 -0.5555
-\i (00:04:41) trapsize 4115
-\i (00:04:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
-\i (00:04:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
-\i (00:04:46) zoom in 1 
-\i (00:04:46) setwindow pcb
-\i (00:04:46) zoom in 0.4939 0.4322
-\i (00:04:46) trapsize 2058
-\i (00:04:46) zoom in 1 
-\i (00:04:46) setwindow pcb
-\i (00:04:46) zoom in -0.6995 0.3088
-\i (00:04:46) trapsize 1029
-\i (00:04:48) zoom in 1 
-\i (00:04:48) setwindow pcb
-\i (00:04:48) zoom in -5.9670 11.5022
-\i (00:04:48) trapsize 514
-\i (00:04:49) zoom in 1 
-\i (00:04:49) setwindow pcb
-\i (00:04:49) zoom in -5.6995 12.4179
-\i (00:04:49) trapsize 257
-\i (00:04:49) zoom out 1 
-\i (00:04:49) setwindow pcb
-\i (00:04:49) zoom out -5.6840 12.2173
-\i (00:04:49) trapsize 514
-\i (00:04:50) zoom out 1 
-\i (00:04:50) setwindow pcb
-\i (00:04:50) zoom out -5.5709 12.1041
-\i (00:04:50) trapsize 1029
-\i (00:04:50) zoom out 1 
-\i (00:04:50) setwindow pcb
-\i (00:04:50) zoom out -5.4474 12.0835
-\i (00:04:50) trapsize 2058
-\i (00:04:51) zoom out 1 
-\i (00:04:51) setwindow pcb
-\i (00:04:51) zoom out -16.4349 4.5938
-\i (00:04:51) trapsize 4115
-\i (00:04:52) zoom in 1 
-\i (00:04:52) setwindow pcb
-\i (00:04:52) zoom in -6.9959 9.2852
-\i (00:04:52) trapsize 2058
-\i (00:04:57) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:04:58) zoom out 1 
-\i (00:04:58) setwindow pcb
-\i (00:04:58) zoom out 40.4116 13.4827
-\i (00:04:58) trapsize 4115
-\i (00:05:39) zoom in 1 
-\i (00:05:39) setwindow pcb
-\i (00:05:39) zoom in 1.3169 5.9931
-\i (00:05:39) trapsize 2058
-\i (00:05:40) zoom in 1 
-\i (00:05:40) setwindow pcb
-\i (00:05:40) zoom in -1.8929 5.9931
-\i (00:05:40) trapsize 1029
-\i (00:05:41) zoom out 1 
-\i (00:05:41) setwindow pcb
-\i (00:05:41) zoom out -5.7818 6.9808
-\i (00:05:41) trapsize 2058
-\i (00:05:45) zoom in 1 
-\i (00:05:45) setwindow pcb
-\i (00:05:45) zoom in -3.9300 9.2442
-\i (00:05:45) trapsize 1029
-\i (00:05:46) zoom in 1 
-\i (00:05:46) setwindow pcb
-\i (00:05:46) zoom in -3.9300 9.2442
-\i (00:05:46) trapsize 514
-\i (00:05:47) zoom out 1 
-\i (00:05:47) setwindow pcb
-\i (00:05:47) zoom out -3.9299 9.2442
-\i (00:05:47) trapsize 1029
-\i (00:05:47) zoom out 1 
-\i (00:05:47) setwindow pcb
-\i (00:05:47) zoom out -2.7983 8.3183
-\i (00:05:47) trapsize 2058
-\i (00:05:47) zoom out 1 
-\i (00:05:47) setwindow pcb
-\i (00:05:47) zoom out -2.7983 8.3184
-\i (00:05:47) trapsize 4115
-\i (01:19:55) exit 
-\t (01:19:56)     Journal end - Tue Jul 18 22:58:55 2017
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Jul 18 22:59:26 2017
+\t (00:00:01)         Host=QUANGTHANH-PC User=Thanh Pid=1844 CPUs=4
+\t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/DATA/GIT/CADENCE/MODULES/ZWAVE_SWITCHV2/allegro/ZWAVE_SWITCHV2.brd
+\t (00:00:04) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:04) trapsize 4351
+\i (00:00:04) trapsize 4426
+\t (00:00:04) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:04) trapsize 4426
+\i (00:00:04) trapsize 4115
+\i (00:00:05) generaledit 
+\i (00:00:07) open 
+\i (00:00:15) fillin "C:\DATA\git\Cadence\modules\Wifi_Switch2\allegro\ESP8266_SWITCH.brd"
+\i (00:00:15) cd "C:\DATA\git\Cadence\modules\Wifi_Switch2\allegro"
+\t (00:00:15) Opening existing design...
+\i (00:00:15) trapsize 1
+\t (00:00:15)     Journal end - Tue Jul 18 22:59:40 2017

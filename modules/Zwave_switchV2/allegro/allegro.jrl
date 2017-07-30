@@ -1,21 +1,22 @@
-\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Tue Jul 18 22:59:26 2017
-\t (00:00:01)         Host=QUANGTHANH-PC User=Thanh Pid=1844 CPUs=4
-\t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\d (00:00:04) Design opened: C:/DATA/GIT/CADENCE/MODULES/ZWAVE_SWITCHV2/allegro/ZWAVE_SWITCHV2.brd
-\t (00:00:04) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:04) trapsize 4351
-\i (00:00:04) trapsize 4426
-\t (00:00:04) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
-\i (00:00:04) trapsize 4426
-\i (00:00:04) trapsize 4115
-\i (00:00:05) generaledit 
-\i (00:00:07) open 
-\i (00:00:15) fillin "C:\DATA\git\Cadence\modules\Wifi_Switch2\allegro\ESP8266_SWITCH.brd"
-\i (00:00:15) cd "C:\DATA\git\Cadence\modules\Wifi_Switch2\allegro"
-\t (00:00:15) Opening existing design...
-\i (00:00:15) trapsize 1
-\t (00:00:15)     Journal end - Tue Jul 18 22:59:40 2017
+\t (00:00:41) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:41)     Journal start - Sun Jul 30 12:07:31 2017
+\t (00:00:41)         Host=QUANGTHANH-PC User=Thanh Pid=7692 CPUs=4
+\t (00:00:41) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:41) 
+\d (00:00:41) Design opened: C:/DATA/git/Cadence/modules/Zwave_switchV2/allegro/ZWAVE_SWITCHV2.brd
+\i (00:00:41) generaledit 
+\i (00:00:43) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:45) 3d_viewer 
+\i (00:00:45) setwindow pcb3D
+\i (00:00:45) trapsize 6640
+\i (00:00:45) setwindow pcb
+\i (00:00:45) generaledit 
+\i (00:00:46) setwindow pcb3D
+\i (00:00:46) trapsize 6640
+\i (00:00:51) setwindow pcb
+\i (00:00:51) open 
+\i (00:00:59) fillin "C:\DATA\git\Cadence\modules\arduino_stm8_lcd_nrf24l01\allegro\ARDUINO_STM8_LCD_NRF24.brd"
+\i (00:00:59) cd "C:\DATA\git\Cadence\modules\arduino_stm8_lcd_nrf24l01\allegro"
+\t (00:00:59) Opening existing design...
+\i (00:00:59) trapsize 5615
+\t (00:00:59)     Journal end - Sun Jul 30 12:07:49 2017
