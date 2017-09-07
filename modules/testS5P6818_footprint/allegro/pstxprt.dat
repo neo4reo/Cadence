@@ -1,0 +1,69 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Sep-05-2017 at 10:50:59 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='S5P6818_TEST';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ U1 'S5P6818_FCPGA25X25_MOD535_(S1+S':;
+
+SECTION_NUMBER 1
+ '@S5P6818_TEST.SCHEMATIC1(SCH_1):INS837@MYLIB_VINH.S5P6818A.NORMAL(CHIPS)':
+ C_PATH='@s5p6818_test.schematic1(sch_1):ins837@mylib_vinh.\s5p6818a.normal\(chips)',
+ P_PATH='@s5p6818_test.schematic1(sch_1):page1_ins837@mylib_vinh.\s5p6818a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@S5P6818_TEST.SCHEMATIC1(SCH_1):INS1058@MYLIB_VINH.S5P6818B.NORMAL(CHIPS)':
+ C_PATH='@s5p6818_test.schematic1(sch_1):ins1058@mylib_vinh.\s5p6818b.normal\(chips)',
+ P_PATH='@s5p6818_test.schematic1(sch_1):page1_ins1058@mylib_vinh.\s5p6818b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@S5P6818_TEST.SCHEMATIC1(SCH_1):INS1335@MYLIB_VINH.S5P6818C.NORMAL(CHIPS)':
+ C_PATH='@s5p6818_test.schematic1(sch_1):ins1335@mylib_vinh.\s5p6818c.normal\(chips)',
+ P_PATH='@s5p6818_test.schematic1(sch_1):page1_ins1335@mylib_vinh.\s5p6818c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@S5P6818_TEST.SCHEMATIC1(SCH_1):INS1762@MYLIB_VINH.S5P6818D.NORMAL(CHIPS)':
+ C_PATH='@s5p6818_test.schematic1(sch_1):ins1762@mylib_vinh.\s5p6818d.normal\(chips)',
+ P_PATH='@s5p6818_test.schematic1(sch_1):page1_ins1762@mylib_vinh.\s5p6818d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@S5P6818_TEST.SCHEMATIC1(SCH_1):INS2015@MYLIB_VINH.S5P6818E.NORMAL(CHIPS)':
+ C_PATH='@s5p6818_test.schematic1(sch_1):ins2015@mylib_vinh.\s5p6818e.normal\(chips)',
+ P_PATH='@s5p6818_test.schematic1(sch_1):page1_ins2015@mylib_vinh.\s5p6818e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@S5P6818_TEST.SCHEMATIC1(SCH_1):INS2284@MYLIB_VINH.S5P6818F.NORMAL(CHIPS)':
+ C_PATH='@s5p6818_test.schematic1(sch_1):ins2284@mylib_vinh.\s5p6818f.normal\(chips)',
+ P_PATH='@s5p6818_test.schematic1(sch_1):page1_ins2284@mylib_vinh.\s5p6818f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@S5P6818_TEST.SCHEMATIC1(SCH_1):INS2695@MYLIB_VINH.S5P6818G.NORMAL(CHIPS)':
+ C_PATH='@s5p6818_test.schematic1(sch_1):ins2695@mylib_vinh.\s5p6818g.normal\(chips)',
+ P_PATH='@s5p6818_test.schematic1(sch_1):page1_ins2695@mylib_vinh.\s5p6818g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+SECTION_NUMBER 8
+ '@S5P6818_TEST.SCHEMATIC1(SCH_1):INS2932@MYLIB_VINH.S5P6818H.NORMAL(CHIPS)':
+ C_PATH='@s5p6818_test.schematic1(sch_1):ins2932@mylib_vinh.\s5p6818h.normal\(chips)',
+ P_PATH='@s5p6818_test.schematic1(sch_1):page1_ins2932@mylib_vinh.\s5p6818h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='H';
+
+END.

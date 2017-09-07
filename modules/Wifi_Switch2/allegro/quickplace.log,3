@@ -1,0 +1,46 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : ESP8266_SWITCH.brd                            )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed May 24 18:37:45 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / ESP8266-12E_ESP8266_SMD_ESP8266 / ESP8266_SMD at (2.1264 42.7852)
+         Placed symbol:  J4 / CON6_KF850_6P_CON6 / KF850_6P at (4.7000 77.2852)
+         Placed symbol:  LS1 / RELAY SPDT_SONGLE_RELAY_5PINS_R / SONGLE_RELAY_5PINS at (59.9500 76.8852)
+         Placed symbol:  M1 / AC2DC_MODULE_AC2DC_CONVERTER_12 / AC2DC_CONVERTER at (0.6664 107.4852)
+         Placed symbol:  J3 / CON5_J1_5_254_CON5 / J1_5_254 at (34.1828 88.7552)
+         Placed symbol:  U2 / ASM1117_SOT223_AMS1117 / SOT223 at (48.7198 91.5609)
+         Placed symbol:  U1 / ASM1117_SOT223_AMS1117 / SOT223 at (56.3468 91.5609)
+         Placed symbol:  Q1 / NPN BEC_1_SOT23_MMBT2222A / SOT23 at (63.1532 90.8468)
+         Placed symbol:  D1 / LED_LED_SMD_0603_PWM LED / LED_SMD_0603 at (66.7138 88.0602)
+         Placed symbol:  C6 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (1.5700 108.4952)
+         Placed symbol:  D3 / LED_LED_SMD_0603_PWM LED / LED_SMD_0603 at (5.1506 108.5602)
+         Placed symbol:  R1 / R_RES_SMD_0603_330R / RES_SMD_0603 at (8.0456 108.5602)
+         Placed symbol:  R3 / R_RES_SMD_0603_1K / RES_SMD_0603 at (10.9856 108.5602)
+         Placed symbol:  C5 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (13.8256 108.4952)
+         Placed symbol:  R2 / R_RES_SMD_0603_1K / RES_SMD_0603 at (16.6656 108.5602)
+         Placed symbol:  R7 / R_RES_SMD_0603_10K / RES_SMD_0603 at (19.6056 108.5602)
+         Placed symbol:  R5 / R_RES_SMD_0603_10K / RES_SMD_0603 at (22.5456 108.5602)
+         Placed symbol:  R8 / R_RES_SMD_0603_10K / RES_SMD_0603 at (25.4856 108.5602)
+         Placed symbol:  C4 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (28.3256 108.4952)
+         Placed symbol:  C3 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (31.0656 108.4952)
+         Placed symbol:  D2 / DIODE_0_1N4007_SMD_1N4007 / 1N4007_SMD at (36.0901 109.6832)
+         Placed symbol:  C2 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (41.1146 108.4952)
+         Placed symbol:  R4 / R_RES_SMD_0603_100K / RES_SMD_0603 at (43.9546 108.5602)
+         Placed symbol:  R6 / R_RES_SMD_0603_10K / RES_SMD_0603 at (46.8946 108.5602)
+         Placed symbol:  SW1 / SW_PB_SPST_SMD_2PIN_BUTTON_SW_P / SMD_2PIN_BUTTON at (54.1910 110.0172)
+         Placed symbol:  C7 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (60.6370 108.4952)
+         Placed symbol:  C1 / CAPACITOR NON-POL_CAP_SMD_0603_ / CAP_SMD_0603 at (63.3770 108.4952)
+
+
+Placed 27 of 27 applicable (27 total) symbols.
+
+-----------------------------------------------------------------------
+

@@ -2,20 +2,18 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/DATA/git/Cadence/modules/Wifi_Switch/allegro/ESP8266_SWITCH.brd          |
-|                                                    Fri Jun 02 14:31:21 2017  |
+|  C:/DATA/git/Cadence/modules/Wifi_Switch2/allegro/ESP8266_SWITCH.brd         |
+|                                                    Mon Aug 07 18:52:58 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  RL1          pins MOVED FROM this net (to net name listed on right)
-                                 LS1.3           55.8000 29.8000
-                                                                            RL2
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RL2          pins MOVED FROM this net (to net name listed on right)
-                                 LS1.4           49.8000 15.6000
-                                                                            RL1
+  CT           pins DELETED FROM this net (pin now not on any net)
+                                 U3.9            35.6000 -25.900
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.19           48.6000 -16.400
 |------------------------------------------------------------------------------|
 |       Nets changed          :       2                                        |
 |                                                                              |

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon Jul 17 13:59:50 2017                      )
+(    Date/Time        : Mon Aug 07 18:53:56 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -27,7 +27,7 @@ CmdLine: netrev.exe -y 1 -i C:\DATA\GIT\CADENCE\MODULES\WIFI_SWITCH2\allegro C:\
 ------ Preparing to read pst files ------
 
 Starting to read C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/pstchip.dat 
-   Finished reading C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/pstchip.dat (00:00:00.04)
+   Finished reading C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/pstchip.dat (00:00:00.02)
 Starting to read C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/pstxprt.dat 
    Finished reading C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/pstxnet.dat 
@@ -37,8 +37,7 @@ Starting to read C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/pstxnet.dat
 
 
 ------ Library Paths ------
-MODULEPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
-           . 
+MODULEPATH =  . 
            C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
 
 PSMPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
@@ -63,7 +62,7 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 ------ Summary Statistics ------
 
 
-netrev run on Jul 17 13:59:50 2017
+netrev run on Aug 7 18:53:56 2017
    DESIGN NAME : 'ESP8266_SWITCH'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -88,6 +87,6 @@ netrev run on Jul 17 13:59:50 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:35
-elapsed time  0:00:01
+cpu time      0:00:18
+elapsed time  0:00:00
 

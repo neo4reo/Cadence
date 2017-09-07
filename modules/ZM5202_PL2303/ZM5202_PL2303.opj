@@ -161,9 +161,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1529 52 521")
-        (Scroll "825 1041")
-        (Zoom "220")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1529 52 521")
+        (Scroll "0 0")
+        (Zoom "110")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\ZM5202_PL2303\ZM5202_PL2303.DSN")
       (Schematic "SCHEMATIC1")

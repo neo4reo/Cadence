@@ -3,8 +3,8 @@
 (    DRC Update                                                       )
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
-(    Software Version : 17.2P028                                      )
-(    Date/Time        : Mon Jul 17 17:34:13 2017                      )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Aug 07 12:35:30 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,10 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  1
+ ..... Total number of DRC errors  29
+
+
+WARNING: 3 dynamic shape(s) out of date; checking skipped on these elements.
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

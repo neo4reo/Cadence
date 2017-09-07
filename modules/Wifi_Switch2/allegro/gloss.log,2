@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
 (    Software Version : 17.2P028                                      )
-(    Date/Time        : Wed May 24 20:17:49 2017                      )
+(    Date/Time        : Mon Aug 07 12:29:35 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -14,7 +14,7 @@
 
 
 Pad and T Fillet glossing in progress.
-Started on Wed May 24 20:17:49 2017
+Started on Mon Aug 07 12:29:35 2017
 
  Round pads:          YES   max size: 2.5400
  Square pads:         YES   max size: 2.5400
@@ -50,37 +50,25 @@ Started on Wed May 24 20:17:49 2017
  Dynamic:             NO 
  Curved lines:        NO 
 
-*WARNING: Can't create fillet at pad (54.2955 33.7000) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't fillet T at (26.2000 5.5000) on subclass TOP.
-          The fillet does not fit.
-
-*WARNING: Can't create fillet at pad (21.0000 34.4500) on subclass TOP.
-          Computed fillet point lies inside pad boundary; required to be outside.
-
-*WARNING: Can't create fillet at pad (-2.9100 29.3100) on subclass BOTTOM.
+*WARNING: Can't create fillet at pad (2.1900 -7.6900) on subclass TOP.
           Line width greater than the maximum specified in glossing parameters.
 
-*WARNING: Can't create fillet at pad (-2.9100 24.2300) on subclass BOTTOM.
+*WARNING: Can't create fillet at pad (2.1900 -12.7700) on subclass TOP.
           Line width greater than the maximum specified in glossing parameters.
 
-*WARNING: Can't fillet T at (37.5000 12.3000) on subclass BOTTOM.
-          The fillet does not fit.
 
 
 
-
-Total number of fillets added: 115
+Total number of fillets added: 101
 
 Number of fillets rejected due to DRC errors: 0
 
 
 Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Wed May 24 20:17:49 2017
+Actual time of completion: Mon Aug 07 12:29:35 2017
 
 
-There were 6 errors or warnings reported in logfile.
+There were 2 errors or warnings reported in logfile.
 
 
 Glossing complete.

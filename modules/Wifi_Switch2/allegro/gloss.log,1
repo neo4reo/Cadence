@@ -4,50 +4,86 @@
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
 (    Software Version : 17.2P028                                      )
-(    Date/Time        : Mon May 22 00:57:59 2017                      )
+(    Date/Time        : Mon Jul 17 17:25:05 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+**WARNING: Disabling dynamic shapes
 
 
 
-Line entry into Pad glossing in progress.
-Started on Mon May 22 00:57:59 2017
-Bend Distance is 0.3048.
+Pad and T Fillet glossing in progress.
+Started on Mon Jul 17 17:25:05 2017
 
- Circular pads:          YES
- Square pads  :          YES
- Rectangular pads :      YES
- Oblong pads :           YES
- Enter Square Pad :      Side : YES      Corner : YES  
- Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
- Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
- Enter Circular Pad :    Angle : 45 OR 90
- Create Odd Segs:   NO
- Corner type  :     45
- Maximum 45 limit is -1.
+ Round pads:          YES   max size: 2.5400
+ Square pads:         YES   max size: 2.5400
+ Rectangular pads:    YES   max size: 2.5400
+ Oblong pads:         YES   max size: 2.5400
+ Octagon pads:        YES   max size: 2.5400
+ Pads as shapes:      NO 
+ Pins:                YES
+ Vias:                YES
+ Bond Fingers:        NO 
+ Ts:                  YES
+ Unused nets:         YES
+ Pads Without Drills: YES
+ Desired Pin Angle:       90
+ Desired Via Angle:       90
+ Desired T Angle:         90
+ Maximum Pin Angle:       90
+ Maximum Via Angle:       90
+ Maximum T Angle:         90
+ Pin Maximum offset:      0.6350
+ Via Maximum offset:      0.6350
+ T Maximum offset:        0.6350
+ Pin minimum line width:  0.0762
+ Via minimum line width:  0.0762
+ T minimum line width:    0.0762
+ Pin maximum line width:  0.6350
+ Via maximum line width:  0.6350
+ T maximum line width:    0.6350
+ Tapers:                  NO 
+ Desired Taper Angle:     60
+ Taper Maximum offset:    0.6350
+ Allow drc:           NO 
+ Dynamic:             NO 
+ Curved lines:        NO 
 
-Glossing attempt unsuccessful. Active pad is at (66.4800,29.2100).
+*WARNING: Can't create fillet at pad (54.2955 33.7000) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
 
-Glossing attempt unsuccessful. Active pad is at (1.8000,30.6000).
+*WARNING: Can't create fillet at pad (21.0000 34.4500) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (24.2400 14.0000) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (18.6000 37.5000) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-2.9100 29.3100) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't create fillet at pad (-2.9100 24.2300) on subclass BOTTOM.
+          Line width greater than the maximum specified in glossing parameters.
+
+*WARNING: Can't fillet T at (37.5000 12.3000) on subclass BOTTOM.
+          The fillet does not fit.
 
 
-Finished execution 1
 
 
-Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
-Actual time of completion: Mon May 22 00:57:59 2017
+Total number of fillets added: 113
+
+Number of fillets rejected due to DRC errors: 0
 
 
-Line Entry Into Pad Glossings Stats
-
-Number of Glossing Attempts                   : 2
-Number of Actual Glossings                    : 0
-Number of Glossings Aborted by DRC violations : 0
+Elapsed time:  0 hr 0 min 1 sec ( 0.00 hr)
+Actual time of completion: Mon Jul 17 17:25:06 2017
 
 
-WARNING: Glossing operations may leave fillets out of date.
+There were 7 errors or warnings reported in logfile.
 
 
 Glossing complete.

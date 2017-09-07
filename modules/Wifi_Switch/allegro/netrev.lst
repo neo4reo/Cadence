@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Fri Jun 02 14:31:21 2017                      )
+(    Date/Time        : Tue Sep 05 10:44:34 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -37,8 +37,7 @@ Starting to read C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH/allegro/pstxnet.dat
 
 
 ------ Library Paths ------
-MODULEPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
-           . 
+MODULEPATH =  . 
            C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
 
 PSMPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
@@ -50,7 +49,8 @@ PSMPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
            C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
            C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
 
-PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
+PADPATH =  C:/Users/Thanh/Desktop/DS90CR285MTD_2 
+           C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/ 
            . 
            symbols 
            .. 
@@ -63,7 +63,7 @@ PADPATH =  C:/DATA/git/hardware/Library/CadenceLib/layout/symbol_lib/
 ------ Summary Statistics ------
 
 
-netrev run on Jun 2 14:31:21 2017
+netrev run on Sep 5 10:44:34 2017
    DESIGN NAME : 'ESP8266_SWITCH'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -88,6 +88,6 @@ netrev run on Jun 2 14:31:21 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:26
-elapsed time  0:00:01
+cpu time      0:00:17
+elapsed time  0:00:00
 

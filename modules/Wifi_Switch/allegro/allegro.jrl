@@ -1,58 +1,23 @@
 \t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Mon Jul 24 10:46:52 2017
-\t (00:00:00)         Host=QUANGTHANH-PC User=Thanh Pid=12588 CPUs=4
-\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:00)     Journal start - Tue Sep 05 10:44:34 2017
+\t (00:00:00)         Host=QUANGTHANH-PC User=Thanh Pid=1128 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -mpssession Thanh C:\DATA\git\Cadence\modules\Wifi_Switch\allegro\ESP8266_SWITCH.brd
 \t (00:00:00) 
    (00:00:00) Loading axlcore.cxt 
 \t (00:00:02) Opening existing design...
-\d (00:00:02) Design opened: C:/DATA/git/Cadence/modules/Wifi_Switch/allegro/ESP8266_SWITCH.brd
-\i (00:00:02) trapsize 3528
-\i (00:00:02) trapsize 3588
-\i (00:00:02) trapsize 3588
-\i (00:00:02) trapsize 3336
-\i (00:00:03) generaledit 
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in 86.3402 -12.5260
-\i (00:00:08) trapsize 1668
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 85.6063 -11.7253
-\i (00:00:09) trapsize 834
-\i (00:00:14) open 
-\i (02:02:15) fillin "menu_cancel"
-\i (02:02:15) xhilite 
-\i (02:02:15) xname_flush 
-\i (02:02:15) done 
-\i (02:02:15) xdehilite 
-\i (02:02:15) xname_flush 
-\i (02:02:15) done 
-\i (02:02:15) xhilite 
-\i (02:02:15) xname_flush 
-\i (02:02:15) done 
-\i (02:02:15) xdehilite 
-\i (02:02:15) xname_flush 
-\i (02:02:15) done 
-\i (02:02:15) xhilite 
-\i (02:02:15) xname_flush 
-\i (02:02:15) done 
-\i (02:02:15) xdehilite 
-\i (02:02:15) xname_flush 
-\i (02:02:15) done 
-\i (02:02:15) xhilite 
-\i (02:02:15) xname_flush 
-\i (02:02:15) done 
-\i (02:02:15) xdehilite 
-\i (02:02:15) xname_flush 
-\i (02:02:16) done 
-\i (02:02:16) xhilite 
-\i (02:02:16) xname_flush 
-\i (02:02:16) done 
-\i (02:02:16) xdehilite 
-\i (02:02:16) xname_flush 
-\i (02:02:16) done 
-\i (02:02:16) generaledit 
-\i (02:02:17) exit 
-\e (02:02:17) Do you want to save the changes you made to ESP8266_SWITCH.brd?
-\i (02:02:19) fillin no 
-\t (02:02:19)     Journal end - Mon Jul 24 12:49:11 2017
+\d (00:00:02) Design opened: C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH/allegro/ESP8266_SWITCH.brd
+\i (00:00:03) trapsize 3056
+\i (00:00:03) trapsize 3102
+\i (00:00:03) trapsize 3102
+\i (00:00:03) trapsize 3227
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 43.0920 34.2611
+\i (00:00:05) trapsize 1614
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 50.5796 31.0337
+\i (00:00:06) trapsize 3227
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Tue Sep 05 10:44:43 2017

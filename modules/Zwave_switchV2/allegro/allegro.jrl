@@ -1,22 +1,26 @@
-\t (00:00:41) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:41)     Journal start - Sun Jul 30 12:07:31 2017
-\t (00:00:41)         Host=QUANGTHANH-PC User=Thanh Pid=7692 CPUs=4
-\t (00:00:41) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:41) 
-\d (00:00:41) Design opened: C:/DATA/git/Cadence/modules/Zwave_switchV2/allegro/ZWAVE_SWITCHV2.brd
-\i (00:00:41) generaledit 
-\i (00:00:43) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:00:45) 3d_viewer 
-\i (00:00:45) setwindow pcb3D
-\i (00:00:45) trapsize 6640
-\i (00:00:45) setwindow pcb
-\i (00:00:45) generaledit 
-\i (00:00:46) setwindow pcb3D
-\i (00:00:46) trapsize 6640
-\i (00:00:51) setwindow pcb
-\i (00:00:51) open 
-\i (00:00:59) fillin "C:\DATA\git\Cadence\modules\arduino_stm8_lcd_nrf24l01\allegro\ARDUINO_STM8_LCD_NRF24.brd"
-\i (00:00:59) cd "C:\DATA\git\Cadence\modules\arduino_stm8_lcd_nrf24l01\allegro"
-\t (00:00:59) Opening existing design...
-\i (00:00:59) trapsize 5615
-\t (00:00:59)     Journal end - Sun Jul 30 12:07:49 2017
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Sep 05 18:19:33 2017
+\t (00:00:01)         Host=QUANGTHANH-PC User=Thanh Pid=1100 CPUs=8
+\t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/DATA/git/Cadence/modules/Zwave_switchV2/allegro/ZWAVE_SWITCHV2.brd
+\t (00:00:03) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:03) trapsize 5751
+\i (00:00:03) trapsize 5882
+\t (00:00:03) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:00:03) trapsize 6536
+\t (00:00:04) Grids are drawn 1.2000, 1.2000 apart for enhanced viewability.
+\i (00:00:04) trapsize 7612
+\i (00:00:04) generaledit 
+\i (00:00:22) open 
+\i (00:00:41) fillin "C:\DATA\git\hardware\Library\CadenceLib\layout\symbol_lib\FPGA78.dra"
+\i (00:00:41) cd "C:\DATA\git\hardware\Library\CadenceLib\layout\symbol_lib"
+\t (00:00:41) Opening existing design...
+\t (00:00:41) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:00:41) trapsize 131
+\i (00:00:41) trapsize 135
+\t (00:00:42) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:00:42) trapsize 135
+\t (00:00:42)     Journal end - Tue Sep 05 18:20:14 2017

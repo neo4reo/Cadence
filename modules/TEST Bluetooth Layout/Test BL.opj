@@ -28,7 +28,7 @@
     (Netlist_TAB "3")
     (LAYOUT_Netlist_File "TEST BL.MNL")
     (LAYOUT_PCB_Footprint "{PCB Footprint}")
-    ( "FALSE")
+    (FALSE)
     (LAYOUT_Units "0"))
   (Folder "Outputs"
     (File ".\test bl.drc"
@@ -39,32 +39,17 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "E:\GITHUB\LIB\Git\Hardware\robotbase_hardware\ELECTRICAL\Application Libraries\TEST Bluetooth Layout\test bl.dsn")
-      (Path "Design Resources"
-         "E:\GITHUB\LIB\Git\Hardware\robotbase_hardware\ELECTRICAL\Application Libraries\TEST Bluetooth Layout\test bl.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\test bl.dsn")
+      (Path "Design Resources" ".\test bl.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Outputs"
-         "E:\GITHUB\LIB\Git\Hardware\robotbase_hardware\ELECTRICAL\Application Libraries\TEST Bluetooth Layout\test bl.mnl"))
+      (Select "Design Resources" ".\test bl.dsn" "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 0 200 0 395"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 211 1377 3 436")
-        (Scroll "0 60")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "E:\GITHUB\LIB\GIT\HARDWARE\ROBOTBASE_HARDWARE\ELECTRICAL\APPLICATION LIBRARIES\TEST BLUETOOTH LAYOUT\TEST BL.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
-  (MPSSessionName "QUANGTHANH")
+      (Tab 0)))
+  (MPSSessionName "Thanh")
   (PartMRUSelector
     (VCC
       (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")

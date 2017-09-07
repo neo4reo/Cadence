@@ -140,19 +140,20 @@
          "c:\data\git\cadence\modules\wifi_switch\esp8266_switch.dsn"
          "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources"))
+      (Select "Design Resources"
+         "c:\data\git\cadence\modules\wifi_switch\esp8266_switch.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 430"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 430"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1529 52 521")
-        (Scroll "14 4")
-        (Zoom "102")
+        (Scroll "0 63")
+        (Zoom "93")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\WIFI_SWITCH\ESP8266_SWITCH.DSN")
       (Schematic "SCHEMATIC1")

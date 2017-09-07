@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Jul-17-2017 at 13:59:50 }
+{ Using PSTWRITER 17.2.0 d001Aug-07-2017 at 18:53:56 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='ESP8266_SWITCH';
@@ -44,16 +44,6 @@ SECTION_NUMBER 1
  '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS348619@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
  C_PATH='@esp8266_switch.schematic1(sch_1):ins348619@discrete.\capacitor non-pol.normal\(chips)',
  P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins348619@discrete.\capacitor non-pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C5 'CAPACITOR NON-POL_CAP_SMD_0603_':;
-
-SECTION_NUMBER 1
- '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS350485@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
- C_PATH='@esp8266_switch.schematic1(sch_1):ins350485@discrete.\capacitor non-pol.normal\(chips)',
- P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins350485@discrete.\capacitor non-pol.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -108,22 +98,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J3 'CON5_J1_5_254_CON5':;
-
-SECTION_NUMBER 1
- '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS351872@CONNECTOR.CON5.NORMAL(CHIPS)':
- C_PATH='@esp8266_switch.schematic1(sch_1):ins351872@connector.\con5.normal\(chips)',
- P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins351872@connector.\con5.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  J4 'CON6_KF850_6P_CON6':;
 
 SECTION_NUMBER 1
  '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS353057@CONNECTOR.CON6.NORMAL(CHIPS)':
  C_PATH='@esp8266_switch.schematic1(sch_1):ins353057@connector.\con6.normal\(chips)',
  P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins353057@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON6_J1_6_254_CON6':;
+
+SECTION_NUMBER 1
+ '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS355654@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@esp8266_switch.schematic1(sch_1):ins355654@connector.\con6.normal\(chips)',
+ P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins355654@connector.\con6.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -168,6 +158,26 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R10 'R_RES_SMD_0603_330':;
+
+SECTION_NUMBER 1
+ '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS355925@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp8266_switch.schematic1(sch_1):ins355925@discrete.\r.normal\(chips)',
+ P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins355925@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES_SMD_0603_10K':;
+
+SECTION_NUMBER 1
+ '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS356159@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp8266_switch.schematic1(sch_1):ins356159@discrete.\r.normal\(chips)',
+ P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins356159@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R2 'R_RES_SMD_0603_1K':;
 
 SECTION_NUMBER 1
@@ -194,16 +204,6 @@ SECTION_NUMBER 1
  '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS348881@DISCRETE.R.NORMAL(CHIPS)':
  C_PATH='@esp8266_switch.schematic1(sch_1):ins348881@discrete.\r.normal\(chips)',
  P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins348881@discrete.\r.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R5 'R_RES_SMD_0603_10K':;
-
-SECTION_NUMBER 1
- '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS350432@DISCRETE.R.NORMAL(CHIPS)':
- C_PATH='@esp8266_switch.schematic1(sch_1):ins350432@discrete.\r.normal\(chips)',
- P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins350432@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -238,12 +238,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- SW1 'SW_PB_SPST_SMD_2PIN_BUTTON_SW_P':;
+ R9 'R_RES_SMD_0603_10K':;
 
 SECTION_NUMBER 1
- '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS350366@DISCRETE.SW_PB_SPST.NORMAL(CHIPS)':
- C_PATH='@esp8266_switch.schematic1(sch_1):ins350366@discrete.\sw_pb_spst.normal\(chips)',
- P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins350366@discrete.\sw_pb_spst.normal\(chips)',
+ '@ESP8266_SWITCH.SCHEMATIC1(SCH_1):INS355562@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp8266_switch.schematic1(sch_1):ins355562@discrete.\r.normal\(chips)',
+ P_PATH='@esp8266_switch.schematic1(sch_1):page1_ins355562@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

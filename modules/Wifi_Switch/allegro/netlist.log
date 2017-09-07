@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Jun-02-2017 at 14:31:20 }
+{ Using PSTWRITER 17.2.0 d001Sep-05-2017 at 10:44:33 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.20" ignored for U3: SCHEMATIC1, PAGE1 (187.96, 104.14). Connecting pin to net "PWM".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.21" ignored for U3: SCHEMATIC1, PAGE1 (187.96, 104.14). Connecting pin to net "RX".

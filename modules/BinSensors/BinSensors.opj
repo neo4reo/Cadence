@@ -132,20 +132,23 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\binsensors.dsn")
-      (Path "Design Resources" ".\binsensors.dsn" "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Design Resources"
+         "c:\data\git\cadence\modules\binsensors\binsensors.dsn")
+      (Path "Design Resources"
+         "c:\data\git\cadence\modules\binsensors\binsensors.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 430"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 430"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1714 78 547")
-        (Scroll "-361 -6")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1714 78 547")
+        (Scroll "-355 0")
         (Zoom "75")
         (Occurrence "/"))
       (Path "C:\DATA\GIT\CADENCE\MODULES\BINSENSORS\BINSENSORS.DSN")

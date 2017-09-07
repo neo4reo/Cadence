@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Fri Jun 02 14:38:29 2017                      )
+(    Date/Time        : Mon Jul 17 17:44:19 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -37,12 +37,12 @@
 
 
 
- Drill files being output to directory 'C:/DATA/git/Cadence/modules/Wifi_Switch/production/V3' ...
+ Drill files being output to directory 'C:/DATA/git/Cadence/modules/Wifi_Switch2/production' ...
 
 
 
-     'ESP8266_SWITCH-1-2.drl' created for holes connecting TOP and BOTTOM
-     --------------------------------------------------------------------
+     'ESP8266_SWITCH-1-2-1-2.drl' created for holes connecting TOP and BOTTOM
+     ------------------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
@@ -54,5 +54,5 @@
 
      ---- Total holes:                                        155
 
-     ---- Total head travel:              3.97 feet (1.21 meters)
+     ---- Total head travel:              3.99 feet (1.22 meters)
 

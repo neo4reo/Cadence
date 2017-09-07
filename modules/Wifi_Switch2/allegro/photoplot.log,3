@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ESP8266_SWITCH.brd                            )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon Jul 17 17:42:56 2017                      )
+(    Date/Time        : Mon Aug 07 18:59:00 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -29,7 +29,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/DATA/git/Cadence/modules/Wifi_Switch2/allegro/TOP.art > ...
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -55,15 +55,10 @@ Results from parameter file ...
   CIRCLE     1.59990                                  DARK 
   CIRCLE     3.00000                                  DARK 
   CIRCLE     3.50000                                  DARK 
-  SQUARE     1.52400                     0.000 NO     DARK 
   SQUARE     1.59990                     0.000 NO     DARK 
   SQUARE     3.00000                     0.000 NO     DARK 
   RECTANGLE  0.74000     x 1.02000       0.000 NO     DARK 
-  RECTANGLE  0.74000     x 1.02000      90.000 NO     DARK 
-  RECTANGLE  0.80010     x 0.89990      90.000 NO     DARK 
-  RECTANGLE  0.95000     x 2.15010      90.000 NO     DARK 
   RECTANGLE  2.10010     x 1.59990       0.000 NO     DARK 
-  RECTANGLE  3.24990     x 2.15010      90.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,3000.0   0.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,3000.0  90.000 NO     DARK 
 
@@ -72,7 +67,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/DATA/git/Cadence/modules/Wifi_Switch2/allegro/BOTTOM.art > ...
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -86,6 +81,9 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
+    WARNING: Film contains objects with associated DRCs (5).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
 
 
   APERTURES USED:
@@ -94,20 +92,24 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.30000                                  DARK 
   CIRCLE     0.50000                                  DARK 
-  CIRCLE     0.70000                                  DARK 
   CIRCLE     1.00000                                  DARK 
   CIRCLE     1.59990                                  DARK 
   CIRCLE     3.00000                                  DARK 
   CIRCLE     3.50000                                  DARK 
   SQUARE     1.59990                     0.000 NO     DARK 
   SQUARE     3.00000                     0.000 NO     DARK 
+  RECTANGLE  0.74000     x 1.02000       0.000 NO     DARK 
+  RECTANGLE  0.74000     x 1.02000      90.000 NO     DARK 
+  RECTANGLE  0.80010     x 0.89990       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 2.15010      90.000 NO     DARK 
+  RECTANGLE  3.24990     x 2.15010      90.000 NO     DARK 
 
-     BOTTOM created.
+     BOTTOM created with warnings
 
 
 ================================================================
      PROCESSING FILM < SC_TOP >
-     TO FILE < C:/DATA/git/Cadence/modules/Wifi_Switch2/allegro/SC_TOP.art > ...
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/SC_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -124,7 +126,7 @@ Results from parameter file ...
     WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 -41.6000)
            ... ignored.
 
-    WARNING: text composed 0 width line found at (49.7728 -7.1855)
+    WARNING: text composed 0 width line found at (50.0728 -6.4855)
            ... ignored.
 
 
@@ -143,7 +145,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SC_BOT >
-     TO FILE < C:/DATA/git/Cadence/modules/Wifi_Switch2/allegro/SC_BOT.art > ...
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/SC_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -166,6 +168,8 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
   CIRCLE     0.25400                                  DARK 
 
      SC_BOT created with warnings
@@ -173,7 +177,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SM_TOP >
-     TO FILE < C:/DATA/git/Cadence/modules/Wifi_Switch2/allegro/SM_TOP.art > ...
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/SM_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -195,16 +199,11 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     1.89990                                  DARK 
   CIRCLE     3.50000                                  DARK 
-  CIRCLE     3.59990                                  DARK 
-  SQUARE     1.65100                     0.000 NO     DARK 
+  CIRCLE     3.60000                                  DARK 
   SQUARE     2.00000                     0.000 NO     DARK 
   SQUARE     3.50000                     0.000 NO     DARK 
   RECTANGLE  0.74000     x 1.02000       0.000 NO     DARK 
-  RECTANGLE  0.74000     x 1.02000      90.000 NO     DARK 
-  RECTANGLE  1.00000     x 1.10010      90.000 NO     DARK 
-  RECTANGLE  1.15010     x 2.35000      90.000 NO     DARK 
   RECTANGLE  2.10010     x 1.59990       0.000 NO     DARK 
-  RECTANGLE  3.45010     x 2.35000      90.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,3000.0   0.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,3000.0  90.000 NO     DARK 
 
@@ -213,7 +212,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SM_BOT >
-     TO FILE < C:/DATA/git/Cadence/modules/Wifi_Switch2/allegro/SM_BOT.art > ...
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/SM_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -235,16 +234,21 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     1.89990                                  DARK 
   CIRCLE     3.50000                                  DARK 
-  CIRCLE     3.59990                                  DARK 
+  CIRCLE     3.60000                                  DARK 
   SQUARE     1.80010                     0.000 NO     DARK 
   SQUARE     3.50000                     0.000 NO     DARK 
+  RECTANGLE  0.74000     x 1.02000       0.000 NO     DARK 
+  RECTANGLE  0.74000     x 1.02000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.10010       0.000 NO     DARK 
+  RECTANGLE  1.15010     x 2.35000      90.000 NO     DARK 
+  RECTANGLE  3.45010     x 2.35000      90.000 NO     DARK 
 
      SM_BOT created.
 
 
 ================================================================
      PROCESSING FILM < SP_TOP >
-     TO FILE < C:/DATA/git/Cadence/modules/Wifi_Switch2/allegro/SP_TOP.art > ...
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/SP_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -264,42 +268,15 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  SQUARE     1.47320                     0.000 NO     DARK 
   RECTANGLE  0.74000     x 1.02000       0.000 NO     DARK 
-  RECTANGLE  0.74000     x 1.02000      90.000 NO     DARK 
-  RECTANGLE  0.80010     x 0.89990      90.000 NO     DARK 
-  RECTANGLE  0.95000     x 2.15010      90.000 NO     DARK 
   RECTANGLE  2.10010     x 1.59990       0.000 NO     DARK 
-  RECTANGLE  3.24990     x 2.15010      90.000 NO     DARK 
 
      SP_TOP created.
 
 
 ================================================================
      PROCESSING FILM < SP_BOT >
-     TO FILE < C:/DATA/git/Cadence/modules/Wifi_Switch2/allegro/SP_BOT.art > ...
-================================================================
-
-  FILM PARAMETERS :
-  ---------------------------------------------------------
-  Undefined line width                0.0000
-  Mirror code                         NONE
-  Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
-  Plot negative                       NO
-  Suppress unconnected internal pads  NO
-  Draw holes only                     NO
-
-
-
-  APERTURES USED:  NONE
-     SP_BOT created.
-
-
-================================================================
-     PROCESSING FILM < OUTLINE >
-     TO FILE < C:/DATA/git/Cadence/modules/Wifi_Switch2/allegro/OUTLINE.art > ...
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/SP_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -319,7 +296,38 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.10000                                  DARK 
+  RECTANGLE  0.74000     x 1.02000       0.000 NO     DARK 
+  RECTANGLE  0.74000     x 1.02000      90.000 NO     DARK 
+  RECTANGLE  0.80010     x 0.89990       0.000 NO     DARK 
+  RECTANGLE  0.95000     x 2.15010      90.000 NO     DARK 
+  RECTANGLE  3.24990     x 2.15010      90.000 NO     DARK 
+
+     SP_BOT created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < C:/DATA/GIT/CADENCE/MODULES/WIFI_SWITCH2/allegro/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15000                                  DARK 
 
      OUTLINE created.
 
@@ -327,7 +335,7 @@ Results from parameter file ...
 ------------------------------------------------------
  SUMMARY:
         TOP created.
-        BOTTOM created.
+        BOTTOM created with warnings
         SC_TOP created with warnings
         SC_BOT created with warnings
         SM_TOP created.
