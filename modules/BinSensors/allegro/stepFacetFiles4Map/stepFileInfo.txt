@@ -1,4 +1,0 @@
-#STEP_FILE ! FILE_SIZE | MOD_TIME
-
-4pins conector.stp ! 382253 ! 1482206142
-Pin Header 1x7 TH Pitch 2.54mm.stp ! 998180 ! 1482206142

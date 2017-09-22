@@ -1,1 +1,0 @@
-ZWAVE_SWITCH.brd
