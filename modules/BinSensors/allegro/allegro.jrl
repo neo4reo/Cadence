@@ -1,36 +1,52 @@
-\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sat Jul 22 12:39:17 2017
-\t (00:00:01)         Host=QUANGTHANH-PC User=Thanh Pid=4428 CPUs=4
-\t (00:00:01) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: C:/DATA/git/Cadence/modules/BinSensors/allegro/BINSENSORS.brd
-\i (00:00:03) trapsize 1251
-\i (00:00:03) trapsize 1273
-\i (00:00:03) trapsize 1273
-\i (00:00:03) trapsize 1183
-\i (00:00:04) generaledit 
-\i (00:00:04) zoom out 1 
-\i (00:00:04) setwindow pcb
-\i (00:00:04) zoom out 46.5812 28.8227
-\i (00:00:04) trapsize 2366
-\i (00:00:05) zoom in 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom in 50.6989 30.1479
-\i (00:00:05) trapsize 1183
-\i (00:00:05) zoom in 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom in 50.6989 30.1479
-\i (00:00:05) trapsize 592
-\i (00:00:05) zoom in 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom in 49.9535 30.3490
-\i (00:00:05) trapsize 296
-\i (00:00:06) open 
-\i (00:00:26) fillin "C:\DATA\git\Cadence\modules\Wifi_Switch\allegro\ESP8266_SWITCH.brd"
-\i (00:00:26) cd "C:\DATA\git\Cadence\modules\Wifi_Switch\allegro"
-\t (00:00:26) Opening existing design...
-\t (00:00:26) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
-\i (00:00:26) trapsize 2058
-\t (00:00:26)     Journal end - Sat Jul 22 12:39:41 2017
+\t (00:01:46) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:01:46)     Journal start - Fri Sep 22 17:55:53 2017
+\t (00:01:46)         Host=THANHLE User=ThanhLe Pid=12560 CPUs=8
+\t (00:01:46) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:01:46) 
+\d (00:01:46) Design opened: F:/git/Cadence/modules/BinSensors/allegro/BINSENSORS.brd
+\i (00:01:47) generaledit 
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 51.8680 34.4395
+\i (00:01:47) trapsize 2253
+\i (00:01:47) zoom out 1 
+\i (00:01:47) setwindow pcb
+\i (00:01:47) zoom out 52.4537 33.0880
+\t (00:01:47) Grids are drawn 0.6000, 0.6000 apart for enhanced viewability.
+\i (00:01:47) trapsize 4505
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in -5.9321 11.0132
+\i (00:01:48) trapsize 2253
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 1.5013 24.2581
+\i (00:01:48) trapsize 1126
+\i (00:01:49) zoom out 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom out 16.3905 18.6493
+\i (00:01:49) trapsize 2253
+\i (00:01:50) zoom in 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom in 48.1063 29.5516
+\i (00:01:50) trapsize 1126
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out 44.3896 28.5155
+\i (00:01:50) trapsize 2253
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out 31.9106 32.3898
+\i (00:01:50) trapsize 4505
+\i (00:01:51) zoom in 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom in 62.8153 32.1195
+\i (00:01:51) trapsize 2253
+\i (00:01:53) 3d_viewer 
+\i (00:01:54) trapsize 2253
+\i (00:01:54) generaledit 
+\i (00:01:55) setwindow pcb3D
+\i (00:01:55) trapsize 2253
+\i (00:02:02) setwindow pcb
+\i (00:02:02) exit 
+\t (00:02:02)     Journal end - Fri Sep 22 17:56:09 2017
