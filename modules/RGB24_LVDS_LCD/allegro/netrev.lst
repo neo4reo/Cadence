@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : ZM5202_PL2303.brd                             )
+(    Drawing          : RGB24_TO_LVDS.brd                             )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Wed Nov 22 13:47:08 2017                      )
+(    Date/Time        : Wed Nov 01 12:29:56 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,21 +17,21 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'F:\GIT\CADENCE\MODULES\ZM5202_PL2303\allegro'
-Design Directory:            'F:/git/Cadence/modules/ZM5202_PL2303/allegro'
-Old design name:             'F:/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd'
-New design name:             'F:/git/Cadence/modules/ZM5202_PL2303/allegro/ZM5202_PL2303.brd'
+Schematic directory:         'F:\GIT\CADENCE\MODULES\RGB24_LVDS_LCD\allegro'
+Design Directory:            '.'
+Old design name:             'F:/git/Cadence/modules/RGB24_LVDS_LCD/allegro/RGB24_TO_LVDS.brd'
+New design name:             'RGB24_TO_LVDS.brd'
 
-CmdLine: netrev.exe -y 1 -i F:\GIT\CADENCE\MODULES\ZM5202_PL2303\allegro F:\git\Cadence\modules\ZM5202_PL2303\allegro\ZM5202_PL2303.brd F:\git\Cadence\modules\ZM5202_PL2303\allegro\ZM5202_PL2303.brd
+CmdLine: netrev.exe -y 1 -i F:\GIT\CADENCE\MODULES\RGB24_LVDS_LCD\allegro F:\git\Cadence\modules\RGB24_LVDS_LCD\allegro\RGB24_TO_LVDS.brd F:\GIT\CADENCE\MODULES\RGB24_LVDS_LCD\allegro\RGB24_TO_LVDS.brd
 
 ------ Preparing to read pst files ------
 
-Starting to read F:/GIT/CADENCE/MODULES/ZM5202_PL2303/allegro/pstchip.dat 
-   Finished reading F:/GIT/CADENCE/MODULES/ZM5202_PL2303/allegro/pstchip.dat (00:00:00.04)
-Starting to read F:/GIT/CADENCE/MODULES/ZM5202_PL2303/allegro/pstxprt.dat 
-   Finished reading F:/GIT/CADENCE/MODULES/ZM5202_PL2303/allegro/pstxprt.dat (00:00:00.00)
-Starting to read F:/GIT/CADENCE/MODULES/ZM5202_PL2303/allegro/pstxnet.dat 
-   Finished reading F:/GIT/CADENCE/MODULES/ZM5202_PL2303/allegro/pstxnet.dat (00:00:00.00)
+Starting to read F:/GIT/CADENCE/MODULES/RGB24_LVDS_LCD/allegro/pstchip.dat 
+   Finished reading F:/GIT/CADENCE/MODULES/RGB24_LVDS_LCD/allegro/pstchip.dat (00:00:00.02)
+Starting to read F:/GIT/CADENCE/MODULES/RGB24_LVDS_LCD/allegro/pstxprt.dat 
+   Finished reading F:/GIT/CADENCE/MODULES/RGB24_LVDS_LCD/allegro/pstxprt.dat (00:00:00.00)
+Starting to read F:/GIT/CADENCE/MODULES/RGB24_LVDS_LCD/allegro/pstxnet.dat 
+   Finished reading F:/GIT/CADENCE/MODULES/RGB24_LVDS_LCD/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -63,8 +63,8 @@ PADPATH =  F:/git/hardware/Library/CadenceLib/layout/symbol_lib
 ------ Summary Statistics ------
 
 
-netrev run on Nov 22 13:47:08 2017
-   DESIGN NAME : 'ZM5202_PL2303'
+netrev run on Nov 1 12:29:56 2017
+   DESIGN NAME : 'RGB24_TO_LVDS'
    PACKAGING ON Mar  2 2016 00:37:24
 
    COMPILE 'logic'
@@ -88,6 +88,6 @@ netrev run on Nov 22 13:47:08 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:34
+cpu time      0:00:16
 elapsed time  0:00:00
 
