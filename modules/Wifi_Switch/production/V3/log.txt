@@ -1,1 +1,0 @@
-1. Change to use Normal Open Pin of Relay.
